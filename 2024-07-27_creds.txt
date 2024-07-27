@@ -1,15 +1,5 @@
-user:password@123
+user:ssdsaas
 mysql:123456
-tester1:tester1
-345gs5662d34:345gs5662d34
-user:ssdsaas
-user:ssdsaas
 tester1:tester1
 user:password@123
 345gs5662d34:345gs5662d34
-mysql:123456
-tester1:tester1
-mysql:123456
-345gs5662d34:345gs5662d34
-user:password@123
-user:ssdsaas
