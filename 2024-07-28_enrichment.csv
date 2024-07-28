@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 117.50.180.26,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
 121.4.83.32,,CN,Shenzhen Tencent Computer Systems Company Limited,
 75.110.132.231,SSH-2.0-Go,US,Optimum,
+147.185.132.48,,US,Google LLC,
+198.235.24.116,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
