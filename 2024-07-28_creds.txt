@@ -3,3 +3,10 @@ docker:docker@2023
 test:abc12345678
 steam:M3gaP33!
 345gs5662d34:345gs5662d34
+oracle:oracle2024
+sa:Sa123
+oracle:oracle!@#$
+naveen:naveen123
+max:max!123
+craft:craft!@#
+ansuser:Ansuser1
