@@ -8,3 +8,4 @@ IP address,remote ssh version,country_code2,organization,asn
 46.25.236.192,SSH-2.0-libssh_0.9.6,ES,VODAFONE ESPANA S.A.U.,
 117.50.180.26,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
 121.4.83.32,,CN,Shenzhen Tencent Computer Systems Company Limited,
+75.110.132.231,SSH-2.0-Go,US,Optimum,
