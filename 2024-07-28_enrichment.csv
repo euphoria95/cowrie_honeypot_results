@@ -1,2 +1,9 @@
 IP address,remote ssh version,country_code2,organization,asn
 83.8.16.165,SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10,PL,Orange Polska Spolka Akcyjna,
+161.35.231.77,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+121.204.164.96,SSH-2.0-libssh_0.9.6,CN,Fuzhou,
+199.45.154.134,SSH-2.0-Go,HK,"Censys, Inc.",
+68.183.237.40,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+198.235.24.132,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+46.25.236.192,SSH-2.0-libssh_0.9.6,ES,VODAFONE ESPANA S.A.U.,
+117.50.180.26,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
