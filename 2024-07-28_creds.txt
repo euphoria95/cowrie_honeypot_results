@@ -1,0 +1,5 @@
+devops:1
+docker:docker@2023
+test:abc12345678
+steam:M3gaP33!
+345gs5662d34:345gs5662d34
