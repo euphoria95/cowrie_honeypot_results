@@ -1,2 +1,3 @@
 IP address,remote ssh version,country_code2,organization,asn
 206.168.34.211,SSH-2.0-Go,US,"Censys, Inc.",
+184.105.247.252,GET / HTTP/1.1,US,Hurricane Electric LLC,
