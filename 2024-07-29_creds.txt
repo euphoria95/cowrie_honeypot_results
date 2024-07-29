@@ -6,3 +6,13 @@ postgres:Password1
 sftpuser:12345
 deployer:1234
 user:User@123
+oracle:123456789
+elastic:1qaz@WSX
+test:test1
+git:gitgit
+testuser:Password
+guest:pass
+user:default
+deployer:a
+git:1234567890
+user:123izma123
