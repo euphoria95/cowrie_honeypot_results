@@ -3,3 +3,6 @@ sysadmin:sysadmin2018
 ali:!@#
 oracle:oracle123#
 postgres:Password1
+sftpuser:12345
+deployer:1234
+user:User@123
