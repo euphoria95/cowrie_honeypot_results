@@ -14,3 +14,8 @@ IP address,remote ssh version,country_code2,organization,asn
 101.126.70.9,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 1.202.37.242,SSH-2.0-libssh_0.9.6,CN,China Networks Inter-Exchange,
 101.226.180.6,,CN,China Telecom (Group),
+206.168.34.55,SSH-2.0-Go,US,"Censys, Inc.",
+14.29.164.237,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+27.128.156.148,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+36.111.189.155,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+35.207.98.222,SSH-2.0-libssh_0.9.6,DE,Google LLC,
