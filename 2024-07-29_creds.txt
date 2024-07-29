@@ -1,1 +1,5 @@
 345gs5662d34:345gs5662d34
+sysadmin:sysadmin2018
+ali:!@#
+oracle:oracle123#
+postgres:Password1
