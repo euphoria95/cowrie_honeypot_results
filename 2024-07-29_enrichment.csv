@@ -21,3 +21,6 @@ IP address,remote ssh version,country_code2,organization,asn
 35.207.98.222,SSH-2.0-libssh_0.9.6,DE,Google LLC,
 156.232.11.32,SSH-2.0-libssh_0.9.6,US,YISU CLOUD LIMITED,
 182.151.44.222,SSH-2.0-Go,CN,CHINANET SiChuan Telecom Internet Data Center,
+159.223.213.159,,NL,"DigitalOcean, LLC",
+147.185.132.216,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+199.45.155.90,SSH-2.0-Go,US,"Censys, Inc.",
