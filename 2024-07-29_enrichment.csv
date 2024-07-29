@@ -24,3 +24,5 @@ IP address,remote ssh version,country_code2,organization,asn
 159.223.213.159,,NL,"DigitalOcean, LLC",
 147.185.132.216,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 199.45.155.90,SSH-2.0-Go,US,"Censys, Inc.",
+185.148.253.22,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,FR,One Operateur SAS,
+168.167.72.228,SSH-2.0-Go,BW,Botswana Telecommunications Corporation,
