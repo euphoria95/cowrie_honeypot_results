@@ -3,3 +3,4 @@ IP address,remote ssh version,country_code2,organization,asn
 184.105.247.252,GET / HTTP/1.1,US,Hurricane Electric LLC,
 43.243.129.37,SSH-2.0-ZGrab ZGrab SSH Survey,CN,China Mobile,
 104.152.52.104,,US,Rethem Hosting LLC,
+165.232.129.254,SSH-2.0-Go,US,"DigitalOcean, LLC",
