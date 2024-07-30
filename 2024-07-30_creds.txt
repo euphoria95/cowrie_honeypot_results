@@ -4,3 +4,12 @@ amit:1234
 345gs5662d34:345gs5662d34
 oracle:12345
 devops:root
+user:1qsx2wdc
+ubuntu:25802580
+user:12345a
+admin:1qaz@wsx
+admin:asdfasdf
+user:password321
+sysadmin:sysadmin2021
+deployer:deployer123
+admin:hello123
