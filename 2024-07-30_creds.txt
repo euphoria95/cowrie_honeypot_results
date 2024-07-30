@@ -14,3 +14,4 @@ sysadmin:sysadmin2021
 deployer:deployer123
 admin:hello123
 ftp1:ftp1
+ftp_user:123
