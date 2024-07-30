@@ -13,3 +13,4 @@ user:password321
 sysadmin:sysadmin2021
 deployer:deployer123
 admin:hello123
+ftp1:ftp1
