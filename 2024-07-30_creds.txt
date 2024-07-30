@@ -1,0 +1,6 @@
+root:root
+ansible:Admin@123
+amit:1234
+345gs5662d34:345gs5662d34
+oracle:12345
+devops:root
