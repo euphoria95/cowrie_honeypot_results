@@ -25,3 +25,5 @@ ali:1111
 admin:q1w2e3r4
 user:Admin123
 oracle1:oracle
+ftpuser:ftpuser12345
+test:a12345678
