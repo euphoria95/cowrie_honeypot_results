@@ -26,3 +26,5 @@ IP address,remote ssh version,country_code2,organization,asn
 117.81.21.87,SSH-2.0-libssh2_1.9.0,CN,CHINANET-BACKBONE,
 192.42.116.209,SSH-2.0-OpenSSH_9.8,NL,SURF B.V.,
 68.183.91.14,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+198.235.24.117,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+205.210.31.23,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
