@@ -20,3 +20,6 @@ dev:88888888
 test3:test3
 ubuntu:1q2w!Q@W
 reza:reza123
+tester:password
+ali:1111
+admin:q1w2e3r4
