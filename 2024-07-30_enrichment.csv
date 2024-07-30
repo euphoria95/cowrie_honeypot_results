@@ -16,3 +16,8 @@ IP address,remote ssh version,country_code2,organization,asn
 87.236.176.87,SSH-2.0-Go,GB,Constantine Cybersecurity Ltd.,
 172.168.41.212,,US,Microsoft Corporation,
 179.26.123.56,,UY,Administracion Nacional de Telecomunicaciones,
+183.134.104.173,,CN,CHINANET-BACKBONE,
+64.62.197.196,SSH-2.0-Go,US,Hurricane Electric LLC,
+103.187.147.32,SSH-2.0-libssh_0.9.6,ID,Cloud Host Pte Ltd,
+103.31.224.224,SSH-2.0-libssh_0.9.6,ID,PT Axarva Media Teknologi,
+113.31.104.251,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
