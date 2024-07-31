@@ -40,3 +40,15 @@ noritaka:noritaka
 blank:blank
 sftpuser:Password1!
 user:131313
+ubuntu:q1w2e3r4!
+es:112233
+ubuntu:asdfgh
+test:Test123
+testftp:testftp2022
+deploy:Aa123456
+ubuntu:Aa111111!
+ubuntu:passw0rd
+deployer:deploy
+oracle:oracle123456
+testy:testy
+esuser:esuser@2023
