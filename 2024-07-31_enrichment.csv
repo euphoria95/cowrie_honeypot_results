@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 68.63.214.198,SSH-2.0-libssh2_1.9.0,US,"Comcast Cable Communications, LLC",
 167.94.138.125,SSH-2.0-Go,US,"Censys, Inc.",
 134.209.90.118,SSH-2.0-Go,NL,"DigitalOcean, LLC",
+172.170.167.157,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+203.12.15.168,SSH-2.0-Go,AU,LAUNTEL PTY LTD,
