@@ -26,3 +26,8 @@ docker:123
 lighthouse:qwertyuiop
 ubuntu:4rfv$RFV
 345gs5662d34:345gs5662d34
+user:321
+test:nopass
+ubuntu:1qq2w3e4r5t
+ftptest:ftptest1
+newuser1:newuser1
