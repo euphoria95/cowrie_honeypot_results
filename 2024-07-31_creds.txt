@@ -52,3 +52,7 @@ deployer:deploy
 oracle:oracle123456
 testy:testy
 esuser:esuser@2023
+guest:11111111
+sftp:sftp@123
+dev:dev2019
+reza:reza1234
