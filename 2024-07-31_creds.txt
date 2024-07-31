@@ -31,3 +31,12 @@ test:nopass
 ubuntu:1qq2w3e4r5t
 ftptest:ftptest1
 newuser1:newuser1
+vadmin:vadmin
+ubuntu:123456A@
+test3:1
+user:9999
+pedro:pedro
+noritaka:noritaka
+blank:blank
+sftpuser:Password1!
+user:131313
