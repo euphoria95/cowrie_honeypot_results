@@ -22,3 +22,7 @@ account3:Account31234
 guest:guest!1234
 root:root
 hd16pt07:hd16pt071234
+docker:123
+lighthouse:qwertyuiop
+ubuntu:4rfv$RFV
+345gs5662d34:345gs5662d34
