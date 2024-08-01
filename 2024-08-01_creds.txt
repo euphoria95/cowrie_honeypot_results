@@ -7,3 +7,5 @@ ali:asdf1234
 oracle:123456a@
 admin:123.qwe
 myth:myth
+admin:1qazXSW@
+ubuntu:kuanke
