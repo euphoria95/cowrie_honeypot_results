@@ -9,3 +9,4 @@ admin:123.qwe
 myth:myth
 admin:1qazXSW@
 ubuntu:kuanke
+admin:P@ssw0rd.1
