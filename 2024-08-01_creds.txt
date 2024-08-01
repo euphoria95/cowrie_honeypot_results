@@ -51,3 +51,7 @@ hduser:123456
 niraj:niraj123
 cuser:cuser
 toni:adminadmin
+pi:raspberry
+oracle:123456
+test:123456
+pi:raspberryraspberry993311
