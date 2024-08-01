@@ -1,2 +1,9 @@
 root:root
 345gs5662d34:345gs5662d34
+test:Admin123
+postgres:11111111
+user:Abc12345
+ali:asdf1234
+oracle:123456a@
+admin:123.qwe
+myth:myth
