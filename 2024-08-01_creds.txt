@@ -43,3 +43,11 @@ db:db
 oracle:oracle!@#$
 guest:guest!1234
 carlos:carlos1234
+vnc:1q2w3e4r
+marco:12345678
+test-user:12345
+temp:qwerty
+hduser:123456
+niraj:niraj123
+cuser:cuser
+toni:adminadmin
