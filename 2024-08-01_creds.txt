@@ -55,3 +55,4 @@ pi:raspberry
 oracle:123456
 test:123456
 pi:raspberryraspberry993311
+user:123456
