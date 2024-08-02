@@ -14,3 +14,4 @@ tester:123123
 cxz:123
 milos:milos123
 monkey:123
+debian:p@ssw0rd
