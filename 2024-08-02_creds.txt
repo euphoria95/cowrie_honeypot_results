@@ -1,2 +1,5 @@
 postgres:0
 wangyi:wangyi@123
+esr:esr123
+345gs5662d34:345gs5662d34
+admin:password321
