@@ -17,3 +17,13 @@ monkey:123
 debian:p@ssw0rd
 dev:blabla123x!
 timothy:123456
+yoda:yoda
+jace:jace
+master:1qaz2wsx
+mn:mn123
+ubuntu:Ubuntu1
+ubuntu:Aa000000
+karen:123
+test:0102030405
+jacob:12345
+perforce:perforce
