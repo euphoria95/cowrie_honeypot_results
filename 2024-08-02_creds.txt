@@ -27,3 +27,15 @@ karen:123
 test:0102030405
 jacob:12345
 perforce:perforce
+fernando:fernando
+ladi:ladi
+wyh:123456
+zhangdy:zhangdy
+ania:ania
+developer:root
+oscar:oscar
+wjh:wjh
+user:Password1234
+alex:changeme
+salary:salary
+shaonan:shaonan
