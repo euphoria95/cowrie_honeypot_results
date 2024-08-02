@@ -11,3 +11,5 @@ IP address,remote ssh version,country_code2,organization,asn
 188.254.47.6,,RU,PJSC Rostelecom,
 103.248.60.70,SSH-2.0-libssh_0.9.6,IN,Web Werks India Pvt. Ltd.,
 122.114.109.111,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
+198.235.24.159,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+174.138.33.199,SSH-2.0-libssh-0.1,US,"DigitalOcean, LLC",
