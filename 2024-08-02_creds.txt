@@ -172,3 +172,7 @@ superset:123
 redmine:redmine1234
 tam:tam
 games:asd
+user:qazwsx
+pi:raspberry
+noc:P@55w0rd101
+pi:raspberryraspberry993311
