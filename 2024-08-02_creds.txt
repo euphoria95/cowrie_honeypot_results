@@ -3,3 +3,14 @@ wangyi:wangyi@123
 esr:esr123
 345gs5662d34:345gs5662d34
 admin:password321
+lcmodel:lcmodel
+hoge:hoge
+client:1234
+user1:Passw0rd
+deployer:deployer1234
+scb:scb
+joan:joan123456
+tester:123123
+cxz:123
+milos:milos123
+monkey:123
