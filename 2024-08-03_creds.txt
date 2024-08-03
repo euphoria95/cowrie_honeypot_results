@@ -29,3 +29,9 @@ proftpd:proftpd123
 sis:sis
 nbi:nbi
 falcon:falcon
+oracle:oracle!@#$
+sa:Sa123
+max:max!123
+naveen:naveen123
+craft:craft!@#
+ansuser:Ansuser1
