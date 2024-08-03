@@ -56,3 +56,16 @@ rona:rona
 nagios:soigan
 ubuntu:123456@qwe
 Guest:Guest
+ricoh:ricoh
+kafka:Kafka@1234
+squid:Squid123
+zhanglei:zhanglei
+html:123
+admin:1a2s3d
+fernandazgouridi:q1w2e3r4
+cte:cte123
+gt:gt
+gholizadeh:gholizadeh123
+conecta:conecta123
+test1:admin123
+readonly:123456
