@@ -112,3 +112,12 @@ db_user:db_user
 julie:julie1
 nagios:nagios1
 tiziano:tiziano
+test:Test123
+pi:raspberry
+data:data
+hduser:Hadoop1234
+ec2:ec2root
+elastic:elastic
+weblogic:weblogic
+photo:photo
+postgres:Postgres123
