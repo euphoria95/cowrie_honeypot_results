@@ -25,3 +25,5 @@ ronaldo:ronaldo
 tibero2:tibero2
 mysql:changeme
 user:Password
+root:root
+naveen:naveen123
