@@ -4,3 +4,5 @@ IP address,remote ssh version,country_code2,organization,asn
 160.22.174.70,SSH-2.0-libssh_0.9.6,VN,Vietnam Internet Network Information Center (VNNIC),
 146.59.233.75,,FR,OVH SAS,
 45.89.254.228,,GB,"VegasNAP, LLC",
+167.99.209.118,,NL,"DigitalOcean, LLC",
+198.235.24.236,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
