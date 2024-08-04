@@ -20,3 +20,7 @@ administrator:adminadmin
 user1:111
 arnold:123456789
 himanshu:himanshu123
+whatsapp:whatsapp
+ronaldo:ronaldo
+tibero2:tibero2
+mysql:changeme
