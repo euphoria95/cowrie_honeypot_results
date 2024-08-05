@@ -46,3 +46,8 @@ IP address,remote ssh version,country_code2,organization,asn
 152.32.206.49,SSH-1.5-Server,US,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 117.72.68.94,,CN,China Telecom,
 154.93.0.138,SSH-2.0-libssh_0.9.6,SG,AgotoZ HK Limited,
+206.168.34.194,SSH-2.0-Go,US,"Censys, Inc.",
+198.235.24.193,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+51.8.71.146,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+87.236.176.36,SSH-2.0-Go,GB,Constantine Cybersecurity Ltd.,
+172.169.205.40,,US,Microsoft Corporation,
