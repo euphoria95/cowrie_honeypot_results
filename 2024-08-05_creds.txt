@@ -108,3 +108,7 @@ rabe:rabe
 manual:manual
 ywb:ywb123
 jike:jike
+ftpuser:p@55w0rd
+guest:nologin
+vahid:vahid
+wz:wz123
