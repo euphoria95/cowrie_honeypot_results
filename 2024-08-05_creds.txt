@@ -84,3 +84,16 @@ janus:janus
 alexandr:alexandr
 vbox:vboxpass
 deploy:pass@123
+admin:dragon
+monitora:monitora
+pzuser:1234
+user:Abc12345
+sistema:sistema
+fede:fede123
+user:1024
+jk:jk
+sftpuser:sftpuser@123
+connor:changeme
+ronald:password
+sandra:sandra
+nathan:nathan1234
