@@ -21,3 +21,12 @@ zwz:123456
 kyang:kyang
 user1:root
 guest:$BLANKPASS
+mysql:passw0rd
+ludmila:ludmila
+kkc:kkc123
+abdullah:1234
+akj:akj
+test:111222
+omnix:omnix
+administrator:P@ssw0rd1
+ubuntu:123456Aa
