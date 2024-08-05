@@ -26,3 +26,6 @@ IP address,remote ssh version,country_code2,organization,asn
 174.138.36.202,SSH-2.0-libssh-0.1,US,"DigitalOcean, LLC",
 147.185.132.60,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 196.0.120.211,SSH-2.0-libssh_0.9.6,UG,Uganda Telecom,
+43.156.49.75,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
+120.48.114.210,SSH-2.0-libssh_0.9.6,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
+202.157.177.213,SSH-2.0-libssh_0.9.6,ID,PT. EXABYTES NETWORK INDONESIA,
