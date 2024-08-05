@@ -38,3 +38,6 @@ IP address,remote ssh version,country_code2,organization,asn
 23.247.130.222,SSH-2.0-libssh_0.9.6,US,YISU CLOUD LIMITED,
 43.159.35.254,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
 162.241.71.207,SSH-2.0-libssh_0.9.6,US,"Network Solutions, LLC",
+14.241.243.222,,VN,VNPT Corp,
+103.71.96.53,SSH-2.0-libssh_0.9.6,VN,Vietnam Internet Network Information Center (VNNIC),
+103.242.117.120,SSH-2.0-libssh_0.9.6,IN,Web Werks India Pvt. Ltd.,
