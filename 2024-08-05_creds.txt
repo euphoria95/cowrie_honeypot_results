@@ -79,3 +79,8 @@ nginx:123456789
 test1:admin123
 kangkang:123456
 nadie:nadie
+usera:usera
+janus:janus
+alexandr:alexandr
+vbox:vboxpass
+deploy:pass@123
