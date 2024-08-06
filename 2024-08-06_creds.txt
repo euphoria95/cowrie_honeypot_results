@@ -115,3 +115,12 @@ stack:stack!123
 pedro:Pedro1
 service:service
 temp:temp1
+help:hello1
+uxadmin:linuxadmin
+admin:passwd1234
+gbase:gbase
+it:1
+dennis:dennis
+veeresh:veeresh@123
+bmc:bmc
+ubuntu:qwerasdf
