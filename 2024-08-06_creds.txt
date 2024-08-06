@@ -42,3 +42,5 @@ postgres:qaz123
 vagrant:Vagrant123
 pruebas:pruebas
 alex:alex
+pi:raspberryraspberry993311
+pi:raspberry
