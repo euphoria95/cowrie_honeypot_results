@@ -89,3 +89,14 @@ carlos:carlos1234
 max:max!123
 deployer:deployer!123
 sa:Sa123
+info:test123
+uno85:uno85
+joekey:123!@#b3rs1h
+rpc:a
+cfabllc:password
+uat:uat123
+bot:bot
+luca:luca123
+drop:drop
+ubuntu:aa123456
+Ubuntu:Ubuntu
