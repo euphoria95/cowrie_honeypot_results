@@ -100,3 +100,12 @@ luca:luca123
 drop:drop
 ubuntu:aa123456
 Ubuntu:Ubuntu
+zch:zch
+xx:123456
+master:master123456
+adama:adama
+confluence:password
+wenyan:wenyan
+zhangbin:zhangbin
+db2inst1:P@ssw0rd
+pzz:pzz
