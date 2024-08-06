@@ -80,3 +80,12 @@ zhangning:zhangning
 abc:123123
 packet:packet
 yw:yw
+ansuser:Ansuser1
+naveen:naveen123
+oracle:oracle!@#$
+dockeradmin:Dockeradmin1234
+craft:craft!@#
+carlos:carlos1234
+max:max!123
+deployer:deployer!123
+sa:Sa123
