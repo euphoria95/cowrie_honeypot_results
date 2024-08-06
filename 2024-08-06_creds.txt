@@ -109,3 +109,9 @@ wenyan:wenyan
 zhangbin:zhangbin
 db2inst1:P@ssw0rd
 pzz:pzz
+ftpuser:ftpuser@1234
+testuser:Testuser1
+stack:stack!123
+pedro:Pedro1
+service:service
+temp:temp1
