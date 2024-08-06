@@ -40,3 +40,5 @@ Admin:Abcd123
 kali:Abc1234
 postgres:qaz123
 vagrant:Vagrant123
+pruebas:pruebas
+alex:alex
