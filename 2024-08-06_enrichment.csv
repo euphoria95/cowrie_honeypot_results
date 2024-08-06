@@ -3,3 +3,6 @@ IP address,remote ssh version,country_code2,organization,asn
 93.115.79.45,SSH-2.0-libssh_0.9.6,TR,Netinternet Bilisim Teknolojileri AS,
 82.151.65.155,SSH-2.0-Go,MR,Mauritanian Telecommunication Company,
 198.235.24.11,,US,Google LLC,
+198.235.24.225,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+165.232.88.96,,NL,"DigitalOcean, LLC",
+222.71.54.18,SSH-2.0-Go,CN,China Telecom (Group),
