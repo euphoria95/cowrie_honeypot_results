@@ -44,3 +44,6 @@ pruebas:pruebas
 alex:alex
 pi:raspberryraspberry993311
 pi:raspberry
+admin:123456789
+solr:123456
+postgres:postgres!@#$
