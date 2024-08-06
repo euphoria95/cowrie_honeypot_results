@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.225,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 165.232.88.96,,NL,"DigitalOcean, LLC",
 222.71.54.18,SSH-2.0-Go,CN,China Telecom (Group),
+198.24.79.245,SSH-2.0-Go,US,Charter Communications Inc,
+198.235.24.29,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+61.243.105.218,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
