@@ -2,3 +2,7 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.75,,BR,Google LLC,
 58.124.223.20,SSH-2.0-Go,KR,SK Broadband Co Ltd,
 82.151.65.155,SSH-2.0-Go,MR,Mauritanian Telecommunication Company,
+36.189.255.162,SSH-2.0-libssh-0.1,CN,China Mobile,
+192.81.211.213,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+197.5.145.73,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
+8.219.136.190,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
