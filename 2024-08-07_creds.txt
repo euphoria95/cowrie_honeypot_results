@@ -46,3 +46,6 @@ parker:parker
 netapp:netapp
 loretta:loretta
 smb:123
+pi:raspberry
+oracle:asd123
+pi:raspberryraspberry993311
