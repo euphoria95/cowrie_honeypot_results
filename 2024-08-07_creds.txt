@@ -212,3 +212,5 @@ testt:testt
 ehsan:123
 vboxuser:test123
 lance:lance123
+xu:xu123
+postgres:asd123
