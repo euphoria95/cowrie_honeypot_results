@@ -70,3 +70,16 @@ cfrto:cfrto
 user:zxcvbn
 tcpdump:password123
 keith:keith123
+oracle:skynet
+admin:immortal
+admin:Password12
+mslee:mslee
+ftp_user:test
+System:System
+postgres:qwer1234
+test_user:qwerty123
+zmc:zmc
+mo:mo123
+empleado:empleado
+lmi:lmi123
+nfs:123456
