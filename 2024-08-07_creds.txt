@@ -32,3 +32,17 @@ vyos:Password1
 telnet:Abcd1234
 telnet:abcd1234
 Admin:Abcd123
+dula:dula
+lat:lat
+server:s3rv3r
+library:library!@#
+qin:123456
+345gs5662d34:345gs5662d34
+instagram:instagram
+docker:docker@2023
+supattra:supattra
+ankit:123456
+parker:parker
+netapp:netapp
+loretta:loretta
+smb:123
