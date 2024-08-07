@@ -189,3 +189,15 @@ cow:cow
 test12:test
 ubuntu:Qq1234567890
 ubuntu:!qaz2wsx3edc
+hduser:admin
+jay:jay
+informix:informix12345
+anonymous:12345
+joy:123
+ansible:Welcome1
+kimura:kimura
+wow:wow123
+takeda:takeda
+pgadmin:pgadmin
+minerhub:minerhub
+ser:ser
