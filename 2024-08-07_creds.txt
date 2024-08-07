@@ -206,3 +206,9 @@ arena:arena
 stacy:stacy
 nagios:redhat
 ankur:ankur
+developer2:developer2
+pik:pik
+testt:testt
+ehsan:123
+vboxuser:test123
+lance:lance123
