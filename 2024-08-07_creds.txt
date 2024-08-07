@@ -201,3 +201,8 @@ takeda:takeda
 pgadmin:pgadmin
 minerhub:minerhub
 ser:ser
+panda:panda
+arena:arena
+stacy:stacy
+nagios:redhat
+ankur:ankur
