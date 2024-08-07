@@ -106,3 +106,5 @@ tanya:password
 user2:usertest
 lxc:123456
 admin:!QAZXSW@
+monitor:1234
+office:password
