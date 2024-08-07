@@ -188,3 +188,4 @@ strapi:strapi
 cow:cow
 test12:test
 ubuntu:Qq1234567890
+ubuntu:!qaz2wsx3edc
