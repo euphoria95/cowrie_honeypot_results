@@ -180,3 +180,5 @@ ftpuser1:ftp
 ubuntu:Aa123456.
 ehsan:ehsan123
 lzy:lzy
+validator:validator
+root:root
