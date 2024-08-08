@@ -67,3 +67,8 @@ pi:123456
 admin:Aa123456
 user:1234
 test:Passw0rd
+www:www
+support:iyeastar
+router:router
+Test:111
+ftp:123
