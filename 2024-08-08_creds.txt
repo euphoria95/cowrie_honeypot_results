@@ -121,3 +121,11 @@ tomcat:tomcat
 ubnt:ubnt8
 administrator:administrator
 orangepi:orangepi
+admin:Admin123
+admin:mustang
+blank:password
+ftpuser:asteriskftp
+admin:bywifi
+user1:user1
+operator:operator
+test:555555
