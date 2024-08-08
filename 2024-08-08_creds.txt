@@ -52,3 +52,6 @@ odoo:odoo
 ubnt:12345
 admin:pfsense
 test:123456789
+blank:blank
+centos:123456
+support:support55
