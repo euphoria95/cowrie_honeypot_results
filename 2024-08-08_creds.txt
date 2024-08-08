@@ -101,3 +101,8 @@ he:he@123
 t:1234
 iic:iic
 user8:user8
+debian:123321
+admin:asdfgh
+vyos:vyos
+admin:admin1234
+jenkins:123jenkins
