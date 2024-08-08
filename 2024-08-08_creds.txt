@@ -106,3 +106,10 @@ admin:asdfgh
 vyos:vyos
 admin:admin1234
 jenkins:123jenkins
+ubnt:ubnt2
+default:Default2010
+admin:password
+admin:admin7
+admin:pass
+support:support2019
+eric:eric
