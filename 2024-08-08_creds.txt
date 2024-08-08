@@ -41,3 +41,14 @@ user1:123456
 User:123456
 debian:p@ssw0rd
 admin:Admin1234
+admin:odroid
+user:qwerty1
+admin:manager
+admin:admin13
+admin:admin2000
+admin:1q2w3e4r!
+odoo:odoo
+100:100
+ubnt:12345
+admin:pfsense
+test:123456789
