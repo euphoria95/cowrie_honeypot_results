@@ -113,3 +113,11 @@ admin:admin7
 admin:pass
 support:support2019
 eric:eric
+test:123456
+user:1234567
+support:support00
+admin:P@$$w0rd
+tomcat:tomcat
+ubnt:ubnt8
+administrator:administrator
+orangepi:orangepi
