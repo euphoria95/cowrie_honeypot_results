@@ -25,3 +25,11 @@ ubuntu:abcd123456789
 Administrator:admin
 imran:imran
 apa:apa
+iccsftpuser:iccsftpuser
+test:1
+r2:r2
+ubnt:admin1
+mister:mister
+default:qwerty
+default:password
+default:default
