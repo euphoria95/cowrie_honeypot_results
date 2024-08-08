@@ -129,3 +129,9 @@ admin:bywifi
 user1:user1
 operator:operator
 test:555555
+ubnt:1qaz2wsx
+user:0l0ctyQh243O63uD
+admin:123
+supervisor:1234
+admin:asdf1234
+test:abc123
