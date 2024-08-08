@@ -33,3 +33,11 @@ mister:mister
 default:qwerty
 default:password
 default:default
+test:12345
+admin:1234567890
+user:pass
+ubnt:ubntubnt
+user1:123456
+User:123456
+debian:p@ssw0rd
+admin:Admin1234
