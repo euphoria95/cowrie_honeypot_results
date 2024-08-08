@@ -55,3 +55,15 @@ test:123456789
 blank:blank
 centos:123456
 support:support55
+pete:pete
+admin:gzHKde9TDRW4g
+justus:justus
+admin:112233
+war:war
+Simon:Simon
+cisco:cisco
+git:12341234
+pi:123456
+admin:Aa123456
+user:1234
+test:Passw0rd
