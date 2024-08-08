@@ -170,3 +170,11 @@ trash:123456
 bas:bas
 elf:elf
 lauren:1234
+admin:public
+blank:passwd
+MikroTikSystem:2a5Z8DOgsrugkLkmm7V
+admin:123321
+config:config33
+debian:123123
+system:system
+install:install
