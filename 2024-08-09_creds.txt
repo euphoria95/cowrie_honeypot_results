@@ -113,3 +113,12 @@ Root:123456
 test:123123
 anonymous:anonymous
 Root:admin
+vpn:vpn
+admin:password01!
+nobody:Nobody2007
+daniel:daniel
+supervisor:abc123
+test:1q2w3e4r
+Admin:passwd
+ubuntu:ubuntu
+ftpuser:123
