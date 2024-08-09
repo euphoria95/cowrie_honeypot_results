@@ -154,3 +154,6 @@ Admin:123456
 user:12345
 ftp1:ftp1
 test:test@123
+unknown:P@ssw0rd
+test:test2010
+minecraft:minecraft
