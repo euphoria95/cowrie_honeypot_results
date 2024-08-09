@@ -104,3 +104,12 @@ vdc:vdc
 config:12345
 admin:admin2002
 sysadmin:PASS
+admin:12345678
+Admin:444444
+admin:zaq12wsx
+sconsole:12345
+user:abc123
+Root:123456
+test:123123
+anonymous:anonymous
+Root:admin
