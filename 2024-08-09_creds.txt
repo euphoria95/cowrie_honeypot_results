@@ -220,3 +220,6 @@ rms:rms
 es:112233
 git:p@ssword
 kiran:kiran
+test:p@ssw0rd
+user:Password
+gns3:gns3
