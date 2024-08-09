@@ -8,3 +8,10 @@ user:user1234
 operator:12345
 public:public
 unknown:unknown
+user:P@ssword
+pi:1234
+manager:manager
+ubnt:abc123
+user:123321
+Debian:123123
+unknown:unknown11
