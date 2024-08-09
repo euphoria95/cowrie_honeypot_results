@@ -122,3 +122,11 @@ test:1q2w3e4r
 Admin:passwd
 ubuntu:ubuntu
 ftpuser:123
+root:root
+admin:Telstra
+media:media
+centos:passwd
+support:support11
+leo:leo
+User:User2011
+guest:888888
