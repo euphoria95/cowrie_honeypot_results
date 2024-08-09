@@ -61,3 +61,8 @@ raspberrypi:mymagicpass228
 pi:raspberry
 ubnt:ubnt1234
 Admin:00000000
+admin:Password@123
+admin:1qaz!QAZ
+321:321
+caixa:123
+pi:pipi
