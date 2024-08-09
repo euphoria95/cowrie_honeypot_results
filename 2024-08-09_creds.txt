@@ -144,3 +144,13 @@ thomas:thomas
 hid:hid
 test:test123456
 ali:12341234
+logout:logout
+unknown:1234567
+scanner:scanner
+admin:admin2001
+song:song123
+camara:camara
+Admin:123456
+user:12345
+ftp1:ftp1
+test:test@123
