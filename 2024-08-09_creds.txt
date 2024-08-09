@@ -157,3 +157,10 @@ test:test@123
 unknown:P@ssw0rd
 test:test2010
 minecraft:minecraft
+guest:Guest2015
+support:Support11
+centos:6666
+centos:1234567890
+admin:euskalcm
+ubnt:ubnt123
+config:ubuntu
