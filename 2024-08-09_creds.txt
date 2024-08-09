@@ -21,3 +21,8 @@ ubnt:1234567890
 admin:111111
 centos:centos1234567
 admin:qwer1234
+monitor:monitor
+test:test
+Test:654321
+cusadmin:password
+user:admin
