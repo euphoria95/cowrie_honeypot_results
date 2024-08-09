@@ -130,3 +130,17 @@ support:support11
 leo:leo
 User:User2011
 guest:888888
+tester:qwerty
+saude:saude
+admin:abc123
+twl:twl
+test:test2018
+etienne:etienne
+ryuta:ryuta
+blank:Blank6
+1234:1234
+nemesis:nemesis
+thomas:thomas
+hid:hid
+test:test123456
+ali:12341234
