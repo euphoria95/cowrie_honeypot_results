@@ -56,3 +56,8 @@ unknown:112233
 system:OkwKcECs8qJP2Z
 denis:denis1
 stanley:123456
+raspberrypi:mymagicpass228
+11111:11111
+pi:raspberry
+ubnt:ubnt1234
+Admin:00000000
