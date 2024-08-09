@@ -298,3 +298,10 @@ thirupathi:thirupathi
 nfc:nfc
 test:password321
 zcs:123456
+nobody:P@ssw0rd
+ali:asdf
+ronaldo:ronaldo
+admin:123123123
+zxx:zxx123
+ftpuser:ftp
+hjy:1234
