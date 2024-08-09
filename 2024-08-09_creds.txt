@@ -15,3 +15,9 @@ ubnt:abc123
 user:123321
 Debian:123123
 unknown:unknown11
+admin1:admin1
+pi:admin
+ubnt:1234567890
+admin:111111
+centos:centos1234567
+admin:qwer1234
