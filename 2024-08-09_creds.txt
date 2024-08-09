@@ -190,3 +190,11 @@ admin:admin123!@#
 admin:7ujMko0admin
 admin:1234
 kafka:kafka
+service:password
+guest:1234
+openhabian:openhabian
+ubnt:P@ssw0rd
+ubnt:ubnt88
+supervisor:supervisor
+admin:passw0rd
+admin:qwerty12345
