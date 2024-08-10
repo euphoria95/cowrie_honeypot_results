@@ -78,3 +78,13 @@ admin:admin123!@#
 admin:Admin123456
 pedro:pedro123
 test:1234
+admin:1
+alarm:alarm
+super:super
+ubnt:passwd
+centos:default
+ubnt:admin123
+centos:centos123
+nobody:qwerty123
+admin:1qaz@WSX3edc
+88888888:88888888
