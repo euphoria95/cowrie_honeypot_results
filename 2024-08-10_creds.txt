@@ -95,3 +95,10 @@ test:1234567890
 nobody:1234567
 ubnt:ubnt1
 test:qwerty123
+admin:admin123
+user:123
+Administrator:blank
+test:1111
+pi:rasp
+pi:123456789
+blank:121212
