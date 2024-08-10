@@ -88,3 +88,10 @@ centos:centos123
 nobody:qwerty123
 admin:1qaz@WSX3edc
 88888888:88888888
+pi:password
+test:admin
+config:config6
+test:1234567890
+nobody:1234567
+ubnt:ubnt1
+test:qwerty123
