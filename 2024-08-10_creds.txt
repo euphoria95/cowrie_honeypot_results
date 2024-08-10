@@ -71,3 +71,10 @@ linaro:linaro
 admin:12345
 admin:33333333
 mark:mark
+admin:Admin1
+support:support33
+blank:1234567
+admin:admin123!@#
+admin:Admin123456
+pedro:pedro123
+test:1234
