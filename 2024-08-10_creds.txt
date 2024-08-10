@@ -1,0 +1,6 @@
+dietpi:dietpi
+admin:admin1
+345gs5662d34:345gs5662d34
+pi:pi
+test:qwerty
+centos:12345
