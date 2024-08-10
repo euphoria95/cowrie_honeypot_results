@@ -4,3 +4,14 @@ admin:admin1
 pi:pi
 test:qwerty
 centos:12345
+support:Support1
+centos:p@ssw0rd
+user:654321
+administrator:P@ssw0rd
+mysql:password
+test123:test123
+oracle:oracle
+openvpn:openvpn
+admin:1111111111
+12345qwert:12345qwert
+blank:blank12345678
