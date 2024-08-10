@@ -61,3 +61,13 @@ user:default
 ubnt:1234
 nobody:654321
 mysql:mysql
+admin:hipchat
+test1:test1
+adam:adam
+1234qwer:1234qwer
+centos:Centos2013
+centos:654321
+linaro:linaro
+admin:12345
+admin:33333333
+mark:mark
