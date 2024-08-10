@@ -219,3 +219,17 @@ USERID:PASSW0RD
 123qweASD:123qweASD
 tech:tech
 debian:passwd
+noritaka:noritaka
+robert:robert
+alain:Pitagora78!!
+admin:Password123
+vivek:vivek
+ftp:ftp123
+app:app
+vsftp:vsftp
+yangjie:yangjie
+pedro:pedro
+ubnt:ubnt666
+blank:blank
+nori:nori
+Root:12345
