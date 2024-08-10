@@ -52,3 +52,12 @@ telecomadmin:admintelecom
 admin:00
 support:abcd1234
 user:p@ssword
+proftpd:proftpd
+admin:dPZb4GJTu9
+pi:pipi
+administrator:admin
+vagrant:vagrant
+user:default
+ubnt:1234
+nobody:654321
+mysql:mysql
