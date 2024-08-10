@@ -156,3 +156,15 @@ login:login
 vyatta:Vyatta@1234
 data:data1234
 temp:temp1
+debian:123456789
+user:test
+user:user66
+centos:123123
+operator:abc123
+testuser:test
+support:default
+Test:test123
+centos:Passw0rd
+test:test1
+admin:P@ssword
+test:11111
