@@ -212,3 +212,10 @@ user:user
 admin:444444
 Test:123456
 test:testtest
+Default:passwd
+ftp:ftp
+Admin:Password1
+USERID:PASSW0RD
+123qweASD:123qweASD
+tech:tech
+debian:passwd
