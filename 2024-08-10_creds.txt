@@ -15,3 +15,12 @@ openvpn:openvpn
 admin:1111111111
 12345qwert:12345qwert
 blank:blank12345678
+admin:qwerty
+admin:admin2020
+nobody:987654321
+administrator:password
+admin:nosoup4u
+mother:fucker
+user:123123
+PlcmSpIp:PlcmSpIp
+blank:123456
