@@ -203,3 +203,12 @@ admin:qwerty123
 admin:123123
 123QWEasd:123QWEasd
 user1:1234
+000000:000000
+reboot:reboot
+centos:admin123
+12345:12345
+user:user88
+user:user
+admin:444444
+Test:123456
+test:testtest
