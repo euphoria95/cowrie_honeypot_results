@@ -102,3 +102,12 @@ test:1111
 pi:rasp
 pi:123456789
 blank:121212
+admin:111
+unknown:666666
+test:default
+osmc:osmc
+nobody:Passw0rd
+support:support22
+user:user55
+config:passw0rd
+test:P@ssword
