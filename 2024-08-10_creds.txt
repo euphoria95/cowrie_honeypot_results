@@ -43,3 +43,12 @@ manager:friend
 admin:c1@r0
 jesse:jesse@123
 zhangb:zhangb
+apache:apache
+support:support44
+admin:ubnt
+sam:sam
+user:987654321
+telecomadmin:admintelecom
+admin:00
+support:abcd1234
+user:p@ssword
