@@ -233,3 +233,14 @@ ubnt:ubnt666
 blank:blank
 nori:nori
 Root:12345
+xiaolong:xiaolong
+sistemas:sistemas123
+hugh:hugh
+elconix:51572703
+aisha:aisha
+jie:123456
+gss:gss
+pj:pj
+backup:password
+nagios:n@gios
+yw:yw
