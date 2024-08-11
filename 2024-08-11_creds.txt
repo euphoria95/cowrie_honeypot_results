@@ -197,3 +197,17 @@ mati:mati
 miyagi:miyagi
 seb:seb123
 nena:nena
+alina:alina
+marion:marion
+sabnzbd:sabnzbd
+kuai:kuai
+agnieszka:agnieszka123
+austin:austin
+clee:clee
+admin:2welcome
+hke:hke
+sjh:sjh
+firewall:123456
+test:admin123
+geoffrey:geoffrey
+firefart:123
