@@ -1,0 +1,13 @@
+ftpuser:ftpuser@1234
+naveen:naveen123
+dockeradmin:Dockeradmin1234
+craft:craft!@#
+sa:Sa123
+temp:temp1
+carlos:carlos1234
+ansuser:Ansuser1
+max:max!123
+deployer:deployer!123
+pedro:Pedro1
+oracle:oracle!@#$
+service:service
