@@ -189,3 +189,11 @@ xupeng:xupeng
 marlon:marlon123
 deployer:test1234
 ubuntu:asdasd
+aqu:aqu
+jm:123456
+testuser:123qwe
+kt:kt123456
+mati:mati
+miyagi:miyagi
+seb:seb123
+nena:nena
