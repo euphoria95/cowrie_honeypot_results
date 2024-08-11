@@ -129,3 +129,12 @@ test:toto
 student:password123
 hqy:123456
 jitu:jitu123
+bender:bender
+ds:ds
+postgres:111111
+lw:lw@123
+wkm:wkm123
+sow:sow
+ftp1:123456
+svn:svn!@#$
+imageserver:imageserver
