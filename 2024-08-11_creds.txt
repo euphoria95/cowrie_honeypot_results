@@ -11,3 +11,6 @@ deployer:deployer!123
 pedro:Pedro1
 oracle:oracle!@#$
 service:service
+ritesh:123456
+teste:teste
+ts3:ts123
