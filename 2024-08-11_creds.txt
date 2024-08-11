@@ -84,3 +84,17 @@ waseem:waseem
 db2fenc:123456
 donna:donna
 add:add
+art:*
+keras:keras
+es:M3gaP33!
+vvx:vvx
+btc:btc
+shiro:shiro
+deploy:deploy2019
+ppm:123456
+informix:passw0rd
+cgf:cgf
+callcenter:callcenter
+admin:lindy
+suzanne:suzanne
+admin:abc@123
