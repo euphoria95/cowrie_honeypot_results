@@ -106,3 +106,11 @@ lk:123
 m1:123456
 lll:lll
 bitrix:1
+ryder:ryder
+dan:password
+zyp:zyp
+oracle:J5cmmu=Kyf0-br8CsW
+default:Default2014
+user:admin123
+default:Default2006
+vodafone:vodafone
