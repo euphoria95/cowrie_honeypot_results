@@ -1,2 +1,7 @@
 IP address,remote ssh version,country_code2,organization,asn
 40.83.134.147,SSH-2.0-Go,US,Microsoft Corporation,
+51.77.245.237,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+68.183.237.40,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+139.59.23.154,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+34.41.17.26,SSH-2.0-libssh_0.9.6,US,Google LLC,
+165.22.209.96,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
