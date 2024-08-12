@@ -61,3 +61,6 @@ blank:abcd1234
 unknown:unknown123
 guest:guest123
 amx:password
+blank:1111111111
+ftp:123123
+config:Password
