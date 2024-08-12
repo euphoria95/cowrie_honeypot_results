@@ -64,3 +64,16 @@ amx:password
 blank:1111111111
 ftp:123123
 config:Password
+reza:reza1234
+evelyne:evelyne
+emanuela:emanuela
+mz:123456
+kkr:kkr
+public:publicpass
+scan:12345
+jenkins:1qazxsw2
+admin:root
+ting:ting123
+blank:blank123
+unknown:12345
+bmedina:bmedina
