@@ -88,3 +88,6 @@ support:support9
 ubnt:123123
 test:pass
 xbian:raspberry
+centos:Centos2007
+centos:1234
+cyrus:cyrus
