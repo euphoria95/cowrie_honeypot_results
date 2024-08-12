@@ -5,3 +5,6 @@ IP address,remote ssh version,country_code2,organization,asn
 139.59.23.154,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 34.41.17.26,SSH-2.0-libssh_0.9.6,US,Google LLC,
 165.22.209.96,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+147.45.77.255,SSH-2.0-libssh2_1.11.1_DEV,SE,AEZA INTERNATIONAL LTD,
+5.182.211.148,SSH-2.0-Go,NL,SKB Enterprise B.V.,
+172.202.251.250,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
