@@ -81,3 +81,7 @@ blank:44
 ubnt:ubnt7
 supervisor:77777
 admin:77777777
+admin:222333
+Debian:Debian2008
+debian:9999999
+support:support9
