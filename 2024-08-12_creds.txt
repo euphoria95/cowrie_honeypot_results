@@ -34,3 +34,13 @@ sharon:password
 prakash:prakash
 cornel:cornel
 steam:qwerty
+oracle:oracle!@#$
+ansuser:Ansuser1
+jeremy:password
+naveen:naveen123
+deployer:deployer!123
+max:max!123
+sa:Sa123
+craft:craft!@#
+carlos:carlos1234
+dockeradmin:Dockeradmin1234
