@@ -116,3 +116,6 @@ default:Default2006
 vodafone:vodafone
 login:access
 guest:guest000
+support:1234
+webmaster:webmaster
+cisco:password
