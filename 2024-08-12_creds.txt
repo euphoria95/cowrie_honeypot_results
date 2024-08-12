@@ -114,3 +114,5 @@ default:Default2014
 user:admin123
 default:Default2006
 vodafone:vodafone
+login:access
+guest:guest000
