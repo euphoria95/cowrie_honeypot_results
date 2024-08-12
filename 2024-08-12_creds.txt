@@ -79,3 +79,5 @@ unknown:12345
 bmedina:bmedina
 blank:44
 ubnt:ubnt7
+supervisor:77777
+admin:77777777
