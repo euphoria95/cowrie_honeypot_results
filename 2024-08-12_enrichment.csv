@@ -11,3 +11,7 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.79,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 205.210.31.30,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 146.190.241.56,SSH-2.0-Go,CA,"DigitalOcean, LLC",
+175.202.82.16,SSH-2.0-Go,KR,Korea Telecom,
+182.44.75.253,SSH-2.0-libssh_0.9.6,CN,CHINANET Fujian province Fuzhou IDC network,
+198.235.24.14,,US,Google LLC,
+36.99.61.20,SSH-2.0-libssh_0.9.6,CN,"Luoyang, Henan Province, P.R.China.",
