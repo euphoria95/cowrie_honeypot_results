@@ -85,3 +85,6 @@ admin:222333
 Debian:Debian2008
 debian:9999999
 support:support9
+ubnt:123123
+test:pass
+xbian:raspberry
