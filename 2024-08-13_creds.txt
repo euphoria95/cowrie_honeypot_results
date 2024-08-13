@@ -34,3 +34,13 @@ chava:chava
 denuncias:denuncias
 config:config2010
 node:111111
+ubuntu:Welcome123$%^
+us:us
+deployop:deployop
+pi:1qaz2wsx
+deploy:P@$$w0rd
+kj:kj
+gui:123456
+mars:mars
+dev:dev
+user1:12345
