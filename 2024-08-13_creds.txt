@@ -103,3 +103,11 @@ operator:operator1234
 support:111
 blank:blank000
 3play:3play
+nobody:Password
+debian:123456
+user:111112
+liangshuang:liangshuang
+liuwei:liuwei
+wyx:wyx
+ubnt:ubnt9
+sun:sun
