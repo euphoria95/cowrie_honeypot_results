@@ -190,3 +190,7 @@ db:db
 b:b
 docker:123456
 hd16pt07:hd16pt071234
+debian:999
+nexthink:123456
+ubnt:ubnt2018
+config:qwer1234
