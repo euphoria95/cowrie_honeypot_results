@@ -5,3 +5,7 @@ blank:P@ssw0rd
 alcantara:alcantara
 mahesh:123456
 robert:robert
+demo:demo
+admin1:password
+guest:1111111111
+admin:admin10
