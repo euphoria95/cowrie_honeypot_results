@@ -99,3 +99,7 @@ centos:333333
 unknown:000000
 user:User@1
 student:123456
+operator:operator1234
+support:111
+blank:blank000
+3play:3play
