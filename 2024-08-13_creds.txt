@@ -44,3 +44,7 @@ gui:123456
 mars:mars
 dev:dev
 user1:12345
+support:support10
+teamspeak:teamspeak
+default:123321
+guest:12345678
