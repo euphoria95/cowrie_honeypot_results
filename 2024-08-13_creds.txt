@@ -9,3 +9,9 @@ demo:demo
 admin1:password
 guest:1111111111
 admin:admin10
+default:123456789
+nobody:112233
+test:0000000000
+blank:33
+ubnt:p@ssw0rd
+service:1234
