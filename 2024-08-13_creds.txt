@@ -48,3 +48,14 @@ support:support10
 teamspeak:teamspeak
 default:123321
 guest:12345678
+guest:Password
+config:123321
+debian:sixaola
+user:4
+btd:btd
+abhishek:abhishek123
+ts3srv:ts3server
+luciana:123456
+toor:1
+angela:angela
+ubnt:00000
