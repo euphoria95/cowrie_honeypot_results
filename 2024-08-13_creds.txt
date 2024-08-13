@@ -204,3 +204,16 @@ admin:1111111
 support:1968
 admin:superuser
 guest:55555
+centos:0000000
+support:Password
+test:ubuntu
+admin:12qwaszx
+opc:opc@123
+config:Config2005
+user:4444444
+admin:calvin
+Admin:1q2w3e4r5t
+nobody:nobody123456789
+Admin:888888888
+user123:123
+sysadmin:1
