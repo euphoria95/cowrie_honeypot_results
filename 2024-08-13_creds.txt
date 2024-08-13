@@ -222,3 +222,15 @@ ubnt:Password
 sonos:sonos
 admin:a123456
 user1:test
+admin:password321
+leonardo:leonardo123
+guest:upload
+User:1234
+nobody:000000
+Aa123456:Aa123456
+operator:operator123
+hek:123456
+ta:12345
+diy:123456
+deploy:deploypass
+kevin:Qwerty123
