@@ -194,3 +194,7 @@ debian:999
 nexthink:123456
 ubnt:ubnt2018
 config:qwer1234
+Test:test@123
+operator:123321
+default:default2010
+default:ubuntu
