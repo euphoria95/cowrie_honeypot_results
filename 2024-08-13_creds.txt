@@ -202,3 +202,5 @@ debian:1
 test:123321
 admin:1111111
 support:1968
+admin:superuser
+guest:55555
