@@ -217,3 +217,8 @@ nobody:nobody123456789
 Admin:888888888
 user123:123
 sysadmin:1
+support:123
+ubnt:Password
+sonos:sonos
+admin:a123456
+user1:test
