@@ -2,3 +2,10 @@ default:1111111
 default:8888
 blank:ubuntu
 default:password123
+user:Passw0rd
+default:pass
+debian:default
+blank:blank1234
+user:5555555555
+debian:111111
+debian:P@ssw0rd
