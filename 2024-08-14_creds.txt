@@ -250,3 +250,13 @@ admin:1979
 config:qwerty1
 ftp:admin
 sshd:service
+operator:operator2
+admin:2
+printer:printer
+login:8429
+centos:centos9
+admin:9
+default:default1
+user:public
+blank:qwerty12345
+operator:00
