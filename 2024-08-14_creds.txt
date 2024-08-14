@@ -23,3 +23,6 @@ User:1234567890
 test:8888888
 debian:123qwe
 test:9
+user:user2
+config:987654321
+admin:123qwe!@#
