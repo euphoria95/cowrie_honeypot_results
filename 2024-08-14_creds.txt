@@ -260,3 +260,13 @@ default:default1
 user:public
 blank:qwerty12345
 operator:00
+default:6666
+support:1960
+backup:123456
+a123456789:a123456789
+debian:debian11
+webuser:webuser
+debian:debian2007
+default:999999
+gast:gast
+unknown:1234
