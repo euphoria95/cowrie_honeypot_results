@@ -242,3 +242,11 @@ tams:tams
 default:9999999999
 geronimo:geronimo
 wanghaiyan:wanghaiyan
+user:Aa123456
+debian:1q2w3e
+test:2
+Centos:Centos5
+admin:1979
+config:qwerty1
+ftp:admin
+sshd:service
