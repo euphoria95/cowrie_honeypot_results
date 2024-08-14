@@ -127,3 +127,10 @@ user:333333
 nobody:9999999
 config:111
 centos:centos2
+noname:password
+ts3:ts3
+admin:admin1234567
+config:11111111
+config:6666
+debian:123
+test:test88
