@@ -9,3 +9,10 @@ blank:blank1234
 user:5555555555
 debian:111111
 debian:P@ssw0rd
+Admin:admin123
+support:pass
+supervisor:123321
+root:root
+ubnt:Ubnt
+carla:carla
+Debian:8888888888
