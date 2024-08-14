@@ -169,3 +169,9 @@ support:123456
 root1:root1
 centos:passw0rd
 fengjun:fengjun
+admin:superonline
+nobody:44444
+config:config2003
+config:config2020
+Default:123456
+nobody:passw0rd
