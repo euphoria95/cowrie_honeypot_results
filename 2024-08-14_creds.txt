@@ -38,3 +38,8 @@ debian:password
 sshd:any
 banner:banner
 wanghy:wanghy123
+x:x
+config:config2008
+user:333
+Default:777777777
+guest:guest1234567
