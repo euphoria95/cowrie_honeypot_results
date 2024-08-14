@@ -181,3 +181,11 @@ user2:user2
 debian:3333
 config:config555
 guest:654321
+operator:3333
+default:1234567
+default:333333
+ubnt:Passw0rd
+default:987654321
+default:888888
+support:p@ssw0rd
+debian:12345
