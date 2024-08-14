@@ -26,3 +26,15 @@ test:9
 user:user2
 config:987654321
 admin:123qwe!@#
+admin:00000000
+zwh:123
+blank:admin123
+avis:qwert@123
+345gs5662d34:345gs5662d34
+debian:333333333
+michele:michele123
+debian:2021
+debian:password
+sshd:any
+banner:banner
+wanghy:wanghy123
