@@ -121,3 +121,9 @@ centos:888888
 support:123654
 jordyn:jordyn
 captain:captain
+support:passwd
+admin:0
+user:333333
+nobody:9999999
+config:111
+centos:centos2
