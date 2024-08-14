@@ -134,3 +134,12 @@ config:11111111
 config:6666
 debian:123
 test:test88
+ts3user:1234
+yaolan:yaolan
+lsw:lsw
+katya:katya
+Debian:Debian2009
+nobody:123321
+user:1q2w3e4r
+test:1234567
+bestzte:bestzte
