@@ -40,3 +40,9 @@ sftp:sftp
 admin:Iberia1234**
 nobody:password
 2:2
+user:secret
+test:qwer1234
+debian:121212
+unknown:abc123
+login:0
+admin:zxcvbnm
