@@ -29,3 +29,14 @@ nobody:0000000000
 ubnt:ubnt123456
 admin:admin777
 abcd123:abcd123
+ubnt:2222222
+debian:33333
+debian:444444
+test:vmware
+adminpldt:1234567890
+ubnt:8888888
+3:3
+sftp:sftp
+admin:Iberia1234**
+nobody:password
+2:2
