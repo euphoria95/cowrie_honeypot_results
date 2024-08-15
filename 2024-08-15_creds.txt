@@ -326,3 +326,10 @@ admin:1122334455
 admin:123456ab
 support:z1x2c3v4
 Admin:00
+config:passwd
+Test:Test2012
+support:qazwsx12
+debian:debian000
+admin:welcome1
+config:qwerty12345
+admin:password@
