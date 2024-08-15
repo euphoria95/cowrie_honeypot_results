@@ -1,0 +1,10 @@
+support:internet
+admin:ubuntu
+user:user12345
+admin:123QWEasd
+support:Support2016
+admin:0987654321
+Centos:Centos6
+admin:admin12345678
+config:config12345678
+unknown:987654321
