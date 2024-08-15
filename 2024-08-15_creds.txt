@@ -314,3 +314,10 @@ demos:password
 test:test2021
 nagios:admin
 admin:1
+admin:admin888
+test:9999999999
+Debian:Debian2006
+debian:debian0
+admin:aa123456
+tcp:tcp1990
+admin:789456123
