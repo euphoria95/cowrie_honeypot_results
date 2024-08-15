@@ -158,3 +158,11 @@ admin:1988
 pi:raspberryraspberry993311
 sunxw:sunxw
 default:123123
+nobody:nobody22
+support:!@#
+guest:44444444
+config:qwerty1234
+admin:support
+Admin:2222
+user:0000
+guest:555
