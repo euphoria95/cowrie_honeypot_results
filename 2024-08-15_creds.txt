@@ -166,3 +166,13 @@ admin:support
 Admin:2222
 user:0000
 guest:555
+netscreen:netscreen
+operator:0
+nobody:999
+admin:adminuser
+lp:lp
+default:abcd1234
+config:111111
+Test:admin123
+blank:999
+888888:888888
