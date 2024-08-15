@@ -233,3 +233,11 @@ craft:craft!@#
 max:max!123
 telnet:Telnet@123456
 db:db
+debian:Debian2016
+USER:USER
+user:user2000
+aaron:aaron
+Admin:!QAZ2wsx
+nobody:7777
+operator:operator1234567
+centos:centos99
