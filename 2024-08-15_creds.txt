@@ -110,3 +110,12 @@ shit:shit
 config:config2012
 supervisor:supervisor1
 Admin:Admin2006
+lab:lab123
+Admin:Admin@123
+default:66666
+config:77
+centos:centos2002
+admin:Abz0rb
+ubnt:987654321
+user:55
+centos:7
