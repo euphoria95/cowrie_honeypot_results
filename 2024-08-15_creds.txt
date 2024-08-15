@@ -8,3 +8,15 @@ Centos:Centos6
 admin:admin12345678
 config:config12345678
 unknown:987654321
+debian:debian33
+test:test12345678
+config:password
+user:qaz123wsx
+ubnt:222
+nobody:nobody2020
+guest:777777
+test:987654321
+admin:2020
+default:P@ssword
+default:88888
+guest:000
