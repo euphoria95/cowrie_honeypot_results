@@ -20,3 +20,12 @@ admin:2020
 default:P@ssword
 default:88888
 guest:000
+nobody:666666
+test:222222
+guest:6
+debian:1111111
+admin:8888888888
+nobody:0000000000
+ubnt:ubnt123456
+admin:admin777
+abcd123:abcd123
