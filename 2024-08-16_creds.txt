@@ -39,3 +39,9 @@ admin:Abcd@1234
 boss:12345678
 support:7777777
 ftpuser:!qaz@wsx
+centos:centos2012
+default:777777
+admin:epicrouter
+user:a123456
+admin:motorola
+admin:Uq-4GIt3M
