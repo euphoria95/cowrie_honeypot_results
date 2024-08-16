@@ -87,3 +87,13 @@ test:admin123#
 monitor:monitor
 test:test
 git:git
+user:4444444444
+ftp:1234
+info:123456
+Administrator:Vision2
+ubnt:4
+debian:7
+default:antslq
+config:Passw0rd
+admin:02
+Admin123456:Admin123456
