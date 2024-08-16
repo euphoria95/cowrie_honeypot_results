@@ -97,3 +97,14 @@ default:antslq
 config:Passw0rd
 admin:02
 Admin123456:Admin123456
+blank:blank2023
+support:5555555555
+default:default123
+admin:abcd@1234
+config:default
+admin:01
+admin:raspberry
+admin:102030
+support:Test1234
+operator:1
+centos:centos2022
