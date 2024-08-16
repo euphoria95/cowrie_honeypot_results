@@ -246,3 +246,16 @@ guest:nologin
 postgres:333
 yxc:yxc
 ftpuser:M3gaP33!
+ubnt:ubnt12
+tom:123
+debian:1234567890
+jia:jia
+harvey:harvey
+admin:Password!
+Test:pass
+admin:admin0
+user:cisco123
+default:8888888888
+guests:guests123456789
+Guest:00000000
+support:5
