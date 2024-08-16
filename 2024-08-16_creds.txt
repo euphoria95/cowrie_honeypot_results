@@ -308,3 +308,13 @@ Centos:Centos13
 unknown:444444
 debian:pass
 test:66666666
+guest:6666666
+ubnt:5
+guest:123456789
+ubnt:444444
+Guest:1111111111
+test:test000
+test:2022
+ftp:12345678
+admin:admin1234567890
+nobody:2222222
