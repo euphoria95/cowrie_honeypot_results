@@ -377,3 +377,15 @@ odbc:odbc
 operator:default
 tmpuser:tmpuser
 Admin:5
+xiaowen:xiaowen
+english:english
+2023:2023
+atlas:123456
+blank:112233
+debian:passw0rd
+ubnt:44
+gabor:gabor
+joao:password
+guest:guest22
+centos:centos12345678
+test:test4
