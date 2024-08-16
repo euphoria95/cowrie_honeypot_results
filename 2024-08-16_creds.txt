@@ -45,3 +45,9 @@ admin:epicrouter
 user:a123456
 admin:motorola
 admin:Uq-4GIt3M
+nobody:555555
+admin:88888
+usuario:usuario
+config:0987654321
+ubnt:3333333
+support:Support2
