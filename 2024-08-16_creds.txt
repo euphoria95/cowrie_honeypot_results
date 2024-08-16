@@ -108,3 +108,14 @@ admin:102030
 support:Test1234
 operator:1
 centos:centos2022
+blank:qwerty123
+test:123567
+config:config1234567890
+admin:99999
+debian:debian22
+Admin:Passw0rd
+support:support2022
+admin:44
+update:update
+config:p@ssw0rd
+admin:789654
