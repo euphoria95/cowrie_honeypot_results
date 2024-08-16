@@ -343,3 +343,12 @@ Config:Config2018
 asa:asa
 test:5555555555
 Test:123456
+blank:1q2w3e
+nobody:2222
+blank:6666666666
+blank:1111111
+default:8
+blank:blank3
+user:admin123!@#
+support:Zaq12wsx
+config:0
