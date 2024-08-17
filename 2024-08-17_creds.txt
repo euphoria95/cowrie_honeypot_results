@@ -294,3 +294,9 @@ test:1978
 ubnt:55
 telnet:telnet
 rebecca:rebecca
+test:9999999
+Admin:4444444444
+blank:222222
+ubnt:123123123
+Admin:Password01!
+hotman:hotman
