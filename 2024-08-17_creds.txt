@@ -266,3 +266,16 @@ martin:martin1234
 test:88
 mali:mali
 rolnad:rolnad
+Admin:66666666
+centos:111111111
+xg:123456
+nobody:nobody2012
+fin:fin123
+admin:Welcome123
+admin:Admin2021
+azmi:azmi
+support:ubuntu
+helena:helena123
+test:1313
+oracle:123456
+test:5
