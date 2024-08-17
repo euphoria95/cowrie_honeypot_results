@@ -125,3 +125,11 @@ test:001
 ubnt:internet
 Ubnt:555555555
 default:Password
+centos:111111
+user:password1
+admin:a1234
+operator:operator0
+admin:r@r
+ubnt:qwerty1
+test:password1!
+admin:014789
