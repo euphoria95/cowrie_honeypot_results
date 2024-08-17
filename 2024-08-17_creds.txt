@@ -133,3 +133,11 @@ admin:r@r
 ubnt:qwerty1
 test:password1!
 admin:014789
+tcpdump:tcpdump
+Admin:Password123
+nobody:password321
+test:112233
+test:test123456789
+admin:1234321
+admin:987987
+Test:admin
