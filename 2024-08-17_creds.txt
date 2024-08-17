@@ -141,3 +141,10 @@ test:test123456789
 admin:1234321
 admin:987987
 Test:admin
+blank:5555555
+operator:2222222
+Test:55555555
+test:service
+admin:admin2008
+ubnt:111111
+guest:guest888
