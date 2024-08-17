@@ -148,3 +148,9 @@ test:service
 admin:admin2008
 ubnt:111111
 guest:guest888
+blank:159753
+test:1981
+ubnt:nimda
+operator:operator99
+admin:444
+Admin:1
