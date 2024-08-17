@@ -207,3 +207,12 @@ apps:apps
 Test:2222222
 user:password321
 ftpuser:123123
+test:6666
+admin:7654321
+test:Qwerty
+Admin:44444
+geosolutions:Geos
+user:6
+operator:123123
+administrator:Administrator
+centos:9999999
