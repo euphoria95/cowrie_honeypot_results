@@ -154,3 +154,12 @@ ubnt:nimda
 operator:operator99
 admin:444
 Admin:1
+admin:adm
+unknown:qwerty12345
+blank:999999
+default:Default2020
+boss:boss
+ubnt:11111
+user:User2017
+admin:master
+admin:8888888
