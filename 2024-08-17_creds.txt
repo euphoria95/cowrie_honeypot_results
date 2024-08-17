@@ -238,3 +238,11 @@ testwww:123456
 john:j0hn
 oracle:oinstall
 wei:wei
+default:default33
+test1:123456
+test:test44
+admin:abc123!@#
+windows:windows
+operator:operator2022
+louella:louella
+tim:tim
