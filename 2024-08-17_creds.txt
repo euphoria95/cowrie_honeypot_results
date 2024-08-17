@@ -116,3 +116,12 @@ clipper:clipper
 admin:qwer1234!@#$
 testuser:passwd
 cyrus:123456
+admin:gfhjkm
+blank:blank2
+root:123456
+default:5
+artemio:artemio123
+test:001
+ubnt:internet
+Ubnt:555555555
+default:Password
