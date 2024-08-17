@@ -216,3 +216,12 @@ user:6
 operator:123123
 administrator:Administrator
 centos:9999999
+ubuntu:qw12QW!@
+admin1234:admin1234
+test:nologin
+test:1984
+admin:1qazxc
+user:user4
+admin:netadmin
+admin:jhirjhKJi98476HLqw23
+operator:1234567890
