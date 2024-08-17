@@ -27,3 +27,14 @@ admin:nologin
 vyatta:vyatta
 blank:blank321
 oracle:oracle2023
+Admin:111111
+Test:Test2022
+root:root
+nobody:nobody00
+user:2222222
+matt:matt
+Admin:P@ssw0rd123
+guest:000000
+adm:rowd
+admin:44444
+debian:debian2022
