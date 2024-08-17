@@ -286,3 +286,11 @@ ftpuser:123abc
 nobody:nobody66
 blank:777777777
 ubnt:2222
+admin:123qwe
+login:password
+Default:qwer1234
+Admin:oracle
+test:1978
+ubnt:55
+telnet:telnet
+rebecca:rebecca
