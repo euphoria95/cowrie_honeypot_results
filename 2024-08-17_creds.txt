@@ -225,3 +225,16 @@ user:user4
 admin:netadmin
 admin:jhirjhKJi98476HLqw23
 operator:1234567890
+mzy:mzy
+Admin:welc0me
+blank:blank5
+user:99999
+app:app123456
+admin:333
+blank:blank11
+operator:444444
+ubnt:5555555
+testwww:123456
+john:j0hn
+oracle:oinstall
+wei:wei
