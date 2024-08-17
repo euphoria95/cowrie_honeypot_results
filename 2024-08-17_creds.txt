@@ -279,3 +279,10 @@ helena:helena123
 test:1313
 oracle:123456
 test:5
+default:default7654321
+tunnel:tunnel
+test:asdf12
+ftpuser:123abc
+nobody:nobody66
+blank:777777777
+ubnt:2222
