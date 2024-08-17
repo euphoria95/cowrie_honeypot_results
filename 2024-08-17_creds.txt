@@ -196,3 +196,14 @@ user:password!
 na:na
 student:student
 admin:112345
+centos:centos00
+backup:1q2w3e
+centos:000000
+Test:password
+test:asdfghjkl
+Root:12345678
+test:Test
+apps:apps
+Test:2222222
+user:password321
+ftpuser:123123
