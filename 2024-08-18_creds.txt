@@ -1,0 +1,15 @@
+admin:wubao
+admin:Qwerty
+ubuntu:ubuntu@12345
+345gs5662d34:345gs5662d34
+dockeradmin:abc123
+debian:debian@123
+secretariat:secretariat
+admin:system
+wordpress:wordpress123
+blank:987654321
+admin:Passw0rd!
+superuser:P@ssw0rd
+yuyongchao:yuyongchao
+user:user2021
+akhtar:akhtar
