@@ -53,3 +53,14 @@ operator:p@ssw0rd
 maint:password
 Ab123456:Ab123456
 user:user12345678
+operator:12345678
+Admin:abc123!@#
+test:test2013
+centos:112233
+user:007
+openhabian:openhabian
+test:1960
+3comcso:RIP000
+test:test00
+user:abc@1234
+Root:root
