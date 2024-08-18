@@ -313,3 +313,11 @@ operator:operator2023
 blank:0
 user:asd123
 operator:666666
+sysadmin:sysadmin
+admin:4444444
+blank:blank99
+test:redhat
+ubnt:qwerty123
+Default:password
+unknown:unknown2020
+Admin:Admin1234
