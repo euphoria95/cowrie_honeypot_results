@@ -118,3 +118,13 @@ test:test44
 diego:diego
 user:qwerty12
 google:google
+ubnt:test
+admin:123456789123456789
+admin:par0t
+user:aA123456
+pi:support
+centos:7777777
+Ubnt:4444444444
+admin:147369
+centos:44444
+ubnt:00
