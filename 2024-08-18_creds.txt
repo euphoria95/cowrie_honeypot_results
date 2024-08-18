@@ -226,3 +226,6 @@ guest:4
 test:12341234
 test:Password1
 Admin:111
+admin:12312312
+test:00000000
+admin:huawei@123
