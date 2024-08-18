@@ -43,3 +43,13 @@ admin:Admin11
 test:test9
 tom:123
 Admin:P@$$w0rd
+admin:test123
+nobody:123123123
+user:99
+operator:operator10
+operator:operator12345
+test:012345678
+operator:p@ssw0rd
+maint:password
+Ab123456:Ab123456
+user:user12345678
