@@ -13,3 +13,15 @@ superuser:P@ssw0rd
 yuyongchao:yuyongchao
 user:user2021
 akhtar:akhtar
+admin:123456788
+Admin:9
+Test:1234567890
+operator:88
+Admin:Password01
+user:p@ssw0rd
+Admin:password123
+operator:Password
+admin:963963
+oracle:oracle!@#$
+max:max!123
+naveen:naveen123
