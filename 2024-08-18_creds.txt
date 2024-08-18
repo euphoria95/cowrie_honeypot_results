@@ -25,3 +25,13 @@ admin:963963
 oracle:oracle!@#$
 max:max!123
 naveen:naveen123
+guest:guest2
+operator:qwer1234
+admin:openvpn
+admin:321456
+test:1qaz@WSX
+test:info
+admin:asdfghjkl
+blank:9999
+test:123abc
+user:user44
