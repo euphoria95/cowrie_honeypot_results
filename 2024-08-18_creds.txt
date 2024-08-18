@@ -217,3 +217,12 @@ teo:teo
 Hanna:Hanna
 santa:santa
 blank:88
+test:Test2016
+admin:1962
+admin:lamer2398
+admin:1qwert
+test:0123
+guest:4
+test:12341234
+test:Password1
+Admin:111
