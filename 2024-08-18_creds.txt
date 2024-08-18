@@ -347,3 +347,12 @@ admin:admin8
 admin:852852
 admin:admin6
 operator:123123123
+user3:123456
+guest:999
+admin:admin4321
+ghost:ghost
+admin:MODEMadmin
+ubnt:ubnt2022
+Admin:22
+admin:admin2003
+test:000
