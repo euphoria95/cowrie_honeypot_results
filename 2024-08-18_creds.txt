@@ -356,3 +356,13 @@ ubnt:ubnt2022
 Admin:22
 admin:admin2003
 test:000
+ubnt:9999
+user:user222
+admin:z1x2c3v4
+pos:pos
+root:root
+admin:A1b2c3d4
+Admin:Admin4
+admin:abc@1234
+Admin:1qaz!QAZ
+test:1qwert
