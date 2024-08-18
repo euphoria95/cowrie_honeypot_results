@@ -304,3 +304,12 @@ ftptest:123456
 www:passpass
 rabbitmq:123
 masood:123
+test:qwe
+admin:Abcdef123
+operator:p@ssword
+admin:Changeme_123
+user:password123
+operator:operator2023
+blank:0
+user:asd123
+operator:666666
