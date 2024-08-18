@@ -105,3 +105,16 @@ Root:Root2003
 adminadmin:adminadmin
 redmine:redmine@123
 postgres:121212
+operator:operator13
+dragos:dragos
+osvaldo:osvaldo
+blank:123654
+dh:123456
+ubnt:55555555
+admin:asdasd
+Admin:123qwe@
+test:testroot
+test:test44
+diego:diego
+user:qwerty12
+google:google
