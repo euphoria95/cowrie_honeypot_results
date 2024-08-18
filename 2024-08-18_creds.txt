@@ -337,3 +337,13 @@ toor:admin
 qwerty:qwerty
 huawei:huawei
 btt:btt123
+ubnt:123321
+test:789654
+admin:55
+admin:Password2
+admin:4321
+pi:bananapi
+admin:admin8
+admin:852852
+admin:admin6
+operator:123123123
