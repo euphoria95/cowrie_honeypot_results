@@ -369,3 +369,12 @@ lcs:lcs
 openvpn:openvpn123
 centos:123456
 stk:stk
+guest:guest8
+support:11111
+centos:P@ssword
+debian:admin123
+supervisor:444444444
+user:00
+operator:3333333333
+nobody:123qwe
+admin:1968
