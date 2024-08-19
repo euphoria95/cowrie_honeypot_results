@@ -267,3 +267,14 @@ debian:debian12345678
 Admin:oracle
 sshd:admin234567
 centos:centos3
+Guest:Guest123
+guest:123321
+supervisor:password
+config:123123
+support:123456789123456789
+admin:66666
+config:123456789
+admin:admin2023
+default:default2
+supervisor:P@ssw0rd
+test:555
