@@ -97,3 +97,16 @@ unknown:unknown4
 support:zxc
 admin:admin5
 unknown:unknown1234
+admin:123qwe@
+kali:Abc1234
+user:qwe123456
+operator:operator111
+Admin:123456789
+support:qwerty12
+test:Aa123456
+supervisor:supervisor4
+operator:3
+service:admin
+guest:0987654321
+support:abcd123
+admin:abcd1234
