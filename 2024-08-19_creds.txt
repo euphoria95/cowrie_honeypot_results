@@ -123,3 +123,17 @@ admin:4
 Ubnt:Ubnt2019
 support:Password123!
 blank:7
+jethro:jethro
+admin:7777
+fred:password
+user:1111
+pi:raspberry
+default:default88
+pi:raspberryraspberry993311
+admin:admin000
+test:test0
+yt:123
+blank:blank2019
+supervisor:112233
+blank:654321
+support:123123123
