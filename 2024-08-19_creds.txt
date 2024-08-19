@@ -378,3 +378,13 @@ user:00
 operator:3333333333
 nobody:123qwe
 admin:1968
+support:121212
+operator:qwerty1
+admin:conexant
+centos:qwerty123456
+operator:654321
+support:1111111111
+support:222222
+debian:112233
+user:555
+unknown:unknown123456789
