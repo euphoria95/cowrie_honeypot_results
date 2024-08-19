@@ -197,3 +197,17 @@ admin:admn
 admin:8888
 default:123123123
 debian:Passw0rd
+support:1337
+Root:password1
+operator:121212
+supervisor:supervisor5
+support:123qwe123qwe
+centos:centos12
+Admin:Admin123456
+centos:9999
+nobody:0987654321
+ubnt:qwerty12345
+guest:guest99
+nobody:nobody1234567890
+debian:123654
+blank:55
