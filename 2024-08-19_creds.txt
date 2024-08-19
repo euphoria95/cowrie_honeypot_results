@@ -256,3 +256,14 @@ download:qwerty
 mplan:mplan
 azureuser:Password@123
 fernando:123
+Root:passwd
+Centos:Centos1234
+admin:admin9
+admin:qwerty1
+operator:0000
+test:159753
+user:123qwe
+debian:debian12345678
+Admin:oracle
+sshd:admin234567
+centos:centos3
