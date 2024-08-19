@@ -176,3 +176,14 @@ temp:temp1
 naveen:naveen123
 pedro:Pedro1
 blank:qwerty123456
+nobody:nobody2022
+centos:0000
+unknown:unknown0
+fakufegits:urekoksakirs
+admin:33333
+test:3
+support:123567
+security:security
+user:qwerty123
+support:456
+default:default8
