@@ -110,3 +110,16 @@ service:admin
 guest:0987654321
 support:abcd123
 admin:abcd1234
+centos:qwerty12
+user:qwerty123456
+guest:asdfgh
+guest:guest11
+guest:guest6
+user:User
+support:support12345
+Support:Support2016
+blank:blank00
+admin:4
+Ubnt:Ubnt2019
+support:Password123!
+blank:7
