@@ -7,3 +7,16 @@ user:3
 admin:admin2010
 unknown:2222222222
 admin:2021
+operator:operator2020
+ubnt:000
+guest:123qwe
+blank:123123123
+unknown:222
+guest:0
+admin:workinher
+guest:guest2015
+test:root
+ansible:ansible
+import:import
+test:77
+admin:admin2005
