@@ -187,3 +187,13 @@ security:security
 user:qwerty123
 support:456
 default:default8
+guest:9999
+config:123abc
+admin:1989
+user:q1w2e3r4t5
+student:student
+guest:guest1234
+admin:admn
+admin:8888
+default:123123123
+debian:Passw0rd
