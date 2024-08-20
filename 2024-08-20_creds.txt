@@ -96,3 +96,15 @@ debian:999999
 test:55
 test:33333
 user:0000000
+user:qwer1234
+debian:0000000
+support:Password01!
+support:4
+test:4444
+nobody:nobody4
+default:qwerty123
+centos:password123
+supervisor:99999
+ubnt:99999
+ubnt:ubnt1234567
+support:3
