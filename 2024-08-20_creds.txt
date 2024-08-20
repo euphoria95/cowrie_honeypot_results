@@ -430,3 +430,15 @@ support:666666
 centos:centos1234
 config:1qaz2wsx
 support:p@ssword
+operator:123qwe
+test:7777
+user:5555
+support:qwerty1
+support:000
+operator:qwerty12
+user:1994
+supervisor:1234567
+support:0
+mzd:mzd
+support:66666
+support:444
