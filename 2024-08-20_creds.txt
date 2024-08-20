@@ -384,3 +384,15 @@ operator:1q2w3e4r
 mehdi:1234
 el:el123456
 map:map
+blank:blank0
+ubnt:11
+default:default10
+guest:qwerty12
+user:12344
+debian:1111
+admin:6666666
+support:2222222
+samurai:samurai
+default:qwerty12
+admin:777777
+debian:33
