@@ -108,3 +108,14 @@ supervisor:99999
 ubnt:99999
 ubnt:ubnt1234567
 support:3
+operator:ubuntu
+support:001122
+support:3333
+support:666
+supervisor:123123123
+test:test1234567890
+user:666
+operator:operator123456789
+ubnt:7777
+support:2222222222
+supervisor:pass
