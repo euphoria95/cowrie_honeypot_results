@@ -119,3 +119,15 @@ operator:operator123456789
 ubnt:7777
 support:2222222222
 supervisor:pass
+debian:1qaz2wsx
+user:user123456
+support:support4
+support:support2008
+unknown:666
+user:3333
+supervisor:asdfgh
+support:333333
+config:121212
+support:999
+supervisor:qwer1234
+user:22222
