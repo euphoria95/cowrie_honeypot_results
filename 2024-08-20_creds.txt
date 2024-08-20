@@ -213,3 +213,13 @@ test:666666
 user:7
 support:11
 Support:Support2007
+user:88
+operator:P@ssword
+user:8888
+default:default1234567890
+ubnt:ubnt2005
+centos:qwerty1234
+test:99999
+ubnt:99
+support:qwertyuiop
+test:333333
