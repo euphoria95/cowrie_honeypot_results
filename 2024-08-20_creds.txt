@@ -131,3 +131,16 @@ config:121212
 support:999
 supervisor:qwer1234
 user:22222
+default:default12345
+blank:111
+supervisor:supervisor2018
+debian:44
+nobody:nobody1234567
+test:123123123
+debian:password123
+support:admin123
+support:password@
+user:66
+support:333
+ubnt:888
+default:asdfgh
