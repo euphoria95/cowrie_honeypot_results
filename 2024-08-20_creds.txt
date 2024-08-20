@@ -418,3 +418,15 @@ spark:password123
 supervisor:passw0rd
 debian:777777
 zc:zc
+ubnt:44444
+blank:33333
+supervisor:passwd
+test:2222222
+debian:777
+Support:abcd1234
+test:888888
+user:user0
+support:666666
+centos:centos1234
+config:1qaz2wsx
+support:p@ssword
