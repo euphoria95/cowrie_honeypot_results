@@ -328,3 +328,11 @@ default:default123456
 user:112233
 test:77777
 admin:5555555
+guest:123abc
+config:123654
+unknown:unknown123456
+supervisor:supervisor444
+config:config3
+guest:P@ssword
+support:qwerty12345
+support:1987
