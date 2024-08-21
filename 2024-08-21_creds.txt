@@ -248,3 +248,11 @@ test:55555
 support:passw0rd
 support:01234567890
 centos:qwerty12345
+supervisor:qwerty1234
+support:support2021
+supervisor:supervisor10
+support:support1
+support:123456789
+debian:debian123456
+support:6666
+supervisor:Passw0rd
