@@ -214,3 +214,12 @@ admin:0000000
 blank:asdfgh
 nnn:123456
 blank:p@ssw0rd
+default:1q2w3e4r
+admin:qwerty12
+blank:password321
+test:0
+support:support000
+operator:operator1234567890
+user:qqww1122
+blank:blank7
+sftptest:sftptest
