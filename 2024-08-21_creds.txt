@@ -241,3 +241,10 @@ support:1962
 nobody:admin123
 support:654654
 nobody:nobody13
+config:config7
+default:qwer1234
+supervisor:supervisor12
+test:55555
+support:passw0rd
+support:01234567890
+centos:qwerty12345
