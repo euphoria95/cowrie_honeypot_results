@@ -1,0 +1,11 @@
+blank:blank1234567890
+ubnt:222222
+sales:sales
+user:123abc
+user:11111
+debian:7777
+guest:admin123
+ubnt:444
+centos:abcd1234
+ubnt:9
+operator:passw0rd
