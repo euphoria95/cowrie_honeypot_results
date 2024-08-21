@@ -147,3 +147,10 @@ naveen:naveen123
 data:data1234
 squid:Squid123
 temp:temp1
+unknown:123123123
+supervisor:supervisor8
+nobody:1qaz2wsx
+eclipse:eclipse
+operator:operator8
+support:support5
+user:user10
