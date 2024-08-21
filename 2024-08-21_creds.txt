@@ -232,3 +232,12 @@ guest:qwer1234
 support:1z2x3c4v
 unknown:qwer1234
 centos:centos123456789
+config:123qwe
+debian:debian1
+operator:password
+nobody:123abc
+operator:operator6
+support:1962
+nobody:admin123
+support:654654
+nobody:nobody13
