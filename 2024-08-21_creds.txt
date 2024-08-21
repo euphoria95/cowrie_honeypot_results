@@ -281,3 +281,15 @@ operator:operator9
 default:112233
 swapnil:swapnil@123
 rootuser:rootuser@2022
+support:support0
+bugzilla:123456
+mpt:123456
+guest:p@ssword
+blank:123abc
+techadmin:techadmin
+liushuang:123456
+support:1212
+jiaxuan:jiaxuan
+default:p@ssword
+blank:blank13
+guest:qwerty123
