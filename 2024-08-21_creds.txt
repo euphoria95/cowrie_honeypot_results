@@ -256,3 +256,10 @@ support:123456789
 debian:debian123456
 support:6666
 supervisor:Passw0rd
+blank:P@ssword
+guest:guest10
+blank:1q2w3e4r
+blank:12345678
+user:123654
+support:support2006
+comcast:1234
