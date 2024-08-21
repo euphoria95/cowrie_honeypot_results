@@ -9,3 +9,17 @@ ubnt:444
 centos:abcd1234
 ubnt:9
 operator:passw0rd
+blank:11
+debian:66
+ubnt:123654
+superadmin:Fn@ztE118zTE
+debian:qwer1234
+1:2
+marius:marius123
+admin:123654
+support:77777
+debian:0
+default:default1234567
+guest:guest5
+admin:3
+supervisor:supervisor000
