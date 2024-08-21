@@ -223,3 +223,12 @@ operator:operator1234567890
 user:qqww1122
 blank:blank7
 sftptest:sftptest
+Root:1q2w3e4r
+test:4444444
+NOLOGIN:NOLOGIN
+operator:operator12
+supervisor:supervisor123456789
+guest:qwer1234
+support:1z2x3c4v
+unknown:qwer1234
+centos:centos123456789
