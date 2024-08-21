@@ -322,3 +322,9 @@ support:55
 fredy:fredy
 joao:joao
 zhp:zhp
+support:azertyui
+support:Support2021
+default:default123456
+user:112233
+test:77777
+admin:5555555
