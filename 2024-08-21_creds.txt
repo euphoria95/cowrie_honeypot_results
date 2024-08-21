@@ -269,3 +269,15 @@ test:test7
 tmadmin:tmadmin
 test:999
 test:3333333
+prd:prd123
+debian:qwerty123456
+support:1234qwer
+dice:dice
+nobody:159753
+blank:blank1
+support:77
+supervisor:supervisor123456
+operator:operator9
+default:112233
+swapnil:swapnil@123
+rootuser:rootuser@2022
