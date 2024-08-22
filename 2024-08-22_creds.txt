@@ -185,3 +185,13 @@ jean:jean1234
 guest:444444
 config:666666
 heidi:heidi123
+user:user6
+default:555555
+operator:7777
+nobody:3
+unknown:9999999
+config:4444
+blank:blank2014
+user:user7
+guest:111
+admin:11111111
