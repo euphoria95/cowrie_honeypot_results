@@ -47,3 +47,11 @@ dom:dom
 blank:blank2000
 tuxedo:tuxedo
 baby:baby
+debian:debian8
+supervisor:qwerty12345
+Support:1q2w3e4r5t
+nobody:nobody2004
+test:test2011
+support:1980
+blank:swiadmin
+debian:debian1234567890
