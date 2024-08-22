@@ -195,3 +195,11 @@ blank:blank2014
 user:user7
 guest:111
 admin:11111111
+support:support1234
+nobody:nobody0
+supervisor:11111
+unknown:555
+ubnt:ubnt2006
+centos:centos2016
+operator:333
+admin:manager
