@@ -67,3 +67,10 @@ config:config12
 blank:user
 supervisor:000
 supervisor:supervisor44
+nobody:777777
+unknown:777
+admin:1111
+unknown:1q2w3e4r
+nobody:1q2w3e
+ubnt:ubnt2002
+centos:6
