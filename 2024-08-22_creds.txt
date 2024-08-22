@@ -74,3 +74,12 @@ unknown:1q2w3e4r
 nobody:1q2w3e
 ubnt:ubnt2002
 centos:6
+config:44444
+support:support8
+ubnt:asdfgh
+user:user2003
+debian:debian9
+default:123abc
+ubnt:ubnt2001
+config:7777777
+default:qwerty1
