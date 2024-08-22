@@ -16,3 +16,13 @@ ubnt:ubnt44
 support:support2017
 default:qwerty12345
 debian:debian4
+supervisor:99
+test:test12
+blank:blank2011
+nobody:qwerty12
+config:config77
+centos:centos33
+support:support1234567890
+supervisor:159753
+support:Passw0rd
+support:911911
