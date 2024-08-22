@@ -62,3 +62,8 @@ support:abcdefgh
 test:test2006
 test:test8
 supervisor:555555
+supervisor:P@ssword
+config:config12
+blank:user
+supervisor:000
+supervisor:supervisor44
