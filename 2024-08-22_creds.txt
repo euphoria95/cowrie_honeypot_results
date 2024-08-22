@@ -287,3 +287,11 @@ hikvision:hikvision
 anaconda:123
 unknown:7777777
 sea:sea
+supervisor:6666
+centos:7777
+operator:999
+user:user2004
+nobody:nobody2024
+config:config5
+blank:777777
+operator:operator33
