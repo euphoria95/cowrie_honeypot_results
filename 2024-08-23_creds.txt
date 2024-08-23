@@ -413,3 +413,10 @@ testadmin:123456
 lyndon:lyndon
 gdf:gdf
 support:support66
+debian:debian2003
+ubnt:ubnt000
+operator:777
+supervisor:4444444
+debian:debian333
+config:999
+unknown:777777
