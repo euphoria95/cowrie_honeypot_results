@@ -271,3 +271,14 @@ asl:asl
 ivan:1
 guest:guest44
 suwat:suwat
+tableau:tableau
+nobody:nobody88
+operator:44
+centos:centos555
+nexus:nexus
+root:root
+config:888888
+centos:777777
+tsadmin:tsadmin
+guest:33
+testwww:testwww123
