@@ -63,3 +63,17 @@ an:an
 System:System
 zmc:zmc
 ftp_user:test
+guest:4444
+centos:centos13
+webadmin:123qwe
+ogpbot:ogpbot
+sa:P@ssw0rd
+debian:debian88
+unknown:11111
+guest:66
+nagios1:nagios1
+autodrone:autodrone
+operator:22222
+nobody:nobody1234
+vas:vas
+sauce:123456
