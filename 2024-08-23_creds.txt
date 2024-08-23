@@ -77,3 +77,8 @@ operator:22222
 nobody:nobody1234
 vas:vas
 sauce:123456
+centos:centos2008
+debian:debian00
+config:555555
+centos:11111
+supervisor:66666
