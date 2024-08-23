@@ -185,3 +185,8 @@ IP address,remote ssh version,country_code2,organization,asn
 87.236.176.210,SSH-2.0-Go,GB,Constantine Cybersecurity Ltd.,
 87.135.8.49,SSH-2.0-OpenSSH_7.4,DE,Deutsche Telekom AG,
 178.54.12.109,SSH-2.0-OpenSSH_7.4,UA,Private Stock company Sater,
+112.194.142.167,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+70.77.225.190,SSH-2.0-OpenSSH_7.4,CA,Shaw Communications Inc.,
+74.208.177.56,SSH-2.0-OpenSSH_7.4,US,IONOS SE,
+110.7.52.183,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+147.182.255.133,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
