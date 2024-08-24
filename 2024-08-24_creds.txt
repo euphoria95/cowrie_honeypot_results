@@ -253,3 +253,11 @@ supervisor:333333
 test:test55
 vadmin:vadmin
 config:config2001
+operator:5555555
+user:00000000
+operator:6666666
+user:user999
+test:test2015
+nobody:nobody2003
+guest:111111
+user:user444
