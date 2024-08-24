@@ -234,3 +234,6 @@ ubnt:ubnt444
 admin:admin2006
 blank:blank44
 guest:guest33
+operator:888888
+blank:blank2010
+user:user111
