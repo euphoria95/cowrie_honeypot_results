@@ -226,3 +226,11 @@ unknown:unknown44
 nobody:8888888
 config:11111
 supervisor:7777777
+operator:888
+config:8888888
+admin:admin44
+ubnt:ubnt2020
+ubnt:ubnt444
+admin:admin2006
+blank:blank44
+guest:guest33
