@@ -268,3 +268,12 @@ default:3
 ubnt:ubnt33
 guest:guest666
 unknown:9999
+guest:3333333
+Support:Support5
+guest:guest111
+mongodb:password
+laurent:laurent
+default:00
+blank:blank2005
+support:support77
+debian:debian888
