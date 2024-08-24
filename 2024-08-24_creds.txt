@@ -237,3 +237,12 @@ guest:guest33
 operator:888888
 blank:blank2010
 user:user111
+ubnt:ubnt111
+config:config2004
+operator:4
+blank:blank2017
+supervisor:supervisor00
+user:User123
+default:00000
+guest:guest555
+operator:99999
