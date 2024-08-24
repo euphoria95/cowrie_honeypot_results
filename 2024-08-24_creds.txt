@@ -261,3 +261,10 @@ test:test2015
 nobody:nobody2003
 guest:111111
 user:user444
+nobody:nobody2011
+operator:55555
+admin:admin2009
+default:3
+ubnt:ubnt33
+guest:guest666
+unknown:9999
