@@ -218,3 +218,11 @@ operator:9999999
 fleet:fleet
 debian:debian2004
 news:123456
+guest:guest999
+nobody:nobody2001
+operator:666
+supervisor:supervisor2004
+debian:debian555
+User:123123
+Ubnt:987654321
+operator:operator2019
