@@ -148,3 +148,15 @@ support:support2020
 default:5555
 Admin:123
 test:test33
+default:3333333
+mpovic:123456
+liberty:liberty123
+supervisor:supervisor777
+ftpuser:password@123
+supervisor:supervisor88
+user4:123
+default:2
+carrie:123456
+jinny:jinny
+tullio:tullio
+nobody:nobody2014
