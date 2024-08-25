@@ -125,3 +125,9 @@ user:user2020
 centos:centos22
 debian:debian77
 caesar:caesar
+ubnt:ubnt2019
+ubnt:ubnt777
+guest:3
+guest:888
+config:config777
+ubnt:ubnt55
