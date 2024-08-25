@@ -53,3 +53,11 @@ guest:555555
 test:test2012
 operator:wimax
 operator:222
+monitor:P@ssw0rd
+operator:555
+nobody:nobody2013
+cockpit:cockpit
+test:test2003
+operator:444
+supervisor:66
+345gs5662d34:345gs5662d34
