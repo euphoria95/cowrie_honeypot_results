@@ -73,3 +73,8 @@ user:user2014
 blank:blank2003
 default:6
 supervisor:8
+guest:777
+user:user2011
+ubnt:ubnt888
+blank:blank2024
+supervisor:11
