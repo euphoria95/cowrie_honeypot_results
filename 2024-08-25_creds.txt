@@ -47,3 +47,9 @@ debian:debian2011
 supervisor:supervisor333
 supervisor:654321
 default:0000000
+config:config000
+test:test555
+guest:555555
+test:test2012
+operator:wimax
+operator:222
