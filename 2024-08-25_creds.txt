@@ -139,3 +139,12 @@ user:123456789123456789
 Support:Support
 guest:guest444
 supervisor:supervisor2000
+supervisor:supervisor2
+operator:11
+nginx:nginx
+test:test999
+supervisor:111111
+support:support2020
+default:5555
+Admin:123
+test:test33
