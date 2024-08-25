@@ -67,3 +67,9 @@ support:support333
 config:config888
 user:user2012
 blank:blank2015
+centos:centos66
+operator:2222
+user:user2014
+blank:blank2003
+default:6
+supervisor:8
