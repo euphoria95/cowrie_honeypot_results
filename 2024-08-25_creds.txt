@@ -244,3 +244,11 @@ support:support555
 jeffrey:1
 test:!QAZ2wsx#EDC
 radio:12345678
+ubnt:ubnt2000
+default:11
+support:support222
+Operator:Operator
+supervisor:22222
+unknown:unknown22
+Support:default
+config:config999
