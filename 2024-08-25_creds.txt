@@ -100,3 +100,15 @@ blank:blank2004
 operator:5555555555
 User:password
 default:33333
+grid:123456
+user:user2007
+Blank:Blank
+testftp:test
+operator:4444
+supervisor:4444
+pip:pip
+centos:centos2023
+sym:sym
+odoo:odoo2017
+unknown:unknown000
+Test:123
