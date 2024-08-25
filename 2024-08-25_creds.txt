@@ -289,3 +289,9 @@ duncan:duncan123
 atualiza:atualiza
 default:1234
 sonarqube:sonarqube123
+Test:123456
+guest:guest2020
+Nobody:123456789
+unknown:unknown999
+centos:centos999
+operator:operator2000
