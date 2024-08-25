@@ -112,3 +112,16 @@ sym:sym
 odoo:odoo2017
 unknown:unknown000
 Test:123
+ubuntu:1010
+Root:1234
+default:55
+Lovena:Lovena
+supervisor:1111111
+user:111
+Admin:12345
+ubnt:ubnt333
+supervisor:supervisor2019
+user:user2020
+centos:centos22
+debian:debian77
+caesar:caesar
