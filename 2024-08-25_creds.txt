@@ -42,3 +42,8 @@ orangepi:Orangepi1234
 hd16pt07:hd16pt071234
 oracle:oracle!@#$
 squid:Squid123
+guest:00
+debian:debian2011
+supervisor:supervisor333
+supervisor:654321
+default:0000000
