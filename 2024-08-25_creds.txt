@@ -78,3 +78,11 @@ user:user2011
 ubnt:ubnt888
 blank:blank2024
 supervisor:11
+raspberry:raspberry
+guest:333
+operator:operator2021
+nobody:nobody2000
+operator:operator2002
+nobody:nobody2007
+guest:8
+operator:operator444
