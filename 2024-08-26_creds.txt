@@ -13,3 +13,11 @@ nobody:nobody999
 supervisor:supervisor2002
 unknown:unknown66
 unknown:unknown2023
+operator:operator666
+guest:guest2001
+Nobody:654321
+default:default888
+operator:operator2016
+unknown:unknown2008
+supervisor:supervisor2011
+nobody:nobody2021
