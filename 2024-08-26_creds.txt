@@ -307,3 +307,10 @@ ly:ly1234
 vsftpd:vsftpd
 Debian:987654321
 mcserver:M1n3cr4ft123
+Ubnt:1234567890
+Operator:abc123
+Centos:123
+Blank:1234567890
+unknown:6666666
+centos:3
+guest:guest2018
