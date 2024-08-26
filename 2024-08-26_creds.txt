@@ -191,3 +191,12 @@ default:default2003
 Test:default
 unknown:unknown2017
 config:config2015
+Debian:abc123
+centos:8888888
+Guest:default
+unknown:22
+User:User
+Guest:987654321
+unknown:unknown2014
+Ubnt:123456789
+Operator:123456789
