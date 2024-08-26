@@ -145,3 +145,11 @@ Supervisor:Password
 Nobody:123123
 config:config2017
 Root:123321
+Blank:1234
+Support:123456789
+Supervisor:password
+Supervisor:123456
+supervisor:supervisor2020
+Blank:123
+default:default2017
+Root:123
