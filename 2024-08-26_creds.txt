@@ -86,3 +86,17 @@ user:ubuntu12345
 Centos:1234
 guozp:guozp
 zhaojiapeng:zhaojiapeng
+javier:javier
+pc:password
+Centos:12345
+Guest:1234567
+kirsten:kirsten123
+ubuntu:123qwe!@
+admin:taureau
+Test:qwerty
+Test:987654321
+freelancer:freelancer
+ec2-user:1qazXSW@
+Nobody:1234567
+Test:1234567890
+admin:ericsson
