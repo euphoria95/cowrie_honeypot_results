@@ -100,3 +100,12 @@ ec2-user:1qazXSW@
 Nobody:1234567
 Test:1234567890
 admin:ericsson
+Test:Test
+default:default2018
+Admin:123321
+default:default2000
+User:Password
+operator:operator2015
+guest:guest2003
+Root:Password
+Operator:1234567
