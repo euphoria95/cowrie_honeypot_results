@@ -52,3 +52,12 @@ Debian:password
 admin:azsxdcfv
 Support:654321
 unknown:unknown55
+config:config99
+default:default2004
+supervisor:supervisor55
+User:987654321
+Root:123456
+supervisor:supervisor2016
+Centos:123456789
+config:config2024
+unknown:unknown2013
