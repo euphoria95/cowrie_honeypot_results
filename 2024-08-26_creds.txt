@@ -138,3 +138,10 @@ admin:warcraft
 linshi:linshi
 gael:gael
 Supervisor:123456789
+default:default2011
+Config:1234
+operator:operator2009
+Supervisor:Password
+Nobody:123123
+config:config2017
+Root:123321
