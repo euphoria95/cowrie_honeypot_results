@@ -227,3 +227,5 @@ supervisor:supervisor2015
 admin:administrator
 default:password
 zyfwp:PrOw!aN_fXp
+pi:12345
+debian:p@ssw0rd
