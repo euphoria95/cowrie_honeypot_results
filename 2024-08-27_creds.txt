@@ -64,3 +64,12 @@ administrator:admin123
 Nobody:abc123
 ander:123456
 bdd:bdd
+Support:password
+Unknown:1234
+Debian:654321
+Blank:123321
+supervisor:supervisor2023
+Nobody:default
+Ubnt:qwerty
+User:123123
+Guest:Guest
