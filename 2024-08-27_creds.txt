@@ -224,3 +224,4 @@ config:11
 Operator:123456789
 Support:123123
 supervisor:supervisor2015
+admin:administrator
