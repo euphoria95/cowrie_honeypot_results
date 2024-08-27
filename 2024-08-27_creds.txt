@@ -229,3 +229,6 @@ default:password
 zyfwp:PrOw!aN_fXp
 pi:12345
 debian:p@ssw0rd
+centos:centos1
+blank:blank
+test:admin@123
