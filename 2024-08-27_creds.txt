@@ -73,3 +73,10 @@ Nobody:default
 Ubnt:qwerty
 User:123123
 Guest:Guest
+root:123456
+unknown:unknown2010
+Centos:987654321
+supervisor:supervisor2001
+nobody:1111
+Default:password
+Blank:12345
