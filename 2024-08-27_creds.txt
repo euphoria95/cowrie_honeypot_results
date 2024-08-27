@@ -130,3 +130,12 @@ config:555
 Test:123123
 User:1234567
 unknown:unknown2011
+Test:Password
+Unknown:password
+Blank:1234567890
+Nobody:123456
+supervisor:supervisor2006
+config:777
+guest:guest2010
+Supervisor:12345678
+Support:1234
