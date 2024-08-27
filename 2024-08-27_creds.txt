@@ -21,3 +21,12 @@ Blank:qwerty
 unknown:111111
 Debian:12345
 Debian:1234
+nobody:333333
+Unknown:123456
+Config:Password
+guest:guest2012
+unknown:1
+Admin:123321
+Unknown:12345678
+Default:987654321
+unknown:unknown2005
