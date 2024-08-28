@@ -273,3 +273,6 @@ root:root
 root:123456
 123456a:123456a
 hacluster:hacluster
+centos:121212
+admin:asdf1234
+user:1234567
