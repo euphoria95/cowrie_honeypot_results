@@ -134,3 +134,13 @@ css:1234567
 admin:3
 support:1234567890
 pi:admin
+lq:123456
+ashmit:ashmit
+msl:123456
+yaoyao:yaoyao
+noreply:password
+telegram:telegram
+shadow:shadow
+debian:qwe123
+wangli:wangli123
+private:private
