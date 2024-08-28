@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 111.70.4.103,SSH-2.0-OpenSSH_7.4,TW,EMOME-NET,
 180.184.161.144,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 193.70.0.177,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+3.8.192.219,SSH-2.0-OpenSSH_7.4,GB,"Amazon.com, Inc.",
+192.252.220.90,SSH-2.0-OpenSSH_7.4,US,Performive LLC,
