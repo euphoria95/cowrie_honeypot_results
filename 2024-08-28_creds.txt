@@ -30,3 +30,4 @@ system:111111
 gpadmin:gpadmin@123
 administrator:administrator
 ftpuser:asteriskftp
+tssuser:tssuser
