@@ -270,3 +270,6 @@ support:support2019
 supervisor:123456
 admin:p@ssword
 root:root
+root:123456
+123456a:123456a
+hacluster:hacluster
