@@ -26,3 +26,7 @@ hs:qwerty
 rushi:rushi
 devops:12345
 admin:a123456789
+system:111111
+gpadmin:gpadmin@123
+administrator:administrator
+ftpuser:asteriskftp
