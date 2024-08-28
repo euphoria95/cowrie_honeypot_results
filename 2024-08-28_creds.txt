@@ -25,3 +25,4 @@ vitales:vitales
 hs:qwerty
 rushi:rushi
 devops:12345
+admin:a123456789
