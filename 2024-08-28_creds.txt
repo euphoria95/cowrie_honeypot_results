@@ -258,3 +258,12 @@ andrek:Andrek123
 clare:clare
 bike:bike
 deployer:deployer1234
+support:abc123
+esther:esther
+devanshu:devanshu
+reg:reg
+123456:123456
+user:Ryunosukeqw123qW!@#!@#
+config:12345
+appltest:appltest
+support:support2019
