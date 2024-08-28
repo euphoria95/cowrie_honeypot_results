@@ -1,2 +1,5 @@
 manager:manager
 debian:Password
+www:www
+test:p@ssword
+test:121212
