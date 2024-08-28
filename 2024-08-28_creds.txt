@@ -31,3 +31,14 @@ gpadmin:gpadmin@123
 administrator:administrator
 ftpuser:asteriskftp
 tssuser:tssuser
+esg:esg
+postgres:postgres@4321
+admin:1qazxsw2
+jan:12345
+mono:mono
+sinusbot:123123
+bm:123456
+liviu:liviu
+free:free
+cardinal:cardinal
+raja:raja123
