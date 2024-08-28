@@ -267,3 +267,6 @@ user:Ryunosukeqw123qW!@#!@#
 config:12345
 appltest:appltest
 support:support2019
+supervisor:123456
+admin:p@ssword
+root:root
