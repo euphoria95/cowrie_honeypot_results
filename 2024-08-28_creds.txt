@@ -132,3 +132,5 @@ admin:admin123123
 palworld:palworld
 css:1234567
 admin:3
+support:1234567890
+pi:admin
