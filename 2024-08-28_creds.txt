@@ -185,3 +185,8 @@ deployer:123456
 admin:zzzzzzzz
 ana:ana
 teamspeak3:password
+Admin:Admin2020
+centos:987654321
+Default:passwd
+centos:123456789
+operator:operator11
