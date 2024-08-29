@@ -16,3 +16,5 @@ ftp:test
 345gs5662d34:345gs5662d34
 admin:qwer1234
 user:user77
+supervisor:123456789
+admin:asdfp
