@@ -49,3 +49,4 @@ admin:admin2001
 support:qwerty
 sshd:password
 user:default
+test1:test1
