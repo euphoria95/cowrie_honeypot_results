@@ -6,3 +6,6 @@ centos:abc123
 minecraft:minecraft
 admin:euskalcm
 debian:123123
+zabbix:zabbix
+test:qwerty12345
+bin:smoker666
