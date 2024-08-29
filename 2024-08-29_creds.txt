@@ -13,3 +13,6 @@ user:P@ssword
 support:admin
 user:live
 ftp:test
+345gs5662d34:345gs5662d34
+admin:qwer1234
+user:user77
