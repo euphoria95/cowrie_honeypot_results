@@ -52,3 +52,16 @@ user:default
 test1:test1
 admin:Admin123456
 admin:1qaz@WSX3edc
+avayah:avayah
+david:david
+karson:karson
+park:park
+elaina:elaina
+roger:roger
+andrew:andrew
+saige:saige
+alarm:alarm
+lyla:lyla
+caden:caden
+jett:jett
+kali:kali
