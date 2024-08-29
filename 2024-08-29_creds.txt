@@ -40,3 +40,5 @@ leo:leo
 user:123123
 manager:friend
 guest:password
+nobody:ubuntu
+Jirka:ronovR1
