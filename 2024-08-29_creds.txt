@@ -47,3 +47,5 @@ pi:pipi
 apache:apache
 admin:admin2001
 support:qwerty
+sshd:password
+user:default
