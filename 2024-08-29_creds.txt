@@ -42,3 +42,8 @@ manager:friend
 guest:password
 nobody:ubuntu
 Jirka:ronovR1
+admin:zaq12wsx
+pi:pipi
+apache:apache
+admin:admin2001
+support:qwerty
