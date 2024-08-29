@@ -2,3 +2,5 @@ admin:888888
 operator:operator1
 admin:dis2021
 guest:12345
+centos:abc123
+minecraft:minecraft
