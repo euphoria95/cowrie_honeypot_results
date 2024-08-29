@@ -28,3 +28,6 @@ admin:123123123
 unknown:passw0rd
 admin:admin11
 guest:passw0rd
+uucp:uucp
+ubnt:12345678
+ubnt:password
