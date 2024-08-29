@@ -31,3 +31,5 @@ guest:passw0rd
 uucp:uucp
 ubnt:12345678
 ubnt:password
+default:44444
+admin:88888888
