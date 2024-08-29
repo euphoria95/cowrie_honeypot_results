@@ -4,3 +4,5 @@ admin:dis2021
 guest:12345
 centos:abc123
 minecraft:minecraft
+admin:euskalcm
+debian:123123
