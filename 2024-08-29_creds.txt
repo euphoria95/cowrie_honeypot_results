@@ -50,3 +50,5 @@ support:qwerty
 sshd:password
 user:default
 test1:test1
+admin:Admin123456
+admin:1qaz@WSX3edc
