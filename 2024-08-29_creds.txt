@@ -9,3 +9,7 @@ debian:123123
 zabbix:zabbix
 test:qwerty12345
 bin:smoker666
+user:P@ssword
+support:admin
+user:live
+ftp:test
