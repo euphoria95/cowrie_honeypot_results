@@ -23,3 +23,6 @@ antonio:antonio
 user:12345678
 unknown:112233
 ftpuser:123456
+default:P@ssw0rd
+admin:123123123
+unknown:passw0rd
