@@ -36,3 +36,7 @@ admin:88888888
 Admin:passwd
 PlcmSpIp:PlcmSpIp
 pi:123
+leo:leo
+user:123123
+manager:friend
+guest:password
