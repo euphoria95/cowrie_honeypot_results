@@ -18,3 +18,7 @@ admin:qwer1234
 user:user77
 supervisor:123456789
 admin:asdfp
+admin:admin99
+antonio:antonio
+user:12345678
+unknown:112233
