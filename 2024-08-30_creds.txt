@@ -184,3 +184,8 @@ user:passw0rd
 nobody:qwerty
 admin:test1234
 admin:39whitEcaT
+scaner:scaner123
+admin:2222222222
+blank:3333333333
+user:P@ssw0rd
+es_user:123456
