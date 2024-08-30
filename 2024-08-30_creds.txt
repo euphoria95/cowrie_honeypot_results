@@ -3,3 +3,17 @@ admin:enfortit
 support:default
 user:user66
 ADMIN:ADMIN
+etk:etk
+345gs5662d34:345gs5662d34
+jef:jef
+backupadmin:backupadmin
+kuldeep:123456
+terrariaserver:1
+admin:tamal
+lzj:123456
+lorenzo:lorenzo
+admin:admin2
+dante:123456
+unitek:unitek
+finn:123
+admin:qwerty123
