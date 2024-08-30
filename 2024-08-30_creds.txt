@@ -38,3 +38,9 @@ debian:12345
 nobody:qwerty1234
 ubnt:ubnt11
 login:admin
+admin:123456789123456789
+ftpuser:test
+nobody:000
+office:office
+supervisor:supervisor
+blank:abc123
