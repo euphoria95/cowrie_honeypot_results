@@ -17,3 +17,6 @@ dante:123456
 unitek:unitek
 finn:123
 admin:qwerty123
+ubnt:123456
+user:user88
+admin:987654321
