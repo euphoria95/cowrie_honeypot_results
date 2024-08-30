@@ -181,3 +181,6 @@ guest:guest
 mcserver:mcserver
 1:1
 user:passw0rd
+nobody:qwerty
+admin:test1234
+admin:39whitEcaT
