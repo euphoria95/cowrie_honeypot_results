@@ -1,2 +1,5 @@
 admin:Admin123!@#
 admin:enfortit
+support:default
+user:user66
+ADMIN:ADMIN
