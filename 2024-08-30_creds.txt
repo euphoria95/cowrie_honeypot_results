@@ -33,3 +33,7 @@ centos:77777
 support:p@ssw0rd
 blank:qwerty123
 centos:123123
+centos:1234567890
+debian:12345
+nobody:qwerty1234
+ubnt:ubnt11
