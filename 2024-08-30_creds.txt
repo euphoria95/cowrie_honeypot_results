@@ -26,3 +26,7 @@ pi:raspberryraspberry993311
 blank:88
 ftp:ftp123
 backup:backup
+blank:8888
+default:1234567
+centos:ubuntu
+centos:77777
