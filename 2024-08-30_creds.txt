@@ -23,3 +23,6 @@ admin:987654321
 pi:raspberry
 miguel:miguel
 pi:raspberryraspberry993311
+blank:88
+ftp:ftp123
+backup:backup
