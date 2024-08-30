@@ -20,3 +20,6 @@ admin:qwerty123
 ubnt:123456
 user:user88
 admin:987654321
+pi:raspberry
+miguel:miguel
+pi:raspberryraspberry993311
