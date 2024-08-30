@@ -1,1 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
+220.248.205.14,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+45.79.181.104,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+60.221.58.77,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
