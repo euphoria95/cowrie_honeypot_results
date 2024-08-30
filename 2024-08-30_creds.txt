@@ -180,3 +180,4 @@ deploybot:deploybot
 guest:guest
 mcserver:mcserver
 1:1
+user:passw0rd
