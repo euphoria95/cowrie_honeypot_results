@@ -1,1 +1,6 @@
 guest:9999
+vagrant:vagrant
+admin:33
+1234qwer:1234qwer
+proftpd:proftpd
+admin1:demo
