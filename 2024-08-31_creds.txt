@@ -288,3 +288,7 @@ ubnt:66666
 admin:Welcome123
 nicolas:nicolas
 rivka:rivka
+Admin:11111
+Admin:111
+test:0000000
+centos:99999
