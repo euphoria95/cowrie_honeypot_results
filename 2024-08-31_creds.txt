@@ -269,3 +269,8 @@ amanda:amanda123
 service:password
 nobody:nobody22
 admin:Password2
+centos:88
+blank:999
+support:test12345
+test:1977
+hotman:hotman
