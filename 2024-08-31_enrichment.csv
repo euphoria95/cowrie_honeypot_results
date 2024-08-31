@@ -213,3 +213,7 @@ IP address,remote ssh version,country_code2,organization,asn
 111.70.19.145,SSH-2.0-OpenSSH_7.4,TW,EMOME-NET,
 166.253.241.43,SSH-2.0-OpenSSH_7.4,US,Verizon Business,
 64.92.12.144,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2,US,"Consolidated Communications, Inc.",
+87.15.212.213,SSH-2.0-libssh_0.9.6,IT,Telecom Italia S.p.A.,
+50.62.183.14,SSH-2.0-OpenSSH_7.4,US,"GoDaddy.com, LLC",
+41.159.145.189,SSH-2.0-OpenSSH_7.4,GA,Gabon Telecom Internet Network Autonomous System,
+120.138.13.66,SSH-2.0-OpenSSH_7.4,IN,RailTel Corporation of India Ltd.,
