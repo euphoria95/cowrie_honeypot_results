@@ -171,3 +171,8 @@ sameer:123456
 cielo:cielo
 guest:guest2013
 ftp:test123
+support:Zaq12wsx
+test:admin123!@#
+operator:3
+admin:P@$$w0rd
+admin:servers
