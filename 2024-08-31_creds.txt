@@ -52,3 +52,6 @@ sam:sam
 blank:Blank2007
 admin:3333333
 install:install
+blank:222222
+Admin:P@$$w0rd
+test:test@123
