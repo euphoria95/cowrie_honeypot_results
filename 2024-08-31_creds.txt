@@ -70,3 +70,5 @@ hws:hws
 test:nologin
 b:b
 Admin:123321
+user:user99
+admin:Qwerty
