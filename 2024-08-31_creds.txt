@@ -274,3 +274,17 @@ blank:999
 support:test12345
 test:1977
 hotman:hotman
+asher:asher
+tommy:tommy
+legacy:legacy
+kane:kane
+madilynn:madilynn
+cason:cason
+donovan:donovan
+ella:ella
+admin:abcd@1234
+nobody:2222222
+ubnt:66666
+admin:Welcome123
+nicolas:nicolas
+rivka:rivka
