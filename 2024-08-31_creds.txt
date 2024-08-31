@@ -48,3 +48,7 @@ cameron:cameron
 aleena:aleena
 admin:ADMIN
 ari:ari
+sam:sam
+blank:Blank2007
+admin:3333333
+install:install
