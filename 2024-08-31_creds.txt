@@ -4,3 +4,6 @@ admin:33
 1234qwer:1234qwer
 proftpd:proftpd
 admin1:demo
+operator:22
+administrator:password
+default:9999999
