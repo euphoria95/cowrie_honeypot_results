@@ -35,3 +35,16 @@ glt:remote
 super:super
 huawei:huawei
 Admin:123456789
+kenzo:kenzo
+admin:brut3p4s
+admin:000
+felipe:felipe
+zeke:zeke
+ayden:ayden
+cayson:cayson
+londyn:londyn
+alondra:alondra
+cameron:cameron
+aleena:aleena
+admin:ADMIN
+ari:ari
