@@ -266,3 +266,6 @@ admin:8888888
 vogel:vogel
 blank:111111
 amanda:amanda123
+service:password
+nobody:nobody22
+admin:Password2
