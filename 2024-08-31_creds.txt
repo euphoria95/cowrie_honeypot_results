@@ -31,3 +31,7 @@ su:su123
 sid:123456
 admin:1
 centos:default
+glt:remote
+super:super
+huawei:huawei
+Admin:123456789
