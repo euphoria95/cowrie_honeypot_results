@@ -217,3 +217,7 @@ IP address,remote ssh version,country_code2,organization,asn
 50.62.183.14,SSH-2.0-OpenSSH_7.4,US,"GoDaddy.com, LLC",
 41.159.145.189,SSH-2.0-OpenSSH_7.4,GA,Gabon Telecom Internet Network Autonomous System,
 120.138.13.66,SSH-2.0-OpenSSH_7.4,IN,RailTel Corporation of India Ltd.,
+78.68.226.31,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+1.30.20.98,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+105.73.203.132,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
+46.163.239.220,SSH-2.0-OpenSSH_7.4,FI,BLC Telecom Oy,
