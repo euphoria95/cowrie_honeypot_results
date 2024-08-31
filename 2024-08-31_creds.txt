@@ -55,3 +55,15 @@ install:install
 blank:222222
 Admin:P@$$w0rd
 test:test@123
+afc:afc
+lhh:lhh123
+admin:PeLH6rIm2c
+oracle:1qaz!QAZ
+admin:147258
+agajani:agajani123
+staff:staff123
+pandora:pandora
+soporte:soporte2023
+nut:nut123
+postgres:postgres123!@#
+hws:hws
