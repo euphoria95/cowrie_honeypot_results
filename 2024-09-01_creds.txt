@@ -62,3 +62,6 @@ kye:kye
 elora:elora
 wells:wells
 blank:blank123456789
+ftpuser:123123
+admin:123qwe@
+admin:password13
