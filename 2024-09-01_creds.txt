@@ -47,3 +47,5 @@ nobody:888888
 lin:lin123
 tomcat:123
 vagrant:password
+admin:333
+admin:master
