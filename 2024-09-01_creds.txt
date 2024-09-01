@@ -102,3 +102,6 @@ nvidia:nvidia123
 Nobody:Nobody2019
 admin:!QAZ2wsx
 tester:tester1234
+guest:123456789
+test:1981
+admin:root123
