@@ -65,3 +65,7 @@ blank:blank123456789
 ftpuser:123123
 admin:123qwe@
 admin:password13
+admin:gvt12345
+ubnt:qwerty1
+liz:liz
+tcpdump:tcpdump
