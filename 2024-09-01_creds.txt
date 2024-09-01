@@ -136,3 +136,16 @@ umesh:umesh@123
 albis:albis
 liulei:liulei
 tosi:tosi
+operator:123123123
+admin:passwort
+meilani:meilani
+emmett:emmett
+enoch:enoch
+wade:wade
+louis:louis
+karina:karina
+roy:roy
+leandro:leandro
+taylor:taylor
+maeve:maeve
+Admin:qwer1234!@#$
