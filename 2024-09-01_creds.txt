@@ -184,3 +184,12 @@ centos:112233
 admin:111aaa
 admin:Passw@rd
 operator:88
+amrit:amrit
+roxane:roxane
+default:antslq
+jayden:123456
+maint:password
+ignacio:ignacio123
+wu:wu
+centos:centos12345678
+ftp:ftpuser
