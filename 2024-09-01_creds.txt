@@ -33,3 +33,10 @@ crx:crx
 carol:carol
 robot:robot
 lux:lux
+csgoserver:1
+te:123456
+guests:guests123456789
+default:Default555
+cemergen:password
+ghazal:ghazal
+inet:inet123
