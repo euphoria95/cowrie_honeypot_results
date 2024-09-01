@@ -174,3 +174,8 @@ blank:159753
 admin:1995
 ubnt:44
 Admin:Password01
+admin:ucs1122
+default:Default2020
+centos:222222
+nobody:99999
+blank:999999
