@@ -196,3 +196,6 @@ ftp:ftpuser
 test1:123456
 centos:111111111
 Test:password
+tim:tim
+centos:centos00
+nobody:999
