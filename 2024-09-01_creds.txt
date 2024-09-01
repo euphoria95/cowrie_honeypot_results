@@ -49,3 +49,16 @@ tomcat:123
 vagrant:password
 admin:333
 admin:master
+miranda:miranda
+ansible:ansible
+centos:999999
+adriana:adriana
+brixton:brixton
+melvin:melvin
+serena:serena
+calvin:calvin
+frederick:frederick
+kye:kye
+elora:elora
+wells:wells
+blank:blank123456789
