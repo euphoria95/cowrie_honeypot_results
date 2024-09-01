@@ -199,3 +199,9 @@ Test:password
 tim:tim
 centos:centos00
 nobody:999
+blank:blank2019
+stephan:P@ssw0rd
+admin:qwer1234!@#$
+admin:4321
+Test:Test13
+matt:matt
