@@ -193,3 +193,6 @@ ignacio:ignacio123
 wu:wu
 centos:centos12345678
 ftp:ftpuser
+test1:123456
+centos:111111111
+Test:password
