@@ -40,3 +40,10 @@ default:Default555
 cemergen:password
 ghazal:ghazal
 inet:inet123
+fpt:ftp
+qfc:123
+ubnt:3
+nobody:888888
+lin:lin123
+tomcat:123
+vagrant:password
