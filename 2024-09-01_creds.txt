@@ -161,3 +161,8 @@ akt:akt
 nagios:123
 moein:moein@123
 ubnt:11111
+nobody:123qwe
+test:info
+test:ubnt
+info:info12345
+admin:symbol
