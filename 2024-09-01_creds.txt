@@ -179,3 +179,8 @@ default:Default2020
 centos:222222
 nobody:99999
 blank:999999
+test:password1!
+centos:112233
+admin:111aaa
+admin:Passw@rd
+operator:88
