@@ -21,3 +21,8 @@ blank:Password
 test:test00
 Admin:2222
 admin:1999
+ubnt:123123123
+test:password@123
+nobody:nobody66
+mysql:abc123
+telnet:telnet
