@@ -43,3 +43,6 @@ support:yxcvbn
 blank:blank12
 h:12345
 maximo:maximo123
+admin:2021
+blank:blank00
+andy:andy
