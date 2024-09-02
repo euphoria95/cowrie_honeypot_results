@@ -116,3 +116,12 @@ guest:guest2
 vega:vega
 blank:Blank2011
 login:login
+admin:abcd1234
+admin:22222
+blank:9999
+guest:0
+Test:Test2003
+user:User@1
+kali:Abc1234
+oracle:oracle321
+vagrant:Vagrant123
