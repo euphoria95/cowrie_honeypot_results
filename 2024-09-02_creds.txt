@@ -98,3 +98,12 @@ otter:otter
 nobody:666666
 centos:111111
 default:video
+test:test12345
+user:1qaz"WSX
+blh:blh
+mica:mica
+test:123abc
+johndoe:johndoe
+guest:22222
+admin:2018
+guest:333333
