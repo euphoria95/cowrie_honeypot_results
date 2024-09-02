@@ -29,3 +29,8 @@ IP address,remote ssh version,country_code2,organization,asn
 213.66.85.51,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
 177.174.15.69,SSH-2.0-OpenSSH_7.4,BR,,
 112.28.137.26,,CN,China Mobile,
+222.160.227.134,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+121.228.0.140,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+188.151.63.219,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
+43.153.58.120,SSH-2.0-libssh_0.9.6,US,Shenzhen Tencent Computer Systems Company Limited,
+211.20.19.251,SSH-2.0-OpenSSH_7.4,TW,"Chunghwa Telecom Co., Ltd.",
