@@ -50,3 +50,11 @@ test:Qaz12345
 guest:guest99
 guest:123321
 support:zxcvbnm123
+admin:01
+oracle:oracle!@#$
+Blank:777777777
+test:test13
+naveen:naveen123
+max:max!123
+blank:5555555
+test:qazxswedc
