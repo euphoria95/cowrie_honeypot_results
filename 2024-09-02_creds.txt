@@ -171,3 +171,10 @@ ubuntu:123456qQ
 bkm:bkm
 blank:55
 administrator:admin123
+admin:1988
+blank:7
+ubnt:00
+blank:000
+admin:par0t
+admin:99
+root:root
