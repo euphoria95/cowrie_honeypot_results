@@ -189,3 +189,5 @@ nobody:nobody2022
 deployer:deployer!123
 carlos:carlos1234
 ansuser:Ansuser1
+default:default55
+centos:1q2w3e4r
