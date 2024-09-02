@@ -125,3 +125,9 @@ user:User@1
 kali:Abc1234
 oracle:oracle321
 vagrant:Vagrant123
+Test:Test2022
+operator:operator2022
+marcin:marcin123
+link:link123
+operator:operator12345
+Admin:welc0me
