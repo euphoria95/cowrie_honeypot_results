@@ -162,3 +162,12 @@ support:123456
 vadmin:vadmin
 ftp:ftp
 vadmin:9vt@f3Vt
+matt:P@ssw0rd
+test:test44
+guest:guest888
+vpnuser1:vpnuser1
+sga:sga123
+ubuntu:123456qQ
+bkm:bkm
+blank:55
+administrator:admin123
