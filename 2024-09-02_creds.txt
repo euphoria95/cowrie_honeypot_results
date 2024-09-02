@@ -1,0 +1,5 @@
+test:redhat
+guest:qwerty123456
+nobody:444444
+support:ubuntu
+operator:3333333333
