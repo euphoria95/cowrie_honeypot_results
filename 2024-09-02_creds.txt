@@ -107,3 +107,12 @@ johndoe:johndoe
 guest:22222
 admin:2018
 guest:333333
+ubnt:666666
+guerra:guerra
+cloudadmin:123456
+book:book123
+andrii:andrii
+guest:guest2
+vega:vega
+blank:Blank2011
+login:login
