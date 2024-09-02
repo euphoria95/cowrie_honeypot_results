@@ -131,3 +131,13 @@ marcin:marcin123
 link:link123
 operator:operator12345
 Admin:welc0me
+bee:bee
+shadwell:shadwell
+mmm:mmm
+nextcloud:123456
+guest:guest777
+albert:123456
+guest:guest22
+tiansiyuan:tiansiyuan
+Admin:password123
+test:012345678
