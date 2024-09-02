@@ -17,3 +17,7 @@ test:1978
 guest:8888
 centos:1q2w3e
 admin:my_DEMARC
+blank:Password
+test:test00
+Admin:2222
+admin:1999
