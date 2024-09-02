@@ -46,3 +46,7 @@ maximo:maximo123
 admin:2021
 blank:blank00
 andy:andy
+test:Qaz12345
+guest:guest99
+guest:123321
+support:zxcvbnm123
