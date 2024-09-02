@@ -178,3 +178,14 @@ blank:000
 admin:par0t
 admin:99
 root:root
+default:default7654321
+ftpuser:ftpuser@1234
+support:support123
+sa:Sa123
+test:1982
+dockeradmin:Dockeradmin1234
+service:service
+nobody:nobody2022
+deployer:deployer!123
+carlos:carlos1234
+ansuser:Ansuser1
