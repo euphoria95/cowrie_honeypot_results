@@ -3,3 +3,8 @@ guest:qwerty123456
 nobody:444444
 support:ubuntu
 operator:3333333333
+test:Qwerty11
+admin:321456
+admin:444
+admin:wubao
+test:1313
