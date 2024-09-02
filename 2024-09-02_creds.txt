@@ -90,3 +90,11 @@ Admin:Password01!
 weiwang:weiwang
 guest:6666666
 adm:rowd
+testsftp:testsftp
+casa:casa
+maman:1234
+edx:edx
+otter:otter
+nobody:666666
+centos:111111
+default:video
