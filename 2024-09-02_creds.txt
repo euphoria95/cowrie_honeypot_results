@@ -13,3 +13,7 @@ admin:135791
 tunnel:tunnel
 jalonzo:juan2021
 admin:michelangelo
+test:1978
+guest:8888
+centos:1q2w3e
+admin:my_DEMARC
