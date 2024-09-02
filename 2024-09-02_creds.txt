@@ -82,3 +82,11 @@ Admin:22
 shs:shs
 bruno:password
 wangxm:123456
+jira:jira@123
+fish:fish
+vnc:test123
+hduser:hduser
+Admin:Password01!
+weiwang:weiwang
+guest:6666666
+adm:rowd
