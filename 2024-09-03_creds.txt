@@ -48,3 +48,6 @@ nobody:3333
 test:Welcome1
 nobody:2222222222
 test:test3
+operator:666666
+test:asdf12
+ubnt:9999999
