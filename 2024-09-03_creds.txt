@@ -2,3 +2,9 @@ Guest:1111111111
 operator:operator2023
 nobody:888
 test:0123456789
+345gs5662d34:345gs5662d34
+health:123456
+centos:11111111
+camera:camera
+nobody:2222
+admin:987987
