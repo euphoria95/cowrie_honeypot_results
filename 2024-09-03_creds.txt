@@ -43,3 +43,5 @@ blank:unknown
 user:1q2w3e
 Admin:Password123
 blank:123123123
+test:qwerty1234
+nobody:3333
