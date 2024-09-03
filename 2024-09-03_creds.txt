@@ -74,3 +74,17 @@ blank:123123
 blank:123654
 jira:jira
 blank:blank4
+sabur:sabur
+admin:MODEMadmin
+centos:654321
+pak:pak123
+min:1234
+ceo:123
+hadoop:passw0rd
+cinta:cinta
+vbox:test
+wangcheng:123
+share:123456
+rishabh:Password
+admin:qwerty01
+nobody:password321
