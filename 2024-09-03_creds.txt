@@ -69,3 +69,8 @@ admin:abc.123
 aroot:qwerty123
 yuri:1234
 admin:1234321
+ubnt:5555555
+blank:123123
+blank:123654
+jira:jira
+blank:blank4
