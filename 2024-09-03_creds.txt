@@ -55,3 +55,5 @@ centos:33
 admin:gfhjkm
 admin:zyad1234
 admin:963963
+guest:testuser
+nobody:nobody2012
