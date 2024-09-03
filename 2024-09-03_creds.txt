@@ -88,3 +88,14 @@ share:123456
 rishabh:Password
 admin:qwerty01
 nobody:password321
+zengchao:zengchao
+nobody:qwer1234
+aqd:aqd
+gc:gc
+blank:112233
+admin:r@r
+test:test2013
+blank:blank2
+user:user.
+ivo:123
+maria:123456
