@@ -35,3 +35,7 @@ test:12341234
 guest:999
 admin:z1x2c3v4
 test:0123
+centos:9999
+admin:changeme
+test:00000000
+guest:6666666666
