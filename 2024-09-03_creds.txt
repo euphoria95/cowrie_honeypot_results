@@ -64,3 +64,8 @@ admin:321
 test:Admin@123
 default:qwerty1234
 Test:123
+test:1111111
+admin:abc.123
+aroot:qwerty123
+yuri:1234
+admin:1234321
