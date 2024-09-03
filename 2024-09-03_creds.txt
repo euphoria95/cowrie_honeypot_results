@@ -61,3 +61,6 @@ blank:blank321
 sysadmin:sysadmin
 blank:77
 admin:321
+test:Admin@123
+default:qwerty1234
+Test:123
