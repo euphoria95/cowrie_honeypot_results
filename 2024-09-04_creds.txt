@@ -111,3 +111,6 @@ maxim:12345
 fxl:123456
 mysql:Passw0rd
 amir:amir@2023
+guest:test
+admin:nimda
+nobody:88888
