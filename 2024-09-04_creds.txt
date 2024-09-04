@@ -71,3 +71,12 @@ test:Qwerty
 nobody:nobody11
 suporte:12345
 test:test@2019
+bbq:123456
+forge:forge
+develop:12345
+Admin:1111111
+default:default33
+yifei:yifei
+user1:1234
+kpi:kpi
+floyd:floyd
