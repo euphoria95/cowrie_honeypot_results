@@ -5,3 +5,7 @@ IP address,remote ssh version,country_code2,organization,asn
 184.74.212.29,SSH-2.0-OpenSSH_7.4,US,Charter Communications Inc,
 191.5.98.222,SSH-2.0-OpenSSH_7.4,BR,REDE GLOBAL TECNOLOGIA LTDA ME,
 70.237.84.51,SSH-2.0-OpenSSH_7.4,US,"AT&T Services, Inc.",
+199.45.154.143,SSH-2.0-Go,HK,"Censys, Inc.",
+196.28.226.123,SSH-2.0-OpenSSH_7.4,MZ,Telecomunicacoes de Mocambique (TDM),
+112.26.99.92,SSH-2.0-OpenSSH_7.4,CN,China Mobile,
+78.67.64.48,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
