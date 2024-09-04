@@ -138,3 +138,7 @@ veripark:H0tjava1
 camera:camera
 USERID:PASSW0RD
 www-data:admin
+default:default2021
+admin1:admin
+blank:0987654321
+admin:workinher
