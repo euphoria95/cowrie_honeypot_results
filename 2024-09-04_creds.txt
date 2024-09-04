@@ -264,3 +264,6 @@ centos:centos11
 ubnt:888888
 admin:netadmin
 test:5555555
+admin:7777
+unknown:11111
+guest:11
