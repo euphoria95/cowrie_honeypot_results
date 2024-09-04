@@ -207,3 +207,8 @@ blank:9999999
 backuppc:backuppc
 operator:1234
 admin:1qaz2wsx!@#
+centos:7
+guest:000000
+Root:987654321
+admin:999
+admin:lamer2398
