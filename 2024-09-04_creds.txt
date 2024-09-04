@@ -34,3 +34,7 @@ debian:123456789
 elastics:elastics
 bahar:123456
 web:Web123
+User:User2011
+admin:admin123456
+test:test11
+default:admin123
