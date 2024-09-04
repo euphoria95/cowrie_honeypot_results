@@ -6,3 +6,14 @@ Admin:Password123!
 lp:lp
 admin:333333
 blank:0
+345gs5662d34:345gs5662d34
+deamon:123456
+chao:chao
+teamcity:teamcity
+admin:261296
+linux1:123456
+test:1973
+test:random
+hdoop:1
+legal:legal
+bh:123
