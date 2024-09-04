@@ -1,0 +1,5 @@
+centos:99
+admin:123456788
+nobody:nobody00
+operator:operator99
+Admin:Password123!
