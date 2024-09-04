@@ -204,3 +204,6 @@ centos:000
 admin:3333
 support:zxc
 blank:9999999
+backuppc:backuppc
+operator:1234
+admin:1qaz2wsx!@#
