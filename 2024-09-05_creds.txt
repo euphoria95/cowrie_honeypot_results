@@ -224,3 +224,17 @@ Default:1234567
 test1:test
 upwork:upwork123
 debian:6666
+nobody:3333333
+sysadmin:123
+arvind:arvind123
+aliyun:123
+g:123
+teamspeak:teamspeak3
+ubuntu:!QAZ2wsx
+zhangzaodi:zhangzaodi123
+nobody:1111111
+ubnt:333
+Blank:default
+dipesh:123
+Support:123123
+Operator:123
