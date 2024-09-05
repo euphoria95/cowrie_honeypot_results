@@ -173,3 +173,11 @@ User:default
 centos:7777
 unknown:000
 ubnt:5555
+Operator:qwerty
+support:88
+unknown:7777777
+parham:123456
+Support:Password
+blank:1111
+Root:12345678
+nobody:33
