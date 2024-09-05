@@ -134,3 +134,9 @@ wanghe:wanghe123
 pablo:123
 coding:123
 ubuntu:Qwer1234!@#$
+config:8888
+Operator:password
+test:555
+test:77
+ubnt:777
+Nobody:123123
