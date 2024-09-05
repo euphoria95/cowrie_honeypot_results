@@ -50,3 +50,5 @@ cartorio:cartorio
 debian:666
 unknown:1111
 admin:5555
+nobody:99
+nobody:444
