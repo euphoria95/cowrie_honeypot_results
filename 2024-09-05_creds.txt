@@ -47,3 +47,6 @@ elizabeth:elizabeth
 centos:555555
 user:asdfg
 cartorio:cartorio
+debian:666
+unknown:1111
+admin:5555
