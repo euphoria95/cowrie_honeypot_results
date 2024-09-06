@@ -195,3 +195,11 @@ support:88888
 support:555555
 User:12345678
 ubnt:6666
+Operator:Password
+unknown:555555
+test:777777
+blank:4444444
+Blank:123123
+user:44444
+debian:8888
+config:444444
