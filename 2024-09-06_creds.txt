@@ -186,3 +186,12 @@ temp:admin123
 nobody:2
 tempuser:123456
 support:6666666
+Default:Password
+ubnt:9
+user:777
+debian:99999
+nobody:55
+support:88888
+support:555555
+User:12345678
+ubnt:6666
