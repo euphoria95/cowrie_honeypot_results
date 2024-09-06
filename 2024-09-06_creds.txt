@@ -342,3 +342,12 @@ centos:44
 zyf:123456
 Nobody:987654321
 Operator:1234
+unknown:88
+ubnt:99
+Centos:12345678
+root/1234567:123
+casino:123
+blank:333333
+support:8
+ict:123456
+test:99
