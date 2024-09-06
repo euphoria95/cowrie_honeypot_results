@@ -46,3 +46,16 @@ centos:1111
 support:8888
 admin:8888
 Blank:Password
+debian:00000
+liuqiang:liuqiang
+345gs5662d34:345gs5662d34
+Root:123456789
+blank:4444
+user:2
+unknown:2
+Nobody:654321
+test:5555
+ubnt:33333
+ubnt:999999
+user:666666
+config:7777
