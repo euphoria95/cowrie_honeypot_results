@@ -273,3 +273,12 @@ debian:5
 centos:1
 Guest:654321
 Config:abc123
+Unknown:Password
+blank:00
+kenji:123456
+support:2222
+Default:qwerty
+hadi:hadi123
+md:123
+logstash:123456
+goran:goran
