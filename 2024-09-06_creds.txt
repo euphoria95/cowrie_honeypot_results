@@ -86,3 +86,15 @@ test:password12346
 hw:hw123
 santhosh:123456
 admin:qaz1234
+Config:Password
+debian:4444
+test:3333333
+Debian:123321
+debian:2222
+centos:66666
+ubnt:4444
+ubnt:111
+centos:4444444
+user:7
+support:1111
+Support:654321
