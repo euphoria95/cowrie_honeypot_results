@@ -331,3 +331,14 @@ ubuntu:Password1!
 zhangm:zhangm123
 sonarUser:123456
 es:1234
+unknown:333
+ubuntu:ubuntu@2024
+rssh:rssh
+smbuser:smbuser
+jonathan:jonathan123
+Ubnt:12345678
+support:3333333
+centos:44
+zyf:123456
+Nobody:987654321
+Operator:1234
