@@ -123,3 +123,8 @@ IP address,remote ssh version,country_code2,organization,asn
 60.164.246.230,SSH-2.0-Go,CN,China Telecom,
 219.128.15.190,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
 58.17.128.7,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+65.49.1.41,SSH-2.0-Go,US,Hurricane Electric LLC,
+130.180.53.198,SSH-2.0-OpenSSH_7.4,DE,Vodafone GmbH,
+103.86.55.155,SSH-2.0-OpenSSH_7.4,PK,Optix Pakistan (Pvt.) Limited,
+185.115.36.118,SSH-2.0-OpenSSH_7.4,UA,KRAM Ltd,
+222.175.110.3,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
