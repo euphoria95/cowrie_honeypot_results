@@ -198,3 +198,9 @@ test:33
 nobody:666
 config:777
 Operator:Password
+Supervisor:123456789
+debian:444
+ubnt:1111111
+Supervisor:654321
+nobody:5
+unknown:3
