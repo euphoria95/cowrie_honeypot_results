@@ -17,3 +17,8 @@ IP address,remote ssh version,country_code2,organization,asn
 196.245.250.10,SSH-2.0-OpenSSH_7.4,SG,Orion Network Limited,
 112.28.9.167,SSH-2.0-OpenSSH_7.4,CN,China Mobile,
 219.78.239.191,SSH-2.0-OpenSSH_7.4,HK,PCCW IMS Limited,
+95.9.222.122,SSH-2.0-OpenSSH_7.4,TR,TTNet A.S.,
+73.153.20.73,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
+200.125.14.122,SSH-2.0-OpenSSH_7.4,UY,Administracion Nacional de Telecomunicaciones,
+49.37.35.174,SSH-2.0-OpenSSH_7.4,IN,Reliance Jio Infocomm Limited,
+149.224.175.53,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3,DE,wilhelm.tel GmbH,
