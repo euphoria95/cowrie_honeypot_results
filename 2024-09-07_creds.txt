@@ -128,3 +128,17 @@ vincenzo:123456
 sshtunnel:sshtunnel123
 rocco:123
 config:1111
+admin:redhat
+hsj:123456
+debian:1111
+srs:srs123
+nobody:555
+vapor:vapor
+ibrahim:123
+tata:tata123
+jack:123
+supervisor:supervisor123
+tp:tp
+worker:123
+mf:123456
+anonymous:anonymous123
