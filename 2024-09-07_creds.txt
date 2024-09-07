@@ -69,3 +69,6 @@ mini:123456
 smbuser:123
 debian:66666
 baidu:123456
+blank:4444
+ubnt:6666666
+config:2
