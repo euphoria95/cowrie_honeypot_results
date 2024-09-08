@@ -54,3 +54,7 @@ config:66666
 angga:angga
 ansibleadmin:ansibleadmin
 pls:123456
+blank:blank888
+Guest:12345678
+unknown:9999999
+centos:555
