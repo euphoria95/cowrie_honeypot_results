@@ -71,3 +71,12 @@ test:11
 craft:craft!@#
 admin:admin33
 oracle:oracle!@#$
+default:default111
+xdp:123456
+wc:wc1234
+debian:2222
+unknown:555
+student10:123
+unknown:0000000
+minecraft:12345678
+centos:55
