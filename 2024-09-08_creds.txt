@@ -11,3 +11,9 @@ test:222
 config:2222222
 admin:777777
 supervisor:supervisor666
+guest:00
+default:default444
+config:config111
+ubnt:44444
+asta:123
+test:4
