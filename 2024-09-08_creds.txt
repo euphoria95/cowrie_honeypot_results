@@ -125,3 +125,9 @@ user:88888
 debian:debian666
 user:77
 config:333
+centos:centos000
+centos:888
+blank:2222
+root:root
+Default:987654321
+support:777
