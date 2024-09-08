@@ -63,3 +63,11 @@ support:support666
 nobody:4444444
 nobody:111
 support:888888
+nobody:22
+max:max!123
+naveen:naveen123
+config:555
+test:11
+craft:craft!@#
+admin:admin33
+oracle:oracle!@#$
