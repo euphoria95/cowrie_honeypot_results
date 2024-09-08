@@ -85,3 +85,8 @@ default:default777
 test:4444444
 nobody:55555
 support:4
+nobody:333
+user:555
+operator:operator000
+nobody:1
+debian:22222
