@@ -11,3 +11,7 @@ IP address,remote ssh version,country_code2,organization,asn
 199.45.154.148,SSH-2.0-Go,HK,"Censys, Inc.",
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 178.35.155.182,SSH-2.0-OpenSSH_7.4,RU,PJSC Rostelecom,
+5.32.32.14,SSH-2.0-OpenSSH_7.4,AE,Emirates Integrated Telecommunications Company PJSC,
+95.165.142.8,SSH-2.0-OpenSSH_7.4,RU,PJSC Moscow city telephone network,
+95.89.71.74,SSH-2.0-OpenSSH_7.4,DE,Vodafone Deutschland GmbH,
+188.151.53.92,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
