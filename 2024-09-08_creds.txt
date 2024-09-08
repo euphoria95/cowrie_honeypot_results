@@ -42,3 +42,15 @@ nxuser:123
 ubnt:3333
 nobody:777
 unknown:2222222
+ubnt:1
+localhost:Jay56
+castle:123456
+ibm:ibm
+qa:qa123
+exit:123456
+unknown:7
+unknown:unknown111
+config:66666
+angga:angga
+ansibleadmin:ansibleadmin
+pls:123456
