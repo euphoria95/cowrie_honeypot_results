@@ -80,3 +80,8 @@ student10:123
 unknown:0000000
 minecraft:12345678
 centos:55
+admin:6666666
+default:default777
+test:4444444
+nobody:55555
+support:4
