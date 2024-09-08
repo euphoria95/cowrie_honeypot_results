@@ -96,3 +96,10 @@ centos:2
 test:6666666
 blank:4444444
 support:support444
+admin:admin666
+nobody:1111
+support:9999999
+ubnt:4444
+root:123456
+blank:11111
+centos:3
