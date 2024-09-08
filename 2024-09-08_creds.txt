@@ -7,3 +7,7 @@ support:000
 debian:debian777
 support:3333
 guest:11111
+test:222
+config:2222222
+admin:777777
+supervisor:supervisor666
