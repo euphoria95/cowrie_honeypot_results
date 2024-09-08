@@ -251,3 +251,8 @@ nikhil:nikhil123
 testuser2:testuser2
 jules:123456
 deniz:deniz123
+ubnt:555
+support:7777
+test:99999
+centos:00000
+config:6
