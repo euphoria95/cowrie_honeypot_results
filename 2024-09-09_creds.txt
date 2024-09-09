@@ -9,3 +9,15 @@ ilyas:ilyas
 test:0000
 ethos:live
 centos:qwerty
+config:5555555
+345gs5662d34:345gs5662d34
+ubuntu:P@ssword
+admin:Abc123
+opusadm:opusadm
+udp:udp
+support:0000
+centos:centos111
+config:1
+saeid:saeid123
+ultra:ultra
+unknown:8888
