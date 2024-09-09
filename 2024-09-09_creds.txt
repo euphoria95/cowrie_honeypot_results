@@ -114,3 +114,8 @@ w:w123
 sasha:123
 supervisor:44444444
 nobody:nobody000
+kafka:kafka
+edi:123
+Unknown:Unknown
+default:66666666
+git:git123456
