@@ -149,3 +149,12 @@ daniela:daniela
 qiuhan:qiuhan
 mc2:mc2
 unknown:33
+supervisor:supervisor2002
+vagrant:Vagrant@1234
+default:default555
+operator:999999999
+supervisor:00000000
+unknown:8888888
+Admin:Abcd123
+Default:654321
+telnet:Abcd1234
