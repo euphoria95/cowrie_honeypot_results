@@ -70,3 +70,8 @@ config:11
 admin:admin77
 default:555555555
 nobody:66666
+Guest:default
+guest:33333333
+default:000000000
+Admin:abc123
+supervisor:supervisor2012
