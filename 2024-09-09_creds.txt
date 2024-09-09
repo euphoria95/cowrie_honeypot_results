@@ -247,3 +247,6 @@ default:default2000
 guest:333333333
 config:config2006
 supervisor:222222222
+supervisor:88888888
+guest:guest2007
+nobody:nobody2007
