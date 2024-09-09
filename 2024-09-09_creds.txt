@@ -1,0 +1,11 @@
+admin:555555
+debian:22
+election:election
+hgrepo:hgrepo
+test:test111
+debian:9999
+charis:charis
+ilyas:ilyas
+test:0000
+ethos:live
+centos:qwerty
