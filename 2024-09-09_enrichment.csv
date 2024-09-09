@@ -85,3 +85,8 @@ IP address,remote ssh version,country_code2,organization,asn
 58.16.91.144,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 196.245.250.10,SSH-2.0-OpenSSH_7.4,SG,Orion Network Limited,
 111.173.89.134,SSH-2.0-Go,CN,China Telecom,
+213.154.80.50,SSH-2.0-OpenSSH_7.4,SN,SONATEL-AS Autonomous System,
+36.138.132.109,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
+41.38.68.212,SSH-2.0-OpenSSH_7.4,EG,TE-AS,
+60.13.8.218,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+95.27.211.87,SSH-2.0-OpenSSH_7.4,RU,PJSC Vimpelcom,
