@@ -90,3 +90,7 @@ IP address,remote ssh version,country_code2,organization,asn
 41.38.68.212,SSH-2.0-OpenSSH_7.4,EG,TE-AS,
 60.13.8.218,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 95.27.211.87,SSH-2.0-OpenSSH_7.4,RU,PJSC Vimpelcom,
+112.220.235.237,SSH-2.0-OpenSSH_7.4,KR,LG DACOM Corporation,
+24.144.182.147,SSH-2.0-OpenSSH_7.4,US,Armstrong,
+80.69.54.16,SSH-2.0-OpenSSH_7.4,AZ,Aztelekom LLC,
+118.41.204.48,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
