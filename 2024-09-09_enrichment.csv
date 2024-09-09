@@ -24,3 +24,7 @@ IP address,remote ssh version,country_code2,organization,asn
 138.2.54.132,SSH-2.0-OpenSSH_7.4,JP,Oracle Corporation,
 91.153.66.74,SSH-2.0-OpenSSH_7.4,FI,Elisa Oyj,
 222.117.12.39,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+62.183.82.70,SSH-2.0-OpenSSH_7.4,RU,PJSC Rostelecom,
+218.64.124.15,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+121.202.201.63,SSH-2.0-OpenSSH_7.4,HK,Smartone Mobile communications Limited,
+81.232.159.138,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
