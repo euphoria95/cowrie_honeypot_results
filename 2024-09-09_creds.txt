@@ -170,3 +170,7 @@ guest:88888888
 operator:111111111
 Root:password
 operator:33333333
+default:default2008
+guest:guest2011
+User:qwerty
+unknown:unknown2015
