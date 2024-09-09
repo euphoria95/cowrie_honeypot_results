@@ -67,3 +67,6 @@ Guest:Password
 unknown:2
 blank:99999
 config:11
+admin:admin77
+default:555555555
+nobody:66666
