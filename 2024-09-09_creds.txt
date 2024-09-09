@@ -235,3 +235,6 @@ guest:guest2002
 admin:111111
 admin:admin1234
 admin:7ujMko0admin
+operator:666666666
+unknown:666666666
+default:default2007
