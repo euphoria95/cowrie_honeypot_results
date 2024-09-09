@@ -56,3 +56,10 @@ devops:Devops@123
 dietpi:123456
 ubnt:7777777
 user:User@123
+hadoop:abc@123
+blank:5555
+jenkinsuser:123
+Guest:123456789
+pp:123456
+nobody:666
+nobody:nobody666
