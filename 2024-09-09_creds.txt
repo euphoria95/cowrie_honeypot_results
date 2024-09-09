@@ -63,3 +63,7 @@ Guest:123456789
 pp:123456
 nobody:666
 nobody:nobody666
+Guest:Password
+unknown:2
+blank:99999
+config:11
