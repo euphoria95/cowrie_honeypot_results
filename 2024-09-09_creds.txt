@@ -238,3 +238,7 @@ admin:7ujMko0admin
 operator:666666666
 unknown:666666666
 default:default2007
+guest:guest2014
+default:333333333
+nobody:nobody2011
+guest:111111111
