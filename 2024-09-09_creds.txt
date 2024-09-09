@@ -158,3 +158,8 @@ unknown:8888888
 Admin:Abcd123
 Default:654321
 telnet:Abcd1234
+test:test99
+guest:guest2023
+User:123
+supervisor:supervisor2013
+nobody:55
