@@ -168,3 +168,5 @@ Debian:Debian
 guest:888888888
 guest:88888888
 operator:111111111
+Root:password
+operator:33333333
