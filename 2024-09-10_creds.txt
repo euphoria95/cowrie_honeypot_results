@@ -69,3 +69,7 @@ craft:craft!@#
 config:config2022
 max:max!123
 supervisor:supervisor2020
+guest:666666666
+unknown:88888888
+default:default2002
+nobody:nobody2010
