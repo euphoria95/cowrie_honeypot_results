@@ -62,3 +62,10 @@ guest:guest2001
 supervisor:111111111
 guest:guest2017
 unknown:unknown2014
+naveen:naveen123
+oracle:oracle!@#$
+guest:222222222
+craft:craft!@#
+config:config2022
+max:max!123
+supervisor:supervisor2020
