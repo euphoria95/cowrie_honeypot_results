@@ -51,3 +51,9 @@ guest:guest2018
 unknown:unknown2022
 unknown:unknown2012
 supervisor:22222222
+operator:00000000
+nobody:nobody2019
+operator:888888888
+config:99999999
+t2:123456
+config:config2002
