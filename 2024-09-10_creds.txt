@@ -111,3 +111,7 @@ mehdi:123
 unknown:111111111
 jhlee:jhlee123
 pydio:pydio123
+supervisor:777777777
+config:config2013
+default:777777777
+config:config2024
