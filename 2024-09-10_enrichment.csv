@@ -37,3 +37,7 @@ IP address,remote ssh version,country_code2,organization,asn
 74.96.218.194,SSH-2.0-OpenSSH_7.4,US,Verizon Business,
 220.203.1.193,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 200.219.152.14,SSH-2.0-OpenSSH_7.4,BR,ASN block not managed by the RIPE NCC,
+103.120.237.19,SSH-2.0-OpenSSH_7.4,IN,Ekdant Communication Pvt Ltd,
+83.136.176.12,SSH-2.0-OpenSSH_7.4,ES,Xarxes Esteses de Comunicacions SL,
+217.210.191.116,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+167.172.187.155,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
