@@ -119,3 +119,15 @@ config:config2023
 unknown:555555555
 supervisor:666666666
 default:default2012
+unknown:unknown2000
+supervisor:supervisor2012
+cc:cc
+pi:raspberryraspberry993311
+ftp:ftp
+ruth:ruth
+config:config2021
+casino:123
+pi:raspberry
+odin:123456
+default:default2016
+opc:opc@123
