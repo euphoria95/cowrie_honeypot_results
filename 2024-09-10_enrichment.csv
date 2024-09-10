@@ -129,3 +129,8 @@ IP address,remote ssh version,country_code2,organization,asn
 183.249.1.72,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
 66.240.236.116,SSH-2.0-Go,US,"CariNet, Inc.",
 165.227.66.238,SSH-2.0-OpenSSH_7.4,US,"DigitalOcean, LLC",
+15.188.127.144,SSH-2.0-libssh2_1.11.0,FR,"Amazon.com, Inc.",
+61.12.84.172,SSH-2.0-OpenSSH_7.4,IN,TTSL-ISP DIVISION,
+179.42.124.80,SSH-2.0-OpenSSH_7.4,BR,Ch Informatica Ltda,
+81.237.176.163,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+65.20.226.75,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
