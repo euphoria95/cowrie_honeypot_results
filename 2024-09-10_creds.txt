@@ -6,3 +6,9 @@ unknown:888888888
 default:77777777
 unknown:00000000
 default:999999999
+345gs5662d34:345gs5662d34
+guest:guest2003
+config:888888888
+nobody:nobody2016
+supervisor:supervisor2001
+operator:444444444
