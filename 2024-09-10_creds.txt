@@ -182,3 +182,7 @@ zhangbin:123456
 roma:123
 yyh:123456
 javad:javad
+guest:guest2012
+guest:guest2006
+supervisor:supervisor2000
+default:00000000
