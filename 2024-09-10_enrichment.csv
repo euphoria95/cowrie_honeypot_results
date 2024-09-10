@@ -100,3 +100,8 @@ IP address,remote ssh version,country_code2,organization,asn
 45.115.173.11,SSH-2.0-OpenSSH_7.4,IN,Mukand Infotel Pvt Ltd.,
 209.38.46.178,SSH-2.0-Go,NL,"DigitalOcean, LLC",
 208.105.133.214,SSH-2.0-OpenSSH_7.4,US,Charter Communications Inc,
+123.212.0.130,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
+200.192.208.85,SSH-2.0-OpenSSH_7.4,BR,ASN block not managed by the RIPE NCC,
+172.202.252.67,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+106.55.161.136,SSH-2.0-OpenSSH_7.4,CN,Shenzhen Tencent Computer Systems Company Limited,
+182.18.146.238,SSH-2.0-OpenSSH_7.4,IN,CtrlS,
