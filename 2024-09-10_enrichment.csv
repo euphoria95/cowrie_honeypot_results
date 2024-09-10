@@ -76,3 +76,7 @@ IP address,remote ssh version,country_code2,organization,asn
 103.177.124.8,SSH-2.0-OpenSSH_7.4,BD,Earth Telecommunication ( pvt ) Limited,
 121.202.200.31,SSH-2.0-OpenSSH_7.4,HK,Smartone Mobile communications Limited,
 129.222.123.71,SSH-2.0-OpenSSH_7.4,US,Space Exploration Technologies Corporation,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+103.177.124.9,SSH-2.0-OpenSSH_7.4,BD,Earth Telecommunication ( pvt ) Limited,
+203.129.225.4,SSH-2.0-OpenSSH_7.4,IN,Software Technology Parks of India - Bangalore,
+104.4.61.45,,US,"AT&T Services, Inc.",
