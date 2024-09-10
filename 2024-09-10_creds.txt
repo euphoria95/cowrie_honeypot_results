@@ -131,3 +131,5 @@ pi:raspberry
 odin:123456
 default:default2016
 opc:opc@123
+operator:44444444
+config:config2011
