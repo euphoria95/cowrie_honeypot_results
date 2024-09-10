@@ -39,3 +39,11 @@ ahmed:123456
 unknown:unknown2008
 umang:123456
 mongo:123456
+nobody:nobody2015
+hassan:hassan1234
+guest:guest2019
+guest:guest2000
+operator:88888888
+testuser:Testuser@123
+root:root
+hussain:hussain
