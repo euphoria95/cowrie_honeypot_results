@@ -42,3 +42,7 @@ IP address,remote ssh version,country_code2,organization,asn
 20.193.141.133,SSH-2.0-libssh_0.9.6,IN,Microsoft Corporation,
 1.31.87.230,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+122.163.122.138,SSH-2.0-OpenSSH_7.4,IN,Bharti Airtel Limited,
+81.232.159.138,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+165.16.44.5,SSH-2.0-OpenSSH_7.4,LY,Aljeel Aljadeed For Technology,
+83.249.93.150,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
