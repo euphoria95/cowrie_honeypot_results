@@ -10,3 +10,16 @@ guest:55555555
 unknown:22222222
 345gs5662d34:345gs5662d34
 supervisor:55555555
+config:config2016
+sdbadmin:sdbadmin
+simon:123
+giulio:giulio123
+default:default2006
+diya:123
+cedric:cedric
+arcadia:arcadia123
+nobody:nobody2004
+pc:pc123
+tim:123
+salih:salih123
+tigergraph:123456
