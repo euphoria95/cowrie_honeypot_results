@@ -162,3 +162,6 @@ mail:root
 oracle:oracle!@#$
 centos:admin
 Webadm:test
+apache:test
+Config:root
+Mail:admin
