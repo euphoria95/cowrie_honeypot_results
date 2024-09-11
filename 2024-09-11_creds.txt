@@ -249,3 +249,6 @@ Sales:test
 student:123
 git:abc123
 Tester:admin
+Ftpuser:test
+Postfix:root
+tester:admin
