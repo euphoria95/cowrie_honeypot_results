@@ -177,3 +177,7 @@ user1:root
 httpd:root
 Supervisor:test
 office:admin
+lp:root
+linux:admin
+Config:admin
+www:root
