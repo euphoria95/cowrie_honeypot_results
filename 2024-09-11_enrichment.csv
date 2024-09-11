@@ -102,3 +102,7 @@ IP address,remote ssh version,country_code2,organization,asn
 223.82.233.7,SSH-2.0-OpenSSH_7.4,CN,China Mobile,
 223.223.177.215,SSH-2.0-OpenSSH_7.4,CN,"BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.,Ltd.",
 65.20.139.136,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
+78.67.64.48,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+71.86.209.208,SSH-2.0-OpenSSH_7.4,US,Charter Communications,
+106.255.78.19,SSH-2.0-OpenSSH_7.4,KR,LG DACOM Corporation,
+51.75.142.157,SSH-2.0-OpenSSH_7.4,FR,OVH SAS,
