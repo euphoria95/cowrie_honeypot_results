@@ -174,3 +174,6 @@ Webmaster:admin
 webmaster:admin
 Master:test
 user1:root
+httpd:root
+Supervisor:test
+office:admin
