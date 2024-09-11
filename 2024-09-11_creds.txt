@@ -170,3 +170,7 @@ shell:root
 test2:root
 Bin:admin
 Mail:root
+Webmaster:admin
+webmaster:admin
+Master:test
+user1:root
