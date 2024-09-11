@@ -137,3 +137,17 @@ web:test
 games:root
 unknown:unknown2007
 eric:eric@123
+neko:123456
+test:password222
+guest:root
+sales:test
+route:route
+canna:123456
+Nobody:test
+hah:hah
+pak:pak123
+ftpadmin:123
+Guest:test
+lydia:lydia
+Users:root
+tim:timtim
