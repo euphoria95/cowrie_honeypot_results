@@ -44,3 +44,7 @@ www-data:www-data
 developers:developers
 sheller:123
 saif:123
+trans:123
+ubuntu:!QAZ2wsx#EDC4rfv
+supervisor:66666666
+supervisor:333333333
