@@ -252,3 +252,7 @@ Tester:admin
 Ftpuser:test
 Postfix:root
 tester:admin
+Support:root
+Web:test
+Shell:admin
+blank:test
