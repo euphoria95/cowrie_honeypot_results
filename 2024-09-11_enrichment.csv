@@ -54,3 +54,7 @@ IP address,remote ssh version,country_code2,organization,asn
 193.13.169.40,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
 101.35.53.58,SSH-2.0-libssh_0.9.6,CN,Shenzhen Tencent Computer Systems Company Limited,
 90.55.186.205,SSH-2.0-OpenSSH_7.4,FR,Orange S.A.,
+123.203.190.9,SSH-2.0-OpenSSH_7.4,HK,Hong Kong Broadband Network Ltd,
+177.36.16.148,,BR,BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA,
+78.73.68.108,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+13.64.51.72,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
