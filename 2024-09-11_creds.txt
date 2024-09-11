@@ -151,3 +151,14 @@ Guest:test
 lydia:lydia
 Users:root
 tim:timtim
+office:root
+Toor:root
+max:max!123
+craft:craft!@#
+alex:alex@123
+admin:123456
+ansuser:Ansuser1
+mail:root
+oracle:oracle!@#$
+centos:admin
+Webadm:test
