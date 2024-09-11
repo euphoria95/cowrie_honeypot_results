@@ -132,3 +132,8 @@ IP address,remote ssh version,country_code2,organization,asn
 161.35.136.120,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 151.80.61.151,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
 120.70.98.16,SSH-2.0-libssh_0.9.6,CN,CHINATELECOM Xinjiang Wulumuqi MAN network,
+67.20.154.22,SSH-2.0-OpenSSH_7.4,US,Clearwave Communications,
+125.209.118.235,SSH-2.0-OpenSSH_7.4,PK,Multinet Broadband,
+191.103.121.105,SSH-2.0-OpenSSH_7.4,NI,IBW Communications,
+144.48.74.249,SSH-2.0-OpenSSH_7.4,IN,Excitel Broadband Private Limited,
+218.94.104.180,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
