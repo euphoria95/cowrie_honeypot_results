@@ -132,3 +132,8 @@ unknown:99999999
 config:admin
 webadmin:root
 apache:root
+zhangzy:123456
+web:test
+games:root
+unknown:unknown2007
+eric:eric@123
