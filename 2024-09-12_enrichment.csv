@@ -71,3 +71,7 @@ IP address,remote ssh version,country_code2,organization,asn
 72.240.121.31,SSH-2.0-OpenSSH_7.4,US,"Buckeye Cablevision, Inc.",
 209.38.25.188,,AU,"DigitalOcean, LLC",
 198.235.24.226,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+200.192.212.78,SSH-2.0-OpenSSH_7.4,BR,NOVA FIBRA TELECOM S.A.,
+125.64.209.11,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+222.74.136.222,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+139.135.136.34,SSH-2.0-OpenSSH_7.4,PH,ComClark Network & Technology Corp,
