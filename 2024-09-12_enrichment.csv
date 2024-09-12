@@ -126,3 +126,5 @@ IP address,remote ssh version,country_code2,organization,asn
 170.233.144.110,SSH-2.0-libssh_0.9.6,PE,WIN EMPRESAS S.A.C.,
 119.237.168.118,SSH-2.0-OpenSSH_7.4,HK,PCCW IMS Limited,
 115.134.17.209,,MY,TM TECHNOLOGY SERVICES SDN BHD,
+151.177.79.74,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
+103.30.195.61,SSH-2.0-libssh_0.9.6,SG,Cloud Host Pte Ltd,
