@@ -4,3 +4,8 @@ Root:test
 test1:test
 Master:root
 Adm:test
+user1:admin
+Pgsql:root
+Support:admin
+345gs5662d34:345gs5662d34
+Webadm:admin
