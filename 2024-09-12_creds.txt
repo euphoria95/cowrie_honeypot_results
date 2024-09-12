@@ -103,3 +103,7 @@ games:test
 Apache:test
 Games:test
 shell:admin
+Webadmin:test
+webadm:root
+centos:root
+Sales:root
