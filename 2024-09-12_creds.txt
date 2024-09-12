@@ -20,3 +20,5 @@ smart:123456
 wjf:123456
 cds:cds
 logger:123456
+Toor:test
+Bin:test
