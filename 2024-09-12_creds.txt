@@ -115,3 +115,9 @@ Guest:admin
 Users:admin
 testing:root
 Httpd:test
+Linux:test
+Spam:root
+mysql:admin
+pi:raspberryraspberry993311
+lp:test
+pi:raspberry
