@@ -39,3 +39,8 @@ sammy:qazwsx@123
 sesuser:sesuser
 toor:root
 toor:test
+mail:admin
+Test1:admin
+nobody:admin
+Nobody:root
+Debian:admin
