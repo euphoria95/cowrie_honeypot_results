@@ -107,3 +107,7 @@ Webadmin:test
 webadm:root
 centos:root
 Sales:root
+postgres:test
+Linux:root
+Testuser:test
+smmsp:test
