@@ -9,3 +9,14 @@ Pgsql:root
 Support:admin
 345gs5662d34:345gs5662d34
 Webadm:admin
+rustserver:123
+Debian:test
+Apache:admin
+mysql:test
+adm:test
+sgp:sgp@123
+ftpuser:root
+smart:123456
+wjf:123456
+cds:cds
+logger:123456
