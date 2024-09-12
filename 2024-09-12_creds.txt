@@ -270,3 +270,8 @@ supervisor:admin
 Bin:root
 Test2:root
 test2:admin
+oracle:root
+Postgres:admin
+admin1:root
+Server:root
+temp:admin
