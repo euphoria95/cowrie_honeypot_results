@@ -38,3 +38,8 @@ IP address,remote ssh version,country_code2,organization,asn
 78.68.226.31,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
 123.183.174.220,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
 41.226.254.130,SSH-2.0-OpenSSH_7.4,TN,TOPNET,
+14.99.199.106,SSH-2.0-OpenSSH_7.4,IN,TTSL-ISP DIVISION,
+192.155.90.220,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+185.2.228.239,SSH-2.0-OpenSSH_7.4,LT,Tele2 Sverige AB,
+177.174.15.69,SSH-2.0-OpenSSH_7.4,BR,,
+196.28.226.66,SSH-2.0-OpenSSH_7.4,MZ,Telecomunicacoes de Mocambique (TDM),
