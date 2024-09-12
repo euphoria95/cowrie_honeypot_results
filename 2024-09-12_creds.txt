@@ -267,3 +267,6 @@ Postfix:admin
 User1:root
 news:test
 supervisor:admin
+Bin:root
+Test2:root
+test2:admin
