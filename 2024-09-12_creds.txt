@@ -111,3 +111,7 @@ postgres:test
 Linux:root
 Testuser:test
 smmsp:test
+Guest:admin
+Users:admin
+testing:root
+Httpd:test
