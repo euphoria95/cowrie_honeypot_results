@@ -262,3 +262,8 @@ test:qwertyui
 newuser:password
 admin:414141
 users:test
+spam:root
+Postfix:admin
+User1:root
+news:test
+supervisor:admin
