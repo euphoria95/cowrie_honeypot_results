@@ -98,3 +98,8 @@ aditya:aditya
 operator:admin
 Office:admin
 shell:test
+Spam:admin
+games:test
+Apache:test
+Games:test
+shell:admin
