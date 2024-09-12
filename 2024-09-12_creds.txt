@@ -196,3 +196,16 @@ blank:root
 ldapuser:ldapuser
 shistm:123456
 hoss:hoss
+sysman:sysman
+mysql:root
+wer2_all:wer2_all
+mongo:123456
+s2:s2
+Adm:admin
+festival:123456
+Lp:admin
+docker:Docker!
+kongsys:123456
+mm:mm
+db2fenc1:db2fenc1
+oracle:admin
