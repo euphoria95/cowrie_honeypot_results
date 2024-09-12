@@ -95,3 +95,6 @@ Admin:root
 admin1:admin123
 soporte:s0p0rte
 aditya:aditya
+operator:admin
+Office:admin
+shell:test
