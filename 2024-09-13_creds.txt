@@ -144,3 +144,5 @@ testuser:root
 temp:root
 Web:admin
 Admin:test
+Sales:admin
+sales:root
