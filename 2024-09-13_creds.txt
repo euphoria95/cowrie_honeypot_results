@@ -136,3 +136,6 @@ oracletest:123456
 web:root
 cesbsp:123456
 oracle:oracle123
+Pgsql:admin
+Httpd:root
+Smmsp:test
