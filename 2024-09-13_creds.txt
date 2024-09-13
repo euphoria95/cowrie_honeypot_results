@@ -35,3 +35,7 @@ debian:root
 bin:test
 Temp:test
 Nobody:admin
+News:root
+tester:test
+Default:admin
+Games:admin
