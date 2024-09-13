@@ -55,3 +55,8 @@ IP address,remote ssh version,country_code2,organization,asn
 222.74.136.222,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
 117.250.236.234,SSH-2.0-OpenSSH_7.4,IN,Bharat Sanchar Nigam Ltd,
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+81.228.54.185,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+186.239.41.74,SSH-2.0-OpenSSH_7.4,BR,ASN block not managed by the RIPE NCC,
+213.230.65.53,SSH-2.0-OpenSSH_7.4,UZ,Uzbektelekom Joint Stock Company,
+1.27.171.154,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+39.170.5.210,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
