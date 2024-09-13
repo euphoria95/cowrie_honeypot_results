@@ -90,3 +90,7 @@ operator:prom-operator
 yghong:123456
 temp:test
 qhfx:123
+webadmin:admin
+Webmaster:test
+news:root
+Supervisor:root
