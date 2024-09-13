@@ -183,3 +183,8 @@ ubnt:letmein
 config:logon
 Blank:admin
 Support:test
+Test1:root
+default:techsupport
+ubnt:webmaster
+supervisor:administrator
+Centos:test
