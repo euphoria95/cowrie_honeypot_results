@@ -39,3 +39,8 @@ News:root
 tester:test
 Default:admin
 Games:admin
+support:test
+Spam:test
+supervisor:root
+Test2:test
+debian:test
