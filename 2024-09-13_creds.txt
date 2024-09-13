@@ -179,3 +179,7 @@ Www:admin
 config:raspberry
 Testing:admin
 Samba:admin
+ubnt:letmein
+config:logon
+Blank:admin
+Support:test
