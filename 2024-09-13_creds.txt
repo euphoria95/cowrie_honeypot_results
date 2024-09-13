@@ -176,3 +176,6 @@ Webadmin:admin
 httpd:admin
 support:letmein
 Www:admin
+config:raspberry
+Testing:admin
+Samba:admin
