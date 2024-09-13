@@ -103,3 +103,10 @@ Smmsp:admin
 Samba:test
 webadm:test
 postgres:root
+User1:test
+Smmsp:root
+Temp:admin
+webadmin:test
+cernet1:cernet1
+henjjd:123456
+postfix:root
