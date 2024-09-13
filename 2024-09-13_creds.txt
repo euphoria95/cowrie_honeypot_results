@@ -188,3 +188,7 @@ default:techsupport
 ubnt:webmaster
 supervisor:administrator
 Centos:test
+guest:marketing
+Operator:admin
+nobody:dietpi
+Default:root
