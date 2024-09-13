@@ -94,3 +94,8 @@ webadmin:admin
 Webmaster:test
 news:root
 Supervisor:root
+Unknown:root
+adm:admin
+User:test
+pgsql:test
+Tester:root
