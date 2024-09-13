@@ -160,3 +160,7 @@ dockeradmin:Dockeradmin1234
 config:test
 sa:Sa123
 max:max!123
+Ubnt:test
+Pgsql:test
+root:root
+testing:test
