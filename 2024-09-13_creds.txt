@@ -30,3 +30,8 @@ gmodserver2:gmodserver2
 user:Password1!
 ubuntu:Ab123456@
 Mysql:admin
+User:root
+debian:root
+bin:test
+Temp:test
+Nobody:admin
