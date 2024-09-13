@@ -50,3 +50,8 @@ IP address,remote ssh version,country_code2,organization,asn
 88.248.250.143,SSH-2.0-OpenSSH_7.4,TR,TTNet A.S.,
 83.235.21.125,SSH-2.0-libssh_0.9.6,GR,Ote SA (Hellenic Telecommunications Organisation),
 123.252.238.214,SSH-2.0-libssh_0.9.6,IN,Tata Teleservices (Maharashtra) Ltd,
+175.199.167.81,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+208.104.109.162,SSH-2.0-OpenSSH_7.4,US,"Comporium, Inc",
+222.74.136.222,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+117.250.236.234,SSH-2.0-OpenSSH_7.4,IN,Bharat Sanchar Nigam Ltd,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
