@@ -25,3 +25,8 @@ IP address,remote ssh version,country_code2,organization,asn
 103.157.114.194,SSH-2.0-OpenSSH_7.4,ID,SOLUSINET-AS-ID,
 211.243.43.30,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
 222.71.182.30,SSH-2.0-Go,CN,China Telecom (Group),
+105.73.81.42,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
+209.16.68.79,SSH-2.0-OpenSSH_7.4,US,Vexus Fiber,
+211.39.130.134,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+78.67.19.197,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+210.99.223.203,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
