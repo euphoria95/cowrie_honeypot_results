@@ -146,3 +146,17 @@ Web:admin
 Admin:test
 Sales:admin
 sales:root
+craft:craft!@#
+oracle:oracle!@#$
+master:admin
+news:admin
+ansuser:Ansuser1
+deployer:deployer!123
+naveen:naveen123
+Www:test
+carlos:carlos1234
+Mysql:test
+dockeradmin:Dockeradmin1234
+config:test
+sa:Sa123
+max:max!123
