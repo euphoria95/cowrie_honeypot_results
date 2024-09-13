@@ -20,3 +20,8 @@ IP address,remote ssh version,country_code2,organization,asn
 105.242.133.7,SSH-2.0-OpenSSH_7.4,ZA,Vodacom,
 110.4.1.154,SSH-2.0-OpenSSH_7.4,HK,CSL Limited,
 109.9.145.207,SSH-2.0-OpenSSH_7.4,FR,Societe Francaise Du Radiotelephone - SFR SA,
+117.2.60.232,SSH-2.0-OpenSSH_7.4,VN,Asia Pacific Network Information Centre,
+1.82.135.154,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+103.157.114.194,SSH-2.0-OpenSSH_7.4,ID,SOLUSINET-AS-ID,
+211.243.43.30,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
+222.71.182.30,SSH-2.0-Go,CN,China Telecom (Group),
