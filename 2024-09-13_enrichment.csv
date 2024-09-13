@@ -79,3 +79,7 @@ IP address,remote ssh version,country_code2,organization,asn
 57.152.78.4,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 59.23.39.135,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
 168.228.4.124,SSH-2.0-libssh_0.9.6,BR,R L COMERCIO MANUTENCAO REPRESENTACAO DE ELETRO-E,
+222.64.240.113,SSH-2.0-OpenSSH_7.4,CN,China Telecom (Group),
+193.32.162.83,,NL,UNMANAGED LTD,
+151.177.76.86,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
+187.92.192.154,,BR,ASN block not managed by the RIPE NCC,
