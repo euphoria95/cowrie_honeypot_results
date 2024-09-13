@@ -172,3 +172,7 @@ Lp:root
 stack:stack!123
 Unknown:admin
 samba:root
+Webadmin:admin
+httpd:admin
+support:letmein
+Www:admin
