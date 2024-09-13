@@ -99,3 +99,7 @@ adm:admin
 User:test
 pgsql:test
 Tester:root
+Smmsp:admin
+Samba:test
+webadm:test
+postgres:root
