@@ -69,3 +69,7 @@ enisa:enisa
 sansforensics:forensics
 blank:letmein
 blank:webmaster
+support:webadmin
+nproc:P@ssword
+operator:toor
+support:dietpi
