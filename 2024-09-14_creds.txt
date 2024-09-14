@@ -54,3 +54,8 @@ kafka:Kafka@1234
 db:db
 docker:123456
 squid:Squid123
+centos:toor
+nproc:nproc13
+nproc:P@ssw0rd
+debian:Passw@rd
+hacker:compass
