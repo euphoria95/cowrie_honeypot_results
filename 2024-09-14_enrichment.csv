@@ -93,3 +93,8 @@ IP address,remote ssh version,country_code2,organization,asn
 42.200.60.186,SSH-2.0-OpenSSH_7.4,HK,PCCW IMS Limited,
 49.158.80.130,SSH-2.0-libssh_0.9.6,TW,UNION BROADBAND NETWORK,
 90.19.190.197,SSH-2.0-OpenSSH_7.4,FR,Orange S.A.,
+85.24.208.234,SSH-2.0-OpenSSH_7.4,SE,Bahnhof AB,
+36.111.188.89,SSH-2.0-Go,CN,Cloud Computing Corporation,
+222.85.188.6,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+125.20.196.211,SSH-2.0-OpenSSH_7.4,IN,Bharti Airtel Limited,
+72.240.121.31,SSH-2.0-OpenSSH_7.4,US,"Buckeye Cablevision, Inc.",
