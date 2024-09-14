@@ -19,3 +19,6 @@ default:letmein
 nproc:nproc123456
 user:Passw@rd
 nproc:159753
+blank:dietpi
+operator:dietpi
+ubnt:maintenance
