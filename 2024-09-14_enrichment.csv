@@ -15,3 +15,8 @@ IP address,remote ssh version,country_code2,organization,asn
 49.250.45.154,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2,JP,"JCOM Co., Ltd.",
 81.229.132.196,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+48.216.196.240,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+111.42.3.149,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
+218.250.66.235,SSH-2.0-OpenSSH_7.4,HK,PCCW IMS Limited,
+219.128.15.190,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
+103.157.114.226,SSH-2.0-OpenSSH_7.4,ID,SOLUSINET-AS-ID,
