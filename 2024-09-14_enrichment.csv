@@ -29,3 +29,6 @@ IP address,remote ssh version,country_code2,organization,asn
 128.199.75.180,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 205.210.31.240,,BR,Google LLC,
 58.33.109.90,SSH-2.0-OpenSSH_7.4,CN,China Telecom (Group),
+222.155.34.71,SSH-2.0-OpenSSH_7.4,NZ,Spark New Zealand Trading Limited,
+223.197.196.92,SSH-2.0-OpenSSH_7.4,HK,PCCW IMS Limited,
+202.129.35.8,SSH-2.0-OpenSSH_7.4,TH,CAT Telecom Public Company Limited,
