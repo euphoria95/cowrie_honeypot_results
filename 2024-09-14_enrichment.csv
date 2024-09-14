@@ -1,1 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+1.31.80.222,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+211.247.127.251,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
+125.135.16.205,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+218.206.139.50,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
