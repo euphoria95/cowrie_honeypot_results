@@ -94,3 +94,7 @@ nproc:administrator
 debian:webmaster
 nproc:123456789
 guest:alpine
+ubnt:techsupport
+nproc:123123123
+test:maintenance
+nproc:marketing
