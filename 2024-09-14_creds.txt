@@ -85,3 +85,6 @@ guest:Passw@rd
 root:root
 nproc:root
 centos:webadmin
+device:apc
+nproc:password321
+config:toor
