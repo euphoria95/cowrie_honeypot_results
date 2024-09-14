@@ -1,2 +1,4 @@
 admin:uploader
 user:webadmin
+operator:marketing
+nobody:alpine
