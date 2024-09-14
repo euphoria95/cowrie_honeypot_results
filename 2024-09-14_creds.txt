@@ -66,3 +66,6 @@ user:uploader
 support:uploader
 operator:letmein
 enisa:enisa
+sansforensics:forensics
+blank:letmein
+blank:webmaster
