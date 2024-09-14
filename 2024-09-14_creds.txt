@@ -62,3 +62,7 @@ hacker:compass
 nproc:webmaster
 unknown:alpine
 test:techsupport
+user:uploader
+support:uploader
+operator:letmein
+enisa:enisa
