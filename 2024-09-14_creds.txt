@@ -2,3 +2,9 @@ admin:uploader
 user:webadmin
 operator:marketing
 nobody:alpine
+guest:webadmin
+nobody:letmein
+support:toor
+pi:raspberryraspberry993311
+nproc:123abc
+pi:raspberry
