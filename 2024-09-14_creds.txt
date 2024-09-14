@@ -12,3 +12,7 @@ osbash:osbash
 config:Passw@rd
 user:maintenance
 nproc:123321
+guest:dietpi
+345gs5662d34:345gs5662d34
+support:marketing
+default:letmein
