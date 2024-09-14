@@ -90,3 +90,7 @@ nproc:password321
 config:toor
 operator:maintenance
 nproc:nproc2
+nproc:administrator
+debian:webmaster
+nproc:123456789
+guest:alpine
