@@ -80,3 +80,8 @@ debian:webadmin
 blank:maintenance
 administrator:Amx1234!
 nobody:raspberry
+centos:webmaster
+guest:Passw@rd
+root:root
+nproc:root
+centos:webadmin
