@@ -66,3 +66,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.212.60.112,,US,Microsoft Corporation,
 59.44.47.106,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
 123.203.33.24,SSH-2.0-OpenSSH_7.4,HK,Hong Kong Broadband Network Ltd,
+157.122.183.220,SSH-2.0-OpenSSH_7.4,CN,China Unicom IP network China169 Guangdong province,
+81.232.159.138,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+115.88.121.73,SSH-2.0-OpenSSH_7.4,KR,LG DACOM Corporation,
