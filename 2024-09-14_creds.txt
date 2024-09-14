@@ -22,3 +22,7 @@ nproc:159753
 blank:dietpi
 operator:dietpi
 ubnt:maintenance
+debian:techsupport
+test:alpine
+nproc:passwd
+nproc:nproc7
