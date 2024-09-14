@@ -73,3 +73,9 @@ support:webadmin
 nproc:P@ssword
 operator:toor
 support:dietpi
+NetLinx:password
+nproc:654321
+debian:dietpi
+debian:webadmin
+blank:maintenance
+administrator:Amx1234!
