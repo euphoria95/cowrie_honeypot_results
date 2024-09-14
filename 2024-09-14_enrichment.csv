@@ -104,3 +104,7 @@ IP address,remote ssh version,country_code2,organization,asn
 182.75.234.235,SSH-2.0-OpenSSH_7.4,IN,Bharti Airtel Limited,
 14.23.77.27,SSH-2.0-OpenSSH_7.4,CN,CHINANET-BACKBONE,
 121.202.196.194,SSH-2.0-OpenSSH_7.4,HK,Smartone Mobile communications Limited,
+45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+170.238.145.36,SSH-2.0-OpenSSH_7.4,BR,,
+103.35.169.154,SSH-2.0-OpenSSH_7.4,BD,Cyber Way Technology,
+27.74.251.177,SSH-2.0-OpenSSH_7.4,VN,Viettel Group,
