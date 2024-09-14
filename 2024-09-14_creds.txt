@@ -16,3 +16,6 @@ guest:dietpi
 345gs5662d34:345gs5662d34
 support:marketing
 default:letmein
+nproc:nproc123456
+user:Passw@rd
+nproc:159753
