@@ -26,3 +26,8 @@ debian:techsupport
 test:alpine
 nproc:passwd
 nproc:nproc7
+nproc:webadmin
+nproc:12345678
+nproc:qwerty12
+centos:administrator
+unknown:letmein
