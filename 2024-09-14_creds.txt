@@ -8,3 +8,7 @@ support:toor
 pi:raspberryraspberry993311
 nproc:123abc
 pi:raspberry
+osbash:osbash
+config:Passw@rd
+user:maintenance
+nproc:123321
