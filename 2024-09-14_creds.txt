@@ -88,3 +88,5 @@ centos:webadmin
 device:apc
 nproc:password321
 config:toor
+operator:maintenance
+nproc:nproc2
