@@ -1,0 +1,3 @@
+config:techsupport
+operator:alpine
+nproc:nproc12345
