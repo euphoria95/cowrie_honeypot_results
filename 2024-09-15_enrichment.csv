@@ -116,3 +116,7 @@ IP address,remote ssh version,country_code2,organization,asn
 61.169.149.171,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 72.167.39.185,SSH-2.0-OpenSSH_7.4,US,"GoDaddy.com, LLC",
 184.56.188.230,SSH-2.0-OpenSSH,US,Charter Communications Inc,
+59.4.55.162,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+138.68.143.68,SSH-2.0-Go,GB,"DigitalOcean, LLC",
+131.161.220.242,SSH-2.0-OpenSSH_7.4,EC,MARVICNET CIA LTDA,
+221.195.208.171,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
