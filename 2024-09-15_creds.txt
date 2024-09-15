@@ -54,3 +54,5 @@ sans:training
 blank:alpine
 nproc:nproc1234567890
 ubnt:dietpi
+operator:Passw@rd
+blank:toor
