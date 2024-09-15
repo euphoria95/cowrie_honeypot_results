@@ -49,3 +49,5 @@ IP address,remote ssh version,country_code2,organization,asn
 46.50.205.61,SSH-2.0-OpenSSH_7.4,RU,Joint Stock Company TransTeleCom,
 59.2.248.75,SSH-2.0-Go,KR,Korea Telecom,
 188.151.33.216,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
+210.3.200.114,SSH-2.0-OpenSSH_7.4,HK,HGC Global Communications Limited,
+72.240.121.31,SSH-2.0-OpenSSH_7.4,US,"Buckeye Cablevision, Inc.",
