@@ -47,3 +47,7 @@ admin:dietpi
 osboxes:osboxes.org
 operator:techsupport
 debian:administrator
+nao:nao
+default:webmaster
+unknown:webadmin
+sans:training
