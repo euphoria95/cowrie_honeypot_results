@@ -45,3 +45,5 @@ nproc:alpine
 nproc:nproc
 admin:dietpi
 osboxes:osboxes.org
+operator:techsupport
+debian:administrator
