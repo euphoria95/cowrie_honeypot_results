@@ -69,3 +69,7 @@ nproc:nproc4
 nproc:password123
 guest:logon
 nproc:techsupport
+default:uploader
+m202:m202
+nproc:letmein
+user:techsupport
