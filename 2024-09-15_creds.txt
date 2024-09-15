@@ -51,3 +51,6 @@ nao:nao
 default:webmaster
 unknown:webadmin
 sans:training
+blank:alpine
+nproc:nproc1234567890
+ubnt:dietpi
