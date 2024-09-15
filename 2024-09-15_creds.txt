@@ -21,3 +21,9 @@ nproc:password
 user:logon
 nobody:logon
 unknown:toor
+pi:raspberryraspberry993311
+nproc:qwerty
+user:toor
+nproc:abcd1234
+pi:raspberry
+test:letmein
