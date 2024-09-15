@@ -56,3 +56,7 @@ nproc:nproc1234567890
 ubnt:dietpi
 operator:Passw@rd
 blank:toor
+nproc:p@ssword
+admin:techsupport
+nproc:nproc123456789
+unknown:logon
