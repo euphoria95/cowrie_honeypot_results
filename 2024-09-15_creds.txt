@@ -15,3 +15,9 @@ nproc:123
 blank:techsupport
 config:alpine
 nproc:1qaz2wsx
+supervisor:uploader
+nproc:nproc6
+nproc:password
+user:logon
+nobody:logon
+unknown:toor
