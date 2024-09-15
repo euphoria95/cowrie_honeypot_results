@@ -73,3 +73,9 @@ default:uploader
 m202:m202
 nproc:letmein
 user:techsupport
+eurek:eurek
+centos:logon
+nproc:qwer1234
+support:administrator
+default:marketing
+root:123456
