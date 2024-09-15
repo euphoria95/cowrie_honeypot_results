@@ -85,3 +85,5 @@ nproc:maintenance
 fwupgrade:fwupgrade
 nobody:marketing
 ubnt:logon
+operator:raspberry
+supervisor:webmaster
