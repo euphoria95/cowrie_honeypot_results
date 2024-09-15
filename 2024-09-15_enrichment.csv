@@ -130,3 +130,6 @@ IP address,remote ssh version,country_code2,organization,asn
 130.185.96.113,SSH-2.0-OpenSSH_7.4,IL,Pelephone Communications Ltd.,
 65.20.155.223,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
 118.145.159.81,SSH-2.0-Go,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+147.185.132.9,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+211.223.41.90,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+185.220.101.188,SSH-2.0-OpenSSH_9.8,DE,Stiftung Erneuerbare Freiheit,
