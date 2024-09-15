@@ -37,3 +37,5 @@ operator:administrator
 max:max!123
 user:administrator
 admin:webadmin
+supervisor:marketing
+nobody:toor
