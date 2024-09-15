@@ -5,3 +5,9 @@ nproc:nproc12345
 default:raspberry
 nproc:nproc12345678
 nproc:123qwe
+nproc:test
+debian:alpine
+config:marketing
+nproc:1q2w3e4r
+root:root
+supervisor:maintenance
