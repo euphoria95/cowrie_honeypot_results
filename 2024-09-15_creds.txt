@@ -64,3 +64,8 @@ admin:marketing
 nproc:Password
 admin:logon
 nproc:112233
+default:administrator
+nproc:nproc4
+nproc:password123
+guest:logon
+nproc:techsupport
