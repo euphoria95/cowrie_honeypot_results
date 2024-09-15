@@ -82,3 +82,6 @@ root:123456
 centos:uploader
 nproc:default
 nproc:maintenance
+fwupgrade:fwupgrade
+nobody:marketing
+ubnt:logon
