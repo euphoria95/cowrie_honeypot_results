@@ -65,3 +65,8 @@ IP address,remote ssh version,country_code2,organization,asn
 223.197.186.7,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
 219.144.67.60,SSH-2.0-libssh_0.9.6,CN,CHINANET SHAANXI province Cloud Base network,
 197.153.57.103,SSH-2.0-libssh_0.9.6,MA,MEDITELECOM,
+200.37.179.83,SSH-2.0-OpenSSH_7.4,PE,Telefonica del Peru S.A.A.,
+73.174.242.5,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
+102.23.254.237,SSH-2.0-OpenSSH_7.4,ZA,JENNY INTERNET (PTY) LTD,
+14.54.22.11,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+223.75.135.39,SSH-2.0-OpenSSH_7.4,CN,China Mobile,
