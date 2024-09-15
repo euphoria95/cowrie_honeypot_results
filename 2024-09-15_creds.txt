@@ -30,3 +30,10 @@ test:letmein
 guest:webmaster
 nproc:passw0rd
 supervisor:letmein
+naveen:naveen123
+debian:letmein
+nproc:0987654321
+operator:administrator
+max:max!123
+user:administrator
+admin:webadmin
