@@ -79,3 +79,6 @@ nproc:qwer1234
 support:administrator
 default:marketing
 root:123456
+centos:uploader
+nproc:default
+nproc:maintenance
