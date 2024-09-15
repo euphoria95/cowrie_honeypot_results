@@ -27,3 +27,6 @@ user:toor
 nproc:abcd1234
 pi:raspberry
 test:letmein
+guest:webmaster
+nproc:passw0rd
+supervisor:letmein
