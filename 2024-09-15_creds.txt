@@ -60,3 +60,7 @@ nproc:p@ssword
 admin:techsupport
 nproc:nproc123456789
 unknown:logon
+admin:marketing
+nproc:Password
+admin:logon
+nproc:112233
