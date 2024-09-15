@@ -39,3 +39,9 @@ user:administrator
 admin:webadmin
 supervisor:marketing
 nobody:toor
+user:dietpi
+default:webadmin
+nproc:alpine
+nproc:nproc
+admin:dietpi
+osboxes:osboxes.org
