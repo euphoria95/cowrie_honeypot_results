@@ -1,3 +1,7 @@
 config:techsupport
 operator:alpine
 nproc:nproc12345
+345gs5662d34:345gs5662d34
+default:raspberry
+nproc:nproc12345678
+nproc:123qwe
