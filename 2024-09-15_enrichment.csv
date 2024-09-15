@@ -80,3 +80,7 @@ IP address,remote ssh version,country_code2,organization,asn
 110.14.192.20,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
 183.215.1.244,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
 177.10.60.13,SSH-2.0-OpenSSH_7.4,BR,Hoinaski & Sklasky Ltda,
+179.42.124.80,SSH-2.0-OpenSSH_7.4,BR,,
+84.197.138.250,SSH-2.0-OpenSSH_7.4,BE,Telenet BV,
+213.136.39.75,SSH-2.0-OpenSSH_7.4,SE,Bahnhof AB,
+65.20.164.43,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
