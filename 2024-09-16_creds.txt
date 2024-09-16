@@ -132,3 +132,5 @@ solr:passwd
 myuser:1qaz@WSX
 buildbot:buildbot
 www:1qaz2wsx
+nproc:nproc1
+supervisor:toor
