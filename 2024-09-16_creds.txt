@@ -160,3 +160,8 @@ ubuntu:g_czechout
 ts3server:ts3server1
 User:123123
 sftp:SFTP@2024
+nproc:nproc8
+unknown:administrator
+unknown:maintenance
+blank:Passw@rd
+test4:zaq1wsxcdv
