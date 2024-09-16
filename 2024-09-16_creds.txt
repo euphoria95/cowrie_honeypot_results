@@ -65,3 +65,17 @@ monitor:qwer1234
 admin01:qwer1234
 elasticsearch:elasticsearch123!
 testing:t3st1ng
+ftp:Ftp1234
+pyimagesearch:deeplearning
+support:Support@123
+ubuntu:admin!@
+ftp:ftp_123
+user4:Qwe123123
+develops:develops.2024
+ftpuser:444444
+user61:user61
+ubuntuserver:123
+ubuntu:adminer3100
+nproc:toor
+student1:123456
+admin:xsw2P)O(
