@@ -10,3 +10,6 @@ operator:logon
 supervisor:techsupport
 nproc:1q2w3e
 nproc:admin
+nproc:uploader
+nproc:qwerty1234
+nproc:1234567890
