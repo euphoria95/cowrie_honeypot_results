@@ -199,3 +199,5 @@ jenkins:12345678
 hadoop:Hadoop123
 darryl:test
 admin:maintenance
+guest:maintenance
+nobody:techsupport
