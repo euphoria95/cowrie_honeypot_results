@@ -53,3 +53,8 @@ IP address,remote ssh version,country_code2,organization,asn
 114.217.18.40,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
 134.209.154.30,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 1.55.33.86,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
+103.157.114.162,SSH-2.0-OpenSSH_7.4,ID,SOLUSINET-AS-ID,
+65.20.167.160,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
+60.221.224.220,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+188.151.20.230,SSH-2.0-OpenSSH_7.4,SE,Tele2 Sverige AB,
+223.171.91.167,,KR,LGTELECOM,
