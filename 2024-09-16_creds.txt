@@ -13,3 +13,5 @@ nproc:admin
 nproc:uploader
 nproc:qwerty1234
 nproc:1234567890
+nproc:qwerty1
+nproc:123456
