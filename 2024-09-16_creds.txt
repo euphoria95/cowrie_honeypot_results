@@ -1,3 +1,7 @@
 admin:admin
 admin:1q2w3e
 root:root
+nobody:webmaster
+nproc:987654321
+apc:apc
+nproc:nproc11
