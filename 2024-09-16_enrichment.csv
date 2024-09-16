@@ -65,3 +65,7 @@ IP address,remote ssh version,country_code2,organization,asn
 177.74.105.179,SSH-2.0-libssh_0.9.6,BR,,
 64.227.40.101,SSH-2.0-libssh_0.9.6,GB,"DigitalOcean, LLC",
 124.223.43.10,SSH-2.0-libssh_0.9.6,CN,Shenzhen Tencent Computer Systems Company Limited,
+106.107.173.49,SSH-2.0-OpenSSH_7.4,TW,Taiwan Infrastructure Network Technologie,
+24.97.253.246,SSH-2.0-OpenSSH_7.4,US,Charter Communications Inc,
+58.19.246.172,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+111.70.7.105,SSH-2.0-OpenSSH_7.4,TW,EMOME-NET,
