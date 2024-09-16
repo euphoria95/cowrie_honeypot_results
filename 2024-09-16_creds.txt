@@ -19,3 +19,6 @@ guest:administrator
 test:dietpi
 user:letmein
 nproc:nproc1234567
+nproc:nproc123
+nproc:qwerty123
+amx:Amx1234!
