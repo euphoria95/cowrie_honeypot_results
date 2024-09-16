@@ -134,3 +134,6 @@ buildbot:buildbot
 www:1qaz2wsx
 nproc:nproc1
 supervisor:toor
+guest:toor
+test:administrator
+centos:raspberry
