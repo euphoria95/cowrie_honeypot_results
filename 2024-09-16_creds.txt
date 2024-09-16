@@ -15,3 +15,7 @@ nproc:qwerty1234
 nproc:1234567890
 nproc:qwerty1
 nproc:123456
+guest:administrator
+test:dietpi
+user:letmein
+nproc:nproc1234567
