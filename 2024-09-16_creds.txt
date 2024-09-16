@@ -165,3 +165,6 @@ unknown:administrator
 unknown:maintenance
 blank:Passw@rd
 test4:zaq1wsxcdv
+nobody:maintenance
+guest:raspberry
+operator:webmaster
