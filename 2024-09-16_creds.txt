@@ -8,3 +8,5 @@ nproc:nproc11
 345gs5662d34:345gs5662d34
 operator:logon
 supervisor:techsupport
+nproc:1q2w3e
+nproc:admin
