@@ -123,3 +123,4 @@ IP address,remote ssh version,country_code2,organization,asn
 43.156.9.25,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
 137.184.185.209,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 220.248.35.196,SSH-2.0-libssh_0.9.6,CN,China Unicom Shanghai network,
+140.186.91.73,SSH-2.0-Go,US,Midcontinent Communications,
