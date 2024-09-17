@@ -3,3 +3,6 @@ IP address,remote ssh version,country_code2,organization,asn
 46.101.75.156,,GB,"DigitalOcean, LLC",
 4.151.36.251,SSH-2.0-Go,US,Microsoft Corporation,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+14.225.206.98,SSH-2.0-libssh_0.9.6,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,
+147.185.132.84,,US,Google LLC,
+176.114.224.76,SSH-2.0-Go,RU,Golitsyno Telecom Ltd,
