@@ -44,3 +44,13 @@ ubuntu:1q2w
 ftp1:a123456
 esuser:Esuser2022
 admin:q1
+ubuntu:admin123456789
+admin:Passw@rd
+nagios:soigan
+user:demo12
+dev:dev4321
+admin:cookie
+admin:777777777
+admin:1qaz
+adm:adm2022
+user0:123qwe
