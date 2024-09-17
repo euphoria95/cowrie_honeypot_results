@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 45.55.68.205,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 45.84.89.3,,US,Inspici LLC,
 147.185.132.186,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+206.189.32.56,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+159.223.227.99,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
