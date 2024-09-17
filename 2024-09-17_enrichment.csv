@@ -26,3 +26,6 @@ IP address,remote ssh version,country_code2,organization,asn
 104.248.146.99,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 175.6.211.133,SSH-2.0-libssh_0.9.6,CN,Hengyang,
 101.47.24.170,SSH-2.0-libssh_0.9.6,CN,Byteplus Pte. Ltd.,
+172.235.16.226,SSH-2.0-libssh_0.9.6,IN,"Akamai Technologies, Inc.",
+177.200.34.186,SSH-2.0-libssh_0.9.6,BR,BR27 Serviï¿½os de Tecnologia Ltda.,
+52.249.39.4,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
