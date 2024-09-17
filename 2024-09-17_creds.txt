@@ -54,3 +54,9 @@ admin:777777777
 admin:1qaz
 adm:adm2022
 user0:123qwe
+student1:letmein
+web:web321
+test:87654321
+student06:student06
+newftpuser:123
+admin:pass@word1
