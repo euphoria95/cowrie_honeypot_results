@@ -2,3 +2,4 @@ IP address,remote ssh version,country_code2,organization,asn
 186.209.125.50,SSH-2.0-OpenSSH,BR,ALLTEC INTERNET,
 46.101.75.156,,GB,"DigitalOcean, LLC",
 4.151.36.251,SSH-2.0-Go,US,Microsoft Corporation,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
