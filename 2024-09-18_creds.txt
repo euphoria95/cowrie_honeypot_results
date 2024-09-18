@@ -113,3 +113,14 @@ test:admin@123
 sammy:asdfg
 admin:upload123
 upload:test123
+user:dev12
+user1:oracle123
+dbadmin:dbadmin123@
+monitor:Monitor@2024
+sammy:2wsx1qaz
+alex:alex888
+student:444444444
+username:username.2023
+oracle:qwer1234
+upload:q1w2e3r4
+debian:debian@321
