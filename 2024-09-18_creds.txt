@@ -154,3 +154,5 @@ alina:alina123
 test1:q1w2e3
 bcbackup:bcbackup
 test:asdfasdf
+pi:raspberry
+pi:raspberryraspberry993311
