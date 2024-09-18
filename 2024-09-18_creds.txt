@@ -110,3 +110,6 @@ admin:4c0wlnq1
 matt:matt123
 alex:alex@1234
 test:admin@123
+sammy:asdfg
+admin:upload123
+upload:test123
