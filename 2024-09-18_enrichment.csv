@@ -11,3 +11,5 @@ IP address,remote ssh version,country_code2,organization,asn
 114.242.111.210,,CN,China Unicom Beijing Province Network,
 36.66.66.195,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
 92.154.95.236,SSH-2.0-OPENSSH_7.9,FR,Orange S.A.,
+168.235.81.22,SSH-2.0-libssh_0.9.6,US,"InMotion Hosting, Inc.",
+93.63.138.232,SSH-2.0-OpenSSH_7.4,IT,Fastweb SpA,
