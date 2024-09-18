@@ -237,3 +237,9 @@ vyos:123123
 esunny:123456
 test:Welcome@123
 Admin:1234567
+user:developer1234
+git:Qazxsw123
+postgres:789UIOjkl
+oracle:123456qwerty
+user:a
+user:qwerty12
