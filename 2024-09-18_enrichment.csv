@@ -1,3 +1,10 @@
 IP address,remote ssh version,country_code2,organization,asn
 51.158.254.87,SSH-2.0-Go,NL,SCALEWAY S.A.S.,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+180.100.202.92,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+36.67.56.52,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
+210.61.177.151,SSH-2.0-libssh_0.9.6,TW,"Chunghwa Telecom Co., Ltd.",
+8.219.163.87,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+91.214.130.17,SSH-2.0-libssh_0.9.6,UA,Ardinvest,
+36.64.217.27,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
+4.246.247.100,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
