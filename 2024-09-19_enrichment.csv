@@ -9,3 +9,7 @@ IP address,remote ssh version,country_code2,organization,asn
 159.223.50.96,,SG,"DigitalOcean, LLC",
 185.193.240.244,SSH-2.0-OpenSSH_7.4,MK,GLOBALSAT DOOEL,
 118.45.113.140,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
+85.118.0.124,,GB,Redcentric Solutions Ltd,
+72.131.56.77,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2,US,Charter Communications Inc,
+178.88.161.82,SSH-2.0-Go,KZ,JSC Kazakhtelecom,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
