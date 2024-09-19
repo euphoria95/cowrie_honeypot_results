@@ -9,3 +9,9 @@ socks:123456
 elasticsearch:elasticsearch123
 thomas:1234
 library:library
+admin:admin$123
+webmaster:webmaster123
+ark:arkserver
+admin:toto
+ftpusr:123456
+ubuntu:frappe
