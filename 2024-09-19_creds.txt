@@ -1,0 +1,5 @@
+noritaka:noritaka
+pi:raspberry
+pi:raspberryraspberry993311
+vadmin:vadmin
+blank:blank
