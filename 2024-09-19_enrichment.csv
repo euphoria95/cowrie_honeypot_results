@@ -74,3 +74,7 @@ IP address,remote ssh version,country_code2,organization,asn
 217.142.249.197,SSH-2.0-OpenSSH_7.4,JP,Oracle Corporation,
 185.234.216.122,,RU,Chang Way Technologies Co. Limited,
 170.238.145.36,SSH-2.0-OpenSSH_7.4,BR,,
+205.210.31.16,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+111.67.193.103,,CN,China Unicom Beijing Province Network,
+57.129.4.107,SSH-2.0-Go,DE,OVH SAS,
+65.49.1.38,SSH-2.0-Go,US,Hurricane Electric LLC,
