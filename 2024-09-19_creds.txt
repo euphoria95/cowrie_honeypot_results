@@ -15,3 +15,10 @@ ark:arkserver
 admin:toto
 ftpusr:123456
 ubuntu:frappe
+admin:admin1
+ubuntu:asdQWE123
+root:root
+backup:1234
+alix:alix
+admin:switch
+git:M3gaP33!
