@@ -37,3 +37,5 @@ IP address,remote ssh version,country_code2,organization,asn
 175.215.143.90,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
 178.217.218.86,SSH-2.0-libssh2_1.11.0,PL,NETICO S.C.,
 136.60.8.228,SSH-2.0-Go,US,Google Fiber Inc.,
+172.174.72.225,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+111.67.195.252,,CN,China Unicom Beijing Province Network,
