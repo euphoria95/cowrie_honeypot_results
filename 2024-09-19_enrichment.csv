@@ -35,3 +35,5 @@ IP address,remote ssh version,country_code2,organization,asn
 187.50.67.114,SSH-2.0-OpenSSH_7.4,BR,TELEFï¿½NICA BRASIL S.A,
 73.87.88.208,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
 175.215.143.90,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
+178.217.218.86,SSH-2.0-libssh2_1.11.0,PL,NETICO S.C.,
+136.60.8.228,SSH-2.0-Go,US,Google Fiber Inc.,
