@@ -22,3 +22,8 @@ backup:1234
 alix:alix
 admin:switch
 git:M3gaP33!
+user01:user01
+345gs5662d34:345gs5662d34
+azureuser:azureuser@123
+lfs:lfs
+minikube:minikube
