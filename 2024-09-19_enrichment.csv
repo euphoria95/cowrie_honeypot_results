@@ -40,3 +40,5 @@ IP address,remote ssh version,country_code2,organization,asn
 172.174.72.225,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
 111.67.195.252,,CN,China Unicom Beijing Province Network,
 207.154.248.1,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+95.188.64.5,SSH-2.0-Go,RU,PJSC Rostelecom,
+86.102.131.54,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
