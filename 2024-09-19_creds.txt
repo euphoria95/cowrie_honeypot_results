@@ -3,3 +3,9 @@ pi:raspberry
 pi:raspberryraspberry993311
 vadmin:vadmin
 blank:blank
+siad:password
+arturo:12345
+socks:123456
+elasticsearch:elasticsearch123
+thomas:1234
+library:library
