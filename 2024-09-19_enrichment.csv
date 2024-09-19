@@ -42,3 +42,6 @@ IP address,remote ssh version,country_code2,organization,asn
 207.154.248.1,SSH-2.0-Go,DE,"DigitalOcean, LLC",
 95.188.64.5,SSH-2.0-Go,RU,PJSC Rostelecom,
 86.102.131.54,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
+198.235.24.145,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+45.84.89.3,,US,Inspici LLC,
+103.93.37.178,SSH-2.0-OpenSSH_7.4,IN,Ngc Broadband Pvt. Ltd.,
