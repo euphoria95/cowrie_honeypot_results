@@ -64,3 +64,4 @@ deploy:123
 temp:temp1
 craft:craft!@#
 guest:guest@123
+user:Passw@rd
