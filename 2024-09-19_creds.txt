@@ -65,3 +65,12 @@ temp:temp1
 craft:craft!@#
 guest:guest@123
 user:Passw@rd
+stunnel:stunnel
+ubuntu:qwer1234!@#$
+ashish:ashish
+user:root
+portal:portal
+test:!QAZ2wsx
+kodiak:kodiak
+ricardo:ricardo
+postgres:1234
