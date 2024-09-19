@@ -74,3 +74,5 @@ test:!QAZ2wsx
 kodiak:kodiak
 ricardo:ricardo
 postgres:1234
+root:123456
+osmc:123456
