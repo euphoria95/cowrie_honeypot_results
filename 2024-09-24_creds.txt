@@ -57,3 +57,16 @@ test:A123456
 steam:steam
 odoo:admin
 pi:Raspberry
+jenkins:jenkins
+postgres:password
+smart:12345
+postgres:admin
+payara:payara123
+odoo:odoo
+elemental:E1ementa!5
+oracle:oracle
+reza:reza1234
+iptv:iptv
+koha:koha123
+server:server1234
+ubuntu:root123
