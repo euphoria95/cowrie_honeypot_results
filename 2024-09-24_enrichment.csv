@@ -1,3 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 172.202.242.209,,US,Microsoft Corporation,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+117.50.177.82,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
+69.49.247.85,SSH-2.0-libssh_0.9.6,US,"Network Solutions, LLC",
+8.210.47.214,SSH-2.0-libssh_0.9.6,HK,"Alibaba (US) Technology Co., Ltd.",
