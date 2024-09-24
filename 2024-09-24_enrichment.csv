@@ -10,3 +10,4 @@ IP address,remote ssh version,country_code2,organization,asn
 41.211.101.165,SSH-2.0-libssh_0.9.6,CM,Matrix Telecoms SA,
 205.210.31.31,,BR,Google LLC,
 172.206.146.94,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+192.42.116.212,SSH-2.0-OpenSSH_9.8,NL,SURF B.V.,
