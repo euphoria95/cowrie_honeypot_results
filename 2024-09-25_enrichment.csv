@@ -20,3 +20,4 @@ IP address,remote ssh version,country_code2,organization,asn
 114.96.71.150,SSH-2.0-libssh_0.9.6,CN,China Telecom,
 198.235.24.45,,US,Google LLC,
 47.185.253.146,SSH-2.0-Go,US,"Frontier Communications of America, Inc.",
+94.63.229.20,SSH-2.0-libssh2_1.11.0,PT,Vodafone Portugal - Communicacoes Pessoais S.A.,
