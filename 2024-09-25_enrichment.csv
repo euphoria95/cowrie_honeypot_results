@@ -27,3 +27,4 @@ IP address,remote ssh version,country_code2,organization,asn
 125.74.48.7,SSH-2.0-libssh_0.9.6,CN,China Telecom,
 176.38.37.229,SSH-2.0-libssh_0.9.6,UA,Lanet Network Ltd,
 47.236.238.5,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+211.186.118.31,SSH-2.0-Go,KR,SK Broadband Co Ltd,
