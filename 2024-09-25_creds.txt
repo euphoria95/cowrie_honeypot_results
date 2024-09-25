@@ -60,3 +60,6 @@ tg:tg1234
 test01:123456
 sysadmin:P@ssw0rd
 vsftp:vsftp
+deploy:deploy@123
+alex:12345
+jay:jay
