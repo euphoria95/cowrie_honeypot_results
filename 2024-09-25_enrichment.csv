@@ -2,3 +2,7 @@ IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 117.50.55.100,SSH-2.0-libssh_0.9.6,CN,China Mobile,
 172.105.128.11,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+109.107.190.253,SSH-2.0-libssh_0.9.6,DE,AEZA INTERNATIONAL LTD,
+111.67.196.197,SSH-2.0-libssh_0.9.6,CN,China Unicom Beijing Province Network,
+82.207.8.154,SSH-2.0-libssh_0.9.6,UA,JSC Ukrtelecom,
+198.52.58.105,SSH-2.0-Go,CA,B2B2C Inc,
