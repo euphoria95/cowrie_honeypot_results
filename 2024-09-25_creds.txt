@@ -63,3 +63,12 @@ vsftp:vsftp
 deploy:deploy@123
 alex:12345
 jay:jay
+craft:craft@1234
+oracle:oracle!@#$
+craft:craft!@#
+telnet:Telnet@123456
+Alex:123456
+guest:guest!1234
+naveen:naveen123
+anand:anand1234
+max:max!123
