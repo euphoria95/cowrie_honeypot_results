@@ -28,3 +28,5 @@ IP address,remote ssh version,country_code2,organization,asn
 176.38.37.229,SSH-2.0-libssh_0.9.6,UA,Lanet Network Ltd,
 47.236.238.5,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 211.186.118.31,SSH-2.0-Go,KR,SK Broadband Co Ltd,
+65.49.1.50,SSH-2.0-Go,US,Hurricane Electric LLC,
+205.210.31.234,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
