@@ -49,3 +49,5 @@ developer:123456
 erica:erica123
 sysadmin:sysadmin2021
 oracle:oracle
+ftp2:ftp2
+portal:root
