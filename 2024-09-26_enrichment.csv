@@ -11,3 +11,6 @@ IP address,remote ssh version,country_code2,organization,asn
 45.156.130.37,,US,"NSEC - Sistemas Informaticos, S.A.",
 47.185.38.200,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,US,"Frontier Communications of America, Inc.",
 118.193.64.235,SSH-2.0-OpenSSH_7.4,GB,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
+194.163.166.25,SSH-2.0-libssh_0.9.6,DE,Contabo GmbH,
+63.46.205.80,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,US,Verizon Business,
+190.104.25.210,SSH-2.0-libssh_0.9.6,BO,TelefÃ³nica Celular de Bolivia S.A.,
