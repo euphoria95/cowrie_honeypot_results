@@ -51,3 +51,8 @@ sysadmin:sysadmin2021
 oracle:oracle
 ftp2:ftp2
 portal:root
+daniel:daniel
+luca:luca
+administrator:admin
+admin:admin@1234
+admin:admin256
