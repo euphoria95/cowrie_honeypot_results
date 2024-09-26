@@ -15,3 +15,4 @@ IP address,remote ssh version,country_code2,organization,asn
 63.46.205.80,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,US,Verizon Business,
 190.104.25.210,SSH-2.0-libssh_0.9.6,BO,TelefÃ³nica Celular de Bolivia S.A.,
 172.104.11.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+172.169.111.241,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
