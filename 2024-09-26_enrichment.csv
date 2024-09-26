@@ -18,3 +18,4 @@ IP address,remote ssh version,country_code2,organization,asn
 172.169.111.241,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 121.228.41.230,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
 112.20.185.169,,CN,China Mobile Communications Corporation,
+138.68.88.167,SSH-2.0-Go,DE,"DigitalOcean, LLC",
