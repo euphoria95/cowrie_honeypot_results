@@ -15,3 +15,12 @@ sysadmin:sysadmin
 support:support
 ionadmin:ionadmin
 nexus:nexus!123
+test:test1234
+root1:root1
+username:password
+sopuser:Changeme_123
+test_user:test
+test01:123456
+user:1qq2w3e4r5t
+acer:1
+user:user
