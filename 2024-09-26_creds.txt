@@ -88,3 +88,7 @@ ansadmin:123
 dspace:dspace
 user1:User1@123
 elastic:elastic!@#$
+svn:svn
+abhishek:abhishek
+ubuntu:secret
+ts3server:ts3server
