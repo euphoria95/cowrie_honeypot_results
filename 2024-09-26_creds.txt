@@ -28,3 +28,5 @@ ubuntu:P@ssw0rd
 test:test123
 test:test
 ubuntu:root
+pi:raspberry
+pi:raspberryraspberry993311
