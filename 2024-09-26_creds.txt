@@ -24,3 +24,7 @@ test01:123456
 user:1qq2w3e4r5t
 acer:1
 user:user
+ubuntu:P@ssw0rd
+test:test123
+test:test
+ubuntu:root
