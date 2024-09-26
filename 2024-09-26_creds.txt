@@ -82,3 +82,9 @@ solr:123456
 ftpuser:ftpuser@1234
 carlos:carlos1234
 deploy:123
+openhabian:openhabian
+nagios:nagios
+ansadmin:123
+dspace:dspace
+user1:User1@123
+elastic:elastic!@#$
