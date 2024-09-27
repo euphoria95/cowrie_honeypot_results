@@ -85,3 +85,4 @@ pi:raspberry
 iptv:iptv
 admin:Admin@123
 bkp:bkp
+admin:admin
