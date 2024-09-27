@@ -83,3 +83,5 @@ max:max!123
 pi:raspberryraspberry993311
 pi:raspberry
 iptv:iptv
+admin:Admin@123
+bkp:bkp
