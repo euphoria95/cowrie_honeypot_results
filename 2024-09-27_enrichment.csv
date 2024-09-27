@@ -11,3 +11,6 @@ IP address,remote ssh version,country_code2,organization,asn
 147.139.197.200,SSH-2.0-libssh_0.9.6,ID,"Alibaba (US) Technology Co., Ltd.",
 64.99.202.162,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,US,Ting Fiber Inc.,
 223.247.188.6,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+45.138.74.157,SSH-2.0-libssh_0.9.6,DE,AEZA INTERNATIONAL LTD,
+122.226.186.251,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+4.151.33.202,SSH-2.0-Go,US,Microsoft Corporation,
