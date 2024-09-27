@@ -87,3 +87,4 @@ admin:Admin@123
 bkp:bkp
 admin:admin
 debianuser:debian10svm
+telecomadmin:admintelecom
