@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 58.49.26.202,,CN,CHINANET-BACKBONE,
 195.144.239.122,SSH-2.0-Go,RU,PJSC MegaFon,
 92.255.85.253,,RU,Chang Way Technologies Co. Limited,
+147.139.197.200,SSH-2.0-libssh_0.9.6,ID,"Alibaba (US) Technology Co., Ltd.",
+64.99.202.162,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,US,Ting Fiber Inc.,
