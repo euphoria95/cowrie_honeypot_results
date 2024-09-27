@@ -88,3 +88,8 @@ bkp:bkp
 admin:admin
 debianuser:debian10svm
 telecomadmin:admintelecom
+debian:123
+nginx:nginx
+tim:tim
+k:k
+gaurav:gaurav
