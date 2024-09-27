@@ -80,3 +80,6 @@ stack:stack!123
 testuser:Testuser1
 admin:admin@123
 max:max!123
+pi:raspberryraspberry993311
+pi:raspberry
+iptv:iptv
