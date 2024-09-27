@@ -1,2 +1,7 @@
 IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+45.120.216.232,SSH-2.0-libssh_0.9.6,HK,Cloud Computing HK Limited,
+152.42.160.220,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+101.126.44.124,,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+133.18.231.240,SSH-2.0-libssh_0.9.6,JP,KAGOYA JAPAN Inc.,
+172.166.210.164,SSH-2.0-libssh_0.9.6,GB,Microsoft Corporation,
