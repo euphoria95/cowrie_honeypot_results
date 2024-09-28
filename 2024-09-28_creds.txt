@@ -96,3 +96,15 @@ postgres:postgres@2024
 ionguest:ionguest
 postgres:admin
 kafka:kafka
+ansadmin:123
+guest:guest
+oracle:oracle
+abc:123456
+info:info
+weblogic:weblogic
+station6:station6
+vagrant:vagrant
+Admin:Admin
+vyos:vyos
+zabbix:zabbix
+dspace:dspace
