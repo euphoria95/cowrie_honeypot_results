@@ -1,0 +1,5 @@
+usuario:password
+steam:steam
+ubuntu:qwer1234
+test:test123
+acer:1
