@@ -42,3 +42,8 @@ test:A123456
 ubuntu:P@ssw0rd
 ubuntu:password
 bkp:bkp
+deploy:1234567890qwertyuiop
+user:12345678
+support:support@123
+david:david
+erp:erp
