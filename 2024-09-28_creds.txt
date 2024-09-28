@@ -36,3 +36,9 @@ user:user
 thomas:thomas
 testuser:testuser
 345gs5662d34:345gs5662d34
+test:test@123
+svn:svn
+test:A123456
+ubuntu:P@ssw0rd
+ubuntu:password
+bkp:bkp
