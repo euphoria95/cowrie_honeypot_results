@@ -108,3 +108,16 @@ Admin:Admin
 vyos:vyos
 zabbix:zabbix
 dspace:dspace
+debianuser:debian10svm
+admin:admin.123
+admin:Admin@123
+administrator:P@ssw0rd
+administrator:admin
+admin:admin
+admin:allot
+cacti:cacti
+david:david123
+daniel:daniel
+wordpress:wordpress
+admin:secret
+admin:1qazXSW@
