@@ -83,3 +83,16 @@ pedro:Pedro1
 telnet:Telnet@123456
 deployer:deployer!123
 docker:123456
+payara:payara123
+sammy:sammy
+odoo:odoo
+iptv:iptv1234
+portal:root
+radix:radix
+sysadmin:sysadmin2019
+jenkins:jenkins
+iptv:iptv
+postgres:postgres@2024
+ionguest:ionguest
+postgres:admin
+kafka:kafka
