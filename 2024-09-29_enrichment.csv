@@ -37,3 +37,6 @@ IP address,remote ssh version,country_code2,organization,asn
 223.31.64.201,,IN,Sify Limited,
 165.22.57.6,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 81.192.87.130,SSH-2.0-libssh_0.9.6,MA,Itissalat Al-MAGHRIB,
+172.206.143.24,SSH-2.0-Go,US,Microsoft Corporation,
+205.210.31.162,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+82.221.128.191,SSH-2.0-OpenSSH_9.8,IS,Advania Island ehf,
