@@ -148,3 +148,4 @@ ubuntu:ubuntu@2024
 user:user
 svn:svn
 testuser:testuser
+root:123456
