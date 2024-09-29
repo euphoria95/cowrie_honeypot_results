@@ -1,0 +1,13 @@
+admin:123qwe
+jboss:jboss
+anand:anand123
+bkp:bkp
+centos:123456
+345gs5662d34:345gs5662d34
+admin:admin@1234
+administrator:admin
+daniel:daniel
+adminftp:adminftp
+david:david123
+admin:admin.123
+cacti:cacti
