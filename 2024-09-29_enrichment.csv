@@ -35,3 +35,5 @@ IP address,remote ssh version,country_code2,organization,asn
 5.42.73.122,SSH-2.0-Go,DE,AEZA INTERNATIONAL LTD,
 172.168.155.148,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 223.31.64.201,,IN,Sify Limited,
+165.22.57.6,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+81.192.87.130,SSH-2.0-libssh_0.9.6,MA,Itissalat Al-MAGHRIB,
