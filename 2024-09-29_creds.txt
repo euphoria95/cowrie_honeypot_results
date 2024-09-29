@@ -152,3 +152,4 @@ root:123456
 user15:user15
 desliga:desliga
 ubuntu:ucloud.cn
+guara:guara
