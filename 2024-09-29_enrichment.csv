@@ -15,3 +15,4 @@ IP address,remote ssh version,country_code2,organization,asn
 202.129.29.138,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
 36.41.64.57,SSH-2.0-libssh_0.9.6,CN,CHINANET SHAANXI province Cloud Base network,
 43.134.121.65,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
+125.25.45.142,SSH-2.0-Go,TH,TOT Public Company Limited,
