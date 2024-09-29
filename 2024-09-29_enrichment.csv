@@ -30,3 +30,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.134,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 182.151.39.156,SSH-2.0-makiko,CN,CHINANET SiChuan Telecom Internet Data Center,
 157.20.182.5,SSH-2.0-Go,NL,NIXI,
+192.155.90.220,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+94.176.134.220,,RO,ACTIVE SOFT SRL,
