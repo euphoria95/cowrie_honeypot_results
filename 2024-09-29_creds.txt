@@ -135,3 +135,16 @@ tuan:tuan123
 operador:operador
 user:P@ssw0rd
 nexus:nexus!123
+ubuntu:root
+sopuser:Changeme_123
+ubuntu:pass
+report:report
+abhishek:abhishek
+hduser:hduser
+user:1qq2w3e4r5t
+username:password
+sysadmin:P@ssw0rd
+ubuntu:ubuntu@2024
+user:user
+svn:svn
+testuser:testuser
