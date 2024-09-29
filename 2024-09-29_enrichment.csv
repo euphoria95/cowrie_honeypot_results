@@ -28,3 +28,5 @@ IP address,remote ssh version,country_code2,organization,asn
 203.34.49.135,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
 1.71.2.174,,CN,China Telecom,
 198.235.24.134,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+182.151.39.156,SSH-2.0-makiko,CN,CHINANET SiChuan Telecom Internet Data Center,
+157.20.182.5,SSH-2.0-Go,NL,NIXI,
