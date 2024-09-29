@@ -11,3 +11,4 @@ adminftp:adminftp
 david:david123
 admin:admin.123
 cacti:cacti
+root:root
