@@ -23,3 +23,6 @@ IP address,remote ssh version,country_code2,organization,asn
 103.181.142.139,SSH-2.0-libssh_0.9.6,ID,IDNIC-IDCLOUDHOST-AS-ID,
 46.250.248.206,SSH-2.0-libssh_0.9.6,JP,Contabo Asia Private Limited,
 139.59.31.108,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+64.62.197.171,SSH-2.0-Go,US,Hurricane Electric LLC,
+121.201.125.243,,CN,Guangdong,
+203.34.49.135,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
