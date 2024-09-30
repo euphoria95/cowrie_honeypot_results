@@ -3,3 +3,4 @@ IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 178.128.161.183,SSH-2.0-GoSSHCheck,GB,"DigitalOcean, LLC",
 157.173.194.20,SSH-2.0-libssh_0.9.6,US,"Nubes, LLC",
+209.38.29.162,SSH-2.0-Go,AU,"DigitalOcean, LLC",
