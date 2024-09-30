@@ -13,3 +13,5 @@ IP address,remote ssh version,country_code2,organization,asn
 201.81.240.66,SSH-2.0-libssh_0.9.6,BR,Claro NXT Telecomunicacoes Ltda,
 198.235.24.255,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 52.189.75.115,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+176.175.235.17,,FR,Bouygues Telecom SA,
+170.64.164.33,SSH-2.0-Go,AU,"DigitalOcean, LLC",
