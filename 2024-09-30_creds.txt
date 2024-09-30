@@ -14,3 +14,10 @@ mosquitto:mosquitto
 elemental:E1ementa!5
 mythtv:mythtv
 ionguest:ionguest
+adminftp:adminftp
+david:david
+radix:radix
+geonode:geonode
+chris:chris123
+basesystem:basesystem
+bkp:bkp
