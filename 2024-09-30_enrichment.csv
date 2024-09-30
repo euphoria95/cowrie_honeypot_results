@@ -16,3 +16,6 @@ IP address,remote ssh version,country_code2,organization,asn
 176.175.235.17,,FR,Bouygues Telecom SA,
 170.64.164.33,SSH-2.0-Go,AU,"DigitalOcean, LLC",
 205.210.31.235,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+165.227.118.246,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+203.33.207.190,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+45.79.181.223,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
