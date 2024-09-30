@@ -1,3 +1,16 @@
 345gs5662d34:345gs5662d34
 node:node
 elk:elk
+postgres:admin
+iptv:iptv
+shoutcast:shoutcast
+smart:12345
+postgres:postgres1234
+portal:root
+steam:palworld
+postgres:password
+nextcloud:nextcloud
+mosquitto:mosquitto
+elemental:E1ementa!5
+mythtv:mythtv
+ionguest:ionguest
