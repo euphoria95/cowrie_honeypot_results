@@ -22,3 +22,5 @@ IP address,remote ssh version,country_code2,organization,asn
 162.243.168.76,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 43.133.44.116,,SG,Shenzhen Tencent Computer Systems Company Limited,
 43.128.111.199,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
+185.242.226.20,SSH-2.0-Go,NL,IP Volume inc,
+198.235.24.173,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
