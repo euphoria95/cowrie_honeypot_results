@@ -21,3 +21,5 @@ geonode:geonode
 chris:chris123
 basesystem:basesystem
 bkp:bkp
+sammy:sammy
+iptv:iptv1234
