@@ -2,3 +2,4 @@ IP address,remote ssh version,country_code2,organization,asn
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 104.248.203.191,SSH-2.0-Go,NL,"DigitalOcean, LLC",
+220.122.212.135,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
