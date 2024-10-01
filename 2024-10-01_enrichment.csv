@@ -9,3 +9,6 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.108,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 4.151.230.23,,US,Microsoft Corporation,
 52.228.167.162,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+222.186.175.125,SSH-2.0-Go,CN,China Telecom,
+52.228.154.181,SSH-2.0-Go,US,Microsoft Corporation,
+121.228.31.112,SSH-2.0-libssh_0.9.6,CN,China Telecom,
