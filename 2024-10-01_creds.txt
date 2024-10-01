@@ -1,0 +1,16 @@
+default:123
+hikvision:12345
+default:1
+ubnt:root
+ubnt:1qaz2wsx
+ubnt:password
+default:video
+ubnt:ubnt1
+ubnt:ubntubnt
+ubnt:ubnt123
+hikvision:hikvision
+default:default
+sFTPUser:sFTPUser
+default:123456789
+default:password
+ubnt:ubnt
