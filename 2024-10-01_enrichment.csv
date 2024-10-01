@@ -18,3 +18,7 @@ IP address,remote ssh version,country_code2,organization,asn
 47.236.26.155,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 103.55.49.10,SSH-2.0-libssh_0.9.6,TL,Telekomunikasi Indonesia International (T.L.) S.A.,
 183.224.219.194,,CN,China Mobile,
+80.66.89.184,SSH-2.0-Go,RU,Sevasteev Artem Nikolaevich,
+45.84.89.2,SSH-2.0-Go,US,Inspici LLC,
+210.68.57.160,SSH-2.0-libssh_0.9.6,TW,Digital United Inc.,
+27.128.156.148,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
