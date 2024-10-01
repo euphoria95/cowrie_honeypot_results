@@ -12,3 +12,8 @@ IP address,remote ssh version,country_code2,organization,asn
 222.186.175.125,SSH-2.0-Go,CN,China Telecom,
 52.228.154.181,SSH-2.0-Go,US,Microsoft Corporation,
 121.228.31.112,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+23.94.83.12,SSH-2.0-libssh_0.9.6,US,HostPapa,
+70.189.200.238,SSH-2.0-OpenSSH_6.7p1 Raspbian-5+deb8u4,US,Cox Communications Inc.,
+103.37.80.94,SSH-2.0-libssh_0.9.6,IN,Dehradun Enet Solutions Private Ltd,
+47.236.26.155,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+103.55.49.10,SSH-2.0-libssh_0.9.6,TL,Telekomunikasi Indonesia International (T.L.) S.A.,
