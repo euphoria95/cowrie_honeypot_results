@@ -79,3 +79,4 @@ postgres:root
 portal:root
 postgres:password
 basesystem:basesystem
+root:root
