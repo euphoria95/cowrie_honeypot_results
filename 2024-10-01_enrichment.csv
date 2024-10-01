@@ -3,3 +3,7 @@ IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 104.248.203.191,SSH-2.0-Go,NL,"DigitalOcean, LLC",
 220.122.212.135,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
+107.170.241.104,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+180.167.153.230,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+51.15.4.140,SSH-2.0-libssh_0.9.6,NL,SCALEWAY S.A.S.,
+147.185.132.108,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
