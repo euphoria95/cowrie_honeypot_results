@@ -1,1 +1,14 @@
 345gs5662d34:345gs5662d34
+info:info
+abc:123456
+Admin:Admin
+station6:station6
+dspace:dspace
+vagrant:vagrant
+weblogic:weblogic
+guest:guest
+deploy:123
+zabbix:zabbix
+vyos:vyos
+pi:pi
+ansadmin:123
