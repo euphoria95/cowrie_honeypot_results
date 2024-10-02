@@ -13,3 +13,4 @@ vyos:vyos
 pi:pi
 ansadmin:123
 ubuntu:1qaz2wsx!
+ubuntu:!23qweasdzxc
