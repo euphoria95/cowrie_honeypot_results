@@ -7,3 +7,6 @@ IP address,remote ssh version,country_code2,organization,asn
 24.222.240.244,,CA,EastLink,
 106.3.99.244,SSH-2.0-Go,CN,China Unicom Beijing Province Network,
 161.35.36.236,,GB,"DigitalOcean, LLC",
+104.152.52.224,,US,Rethem Hosting LLC,
+177.221.79.211,SSH-2.0-libssh_0.9.6,BR,Companhia Itabirana Telecomunicaï¿½ï¿½es Ltda,
+159.65.145.23,SSH-2.0-Go,IN,"DigitalOcean, LLC",
