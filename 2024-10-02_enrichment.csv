@@ -1,1 +1,3 @@
 IP address,remote ssh version,country_code2,organization,asn
+125.74.193.37,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
