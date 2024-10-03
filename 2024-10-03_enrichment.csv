@@ -24,3 +24,6 @@ IP address,remote ssh version,country_code2,organization,asn
 51.8.223.32,SSH-2.0-Go,US,Microsoft Corporation,
 197.220.88.66,SSH-2.0-libssh_0.9.6,SO,Hormuud Telecom Somalia INC,
 51.77.194.128,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+130.180.77.106,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,DE,Vodafone GmbH,
+166.186.196.231,SSH-2.0-Go,US,AT&T Mobility LLC,
+180.112.230.47,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
