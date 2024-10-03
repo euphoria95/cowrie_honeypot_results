@@ -20,3 +20,7 @@ oracle:Password@123
 test:1234
 hadoop:hadoop@2024
 odoo:test@123
+pi:raspberryraspberry993311
+pi:raspberry
+test:123456789
+user:123
