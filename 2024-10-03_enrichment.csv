@@ -21,3 +21,6 @@ IP address,remote ssh version,country_code2,organization,asn
 177.200.34.186,SSH-2.0-libssh_0.9.6,BR,BR27 Serviï¿½os de Tecnologia Ltda.,
 122.154.198.18,,TH,CAT Telecom Public Company Limited,
 117.34.121.235,,CN,CHINANET SHAANXI province Cloud Base network,
+51.8.223.32,SSH-2.0-Go,US,Microsoft Corporation,
+197.220.88.66,SSH-2.0-libssh_0.9.6,SO,Hormuud Telecom Somalia INC,
+51.77.194.128,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
