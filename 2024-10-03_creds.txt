@@ -32,3 +32,14 @@ deploy:123
 postgres:321
 testuser:testuser123321
 postgres:123123
+git:git
+eclipse:eclipse
+debian:root
+es:123123
+admin:a
+ubuntu:111111
+ubuntu:M3gaP33!
+dev:111111
+admin:Hello@123
+deploy:test1234
+ftpuser:passw0rd
