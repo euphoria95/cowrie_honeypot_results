@@ -4,3 +4,8 @@ IP address,remote ssh version,country_code2,organization,asn
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 183.240.154.55,SSH-2.0-Go,CN,China Mobile Communications Corporation,
 205.210.31.53,,BR,Google LLC,
+91.207.115.249,SSH-2.0-libssh2_1.9.0,RU,TOV DV-Com,
+104.42.130.86,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+14.22.112.253,,CN,China Telecom,
+105.28.108.165,SSH-2.0-libssh_0.9.6,ZA,SEACOM Limited,
+202.101.187.190,,CN,CHINANET-BACKBONE,
