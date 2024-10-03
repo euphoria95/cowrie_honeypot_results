@@ -54,3 +54,14 @@ odoo:1234
 debian:password1
 deploy:111
 hadoop:hadoop1
+craft:craft!@#
+steam:passw0rd
+jenkins:Test@123
+guest:guest123321
+odoo:qwerty123
+admin:P@ssw0rd
+es:es@2024
+testuser:1234567
+steam:123456789
+guest:Test@123
+db:db
