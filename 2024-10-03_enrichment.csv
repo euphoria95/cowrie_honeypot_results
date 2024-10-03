@@ -27,3 +27,5 @@ IP address,remote ssh version,country_code2,organization,asn
 130.180.77.106,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,DE,Vodafone GmbH,
 166.186.196.231,SSH-2.0-Go,US,AT&T Mobility LLC,
 180.112.230.47,SSH-2.0-libssh_0.9.6,CN,CHINANET-BACKBONE,
+8.219.8.101,,SG,Alibaba Cloud (Singapore) Private Limited,
+185.74.4.17,SSH-2.0-libssh_0.9.6,UZ,Uzbektelekom Joint Stock Company,
