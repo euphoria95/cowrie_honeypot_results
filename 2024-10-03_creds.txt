@@ -1,2 +1,5 @@
 345gs5662d34:345gs5662d34
 root:root
+naveen:naveen123
+oracle:oracle!@#$
+max:max!123
