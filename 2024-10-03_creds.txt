@@ -3,3 +3,10 @@ root:root
 naveen:naveen123
 oracle:oracle!@#$
 max:max!123
+guest:guest
+weblogic:weblogic
+abc:123456
+Admin:Admin
+ansadmin:123
+info:info
+dspace:dspace
