@@ -24,3 +24,11 @@ pi:raspberryraspberry993311
 pi:raspberry
 test:123456789
 user:123
+oracle:oracle01
+dev:654321
+server:!QAZ2wsx
+frappe:1234
+deploy:123
+postgres:321
+testuser:testuser123321
+postgres:123123
