@@ -43,3 +43,4 @@ dev:111111
 admin:Hello@123
 deploy:test1234
 ftpuser:passw0rd
+root:123456
