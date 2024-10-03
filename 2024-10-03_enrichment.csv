@@ -11,3 +11,7 @@ IP address,remote ssh version,country_code2,organization,asn
 202.101.187.190,,CN,CHINANET-BACKBONE,
 182.242.224.196,SSH-2.0-Go,CN,CHINANET-BACKBONE,
 186.96.166.237,SSH-2.0-libssh_0.9.6,MX,ASN block not managed by the RIPE NCC,
+182.253.156.184,SSH-2.0-libssh_0.9.6,ID,BIZNET NETWORKS,
+172.169.110.203,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+96.78.175.39,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
+103.69.226.3,SSH-2.0-libssh_0.9.6,IN,Hansin It Services Pvt. Ltd.,
