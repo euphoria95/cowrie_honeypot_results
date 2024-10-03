@@ -10,3 +10,13 @@ Admin:Admin
 ansadmin:123
 info:info
 dspace:dspace
+test:1234567890
+dev:password1
+server:server1
+git:Password2024
+postgres:postgrespassword
+test:qwerty123
+oracle:Password@123
+test:1234
+hadoop:hadoop@2024
+odoo:test@123
