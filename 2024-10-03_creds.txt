@@ -44,3 +44,13 @@ admin:Hello@123
 deploy:test1234
 ftpuser:passw0rd
 root:123456
+steam:1234567
+deploy:Password@1
+hadoop:test@123
+jenkins:P@ssw0rd123
+git:Password@1
+es:000000
+odoo:1234
+debian:password1
+deploy:111
+hadoop:hadoop1
