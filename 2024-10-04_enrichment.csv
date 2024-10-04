@@ -7,3 +7,5 @@ IP address,remote ssh version,country_code2,organization,asn
 120.241.46.115,SSH-2.0-libssh_0.9.6,CN,China Mobile Communications Corporation,
 150.95.104.58,,VN,GMO-Z.com Runsystem Joint Stock Company,
 197.5.145.121,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
+95.223.185.174,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+deb11u1,DE,Vodafone GmbH,
+139.59.234.19,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
