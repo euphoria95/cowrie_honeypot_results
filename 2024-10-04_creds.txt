@@ -152,3 +152,12 @@ dev:123456
 newuser:1qaz@WSX
 dev:12345
 steam:1234567
+dev:123456789
+newuser:123qwe
+postgres:1234
+ftpuser:ftpuser@2024
+mysql:qwer1234
+dev:Password
+ftpuser:P@ssw0rd
+server:a
+postgres:test1234
