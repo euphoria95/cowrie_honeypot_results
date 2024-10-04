@@ -10,3 +10,8 @@ IP address,remote ssh version,country_code2,organization,asn
 95.223.185.174,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+deb11u1,DE,Vodafone GmbH,
 139.59.234.19,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 40.78.95.177,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+218.78.52.192,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+103.192.198.71,SSH-2.0-libssh_0.9.6,IN,NEEVAI SUPERCLOUD PVT LTD,
+61.83.148.125,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
+151.80.61.151,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+76.104.243.125,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
