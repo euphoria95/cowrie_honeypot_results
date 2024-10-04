@@ -138,3 +138,17 @@ admin:0000
 oracle:!QAZ2wsx
 admin:P@ssw0rd123
 guest:guestpass
+test:123321
+sammy:sammy01
+jenkins:jenkins@2024
+oracle:oracle@2024
+ubuntu:ubuntu1
+newuser:test@123
+hadoop:Admin@123
+git:git01
+jenkins:jenkins01
+debian:admin
+dev:123456
+newuser:1qaz@WSX
+dev:12345
+steam:1234567
