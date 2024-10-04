@@ -13,3 +13,13 @@ mysql:admin
 sammy:111
 hadoop:123321
 deploy:deploy
+admin:123.com
+mysql:test123
+ftpuser:123
+es:password123
+server:Password@123
+steam:123456
+testuser:Password@1
+odoo:Password
+deploy:0000
+guest:!QAZ2wsx
