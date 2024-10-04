@@ -23,3 +23,15 @@ testuser:Password@1
 odoo:Password
 deploy:0000
 guest:!QAZ2wsx
+steam:Password@123
+dev:dev@2024
+sammy:Hello@123
+frappe:Password2024
+debian:debian@123
+mysql:Password@1
+debian:abc123
+pi:raspberry
+pi:raspberryraspberry993311
+mysql:mysqlpassword
+server:Password2024
+testuser:Password
