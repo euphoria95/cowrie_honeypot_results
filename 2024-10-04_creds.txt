@@ -57,3 +57,6 @@ test:123456
 server:server
 dev:123123
 ftpuser:Password2024
+oracle:oracle2024
+data:data1234
+admin:Test
