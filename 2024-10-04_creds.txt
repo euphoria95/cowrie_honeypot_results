@@ -127,3 +127,14 @@ admin:11111
 test:test
 oracle:oracle
 user:user
+steam:qwerty@123
+test:123qwe
+git:git12345
+test:test@123
+steam:Test@123
+server:passw0rd
+postgres:postgres321
+admin:0000
+oracle:!QAZ2wsx
+admin:P@ssw0rd123
+guest:guestpass
