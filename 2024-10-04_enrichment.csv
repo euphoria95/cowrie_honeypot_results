@@ -37,3 +37,4 @@ IP address,remote ssh version,country_code2,organization,asn
 151.63.246.9,SSH-2.0-libssh_0.9.6,IT,WIND TRE S.P.A.,
 42.240.141.37,SSH-2.0-libssh_0.9.6,CN,CHINANET Guangdong province network,
 178.88.161.82,,KZ,JSC Kazakhtelecom,
+64.62.197.5,SSH-2.0-Go,US,"The Shadowserver Foundation, Inc.",
