@@ -10,3 +10,6 @@ deploy:test@123
 fsf:fsf123
 git:M3gaP33!
 mysql:admin
+sammy:111
+hadoop:123321
+deploy:deploy
