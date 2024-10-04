@@ -15,3 +15,4 @@ IP address,remote ssh version,country_code2,organization,asn
 61.83.148.125,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 151.80.61.151,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
 76.104.243.125,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
+119.203.143.121,SSH-2.0-Go,KR,Korea Telecom,
