@@ -1,0 +1,12 @@
+ftpuser:password1
+server:1234
+server:M3gaP33!
+odoo:admin@123
+root:root
+postgres:password123
+newuser:password@123
+oracle:1234qwer
+deploy:test@123
+fsf:fsf123
+git:M3gaP33!
+mysql:admin
