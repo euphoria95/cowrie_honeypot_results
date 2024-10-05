@@ -8,3 +8,6 @@ IP address,remote ssh version,country_code2,organization,asn
 222.253.45.177,SSH-2.0-libssh_0.9.6,VN,VNPT Corp,
 123.241.194.22,SSH-2.0-libssh_0.9.6,TW,TBC,
 205.210.31.210,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+172.174.72.225,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+139.59.113.156,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+114.36.102.174,SSH-2.0-libssh_0.9.6,TW,"Chunghwa Telecom Co., Ltd.",
