@@ -1,0 +1,6 @@
+steam:1234
+postgres:888888
+ftpuser:ftpuser1
+test:321
+debian:0000
+ftpuser:admin
