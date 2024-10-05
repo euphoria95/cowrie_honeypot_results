@@ -8,3 +8,14 @@ frappe:321
 ftpuser:123qwe
 deploy:test
 ftpuser:P@ssw0rd
+postgres:password123
+oracle:888888
+steam:000000
+postgres:postgres
+server:admin
+debian:1
+root:123456
+deploy:123
+git:Test@123
+oracle:oracle@123
+user:Test@123
