@@ -41,3 +41,17 @@ hadoop:abc123
 server:000000
 sammy:qwerty@123
 newuser:newuserpassword
+debian:1q2w3e4r5t
+Admin:Admin
+test:159753
+abc:123456
+weblogic:weblogic
+guest:guest
+info:info
+debian:147258
+dev:pa$$w0rd
+debian:54321
+dspace:dspace
+admin:!123456
+ansadmin:123
+345gs5662d34:345gs5662d34
