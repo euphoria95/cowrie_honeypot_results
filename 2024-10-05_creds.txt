@@ -75,3 +75,9 @@ oracle:oracle
 user1:User1@123
 tom:123
 pi:pi
+user1:Aa123456.
+steam:696969
+dev:admin
+debian:159357
+debian:admin
+deploy:1234560
