@@ -81,3 +81,6 @@ dev:admin
 debian:159357
 debian:admin
 deploy:1234560
+pi:raspberry
+deena:deena
+pi:raspberryraspberry993311
