@@ -4,3 +4,7 @@ ftpuser:ftpuser1
 test:321
 debian:0000
 ftpuser:admin
+frappe:321
+ftpuser:123qwe
+deploy:test
+ftpuser:P@ssw0rd
