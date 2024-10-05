@@ -19,3 +19,15 @@ deploy:123
 git:Test@123
 oracle:oracle@123
 user:Test@123
+dev:Password2024
+ubuntu:123.com
+jenkins:1234567890
+odoo:welcome
+admin:Password
+user:111
+admin:123.com
+test:test1
+deploy:Password
+ubuntu:654321
+sammy:12345
+frappe:passw0rd
