@@ -31,3 +31,13 @@ deploy:Password
 ubuntu:654321
 sammy:12345
 frappe:passw0rd
+jenkins:jenkins@1234
+dev:passw0rd
+mysql:123
+es:Password@1
+dev:123456
+ftpuser:Hello@123
+hadoop:abc123
+server:000000
+sammy:qwerty@123
+newuser:newuserpassword
