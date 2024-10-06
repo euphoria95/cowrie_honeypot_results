@@ -43,3 +43,8 @@ dev:dev@2024
 deploy:deploypassword
 user1:123
 debian:password
+user:101010
+ubuntu:12341234
+postgres:test1
+dev:123456@@
+ubuntu:111
