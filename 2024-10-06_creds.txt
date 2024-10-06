@@ -1,0 +1,6 @@
+postgres:postgrespassword
+deploy:159753
+345gs5662d34:345gs5662d34
+testuser:testuserpassword
+admin:adminpassword
+admin:P@ssw0rd!
