@@ -2,3 +2,8 @@ IP address,remote ssh version,country_code2,organization,asn
 222.124.177.148,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
 85.192.56.68,SSH-2.0-Go,RU,AEZA INTERNATIONAL LTD,
 54.36.163.1,SSH-2.0-libssh_0.9.6,GB,OVH SAS,
+14.50.17.15,SSH-2.0-Go,KR,Korea Telecom,
+112.216.108.62,SSH-2.0-libssh_0.9.6,KR,LG DACOM Corporation,
+223.244.25.69,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+107.172.201.37,SSH-2.0-Go,US,HostPapa,
+37.60.248.127,SSH-2.0-libssh_0.9.6,DE,Contabo GmbH,
