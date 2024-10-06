@@ -35,3 +35,10 @@ ansuser:Ansuser1
 sa:Sa123
 ftpuser:ftpuser@1234
 user:admin
+odoo:odoopassword
+adminadmin:password
+deploy:147852369
+dev:147258
+dev:dev@2024
+deploy:deploypassword
+user1:123
