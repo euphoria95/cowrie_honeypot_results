@@ -80,3 +80,10 @@ ftpuser:123!!
 debian:P@ssw0rd
 admin:Col123456
 user:!!!123
+user1:123456A
+steam:zxcvbnm
+user:userpassword
+user:P@ssw0rd!
+debian:2023
+server:123
+user1:456123
