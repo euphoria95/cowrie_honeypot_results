@@ -42,3 +42,4 @@ dev:147258
 dev:dev@2024
 deploy:deploypassword
 user1:123
+debian:password
