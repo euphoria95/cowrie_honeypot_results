@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 107.172.201.37,SSH-2.0-Go,US,HostPapa,
 37.60.248.127,SSH-2.0-libssh_0.9.6,DE,Contabo GmbH,
 121.204.152.127,SSH-2.0-libssh_0.9.6,CN,Fuzhou,
+36.112.138.237,,CN,"IDC, China Telecommunications Corporation",
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
