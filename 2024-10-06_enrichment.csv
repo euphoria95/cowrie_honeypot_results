@@ -7,3 +7,4 @@ IP address,remote ssh version,country_code2,organization,asn
 223.244.25.69,SSH-2.0-libssh_0.9.6,CN,China Telecom,
 107.172.201.37,SSH-2.0-Go,US,HostPapa,
 37.60.248.127,SSH-2.0-libssh_0.9.6,DE,Contabo GmbH,
+121.204.152.127,SSH-2.0-libssh_0.9.6,CN,Fuzhou,
