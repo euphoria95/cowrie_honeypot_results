@@ -87,3 +87,7 @@ user:P@ssw0rd!
 debian:2023
 server:123
 user1:456123
+debian:admin123
+user:aA123456.
+test:11111111
+user:786786786
