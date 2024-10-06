@@ -17,3 +17,4 @@ IP address,remote ssh version,country_code2,organization,asn
 200.255.122.30,GET / HTTP/1.1,BR,CLARO S.A.,
 203.145.143.163,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
 125.124.15.48,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
+65.49.1.45,SSH-2.0-Go,US,Hurricane Electric LLC,
