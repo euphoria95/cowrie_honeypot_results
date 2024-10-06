@@ -71,3 +71,6 @@ vyos:vyos
 dspace:dspace
 ccccccccccccccccccc:cccccccc;.
 info:info
+nagios:nagios
+user1:User1@123
+openhabian:openhabian
