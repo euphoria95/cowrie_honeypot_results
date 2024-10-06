@@ -75,3 +75,8 @@ nagios:nagios
 user1:User1@123
 openhabian:openhabian
 debian:123456Aa
+admin:12345qwert
+ftpuser:123!!
+debian:P@ssw0rd
+admin:Col123456
+user:!!!123
