@@ -16,3 +16,5 @@ IP address,remote ssh version,country_code2,organization,asn
 141.224.239.151,SSH-2.0-Go,NL,DELTA Fiber Nederland B.V.,
 36.112.137.127,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
 105.174.43.194,SSH-2.0-libssh_0.9.6,AO,UNITEL SA,
+198.235.24.178,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+94.23.184.27,SSH-2.0-Go,FR,OVH SAS,
