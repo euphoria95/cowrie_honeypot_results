@@ -11,3 +11,8 @@ IP address,remote ssh version,country_code2,organization,asn
 70.189.200.238,SSH-2.0-OpenSSH_6.7p1 Raspbian-5+deb8u4,US,Cox Communications Inc.,
 158.51.96.38,SSH-2.0-Go,US,NetInformatik Inc.,
 2.82.60.100,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,PT,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,
+40.85.153.102,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+34.92.247.119,SSH-2.0-libssh_0.9.6,HK,Google LLC,
+141.224.239.151,SSH-2.0-Go,NL,DELTA Fiber Nederland B.V.,
+36.112.137.127,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
+105.174.43.194,SSH-2.0-libssh_0.9.6,AO,UNITEL SA,
