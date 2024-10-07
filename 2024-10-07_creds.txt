@@ -52,3 +52,12 @@ dev:qazwsx
 admin:adminpassword
 deploy:deploypassword
 Admin:Admin
+vyatta:Vyatta@1234
+craft:craft@1234
+guest:guest!1234
+oracle:oracle2024
+Alex:123456
+telnet:Telnet@123456
+account3:Account31234
+anand:anand1234
+admin:Test
