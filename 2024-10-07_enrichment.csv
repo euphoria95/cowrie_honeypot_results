@@ -7,3 +7,4 @@ IP address,remote ssh version,country_code2,organization,asn
 203.171.21.222,SSH-2.0-libssh_0.9.6,VN,CMC Telecom Infrastructure Company,
 147.185.132.25,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 205.210.31.151,,BR,Google LLC,
+176.114.224.76,SSH-2.0-Go,RU,Golitsyno Telecom Ltd,
