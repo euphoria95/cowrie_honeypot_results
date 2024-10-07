@@ -19,3 +19,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.178,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 94.23.184.27,SSH-2.0-Go,FR,OVH SAS,
 139.99.99.234,SSH-2.0-Go,SG,OVH SAS,
+52.151.72.247,SSH-2.0-libssh_0.9.6,GB,Microsoft Corporation,
+200.12.252.210,SSH-2.0-libssh_0.9.6,BO,DIGITAL WORK,
