@@ -8,3 +8,4 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.25,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 205.210.31.151,,BR,Google LLC,
 176.114.224.76,SSH-2.0-Go,RU,Golitsyno Telecom Ltd,
+70.189.200.238,SSH-2.0-OpenSSH_6.7p1 Raspbian-5+deb8u4,US,Cox Communications Inc.,
