@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.151,,BR,Google LLC,
 176.114.224.76,SSH-2.0-Go,RU,Golitsyno Telecom Ltd,
 70.189.200.238,SSH-2.0-OpenSSH_6.7p1 Raspbian-5+deb8u4,US,Cox Communications Inc.,
+158.51.96.38,SSH-2.0-Go,US,NetInformatik Inc.,
+2.82.60.100,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,PT,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,
