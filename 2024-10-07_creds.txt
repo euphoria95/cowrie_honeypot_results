@@ -28,3 +28,5 @@ db:db
 pedro:Pedro1
 ansuser:Ansuser1
 deployer:deployer!123
+pi:raspberryraspberry993311
+pi:raspberry
