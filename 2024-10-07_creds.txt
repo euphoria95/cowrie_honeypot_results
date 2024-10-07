@@ -106,3 +106,4 @@ administrador:abc123
 dixie:dixie
 www-data:root
 bob:123456
+elk:elk
