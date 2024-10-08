@@ -26,3 +26,17 @@ schet:schet
 posmar:posmar
 vahidhh:vahidhh
 ebadi:ebadi
+ansuser:Ansuser1
+service:service
+temp:temp1
+pedro:Pedro1
+testuser:Testuser1
+naveen:naveen123
+craft:craft!@#
+dockeradmin:Dockeradmin1234
+carlos:carlos1234
+ftpuser:ftpuser@1234
+deployer:deployer!123
+sa:Sa123
+oracle:oracle!@#$
+max:max!123
