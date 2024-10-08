@@ -24,3 +24,5 @@ postfix:123456
 bekzod:bekzod
 schet:schet
 posmar:posmar
+vahidhh:vahidhh
+ebadi:ebadi
