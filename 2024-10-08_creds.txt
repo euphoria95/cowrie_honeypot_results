@@ -13,3 +13,14 @@ ub:ub
 samet:samet
 cloud:123456
 user:admin@123
+sdbadm:sdbadm
+gengbq:gengbq
+fiona:123456
+diepnx:123456
+tbrown:123456
+adstllm:123456
+dolunay:dolunay
+postfix:123456
+bekzod:bekzod
+schet:schet
+posmar:posmar
