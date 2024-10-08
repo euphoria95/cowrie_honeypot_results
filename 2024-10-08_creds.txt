@@ -90,3 +90,11 @@ yangxg:123456
 lexus:123456
 larsdiamond:larsdiamond
 saraa:saraa
+hd16pt07:hd16pt071234
+docker:123456
+kafka:Kafka@1234
+nagios:Nagios@1
+orangepi:Orangepi1234
+db:db
+squid:Squid123
+stack:stack!123
