@@ -64,3 +64,14 @@ junior:123456
 tarabeigi:123456
 liubowen:123456
 ryrpinto:123456
+postgres:salesboom
+service:service
+git:git
+oracle:a
+csgoserver:123456
+francis:francis
+administrador:4dm1n1str4d0r
+es:es
+devops:devops
+linuxadmin:linuxadmin
+star:root
