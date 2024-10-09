@@ -3,3 +3,8 @@ IP address,remote ssh version,country_code2,organization,asn
 200.95.174.217,SSH-2.0-libssh_0.9.6,BR,CITTA TELECOM LTDA,
 122.155.0.205,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
 207.181.232.238,SSH-2.0-libssh2_1.11.0,US,RCN,
+143.110.243.70,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+103.152.18.138,SSH-2.0-libssh_0.9.6,BD,Deshnet Broadband,
+103.53.28.86,SSH-2.0-libssh_0.9.6,ID,PT DATA PRIMA SOLUSINDO,
+113.31.104.225,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+52.140.61.101,SSH-2.0-libssh_0.9.6,IN,Microsoft Corporation,
