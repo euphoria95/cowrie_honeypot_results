@@ -26,3 +26,8 @@ IP address,remote ssh version,country_code2,organization,asn
 13.58.97.162,SSH-2.0-Go,US,"Amazon.com, Inc.",
 192.210.228.228,SSH-2.0-libssh_0.9.6,US,HostPapa,
 205.210.31.9,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+189.222.245.156,SSH-2.0-libssh_0.9.6,MX,UNINET,
+102.208.184.2,SSH-2.0-libssh_0.9.6,TZ,Tanzania Commission for Science and Technology,
+104.28.233.73,SSH-2.0-libssh_0.9.6,US,"Cloudflare, Inc.",
+218.150.101.110,SSH-2.0-Go,KR,Korea Telecom,
+189.223.236.12,SSH-2.0-libssh_0.9.6,MX,UNINET,
