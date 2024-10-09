@@ -6,3 +6,14 @@ kolokol:kolokol
 tobe:123456
 root:root
 345gs5662d34:345gs5662d34
+long:123456
+wyf:wyf
+mario:mario
+ftp-user:ftp-user
+postgres:post
+david:1234
+hank:hank
+hao:hao123
+acct:acct123
+steam:qwerty
+wordpres:wordpress
