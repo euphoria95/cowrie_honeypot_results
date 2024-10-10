@@ -21,3 +21,7 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.76,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 111.67.199.209,,CN,China Unicom Beijing Province Network,
 45.168.176.35,,BR,ROMAO TELECOM,
+44.220.188.78,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+43.134.115.129,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
+23.90.195.6,SSH-2.0-Go,FR,ADISTA SAS,
+117.33.136.144,SSH-2.0-libssh_0.9.6,CN,CHINANET SHAANXI province Cloud Base network,
