@@ -11,3 +11,6 @@ IP address,remote ssh version,country_code2,organization,asn
 80.64.30.138,SSH-2.0-libssh_0.10.5,RU,Chang Way Technologies Co. Limited,
 52.189.73.106,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 122.155.0.205,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
+144.24.104.139,SSH-2.0-Go,IN,Oracle Corporation,
+101.200.241.3,SSH-2.0-makiko,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+152.136.156.235,SSH-2.0-Go,CN,Shenzhen Tencent Computer Systems Company Limited,
