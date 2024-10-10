@@ -25,3 +25,5 @@ IP address,remote ssh version,country_code2,organization,asn
 43.134.115.129,SSH-2.0-libssh_0.9.6,SG,Shenzhen Tencent Computer Systems Company Limited,
 23.90.195.6,SSH-2.0-Go,FR,ADISTA SAS,
 117.33.136.144,SSH-2.0-libssh_0.9.6,CN,CHINANET SHAANXI province Cloud Base network,
+213.225.14.135,SSH-2.0-libssh_0.9.6,AT,A1 Telekom Austria AG,
+77.221.156.122,SSH-2.0-libssh_0.9.6,DE,AEZA INTERNATIONAL LTD,
