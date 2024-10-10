@@ -3,3 +3,5 @@ IP address,remote ssh version,country_code2,organization,asn
 185.220.101.97,SSH-2.0-OpenSSH_9.8,DE,Stiftung Erneuerbare Freiheit,
 186.10.110.112,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3,CL,ENTEL CHILE S.A.,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+54.89.239.122,SSH-2.0-Go,US,"Amazon.com, Inc.",
+163.228.248.90,,CN,"Shanghai Blue Cloud Technology Co.,Ltd",
