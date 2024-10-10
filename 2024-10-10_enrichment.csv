@@ -59,3 +59,6 @@ IP address,remote ssh version,country_code2,organization,asn
 201.173.130.76,SSH-2.0-OpenSSH_7.4,MX,"Television Internacional, S.A. de C.V.",
 103.133.36.6,SSH-2.0-libssh_0.9.6,ID,Universitas Muslim Indonesia,
 91.134.90.177,SSH-2.0-OpenSSH_7.4,FR,OVH SAS,
+81.225.205.153,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+75.127.205.91,SSH-2.0-OpenSSH_7.4,US,Cablevision Systems Corp.,
+103.192.199.78,SSH-2.0-libssh_0.9.6,IN,NEEVAI SUPERCLOUD PVT LTD,
