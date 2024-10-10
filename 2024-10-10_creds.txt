@@ -12,3 +12,6 @@ ansible:123456
 arif:arif
 appuser:12345678
 default:default
+info:info
+root:123456
+Admin:Admin
