@@ -1,2 +1,13 @@
 pi:raspberry
 pi:raspberryraspberry993311
+345gs5662d34:345gs5662d34
+info:1
+cali:cali
+angelika:angelika
+admin:P@ssw0rd123
+mich:mich
+test1:12345
+di:di
+ansible:123456
+arif:arif
+appuser:12345678
