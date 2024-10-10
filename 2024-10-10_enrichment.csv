@@ -37,3 +37,5 @@ IP address,remote ssh version,country_code2,organization,asn
 67.170.70.176,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
 58.33.58.37,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 221.215.48.85,,CN,CHINA UNICOM China169 Backbone,
+104.40.74.178,,US,Microsoft Corporation,
+190.129.60.125,SSH-2.0-libssh_0.9.6,BO,Entel S.A. - EntelNet,
