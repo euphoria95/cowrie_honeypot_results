@@ -43,3 +43,7 @@ u1:123456
 girish:girish
 teamspeak3:123456
 ttt:123456
+weblogic:weblogic
+abc:123456
+dspace:dspace
+ansadmin:123
