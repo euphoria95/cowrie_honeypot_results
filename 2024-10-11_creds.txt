@@ -85,3 +85,11 @@ work:work123
 geral:geral
 testuser:1234567890
 support:99
+barcelo:123456
+kiani:123456
+sstmetal:123456
+daragolbon:daragolbon
+pcpqa:pcpqa
+ocean:ocean
+certain:123456
+meysam:meysam
