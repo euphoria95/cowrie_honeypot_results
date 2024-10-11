@@ -263,3 +263,5 @@ IP address,remote ssh version,country_code2,organization,asn
 218.28.98.161,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 211.186.220.42,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
 91.74.98.113,SSH-2.0-OpenSSH_7.4,AE,Emirates Integrated Telecommunications Company PJSC,
+159.89.8.164,SSH-2.0-libssh2_1.11.0,DE,"DigitalOcean, LLC",
+5.182.211.148,SSH-2.0-Go,NL,SKB Enterprise B.V.,
