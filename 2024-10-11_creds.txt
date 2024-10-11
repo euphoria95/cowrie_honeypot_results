@@ -93,3 +93,13 @@ pcpqa:pcpqa
 ocean:ocean
 certain:123456
 meysam:meysam
+publisher:publisher
+nobody:123456
+ftpuser:123321
+melvin:melvin123
+wangyunxia:wangyunxia
+tom:111111
+mc:12
+murakami:murakami
+ubuntu:1111
+text:text
