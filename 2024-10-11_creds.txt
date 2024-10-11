@@ -75,3 +75,12 @@ deploy:123
 guest:guest
 kafka:kafka
 info:info
+git:qwe123
+frappe:frappe
+ftpuser:ftptest
+test:Pass1234
+server:a
+nagios:nagios@123
+work:work123
+geral:geral
+testuser:1234567890
