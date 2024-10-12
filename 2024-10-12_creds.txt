@@ -64,3 +64,10 @@ jiyj:123456
 tran:tran
 aahc:123456
 tengyl:tengyl
+info:test
+uftp:123
+shock:shock
+oracle:111111
+lauren:lauren
+dino:dino
+admin:1qaz@WSX#EDC
