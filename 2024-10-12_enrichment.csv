@@ -2,3 +2,7 @@ IP address,remote ssh version,country_code2,organization,asn
 62.60.233.6,SSH-2.0-Go,TR,GLOBAL CONNECTIVITY SOLUTIONS LLP,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 52.228.167.158,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+142.93.222.12,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+39.99.152.204,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+61.183.8.43,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+198.50.156.92,SSH-2.0-libssh_0.9.6,CA,OVH SAS,
