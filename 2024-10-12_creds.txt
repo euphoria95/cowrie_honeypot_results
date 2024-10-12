@@ -42,3 +42,6 @@ zhangyinghong:zhangyinghong
 cri:cri
 mitraghazaei:mitraghazaei
 msms:123456
+peter:peter
+gnats:gnats
+guest:1111
