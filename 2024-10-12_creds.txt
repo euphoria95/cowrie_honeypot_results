@@ -45,3 +45,8 @@ msms:123456
 peter:peter
 gnats:gnats
 guest:1111
+steam:steampassword
+omar:123456
+radarr:radarr
+arash:arash
+frappe:admin@123
