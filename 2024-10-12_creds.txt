@@ -50,3 +50,5 @@ omar:123456
 radarr:radarr
 arash:arash
 frappe:admin@123
+digiorgio:123456
+zahar:123456
