@@ -52,3 +52,15 @@ arash:arash
 frappe:admin@123
 digiorgio:123456
 zahar:123456
+guitardb:guitardb
+proviana:proviana
+parvane:123456
+administracion:123456
+upload_user:upload_user
+tyf:123456
+dasan:dasan
+adminenf:123456
+jiyj:123456
+tran:tran
+aahc:123456
+tengyl:tengyl
