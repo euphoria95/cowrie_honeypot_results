@@ -33,3 +33,10 @@ yaraplusvpn:yaraplusvpn
 345gs5662d34:345gs5662d34
 varooj:123456
 oracle:welcome1
+aso:aso
+finde:123456
+rhd:123456
+qbi_user:qbi_user
+justin:123456
+subhasish:subhasish
+transadmin:123456
