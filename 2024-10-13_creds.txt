@@ -40,3 +40,8 @@ qbi_user:qbi_user
 justin:123456
 subhasish:subhasish
 transadmin:123456
+nayely:nayely
+ghanbaria:ghanbaria
+jgomez:123456
+sen:sen
+padnise:padnise
