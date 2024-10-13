@@ -1,1 +1,12 @@
 root:root
+b1auser:123456
+anla:123456
+tachwan:tachwan
+jwilson:123456
+emza:123456
+org:org
+farid:123456
+hdgongsa:123456
+idoia:123456
+xiangdong:xiangdong
+olim:olim
