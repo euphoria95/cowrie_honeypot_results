@@ -1,3 +1,7 @@
 IP address,remote ssh version,country_code2,organization,asn
 43.133.241.56,SSH-2.0-Go,KR,Shenzhen Tencent Computer Systems Company Limited,
 147.185.132.216,,US,Google LLC,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+65.49.20.69,GET / HTTP/1.1,US,Hurricane Electric LLC,
+172.212.61.166,SSH-2.0-Go,US,Microsoft Corporation,
