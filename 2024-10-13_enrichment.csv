@@ -15,3 +15,5 @@ IP address,remote ssh version,country_code2,organization,asn
 103.176.79.117,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 47.108.117.104,SSH-2.0-libssh_0.9.6,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 140.246.228.50,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+78.199.166.14,,FR,Free SAS,
+43.154.145.62,SSH-2.0-libssh_0.9.6,HK,Shenzhen Tencent Computer Systems Company Limited,
