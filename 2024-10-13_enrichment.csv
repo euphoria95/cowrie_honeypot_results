@@ -6,3 +6,4 @@ IP address,remote ssh version,country_code2,organization,asn
 65.49.20.69,GET / HTTP/1.1,US,Hurricane Electric LLC,
 172.212.61.166,SSH-2.0-Go,US,Microsoft Corporation,
 201.114.154.52,SSH-2.0-libssh2_1.11.0,MX,UNINET,
+14.241.82.17,,VN,VNPT Corp,
