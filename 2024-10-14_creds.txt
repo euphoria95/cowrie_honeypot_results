@@ -1,3 +1,16 @@
 oracle:oracle!@#$
 max:max!123
 naveen:naveen123
+posiflex:posiflex
+redis:redis
+amin:amin
+info:info
+deployer:deployer
+Admin:Admin
+ansible:Ansible@123
+craft:craft
+jenkins:jenkins
+squid:squid
+minecraft:M1n3cr4ft
+ubuntu:1
+ubnt:1234
