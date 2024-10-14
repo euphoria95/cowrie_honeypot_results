@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 150.66.102.50,,JP,OPTAGE Inc.,
 205.210.31.2,,BR,Google LLC,
 8.222.190.17,,SG,"Alibaba (US) Technology Co., Ltd.",
+190.181.17.5,SSH-2.0-Go,BO,AXS Bolivia S. A.,
+180.225.208.132,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
