@@ -1,3 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
 65.49.1.37,SSH-2.0-Go,US,Hurricane Electric LLC,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+67.159.233.146,SSH-2.0-Go,BR,MUNDIVOX DO BRASIL LTDA,
+58.209.234.84,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
