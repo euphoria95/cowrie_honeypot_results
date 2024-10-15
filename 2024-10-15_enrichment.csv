@@ -8,3 +8,4 @@ IP address,remote ssh version,country_code2,organization,asn
 36.66.16.233,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
 161.35.71.130,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
 205.210.31.60,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+38.180.101.12,SSH-2.0-Go,RS,M247 Europe SRL,
