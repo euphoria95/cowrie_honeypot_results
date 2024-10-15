@@ -33,3 +33,10 @@ heyu:heyu
 ganesha:123456
 majid:majid
 at:123456
+q:q
+rashid:rashid
+ftptest:ftptest
+ftpuser:ftpuserpass
+charan:charan
+345gs5662d34:345gs5662d34
+apple:apple
