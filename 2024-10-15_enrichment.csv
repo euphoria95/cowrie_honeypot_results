@@ -10,3 +10,5 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.60,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 38.180.101.12,SSH-2.0-Go,RS,M247 Europe SRL,
 172.188.29.193,SSH-2.0-libssh_0.9.6,SG,Microsoft Corporation,
+162.241.71.207,SSH-2.0-libssh_0.9.6,US,"Network Solutions, LLC",
+184.105.247.194,GET / HTTP/1.1,US,Hurricane Electric LLC,
