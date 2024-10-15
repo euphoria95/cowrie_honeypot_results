@@ -20,3 +20,4 @@ IP address,remote ssh version,country_code2,organization,asn
 103.86.180.10,SSH-2.0-libssh_0.9.6,IN,Paradise Telecom Pvt Ltd,
 144.91.72.211,SSH-2.0-libssh_0.9.6,DE,Contabo GmbH,
 51.255.51.119,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+154.213.184.15,SSH-2.0-Go,DE,Pfcloud UG,
