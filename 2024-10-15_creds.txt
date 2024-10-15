@@ -76,3 +76,13 @@ nedamo:nedamo
 mvrz:mvrz
 hamedseifi:123456
 direccion:direccion
+shayana:123456
+service:service
+mdi:123456
+deployer:deployer!123
+pwcproje:123456
+marijose:123456
+cztang:123456
+carlos:carlos1234
+hg:hg
+ansuser:Ansuser1
