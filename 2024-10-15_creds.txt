@@ -108,3 +108,9 @@ aceuser:aceuser
 more:more
 user:qwerty1q2
 validator:validator
+naveen:naveen123
+nahidasghari:nahidasghari
+ilia:123456
+rohiet:123456
+sklight:123456
+max:max!123
