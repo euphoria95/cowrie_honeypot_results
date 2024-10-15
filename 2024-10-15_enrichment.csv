@@ -1,3 +1,8 @@
 IP address,remote ssh version,country_code2,organization,asn
 52.160.32.165,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 82.64.186.234,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+deb11u1,FR,Free SAS,
+117.50.51.119,SSH-2.0-libssh_0.9.6,CN,China Mobile,
+41.111.172.50,,DZ,Telecom Algeria,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+20.169.248.82,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+36.66.16.233,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
