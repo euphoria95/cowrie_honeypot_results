@@ -22,3 +22,5 @@ IP address,remote ssh version,country_code2,organization,asn
 51.255.51.119,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
 154.213.184.15,SSH-2.0-Go,DE,Pfcloud UG,
 45.148.10.240,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
+195.144.239.122,SSH-2.0-Go,RU,PJSC MegaFon,
+112.49.236.115,SSH-2.0-libssh_0.9.6,CN,China Mobile,
