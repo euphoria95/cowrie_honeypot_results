@@ -40,3 +40,15 @@ ftpuser:ftpuserpass
 charan:charan
 345gs5662d34:345gs5662d34
 apple:apple
+kywang:123456
+savoja:123456
+hamidkh:123456
+flor:flor
+tehrani:tehrani
+srn:srn
+lhermosa:lhermosa
+nakhoda:123456
+onboarding:onboarding
+amirsa:123456
+taylor:taylor
+wies:123456
