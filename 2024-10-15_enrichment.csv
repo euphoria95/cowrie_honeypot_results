@@ -16,3 +16,4 @@ IP address,remote ssh version,country_code2,organization,asn
 136.232.11.10,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
 210.91.154.187,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 104.28.238.182,SSH-2.0-libssh_0.9.6,JP,"Cloudflare, Inc.",
+183.104.83.122,SSH-2.0-Go,KR,Korea Telecom,
