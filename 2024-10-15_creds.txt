@@ -31,3 +31,5 @@ farhad:farhad
 kei:123456
 heyu:heyu
 ganesha:123456
+majid:majid
+at:123456
