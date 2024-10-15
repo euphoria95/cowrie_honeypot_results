@@ -24,3 +24,5 @@ IP address,remote ssh version,country_code2,organization,asn
 45.148.10.240,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
 195.144.239.122,SSH-2.0-Go,RU,PJSC MegaFon,
 112.49.236.115,SSH-2.0-libssh_0.9.6,CN,China Mobile,
+122.114.69.235,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
+165.227.85.187,SSH-2.0-Go,US,"DigitalOcean, LLC",
