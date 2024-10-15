@@ -106,3 +106,4 @@ ubuntu:admin12345
 desarrollo:desarrollo
 aceuser:aceuser
 more:more
+user:qwerty1q2
