@@ -50,3 +50,8 @@ shin:123456
 okta:123456
 webuser:123456
 ubuntu:ubuntu
+mnwork:123456
+sheny:123456
+marat:123456
+chenh:123456
+lilishekar:lilishekar
