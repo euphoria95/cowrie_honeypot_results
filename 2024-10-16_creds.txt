@@ -49,3 +49,4 @@ lawrence:123456
 shin:123456
 okta:123456
 webuser:123456
+ubuntu:ubuntu
