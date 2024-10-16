@@ -11,3 +11,5 @@ marcus:marcus
 ec2-user:123456
 ewelina:ewelina
 rohit:rohit
+pi:raspberry
+pi:raspberryraspberry993311
