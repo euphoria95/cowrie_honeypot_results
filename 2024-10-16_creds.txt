@@ -1,0 +1,13 @@
+zhanglei:zhanglei123
+kevin:password
+qia:qia
+sammy:1
+tom:test123
+ht:ht123
+chenzilong:chenzilong
+backup1:backup1
+345gs5662d34:345gs5662d34
+marcus:marcus
+ec2-user:123456
+ewelina:ewelina
+rohit:rohit
