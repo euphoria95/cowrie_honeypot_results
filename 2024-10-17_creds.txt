@@ -110,3 +110,4 @@ pradnya:123456
 stager:stager
 torque:torque
 rzfatehi:123456
+root:root
