@@ -3,3 +3,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.105.128.13,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 211.253.10.96,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 44.220.185.5,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+4.151.230.108,SSH-2.0-Go,US,Microsoft Corporation,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+165.22.39.64,SSH-2.0-Go,US,"DigitalOcean, LLC",
