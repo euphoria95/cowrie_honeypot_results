@@ -120,3 +120,6 @@ production:productionpassword
 filip:1234
 doris:doris@2024
 sunny:12345
+thomas:thomas@123
+jacob:123456
+federica:password
