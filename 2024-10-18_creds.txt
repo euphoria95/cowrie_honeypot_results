@@ -123,3 +123,9 @@ sunny:12345
 thomas:thomas@123
 jacob:123456
 federica:password
+lk:lklk123
+hlm:hlmpassword
+lisi:lisi@123
+consulta:consulta123
+devuser:devuserdevuser
+vr:123456
