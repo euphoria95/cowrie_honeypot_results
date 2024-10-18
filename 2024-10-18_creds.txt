@@ -38,3 +38,14 @@ kaiechen:kaiechen
 mehrdadj:123456
 smitab:123456
 das:das
+aramos:123
+informix:password
+alberto:123456
+luke:lukepass
+production:production@123
+q:qpass
+haha:123
+chris:password
+haha:12345678
+sftp:123456789
+etienne:etiennepassword
