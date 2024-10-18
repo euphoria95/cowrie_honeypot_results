@@ -27,3 +27,6 @@ IP address,remote ssh version,country_code2,organization,asn
 223.31.64.201,,IN,Sify Limited,
 218.78.97.218,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 172.202.251.196,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+3.25.215.24,SSH-2.0-Go,AU,"Amazon.com, Inc.",
+104.152.52.120,,US,Rethem Hosting LLC,
+172.188.59.232,SSH-2.0-libssh_0.9.6,SG,Microsoft Corporation,
