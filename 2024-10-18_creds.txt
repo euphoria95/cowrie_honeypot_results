@@ -107,3 +107,7 @@ sbwang:sbwang
 admin:a
 ftptest:123
 hadifarrokh:123456
+xinuei:123456
+test_test:123456
+kazem:123456
+amir:amir
