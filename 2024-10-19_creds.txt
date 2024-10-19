@@ -23,3 +23,5 @@ lvjiajun:lvjiajun
 soltan:123456
 chaitanya:chaitanya
 jsalutregui:123456
+pi:raspberryraspberry993311
+pi:raspberry
