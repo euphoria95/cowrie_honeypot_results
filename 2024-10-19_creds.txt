@@ -56,3 +56,9 @@ wu:wu123
 max:123456
 user9:user9
 lgl:lgl
+syasin:syasin
+josecarlos:123456
+negintgh:negintgh
+lolo:lolo
+russi:123456
+ce:ce
