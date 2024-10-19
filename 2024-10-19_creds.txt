@@ -28,3 +28,14 @@ pi:raspberry
 sujai:123456
 yuyy:123456
 nobodyz:nobodyz
+rsync:123456
+amine:amine123
+lq:123456
+mysql:admin
+cdn:cdn
+rex:password
+sammy:1
+ubuntu:ubuntu
+lux:lux
+eva:123456
+chenzilong:chenzilong
