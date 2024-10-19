@@ -27,3 +27,4 @@ IP address,remote ssh version,country_code2,organization,asn
 61.32.42.251,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 139.59.20.119,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 8.222.190.223,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+64.62.197.172,SSH-2.0-Go,US,Hurricane Electric LLC,
