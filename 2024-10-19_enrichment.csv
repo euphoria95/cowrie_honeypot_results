@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 195.178.110.65,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
 165.22.197.179,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
 85.239.232.221,SSH-2.0-Go,US,"Nubes, LLC",
+66.240.223.202,SSH-2.0-Go,US,"CariNet, Inc.",
+103.179.56.126,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
