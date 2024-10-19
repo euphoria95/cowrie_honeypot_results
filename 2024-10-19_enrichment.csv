@@ -12,3 +12,5 @@ IP address,remote ssh version,country_code2,organization,asn
 182.72.16.162,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
 147.185.132.91,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 75.72.197.45,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2,US,"Comcast Cable Communications, LLC",
+128.199.188.253,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+198.235.24.18,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
