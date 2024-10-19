@@ -39,3 +39,16 @@ ubuntu:ubuntu
 lux:lux
 eva:123456
 chenzilong:chenzilong
+omv:omv
+miw:miw
+ssh:ssh
+build:123456
+cisco:cisco
+vagrant:vagrant
+jenkins:12345678
+git:Password123
+admln:kopet123
+proxyuser:proxyuser
+guo:123456
+kim:kim
+guest:guestguest
