@@ -52,3 +52,5 @@ proxyuser:proxyuser
 guo:123456
 kim:kim
 guest:guestguest
+wu:wu123
+max:123456
