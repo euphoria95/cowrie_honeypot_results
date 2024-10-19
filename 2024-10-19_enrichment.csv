@@ -14,3 +14,5 @@ IP address,remote ssh version,country_code2,organization,asn
 75.72.197.45,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u2,US,"Comcast Cable Communications, LLC",
 128.199.188.253,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 198.235.24.18,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+195.178.110.65,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
+165.22.197.179,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
