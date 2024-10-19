@@ -63,3 +63,5 @@ lolo:lolo
 russi:123456
 ce:ce
 root:root
+dspace:dspace
+ansadmin:123
