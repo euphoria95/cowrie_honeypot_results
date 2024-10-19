@@ -25,3 +25,6 @@ chaitanya:chaitanya
 jsalutregui:123456
 pi:raspberryraspberry993311
 pi:raspberry
+sujai:123456
+yuyy:123456
+nobodyz:nobodyz
