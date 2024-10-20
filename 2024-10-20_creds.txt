@@ -28,3 +28,4 @@ melarion:melarion
 mop:mop
 mtmt:123456
 gupi:gupi
+lupusor:lupusor
