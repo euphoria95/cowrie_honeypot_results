@@ -8,3 +8,8 @@ sonarqube:sonarqube123
 oficina:oficina
 luis:luis
 root:root
+catuser:catuser
+sammy:123456789
+chenzilong:chenzilong
+bob:123456
+sammy:1
