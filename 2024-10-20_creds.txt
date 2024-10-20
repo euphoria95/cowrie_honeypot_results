@@ -20,3 +20,11 @@ dorin:dorin
 steam:steampass
 docker:docker2023
 deployer:123456
+bunge:bunge
+tala:123456
+macbookair:123456
+kaveh:kaveh
+melarion:melarion
+mop:mop
+mtmt:123456
+gupi:gupi
