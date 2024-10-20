@@ -13,3 +13,8 @@ sammy:123456789
 chenzilong:chenzilong
 bob:123456
 sammy:1
+git:gituser
+eth:eth
+joe:joe
+dorin:dorin
+steam:steampass
