@@ -1,0 +1,9 @@
+avinash:avinash
+ubuntu:ubuntu@2023
+test:0
+ftptest:ftptest123
+i:12345678
+345gs5662d34:345gs5662d34
+sonarqube:sonarqube123
+oficina:oficina
+luis:luis
