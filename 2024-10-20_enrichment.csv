@@ -14,3 +14,4 @@ IP address,remote ssh version,country_code2,organization,asn
 201.179.34.116,SSH-2.0-libssh2_1.11.0,AR,Telefonica de Argentina,
 104.28.238.182,SSH-2.0-libssh_0.9.6,JP,"Cloudflare, Inc.",
 101.126.30.240,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+157.245.216.203,SSH-2.0-Go,US,"DigitalOcean, LLC",
