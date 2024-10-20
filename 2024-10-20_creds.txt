@@ -29,3 +29,15 @@ mop:mop
 mtmt:123456
 gupi:gupi
 lupusor:lupusor
+guest5:guest5
+phoenix:phoenix123
+abc:1qaz2wsx
+usuario:password
+cloud_user:password
+root1:123456
+richard:richard123
+azureuser:password
+zhm:zhm
+admin:123321
+ali:aliali
+redis:redis123
