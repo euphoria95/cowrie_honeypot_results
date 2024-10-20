@@ -6,3 +6,8 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.47,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 140.238.68.15,SSH-2.0-libssh2_1.11.0,GB,Oracle Corporation,
 198.235.24.143,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+8.222.225.211,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+45.156.128.98,SSH-2.0-Go,NL,"NSEC - Sistemas Informaticos, S.A.",
+167.71.205.80,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+106.75.70.58,SSH-2.0-libssh_0.9.6,CN,China Mobile,
+119.188.168.53,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
