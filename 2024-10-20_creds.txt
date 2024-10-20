@@ -7,3 +7,4 @@ i:12345678
 sonarqube:sonarqube123
 oficina:oficina
 luis:luis
+root:root
