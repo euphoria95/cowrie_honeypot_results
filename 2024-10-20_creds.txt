@@ -18,3 +18,5 @@ eth:eth
 joe:joe
 dorin:dorin
 steam:steampass
+docker:docker2023
+deployer:123456
