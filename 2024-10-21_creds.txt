@@ -233,3 +233,10 @@ gitolite3:gitolite3
 neshat:neshat
 fauzi:123456
 chaos:123456
+ftpUser:ftpUser123
+laser:123456
+steam:1q2w3e4r
+student:UNCHANGED
+jai:jai123
+chrism:chrism123
+mukunda:mukunda
