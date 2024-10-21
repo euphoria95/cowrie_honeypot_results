@@ -1,1 +1,16 @@
 root:root
+esther:123456
+ashram:123456
+prowlarr:123456
+mohan:123456
+lighthouse:lighthouse
+dokku:dokku
+zhaoyu:123456
+sukanta:123456
+shaghayegh:123456
+jiaqi:jiaqi
+dinas:dinas
+arshi:arshi
+amaniz:amaniz
+ylyin:ylyin
+taiko:taiko
