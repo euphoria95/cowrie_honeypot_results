@@ -33,3 +33,9 @@ zlg:123456
 diquest:123
 sachin:sachin@123
 xy:12345
+appadmin:123456
+admin:no
+rajab:123456
+cad:cad123
+samira:samira123
+ftpuser:ftpuser123
