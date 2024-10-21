@@ -20,3 +20,16 @@ Admin:Abcd123
 telnet:Abcd1234
 1:abcd123
 postgres:Ab123456
+ghost:1234
+345gs5662d34:345gs5662d34
+material:material
+ftp:ftpftp123
+username:username@123
+remoto:remotoremoto
+rashid:rashid123
+ruhul:ruhul123
+ollama:password
+zlg:123456
+diquest:123
+sachin:sachin@123
+xy:12345
