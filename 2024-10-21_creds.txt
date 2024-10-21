@@ -60,3 +60,8 @@ yves:123456
 zhenjie:zhenjie123
 zgr:zgr123
 elasticuser:elasticuser
+liuwei:liuwei123
+pool:pool123
+dados:dados
+jerry:123456
+aziah:aziah123
