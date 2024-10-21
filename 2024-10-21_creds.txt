@@ -14,3 +14,9 @@ arshi:arshi
 amaniz:amaniz
 ylyin:ylyin
 taiko:taiko
+oracle:oracle2023
+vagrant:Vagrant@1234
+Admin:Abcd123
+telnet:Abcd1234
+1:abcd123
+postgres:Ab123456
