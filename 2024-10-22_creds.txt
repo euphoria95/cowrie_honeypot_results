@@ -1,0 +1,7 @@
+sergey:sergey123
+oleg:oleg
+agfa:agfa123
+cyl:cyl123
+tech:tech123
+steven:steven123
+dockeradmin:dockeradmin123
