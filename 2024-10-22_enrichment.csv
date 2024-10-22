@@ -204,3 +204,7 @@ IP address,remote ssh version,country_code2,organization,asn
 36.67.197.52,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
 165.227.118.246,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 51.158.120.121,SSH-2.0-libssh_0.9.6,FR,SCALEWAY S.A.S.,
+193.32.177.144,SSH-2.0-libssh_0.9.6,US,Baykov Ilya Sergeevich,
+14.167.99.235,,VN,VNPT Corp,
+201.91.135.20,SSH-2.0-libssh_0.9.6,BR,TELEFï¿½NICA BRASIL S.A,
+197.243.14.52,SSH-2.0-libssh_0.9.6,RW,Broadband Systems Corporation,
