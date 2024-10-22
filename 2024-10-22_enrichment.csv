@@ -216,3 +216,5 @@ IP address,remote ssh version,country_code2,organization,asn
 190.147.253.55,SSH-2.0-libssh_0.9.6,CO,Telmex Colombia S.A.,
 103.76.120.31,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 78.188.134.177,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u1,TR,TTNet A.S.,
+124.153.144.195,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Seokyung Cable Television Co.. Ltd.,
+121.179.93.147,,KR,Korea Telecom,
