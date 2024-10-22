@@ -730,3 +730,15 @@ aminsabahi:aminsabahi
 dagostino:123456
 mamalii:mamalii
 mjagus:mjagus
+fis:123456
+maha:maha123
+rocky:123456
+costa:costa
+dev:password
+sriram:123456
+tkj:123456
+mysql:mysql123
+OSCAR:OSCAR123
+hangs:hangs
+user12:user12
+wp-user:1234
