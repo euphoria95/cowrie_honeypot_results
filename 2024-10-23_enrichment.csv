@@ -54,3 +54,6 @@ IP address,remote ssh version,country_code2,organization,asn
 218.0.61.214,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
 140.249.54.104,SSH-2.0-libssh_0.9.6,CN,"Qingdao,266000",
 201.249.189.189,SSH-2.0-libssh_0.9.6,VE,"CANTV Servicios, Venezuela",
+125.124.88.47,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
+171.104.142.232,SSH-2.0-libssh_0.9.6,CN,"CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning , Guangxi Province, P.R.China.",
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
