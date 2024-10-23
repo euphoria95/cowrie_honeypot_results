@@ -132,3 +132,4 @@ second:second
 nagios:nagios
 Zhang:Zhang
 irania:irania
+ubuntu:user
