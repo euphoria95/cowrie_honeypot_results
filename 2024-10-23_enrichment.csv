@@ -49,3 +49,8 @@ IP address,remote ssh version,country_code2,organization,asn
 20.82.105.249,SSH-2.0-libssh_0.9.6,NL,Microsoft Corporation,
 106.12.144.155,SSH-2.0-libssh_0.9.6,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
 42.200.106.175,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
+117.184.199.39,SSH-2.0-libssh_0.9.6,CN,China Mobile,
+47.158.120.202,SSH-2.0-Go,US,"Frontier Communications of America, Inc.",
+218.0.61.214,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
+140.249.54.104,SSH-2.0-libssh_0.9.6,CN,"Qingdao,266000",
+201.249.189.189,SSH-2.0-libssh_0.9.6,VE,"CANTV Servicios, Venezuela",
