@@ -127,3 +127,4 @@ IP address,remote ssh version,country_code2,organization,asn
 103.77.242.95,SSH-2.0-libssh_0.9.6,VN,VPSMMO COMPANY LIMITED,
 13.58.97.162,SSH-2.0-Go,US,"Amazon.com, Inc.",
 203.189.220.219,,CN,Cloud Computing Corporation,
+77.3.93.6,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2,DE,Telefonica Germany GmbH & Co.OHG,
