@@ -336,3 +336,13 @@ mary:mary
 subhodeepsd:subhodeepsd
 kolahdoozan:123456
 pi:raspberryraspberry993311
+angus:angus
+stage:stage
+charles:charles123
+liran:liran123
+toptst:toptst
+useradmin:useradmin
+apn:123456
+clouduser:clouduser123
+area:area123
+poc:poc
