@@ -264,3 +264,7 @@ hunglq:123456
 hesamraoufpanah:hesamraoufpanah
 jack:jack123
 sade:123456
+test:0000
+mine:mine
+logify:logify123
+ftpclient:ftpclient
