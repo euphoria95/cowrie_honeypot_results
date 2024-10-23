@@ -72,3 +72,6 @@ IP address,remote ssh version,country_code2,organization,asn
 222.173.29.165,,CN,"No.31,Jin-rong Street",
 8.140.254.117,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 119.246.15.94,SSH-2.0-libssh_0.9.6,HK,Hong Kong Broadband Network Ltd,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+112.6.211.247,SSH-2.0-Go,CN,China Mobile,
+187.200.206.254,SSH-2.0-libssh_0.9.6,MX,UNINET,
