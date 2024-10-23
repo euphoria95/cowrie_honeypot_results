@@ -133,3 +133,14 @@ nagios:nagios
 Zhang:Zhang
 irania:irania
 ubuntu:user
+wuwei:wuwei123
+nav:nav123
+matlab:123456
+kontakt:kontakt123
+nuevo:123456
+eb:eb
+itsm:123456
+bot:bot@123
+345gs5662d34:345gs5662d34
+code87:123456
+git:12341234
