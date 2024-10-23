@@ -156,3 +156,10 @@ joris:123456
 ons:ons123
 ubuntu:123QWEqwe
 jinge:123456
+user1:root
+ansuser:Ansuser1
+cubrid:123456
+oracle:oracle!@#$
+ibrahim:ibrahim123
+max:max!123
+craft:craft!@#
