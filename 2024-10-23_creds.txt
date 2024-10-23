@@ -205,3 +205,4 @@ mohit:mohit
 vladimir:123456
 jb:123456
 dokku:123456
+mc:minecraft
