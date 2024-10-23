@@ -305,3 +305,16 @@ qemu:123456
 svxlink:svxlink
 elena:elena123
 barzegari:123456
+mohamed:mohamed123
+deploy:M3gaP33!
+demouser:demouser123
+monitora:123456
+nadim:nadim123
+nvidia:123456
+zhangjunyin:zhangjunyin123
+igor:igor
+usuario1:usuario1123
+zain:zain123
+liujin:liujin123
+user2:123
+qwerty:123456
