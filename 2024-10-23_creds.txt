@@ -206,3 +206,7 @@ vladimir:123456
 jb:123456
 dokku:123456
 mc:minecraft
+Admin:Admin
+ansadmin:123
+info:info
+dspace:dspace
