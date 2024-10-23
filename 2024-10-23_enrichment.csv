@@ -75,3 +75,5 @@ IP address,remote ssh version,country_code2,organization,asn
 45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 112.6.211.247,SSH-2.0-Go,CN,China Mobile,
 187.200.206.254,SSH-2.0-libssh_0.9.6,MX,UNINET,
+46.57.100.86,SSH-2.0-Go,AT,Hutchison Drei Austria GmbH,
+172.169.190.142,SSH-2.0-Go,US,Microsoft Corporation,
