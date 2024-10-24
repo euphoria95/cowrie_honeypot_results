@@ -551,3 +551,16 @@ lizy:123456
 newDvr:newDvr
 sim:sim
 abeigi:123456
+git:gitserver
+prueba:1
+oliver:123456
+deamon:deamon
+eric:123456
+dirk:dirk
+user7:user7
+tera:tera
+vijay:vijay@123
+rescue:rescue123
+dockeradmin:12345
+diogo:diogo
+dimas:dimas
