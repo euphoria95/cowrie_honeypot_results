@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 195.178.110.65,,NL,PPTECHNOLOGY LIMITED,
 185.103.252.59,SSH-2.0-libssh_0.9.6,DE,FIRST SERVER LIMITED,
 51.8.231.182,,US,Microsoft Corporation,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+205.210.31.45,,BR,Google LLC,
