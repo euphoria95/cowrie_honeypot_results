@@ -341,3 +341,7 @@ ghasemi:123456
 mbbk:123456
 me:123456
 mcardenas:123456
+sirlene:sirlene
+protecto:123456
+asusr:123456
+drcte:drcte
