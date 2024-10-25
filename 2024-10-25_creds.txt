@@ -141,3 +141,7 @@ dongyongli:123456
 oboor:oboor
 haritz:haritz
 hrmsuser:hrmsuser
+smpserver:smpserver
+rastgoo:rastgoo
+tere:123456
+olfati:123456
