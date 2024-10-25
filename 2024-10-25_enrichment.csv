@@ -40,3 +40,7 @@ IP address,remote ssh version,country_code2,organization,asn
 74.40.19.68,SSH-2.0-libssh_0.9.6,US,"Frontier Communications of America, Inc.",
 223.247.218.112,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 47.245.91.52,SSH-2.0-libssh_0.9.6,US,"Alibaba (US) Technology Co., Ltd.",
+161.35.121.67,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+193.70.85.215,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+59.80.54.225,SSH-2.0-libssh_0.9.6,CN,China Unicom IP network,
+203.189.196.168,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
