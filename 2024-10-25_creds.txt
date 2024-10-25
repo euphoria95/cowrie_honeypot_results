@@ -304,3 +304,11 @@ vnc:123456
 syukri:syukri123
 zelzone:zelzone
 tonmx:tonmx123
+tcl:tcl123
+test3:test3
+youlog:youlog
+usmanqureshi:usmanqureshi
+emilse:123456
+postgres:postgres@1234
+exx:exx123
+temp:1234
