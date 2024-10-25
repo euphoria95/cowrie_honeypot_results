@@ -367,3 +367,12 @@ ramesh:ramesh
 chenhui:123456
 skw:skw
 nina:nina
+svnadmin:123456
+cafe24:cafe24
+odoo:1
+mangesh:123456
+admin:abc@123
+factorio:123456
+karine:karine
+user:admin1234
+pouriach:123456
