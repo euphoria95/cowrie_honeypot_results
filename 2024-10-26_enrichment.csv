@@ -100,3 +100,6 @@ IP address,remote ssh version,country_code2,organization,asn
 58.246.77.82,SSH-2.0-libssh_0.9.6,CN,China Unicom Shanghai network,
 134.122.95.85,,DE,"DigitalOcean, LLC",
 205.210.31.183,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+14.18.118.73,,CN,CHINANET Guangdong province network,
+117.48.147.13,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+192.169.201.6,SSH-2.0-libssh_0.9.6,US,"GoDaddy.com, LLC",
