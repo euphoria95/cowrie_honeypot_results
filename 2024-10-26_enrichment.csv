@@ -172,3 +172,6 @@ IP address,remote ssh version,country_code2,organization,asn
 59.80.54.225,SSH-2.0-libssh_0.9.6,CN,China Unicom IP network,
 159.65.154.37,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 68.183.95.81,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+8.222.140.9,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+27.254.149.199,SSH-2.0-libssh_0.9.6,TH,CS Loxinfo Public Company Limited,
+164.90.199.99,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
