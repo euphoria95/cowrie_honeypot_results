@@ -132,3 +132,8 @@ IP address,remote ssh version,country_code2,organization,asn
 209.38.47.92,SSH-2.0-Go,NL,"DigitalOcean, LLC",
 14.29.99.183,,CN,"No.31,Jin-rong Street",
 64.227.166.140,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
+45.118.146.109,SSH-2.0-libssh_0.9.6,VN,Long Van Soft Solution JSC,
+8.222.204.75,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+78.37.9.8,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
+51.75.194.10,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+165.154.20.207,SSH-2.0-libssh_0.9.6,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
