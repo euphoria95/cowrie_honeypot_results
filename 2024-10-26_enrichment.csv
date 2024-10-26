@@ -98,3 +98,5 @@ IP address,remote ssh version,country_code2,organization,asn
 47.243.26.124,SSH-2.0-libssh_0.9.6,HK,"Alibaba (US) Technology Co., Ltd.",
 8.222.199.210,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 58.246.77.82,SSH-2.0-libssh_0.9.6,CN,China Unicom Shanghai network,
+134.122.95.85,,DE,"DigitalOcean, LLC",
+205.210.31.183,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
