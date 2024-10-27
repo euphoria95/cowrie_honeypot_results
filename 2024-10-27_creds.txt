@@ -787,3 +787,7 @@ gbasedbt:gbasedbt
 ca:ca
 sai:sai
 admin:@dm!n
+1:1
+oracle:oracle
+craft:craft
+minecraft:minecraft
