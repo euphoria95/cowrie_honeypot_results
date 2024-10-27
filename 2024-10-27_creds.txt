@@ -662,3 +662,11 @@ ldy:ldy
 xiaoyi:123456
 delsa:delsa
 vente80:123456
+thermomix:123456
+vic:vic
+liuych:123456
+vicky:vicky
+lishiqi:lishiqi
+mehmatin:mehmatin
+toy:123456
+abhijitju:abhijitju
