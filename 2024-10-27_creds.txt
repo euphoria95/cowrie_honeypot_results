@@ -487,3 +487,13 @@ nichele:nichele
 build:build@#!
 cristal:cristal@123
 co33a:co33a123
+sagar:sagar
+geng:123456
+arshia:123456
+hondu:123456
+anish:anish
+jiangwz:jiangwz
+megafon:123456
+spark:spark
+osscrap:osscrap
+taobs:taobs
