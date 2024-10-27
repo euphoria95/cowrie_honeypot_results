@@ -191,3 +191,6 @@ IP address,remote ssh version,country_code2,organization,asn
 87.201.127.149,SSH-2.0-libssh_0.9.6,AE,Emirates Integrated Telecommunications Company PJSC,
 222.96.27.50,SSH-2.0-Go,KR,Korea Telecom,
 192.42.116.211,SSH-2.0-OpenSSH_9.9,NL,SURF B.V.,
+159.203.112.234,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+8.222.147.160,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+138.99.6.74,SSH-2.0-libssh_0.9.6,AR,AMX Argentina S.A.,
