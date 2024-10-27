@@ -565,3 +565,7 @@ sftptest:sftptest
 perini:123456
 pi:raspberry
 aditappdev:aditappdev
+sohikishali:123456
+dqueeley:dqueeley
+qatar:123456
+dipanker:123456
