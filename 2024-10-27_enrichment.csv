@@ -137,3 +137,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.60.159,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 103.171.90.220,SSH-2.0-libssh_0.9.6,VN,"4/2 Dinh Bo Linh, Group 6, Phu Cuong Ward, Thu Dau Mot City, Binh Duong",
 104.208.108.166,SSH-2.0-libssh_0.9.6,HK,Microsoft Corporation,
+80.13.153.140,SSH-2.0-OPENSSH_7.9,FR,Orange S.A.,
