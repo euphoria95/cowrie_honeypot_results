@@ -546,3 +546,10 @@ download:download123
 bazy03:bazy03
 qichengken:123456
 hildagh:123456
+ec2-user:ec2-user123
+sasaki:123456
+wisesys:wisesys123
+docker:docker@321
+oracle:oracle@123
+cssserver:css
+xguest:test
