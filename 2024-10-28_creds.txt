@@ -778,3 +778,5 @@ yuan:123456
 sansoo:sansoo
 jesus:jesus
 kwlsrua:kwlsrua
+dlinares:123456
+ssobrero:ssobrero
