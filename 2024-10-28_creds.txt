@@ -780,3 +780,11 @@ jesus:jesus
 kwlsrua:kwlsrua
 dlinares:123456
 ssobrero:ssobrero
+desktopapp:desktopapp
+kolovsky:123456
+rhafen:123456
+mtabares:123456
+vpn:vpn
+jxt:123456
+hirani:hirani
+pranavkh:pranavkh
