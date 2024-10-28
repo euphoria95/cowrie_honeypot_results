@@ -553,3 +553,13 @@ docker:docker@321
 oracle:oracle@123
 cssserver:css
 xguest:test
+nginx:123456
+zhaoyu:zhaoyu123
+lzy:123456
+user1:user123
+xyx:xyx
+bbb:bbb123
+boss:boss123
+admin:1234567
+wyse:123456
+dockeradmin:123456
