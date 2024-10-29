@@ -155,3 +155,5 @@ IP address,remote ssh version,country_code2,organization,asn
 165.22.197.179,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
 115.53.204.137,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
 172.168.40.200,SSH-2.0-Go,US,Microsoft Corporation,
+110.25.102.238,SSH-2.0-libssh_0.9.6,TW,"Far EastTone Telecommunication Co., Ltd.",
+134.209.160.117,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
