@@ -114,3 +114,14 @@ burica:burica
 mri:123456
 gorubi:gorubi@
 fujisawa:fujisawa12
+mario:123
+yaya:yaya
+howard:howard
+benoit:benoit
+maint:maint
+ubuntu:qwe123
+maryani:123456
+chaofeng:chaofeng
+REnergy:REnergy
+hesam:123456
+adc:adc123
