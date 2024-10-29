@@ -145,3 +145,10 @@ marcel:123456
 cadman:123456
 io:io
 agimbuzi:123456
+mariah:mariah
+dominik:dominik
+silvia:silvia
+handok:handok
+dmtsai:123456
+luson:luson
+masc:111111
