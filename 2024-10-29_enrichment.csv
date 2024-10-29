@@ -27,3 +27,8 @@ IP address,remote ssh version,country_code2,organization,asn
 45.192.176.21,SSH-2.0-libssh_0.9.6,HK,"ChangLian Network Technology Co., Limited",
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 59.28.2.101,SSH-2.0-Go,KR,Korea Telecom,
+186.13.143.106,SSH-2.0-libssh_0.9.6,AR,AMX Argentina S.A.,
+151.43.34.170,SSH-2.0-libssh_0.9.6,IT,WIND TRE S.P.A.,
+52.249.36.245,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+104.248.36.106,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+110.25.102.250,SSH-2.0-libssh_0.9.6,TW,"Far EastTone Telecommunication Co., Ltd.",
