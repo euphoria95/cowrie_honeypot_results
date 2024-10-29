@@ -42,3 +42,4 @@ IP address,remote ssh version,country_code2,organization,asn
 103.171.15.195,SSH-2.0-libssh2_1.11.0,IN,YOTTA NETWORK SERVICES PRIVATE LIMITED,
 202.159.43.6,SSH-2.0-libssh_0.9.6,ID,"INDO Internet, PT",
 188.166.87.67,SSH-2.0-OpenSSH_8.1,NL,"DigitalOcean, LLC",
+165.232.139.26,SSH-2.0-libssh-0.1,US,"DigitalOcean, LLC",
