@@ -153,3 +153,5 @@ IP address,remote ssh version,country_code2,organization,asn
 125.40.75.234,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
 61.32.42.253,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 165.22.197.179,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
+115.53.204.137,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
+172.168.40.200,SSH-2.0-Go,US,Microsoft Corporation,
