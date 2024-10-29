@@ -639,3 +639,16 @@ claretapaza:claretapaza
 ts13:123456
 mahshiid:mahshiid
 tezpur:123456
+solr:solr
+pnarcisa:123456
+mahoor:mahoor
+jess:jess
+calo:123456
+options:options
+kakuda:kakuda
+pacote:pacote
+liweiliang:liweiliang
+zambi:zambi
+russell:123456
+soufia:soufia
+samaipad:samaipad
