@@ -108,3 +108,9 @@ michelled:123456
 bbeck:123456
 drivera:123456
 iwonak:iwonak
+paulo:paulo
+barreau:123456
+burica:burica
+mri:123456
+gorubi:gorubi@
+fujisawa:fujisawa12
