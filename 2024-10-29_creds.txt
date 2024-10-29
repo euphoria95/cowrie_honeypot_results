@@ -628,3 +628,12 @@ mahbub1:mahbub1
 azadehr:azadehr
 sahel:sahel
 xjlu:123456
+terrazas:123456
+arne:123456
+dario:123456
+corroin:corroin
+odoodev:odoodev
+asus1:asus1
+ethan:ethan
+claretapaza:claretapaza
+ts13:123456
