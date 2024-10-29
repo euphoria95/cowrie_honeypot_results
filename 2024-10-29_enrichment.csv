@@ -157,3 +157,5 @@ IP address,remote ssh version,country_code2,organization,asn
 172.168.40.200,SSH-2.0-Go,US,Microsoft Corporation,
 110.25.102.238,SSH-2.0-libssh_0.9.6,TW,"Far EastTone Telecommunication Co., Ltd.",
 134.209.160.117,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+156.236.66.138,SSH-2.0-libssh_0.9.6,HK,YISU CLOUD LIMITED,
+103.236.192.222,SSH-2.0-libssh_0.9.6,ID,Universitas Pembangunan Nasional Veteran Yogyakarta,
