@@ -25,3 +25,5 @@ IP address,remote ssh version,country_code2,organization,asn
 118.70.48.219,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
 116.172.130.191,,CN,CHINA UNICOM China169 Backbone,
 45.192.176.21,SSH-2.0-libssh_0.9.6,HK,"ChangLian Network Technology Co., Limited",
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+59.28.2.101,SSH-2.0-Go,KR,Korea Telecom,
