@@ -239,3 +239,7 @@ IP address,remote ssh version,country_code2,organization,asn
 103.171.91.12,SSH-2.0-libssh_0.9.6,VN,"4/2 Dinh Bo Linh, Group 6, Phu Cuong Ward, Thu Dau Mot City, Binh Duong",
 121.196.199.239,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 47.236.22.224,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+121.229.191.90,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+103.187.146.162,SSH-2.0-libssh_0.9.6,ID,Cloud Host Pte Ltd,
+172.168.152.22,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+165.22.197.179,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
