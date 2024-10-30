@@ -64,3 +64,7 @@ IP address,remote ssh version,country_code2,organization,asn
 8.222.168.213,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 103.26.136.13,SSH-2.0-libssh_0.9.6,BD,GRAMEEN COMMUNICATIONS,
 150.223.20.12,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+97.74.83.185,SSH-2.0-libssh_0.9.6,SG,"GoDaddy.com, LLC",
+222.73.56.10,,CN,China Telecom (Group),
+195.19.4.22,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
+47.236.85.3,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
