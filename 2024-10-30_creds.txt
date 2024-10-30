@@ -281,3 +281,14 @@ visionupdater:visionupdater
 kaveh:123456
 demouser:123456
 oracle:oracle123#
+shyam:shyam
+demo1:demo1
+elsearch:elsearch
+vahdani:123456
+mohamad:mohamad
+saudi:123456
+wangjx:wangjx
+arief:123456
+jiangkun:jiangkun
+getosindex:getosindex
+gugukey:gugukey
