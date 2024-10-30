@@ -1,0 +1,8 @@
+oracle:oracle
+minecraft:minecraft
+1:1
+fa:fa
+steam:steam
+games:games
+ftp:ftp
+craft:craft
