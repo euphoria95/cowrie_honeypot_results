@@ -268,3 +268,16 @@ foubare:foubare
 pwr:123456
 carpi:carpi
 rbarreal:123456
+mania:mania
+jorgen:123456
+gaf:gaf123
+cryo:123456
+kocom:kocom123
+aswin:aswin123
+l:l123
+deployer:12345
+tnd:tnd123
+visionupdater:visionupdater
+kaveh:123456
+demouser:123456
+oracle:oracle123#
