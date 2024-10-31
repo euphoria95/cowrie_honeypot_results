@@ -163,3 +163,17 @@ windows:123456
 kafka:123
 openstack:openstack
 dunkin:dunkin
+saradiv:123456
+niblersmb:123456
+mremsii:mremsii
+sasperti:123456
+mahmoud:123456
+zhwj:123456
+wangqm:wangqm
+didalg:didalg
+yicong:123456
+gitolite3:123456
+sheydagr:123456
+agvenvo:123456
+kseshimo:kseshimo
+eta:eta
