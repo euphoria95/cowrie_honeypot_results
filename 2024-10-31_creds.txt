@@ -130,3 +130,4 @@ mailman:123456
 dsannicolas:123456
 ventas10:ventas10
 sdn:sdn
+minerashadday:123456
