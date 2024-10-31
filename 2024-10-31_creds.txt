@@ -131,3 +131,16 @@ dsannicolas:123456
 ventas10:ventas10
 sdn:sdn
 minerashadday:123456
+ventas29:123456
+internsftp:123456
+talde3:123456
+comexeec:123456
+sergioc:123456
+cristina_arcos:cristina_arcos
+ydcayut:123456
+infraestura:infraestura
+permitting:permitting
+varnishlog:varnishlog
+ampai:123456
+thuyntt:thuyntt
+magog:123456
