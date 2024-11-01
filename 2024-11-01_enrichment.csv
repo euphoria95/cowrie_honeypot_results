@@ -37,3 +37,5 @@ IP address,remote ssh version,country_code2,organization,asn
 80.64.30.139,SSH-2.0-libssh_0.10.5,RU,Chang Way Technologies Co. Limited,
 150.109.244.181,SSH-2.0-libssh_0.9.6,KR,Shenzhen Tencent Computer Systems Company Limited,
 178.128.153.137,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+125.129.154.111,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
+140.246.137.102,,CN,Cloud Computing Corporation,
