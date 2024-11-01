@@ -49,3 +49,8 @@ IP address,remote ssh version,country_code2,organization,asn
 103.170.4.19,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 195.178.110.65,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
 112.161.86.234,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
+161.35.221.197,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+74.249.27.121,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+23.142.25.90,SSH-2.0-libssh_0.9.6,IN,BHARAT DATACENTER,
+54.39.18.122,SSH-2.0-libssh_0.9.6,CA,OVH SAS,
+103.133.214.69,SSH-2.0-libssh_0.9.6,IN,EWEBGURU,
