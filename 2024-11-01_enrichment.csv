@@ -57,3 +57,4 @@ IP address,remote ssh version,country_code2,organization,asn
 43.163.201.2,SSH-2.0-libssh_0.9.6,JP,Shenzhen Tencent Computer Systems Company Limited,
 47.237.98.16,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 61.19.23.158,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
+222.96.27.50,,KR,Korea Telecom,
