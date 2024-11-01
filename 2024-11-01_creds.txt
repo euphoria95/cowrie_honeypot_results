@@ -506,3 +506,12 @@ purse:purse
 barnett:barnett
 geneva:geneva@#!
 waterqua:waterqua
+criativa_umu:criativa_umu
+kadmin:123456
+dayakar:dayakar
+ocslpbatk:123456
+supaporn:123456
+nucleusinstaller:123456
+rcr:123456
+joaquin:joaquin
+alfa:alfa123
