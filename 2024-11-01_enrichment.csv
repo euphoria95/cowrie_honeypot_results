@@ -100,3 +100,4 @@ IP address,remote ssh version,country_code2,organization,asn
 105.96.11.65,SSH-2.0-libssh_0.9.6,DZ,Telecom Algeria,
 158.51.124.56,SSH-2.0-libssh_0.9.6,US,Hostodo,
 161.35.231.77,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+165.232.139.26,SSH-2.0-libssh-0.1,US,"DigitalOcean, LLC",
