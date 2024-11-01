@@ -127,3 +127,7 @@ IP address,remote ssh version,country_code2,organization,asn
 114.31.15.182,SSH-2.0-OpenSSH_7.4,BD,BDCOM Online Limited,
 111.70.13.53,,TW,Mobile Business Group,
 134.17.16.5,SSH-2.0-libssh_0.9.6,BY,Mobile TeleSystems JLLC,
+103.107.36.18,SSH-2.0-OpenSSH_7.4,IN,SHASS INFORMATION AND QUALITY ENGINEERING SERVICES,
+13.58.97.162,SSH-2.0-Go,US,"Amazon.com, Inc.",
+147.182.225.230,SSH-2.0-OpenSSH_7.4,US,"DigitalOcean, LLC",
+115.30.145.228,SSH-2.0-OpenSSH_7.4,JP,"STNet, Incorporated",
