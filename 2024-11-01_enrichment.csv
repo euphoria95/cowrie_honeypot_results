@@ -39,3 +39,6 @@ IP address,remote ssh version,country_code2,organization,asn
 178.128.153.137,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 125.129.154.111,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 140.246.137.102,,CN,Cloud Computing Corporation,
+113.160.180.216,SSH-2.0-libssh_0.9.6,VN,VNPT Corp,
+14.116.191.130,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+137.220.191.189,SSH-2.0-libssh_0.9.6,JP,CTG Server Limited,
