@@ -102,3 +102,6 @@ IP address,remote ssh version,country_code2,organization,asn
 161.35.231.77,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 165.232.139.26,SSH-2.0-libssh-0.1,US,"DigitalOcean, LLC",
 45.83.66.124,SSH-2.0-Go,DE,Alpha Strike Labs GmbH,
+122.162.151.10,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
+8.222.201.35,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+200.43.231.18,SSH-2.0-libssh_0.9.6,AR,Telecom Argentina S.A.,
