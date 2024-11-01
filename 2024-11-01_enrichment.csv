@@ -67,3 +67,6 @@ IP address,remote ssh version,country_code2,organization,asn
 47.236.27.215,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 183.134.77.13,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
 95.90.242.212,SSH-2.0-libssh_0.9.6,DE,Vodafone Deutschland GmbH,
+190.171.189.85,SSH-2.0-Go,CL,CTC. CORP S.A. (TELEFONICA EMPRESAS),
+1.234.31.117,SSH-2.0-libssh_0.9.6,KR,SK Broadband Co Ltd,
+176.109.82.142,SSH-2.0-Go,RU,MTS PJSC,
