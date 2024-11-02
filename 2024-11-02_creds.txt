@@ -16,3 +16,7 @@ bikbai:123456
 maciel:123456
 qzc:123456
 zdz:123456
+somal:somal
+zhangxiaoy:zhangxiaoy
+rupshree:123456
+long:long
