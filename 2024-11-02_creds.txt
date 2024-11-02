@@ -13,3 +13,6 @@ arena:123456
 rolecall:rolecall
 sandra:sandra
 bikbai:123456
+maciel:123456
+qzc:123456
+zdz:123456
