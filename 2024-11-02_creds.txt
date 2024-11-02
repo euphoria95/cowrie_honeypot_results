@@ -6,3 +6,10 @@ ftpjson:123456
 olmedo:123456
 phsystem:123456
 asoudeh:asoudeh
+avella:123456
+bos:bos
+view:123456
+arena:123456
+rolecall:rolecall
+sandra:sandra
+bikbai:123456
