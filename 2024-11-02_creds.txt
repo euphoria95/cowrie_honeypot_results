@@ -56,3 +56,7 @@ admin:Test
 oracle:oracle2024
 docker:123456
 craft:craft@1234
+dspace:dspace
+Admin:Admin
+info:info
+ansadmin:123
