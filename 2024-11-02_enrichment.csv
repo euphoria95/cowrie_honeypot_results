@@ -12,3 +12,5 @@ IP address,remote ssh version,country_code2,organization,asn
 140.84.188.140,,MX,Oracle Corporation,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 205.210.31.182,,BR,Google LLC,
+8.134.8.24,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+64.226.117.7,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
