@@ -21,3 +21,5 @@ IP address,remote ssh version,country_code2,organization,asn
 85.85.196.35,SSH-2.0-Go,ES,Euskaltel S.A.,
 195.178.110.65,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
 64.62.156.119,SSH-2.0-Go,US,Hurricane Electric LLC,
+154.21.203.84,SSH-2.0-Go,HK,NetLab Global,
+119.203.137.21,,KR,Korea Telecom,
