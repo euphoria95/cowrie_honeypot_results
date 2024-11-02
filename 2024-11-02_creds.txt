@@ -60,3 +60,4 @@ dspace:dspace
 Admin:Admin
 info:info
 ansadmin:123
+ubuntu:ubuntu
