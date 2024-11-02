@@ -1,0 +1,8 @@
+adman:adman
+pedrobarros:123456
+graziano:123456
+clusterworker:clusterworker
+ftpjson:123456
+olmedo:123456
+phsystem:123456
+asoudeh:asoudeh
