@@ -1,0 +1,11 @@
+admin:abcd1234
+telnet:Abcd1234
+vagrant:Vagrant123
+vagrant:Vagrant@1234
+Admin:Abcd123
+1:abcd123
+user:User@1
+oracle:oracle321
+oracle:oracle2023
+kali:Abc1234
+postgres:Ab123456
