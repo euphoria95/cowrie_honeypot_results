@@ -5,3 +5,4 @@ IP address,remote ssh version,country_code2,organization,asn
 59.28.2.101,,KR,Korea Telecom,
 39.108.126.160,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 212.34.4.181,SSH-2.0-Go,JO,Jordan Telecommunications PSC,
+61.32.42.248,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
