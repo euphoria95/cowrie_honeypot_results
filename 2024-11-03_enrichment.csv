@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 39.108.126.160,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 212.34.4.181,SSH-2.0-Go,JO,Jordan Telecommunications PSC,
 61.32.42.248,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+198.235.24.89,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
