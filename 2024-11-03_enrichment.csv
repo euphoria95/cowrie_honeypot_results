@@ -15,3 +15,4 @@ IP address,remote ssh version,country_code2,organization,asn
 140.246.238.239,SSH-2.0-Go,CN,Cloud Computing Corporation,
 61.37.208.116,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 209.97.176.121,SSH-2.0-Go,GB,"DigitalOcean, LLC",
+198.235.24.74,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
