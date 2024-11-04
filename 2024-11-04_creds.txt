@@ -31,3 +31,5 @@ guest:Guest1234
 ftp:ftp
 admin:admin123
 root:123456
+ftp_user:ftp_user
+wordpress:wordpress
