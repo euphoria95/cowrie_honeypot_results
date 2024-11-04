@@ -30,3 +30,4 @@ user:user123
 guest:Guest1234
 ftp:ftp
 admin:admin123
+root:123456
