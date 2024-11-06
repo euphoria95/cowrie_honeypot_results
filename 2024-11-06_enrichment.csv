@@ -20,3 +20,4 @@ IP address,remote ssh version,country_code2,organization,asn
 167.71.41.101,SSH-2.0-Go,DE,"DigitalOcean, LLC",
 104.248.203.191,SSH-2.0-Go,NL,"DigitalOcean, LLC",
 195.178.110.65,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
+13.64.212.245,SSH-2.0-Go,US,Microsoft Corporation,
