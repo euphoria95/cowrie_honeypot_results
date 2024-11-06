@@ -14,3 +14,4 @@ IP address,remote ssh version,country_code2,organization,asn
 219.154.235.176,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
 44.220.185.207,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
 198.235.24.202,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
