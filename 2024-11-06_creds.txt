@@ -3,3 +3,5 @@ squid:Squid123
 ansuser:Ansuser1
 data:data1234
 root:123456
+pi:raspberryraspberry993311
+pi:raspberry
