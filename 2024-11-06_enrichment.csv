@@ -1,2 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
 45.33.109.10,,US,"Akamai Technologies, Inc.",
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+47.121.123.151,SSH-2.0-Go,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+198.235.24.193,,US,Google LLC,
