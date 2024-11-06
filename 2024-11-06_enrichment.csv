@@ -25,3 +25,4 @@ IP address,remote ssh version,country_code2,organization,asn
 61.32.131.4,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 57.152.78.225,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 13.58.97.162,SSH-2.0-Go,US,"Amazon.com, Inc.",
+176.109.92.170,,RU,MTS PJSC,
