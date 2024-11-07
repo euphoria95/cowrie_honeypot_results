@@ -2,3 +2,7 @@ pi:raspberryraspberry993311
 pi:raspberry
 ubuntu:ubuntu
 root:123456
+bot:bot@321
+richard:richard
+black:123456
+node:node
