@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 117.53.144.220,SSH-2.0-libssh2_1.11.0,ID,PT Infinys System Indonesia,
 206.117.197.11,,US,Los Nettos,
 147.185.132.132,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+88.182.251.194,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2,FR,Free SAS,
+18.118.51.244,SSH-2.0-Go,US,"Amazon.com, Inc.",
