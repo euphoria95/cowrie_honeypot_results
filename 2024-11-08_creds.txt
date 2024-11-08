@@ -1,1 +1,4 @@
 ubuntu:ubuntu
+kafka:1qaz2wsx
+craft:craft
+guest:Guest1234
