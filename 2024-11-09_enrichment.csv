@@ -23,3 +23,6 @@ IP address,remote ssh version,country_code2,organization,asn
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 87.236.176.222,SSH-2.0-Go,GB,Driftnet Ltd,
 172.169.190.140,SSH-2.0-Go,US,Microsoft Corporation,
+172.202.251.199,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+104.209.34.230,,US,Microsoft Corporation,
+64.62.156.119,SSH-2.0-Go,US,Hurricane Electric LLC,
