@@ -20,3 +20,5 @@ IP address,remote ssh version,country_code2,organization,asn
 206.252.194.46,SSH-2.0-OpenSSH_7.4,US,"Stealth Communications Services, LLC",
 78.72.114.119,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
 45.115.115.158,SSH-2.0-OpenSSH_7.4,BD,Drik ICT Ltd,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+87.236.176.222,SSH-2.0-Go,GB,Driftnet Ltd,
