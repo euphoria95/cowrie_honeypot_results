@@ -30,3 +30,5 @@ dspace:dspace
 abc:123456
 guest:guest
 zabbix:zabbix
+pi:raspberry
+pi:raspberryraspberry993311
