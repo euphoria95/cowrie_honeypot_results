@@ -18,3 +18,4 @@ IP address,remote ssh version,country_code2,organization,asn
 42.240.131.156,SSH-2.0-Go,CN,CHINANET Guangdong province network,
 188.166.59.144,,NL,"DigitalOcean, LLC",
 118.38.239.52,SSH-2.0-Go,KR,Korea Telecom,
+13.91.180.105,SSH-2.0-Go,US,Microsoft Corporation,
