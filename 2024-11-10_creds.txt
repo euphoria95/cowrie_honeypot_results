@@ -32,3 +32,4 @@ guest:guest
 zabbix:zabbix
 pi:raspberry
 pi:raspberryraspberry993311
+ubuntu:ubuntu
