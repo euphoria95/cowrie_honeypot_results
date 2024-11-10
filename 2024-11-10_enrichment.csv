@@ -15,3 +15,5 @@ IP address,remote ssh version,country_code2,organization,asn
 5.135.238.156,,FR,OVH SAS,
 117.103.147.186,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+deb11u3,HK,HGC Global Communications Limited,
 61.92.58.210,SSH-2.0-libssh2_1.11.0,HK,Hong Kong Broadband Network Ltd,
+42.240.131.156,SSH-2.0-Go,CN,CHINANET Guangdong province network,
+188.166.59.144,,NL,"DigitalOcean, LLC",
