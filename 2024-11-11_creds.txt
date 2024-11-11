@@ -39,3 +39,5 @@ guest:Guest1234
 kafka:1qaz2wsx
 craft:craft
 ubuntu:ubuntu
+pi:raspberry
+pi:raspberryraspberry993311
