@@ -1,2 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
 195.178.110.65,,NL,PPTECHNOLOGY LIMITED,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+143.244.167.116,SSH-2.0-Go,US,"DigitalOcean, LLC",
+47.114.76.12,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
