@@ -35,3 +35,7 @@ postgres:postgres!@#$
 naveen:naveen123
 squid:Squid123
 a:a
+guest:Guest1234
+kafka:1qaz2wsx
+craft:craft
+ubuntu:ubuntu
