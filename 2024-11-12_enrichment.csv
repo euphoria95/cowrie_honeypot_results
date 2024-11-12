@@ -3,3 +3,5 @@ IP address,remote ssh version,country_code2,organization,asn
 119.23.174.68,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 198.235.24.99,,US,Google LLC,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+95.167.133.86,SSH-2.0-Go,RU,PJSC Rostelecom,
+79.7.197.84,SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3,IT,Telecom Italia S.p.A.,
