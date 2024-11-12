@@ -1,0 +1,4 @@
+pi:raspberry
+craft:craft
+kafka:1qaz2wsx
+pi:raspberryraspberry993311
