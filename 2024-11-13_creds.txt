@@ -11,3 +11,11 @@ zabbix:zabbix
 ftuser:ftpuser
 kafka:1qaz2wsx
 root:root
+1:1
+max:max!123
+games:games
+minecraft:minecraft
+fa:fa
+ftp:ftp
+steam:steam
+oracle:oracle
