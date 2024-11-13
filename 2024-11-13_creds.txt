@@ -10,3 +10,4 @@ kafka:1234
 zabbix:zabbix
 ftuser:ftpuser
 kafka:1qaz2wsx
+root:root
