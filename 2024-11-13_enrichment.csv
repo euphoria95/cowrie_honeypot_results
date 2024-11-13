@@ -37,3 +37,4 @@ IP address,remote ssh version,country_code2,organization,asn
 123.129.245.249,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
 198.235.24.96,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 82.208.65.46,SSH-2.0-OpenSSH_7.4,RU,PJSC Rostelecom,
+142.93.191.98,SSH-2.0-Go,US,"DigitalOcean, LLC",
