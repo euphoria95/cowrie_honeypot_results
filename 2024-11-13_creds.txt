@@ -1,0 +1,12 @@
+craft:craft
+nagios:nagios
+web:web
+ubnt:1234
+kali:kali
+guest:Guest1234
+admin:123456
+wp:wordpress
+kafka:1234
+zabbix:zabbix
+ftuser:ftpuser
+kafka:1qaz2wsx
