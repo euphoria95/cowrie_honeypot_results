@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 195.178.110.113,SSH-2.0-Go,NL,PPTECHNOLOGY LIMITED,
 205.210.31.148,,BR,Google LLC,
 181.23.214.231,SSH-2.0-libssh2_1.11.0,AR,Telefonica de Argentina,
+59.19.209.13,SSH-2.0-Go,KR,Korea Telecom,
+205.210.31.69,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
