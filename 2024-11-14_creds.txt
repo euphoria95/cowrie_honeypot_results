@@ -1,2 +1,4 @@
 ubuntu:ubuntu
 test:test@123
+kafka:1qaz2wsx
+craft:craft
