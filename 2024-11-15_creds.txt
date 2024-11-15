@@ -1,3 +1,12 @@
 pi:raspberry
 pi:raspberryraspberry993311
 root:123456
+max:max!123
+craft:craft!@#
+sa:Sa123
+oracle:oracle!@#$
+validator:validator
+dockeradmin:Dockeradmin1234
+carlos:carlos1234
+naveen:naveen123
+ansuser:Ansuser1
