@@ -11,3 +11,4 @@ carlos:carlos1234
 naveen:naveen123
 ansuser:Ansuser1
 ubuntu:ubuntu
+bittensor:bittensor
