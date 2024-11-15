@@ -10,3 +10,4 @@ dockeradmin:Dockeradmin1234
 carlos:carlos1234
 naveen:naveen123
 ansuser:Ansuser1
+ubuntu:ubuntu
