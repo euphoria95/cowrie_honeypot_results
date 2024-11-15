@@ -7,3 +7,5 @@ IP address,remote ssh version,country_code2,organization,asn
 61.37.208.121,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 87.64.71.57,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,BE,Proximus NV,
 47.106.243.7,SSH-2.0-makiko,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+71.31.148.40,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u1,US,Windstream Communications LLC,
