@@ -15,3 +15,9 @@ orangepi:orangepi
 guest:guest
 kafka:kafka
 fa:fa
+ubnt:ubnt1
+ubnt:1qaz2wsx
+ubnt:password
+ubnt:root
+ubnt:ubnt
+ubnt:ubntubnt
