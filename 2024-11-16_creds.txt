@@ -21,3 +21,9 @@ ubnt:password
 ubnt:root
 ubnt:ubnt
 ubnt:ubntubnt
+dspace:dspace
+Admin:Admin
+abc:123456
+ansadmin:123
+info:info
+weblogic:weblogic
