@@ -1,0 +1,17 @@
+admin:Admin123
+ubnt:123456
+oracle:oracle123
+minecraft:123456
+1:1
+wordpress:wordpress
+postgres:123456
+kafka:1234
+postgres:Postgres123
+oracle:Oracle1234
+ubuntu:ubuntu123
+odoo:odoo
+admin:admin123
+orangepi:orangepi
+guest:guest
+kafka:kafka
+fa:fa
