@@ -4,3 +4,6 @@ IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 111.199.102.132,SSH-2.0-Go,CN,China Unicom Beijing Province Network,
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+205.210.31.101,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+222.114.80.158,SSH-2.0-Go,KR,Korea Telecom,
+65.49.1.22,SSH-2.0-Go,US,Hurricane Electric LLC,
