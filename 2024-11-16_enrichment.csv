@@ -10,3 +10,5 @@ IP address,remote ssh version,country_code2,organization,asn
 220.87.52.76,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
 45.83.66.111,SSH-2.0-Go,DE,Alpha Strike Labs GmbH,
 52.189.75.167,SSH-2.0-Go,US,Microsoft Corporation,
+198.235.24.204,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+172.169.4.28,,US,Microsoft Corporation,
