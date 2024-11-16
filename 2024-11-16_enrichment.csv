@@ -7,3 +7,4 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.101,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 222.114.80.158,SSH-2.0-Go,KR,Korea Telecom,
 65.49.1.22,SSH-2.0-Go,US,Hurricane Electric LLC,
+220.87.52.76,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
