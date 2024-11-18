@@ -4,3 +4,4 @@ IP address,remote ssh version,country_code2,organization,asn
 87.120.113.231,SSH-2.0-Go,NL,EKABI,
 143.244.136.87,SSH-2.0-libssh2_1.11.0,IN,"DigitalOcean, LLC",
 198.235.24.8,,US,Google LLC,
+65.49.1.80,GET / HTTP/1.1,US,Hurricane Electric LLC,
