@@ -13,3 +13,5 @@ IP address,remote ssh version,country_code2,organization,asn
 167.71.159.77,SSH-2.0-OpenSSH-keyscan,US,"DigitalOcean, LLC",
 206.189.66.50,,US,"DigitalOcean, LLC",
 209.38.206.136,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+101.91.236.222,SSH-2.0-Go,CN,China Telecom (Group),
+172.202.177.59,,US,Microsoft Corporation,
