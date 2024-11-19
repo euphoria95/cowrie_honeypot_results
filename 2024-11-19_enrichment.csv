@@ -5,3 +5,7 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.138,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 14.54.144.108,,KR,Korea Telecom,
 217.65.121.12,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+b1,HU,Magyar Telekom plc.,
+92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+157.230.136.84,SSH-2.0-OpenSSH-keyscan,US,"DigitalOcean, LLC",
+121.170.218.142,,KR,Korea Telecom,
+45.33.84.221,,US,"Akamai Technologies, Inc.",
