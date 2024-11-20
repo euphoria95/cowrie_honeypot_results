@@ -1,0 +1,11 @@
+minecraft:minecraft
+ftuser:ftpuser
+guest:123456
+ftp:123456
+fa:fa
+oracle:Oracle1234
+kafka:1qaz2wsx
+Zabbix:123456
+oracle:123456
+websrv:websrv
+guest:guest1234
