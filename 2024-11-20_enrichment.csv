@@ -10,3 +10,5 @@ IP address,remote ssh version,country_code2,organization,asn
 139.59.147.83,SSH-2.0-libssh2_1.11.0,DE,"DigitalOcean, LLC",
 183.99.89.74,SSH-2.0-Go,KR,Korea Telecom,
 140.246.82.55,SSH-2.0-Go,CN,Cloud Computing Corporation,
+80.242.208.68,SSH-2.0-Go,KZ,Jusan Mobile JSC,
+172.168.41.162,SSH-2.0-Go,US,Microsoft Corporation,
