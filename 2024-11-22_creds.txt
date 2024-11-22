@@ -59,3 +59,6 @@ mc:minecraft
 odoo:odoo
 daemon:daemon
 oracle:oracle1234
+max:max!123
+oracle:oracle!@#$
+naveen:naveen123
