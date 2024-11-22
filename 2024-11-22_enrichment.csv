@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 206.168.34.214,SSH-2.0-Go,US,"Censys, Inc.",
 198.235.24.14,,US,Google LLC,
 47.236.71.49,SSH-2.0-makiko,SG,"Alibaba (US) Technology Co., Ltd.",
+198.235.24.117,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+87.106.78.155,SSH-2.0-Go,DE,IONOS SE,
+82.64.186.234,SSH-2.0-OpenSSH_8.4p1 Raspbian-5+deb11u1,FR,Free SAS,
