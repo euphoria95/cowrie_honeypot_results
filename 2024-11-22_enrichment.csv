@@ -12,3 +12,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.39,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 36.40.88.29,SSH-2.0-Go,CN,CHINANET SHAANXI province Cloud Base network,
 195.178.110.65,,NL,PPTECHNOLOGY LIMITED,
+174.68.53.229,SSH-2.0-Go,US,Cox Communications Inc.,
+159.65.145.23,SSH-2.0-Go,IN,"DigitalOcean, LLC",
