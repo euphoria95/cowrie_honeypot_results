@@ -56,3 +56,4 @@ telnet:Telnet@123456
 temp:temp1
 Alex:123456
 db:db
+kafka:1qaz2wsx
