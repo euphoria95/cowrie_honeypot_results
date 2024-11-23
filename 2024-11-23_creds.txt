@@ -1,0 +1,8 @@
+ansuser:Ansuser1
+carlos:carlos1234
+sa:Sa123
+oracle:oracle!@#$
+naveen:naveen123
+max:max!123
+dockeradmin:Dockeradmin1234
+craft:craft!@#
