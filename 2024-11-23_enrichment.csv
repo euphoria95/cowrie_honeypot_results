@@ -18,3 +18,4 @@ IP address,remote ssh version,country_code2,organization,asn
 167.94.138.125,SSH-2.0-Go,US,"Censys, Inc.",
 64.62.197.133,SSH-2.0-Go,US,Hurricane Electric LLC,
 180.225.33.39,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+98.20.204.76,,US,Windstream Communications LLC,
