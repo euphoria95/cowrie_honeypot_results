@@ -5,3 +5,16 @@ admin:123456
 moxa:moxa
 admin:admin1234
 guest:123456
+ubnt:1234
+nagios:nagios
+zjw:zjw
+kafka:kafka
+ftuser:ftpuser
+oracle:oracle1234
+deploy:deploy
+kafka:1qaz2wsx
+guest:guest
+guest:guest1234
+Zabbix:123456
+csgo:csgo
+odoo:123456
