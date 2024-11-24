@@ -1,0 +1,7 @@
+mcserver:minecraft
+debian:123456
+postgres:Postgres1234
+admin:123456
+moxa:moxa
+admin:admin1234
+guest:123456
