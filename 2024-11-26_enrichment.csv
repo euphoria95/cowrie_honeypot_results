@@ -15,3 +15,6 @@ IP address,remote ssh version,country_code2,organization,asn
 170.64.135.88,SSH-2.0-Go,AU,"DigitalOcean, LLC",
 64.62.197.108,SSH-2.0-Go,US,Hurricane Electric LLC,
 20.225.1.106,,US,Microsoft Corporation,
+198.235.24.127,,US,Google LLC,
+164.90.208.44,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+165.22.88.250,,DE,"DigitalOcean, LLC",
