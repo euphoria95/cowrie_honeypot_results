@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 92.255.85.107,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 138.68.88.167,SSH-2.0-Go,DE,"DigitalOcean, LLC",
 172.168.157.145,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+167.99.253.36,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+198.235.24.231,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
