@@ -14,3 +14,4 @@ IP address,remote ssh version,country_code2,organization,asn
 101.71.130.99,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
 170.64.135.88,SSH-2.0-Go,AU,"DigitalOcean, LLC",
 64.62.197.108,SSH-2.0-Go,US,Hurricane Electric LLC,
+20.225.1.106,,US,Microsoft Corporation,
