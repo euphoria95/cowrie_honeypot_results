@@ -34,3 +34,4 @@ pedro:Pedro1
 kafka:Kafka@1234
 postgres:postgres!@#$
 anand:anand1234
+validator:validator
