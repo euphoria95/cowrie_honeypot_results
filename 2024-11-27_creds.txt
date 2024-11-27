@@ -9,3 +9,4 @@ weblogic:weblogic
 guest:guest
 info:info
 validator:validator
+ubuntu:ubuntu
