@@ -1,2 +1,10 @@
 pi:raspberryraspberry993311
 pi:raspberry
+ansadmin:123
+zabbix:zabbix
+abc:123456
+Admin:Admin
+dspace:dspace
+weblogic:weblogic
+guest:guest
+info:info
