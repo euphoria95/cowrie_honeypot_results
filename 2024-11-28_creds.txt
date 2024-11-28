@@ -1,0 +1,2 @@
+cash:cash
+student_1:student_1
