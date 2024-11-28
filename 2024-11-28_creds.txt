@@ -33,3 +33,4 @@ pi:raspberry
 ftp_user:ftp_user
 kafka:kafka
 wp:wp
+pi:raspberryraspberry993311
