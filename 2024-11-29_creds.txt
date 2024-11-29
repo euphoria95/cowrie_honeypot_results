@@ -16,3 +16,6 @@ wordpress:wordpress
 deploy:deploy
 ubuntu:ubuntu1234
 odoo:123456
+ansadmin:123
+Admin:Admin
+dspace:dspace
