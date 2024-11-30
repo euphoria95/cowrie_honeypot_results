@@ -3,3 +3,5 @@ max:max!123
 craft:craft!@#
 oracle:oracle!@#$
 ansuser:Ansuser1
+ubuntu:ubuntu
+kafka:1qaz2wsx
