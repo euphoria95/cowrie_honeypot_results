@@ -5,3 +5,9 @@ oracle:oracle!@#$
 ansuser:Ansuser1
 ubuntu:ubuntu
 kafka:1qaz2wsx
+ansadmin:123
+weblogic:weblogic
+info:info
+dspace:dspace
+Admin:Admin
+abc:123456
