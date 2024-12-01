@@ -37,3 +37,8 @@ stack:stack!123
 xguest:123456
 pi:raspberryraspberry993311
 pi:raspberry
+oper01:oper01
+345gs5662d34:345gs5662d34
+moss:moss
+hash:hash
+club:club
