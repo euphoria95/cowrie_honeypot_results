@@ -33,3 +33,15 @@ ttr:ttr
 sa:Sa123
 dockeradmin:Dockeradmin1234
 ubuntu:0000
+catering:catering
+elsa:elsa
+monitoring:monitoring@123
+yuzhonghang:yuzhonghang
+npf:npf
+kevin:12345
+pgx:123456
+elearn:elearn123
+zhen:zhen
+jack:1234
+irene:irene
+dpc:dpc
