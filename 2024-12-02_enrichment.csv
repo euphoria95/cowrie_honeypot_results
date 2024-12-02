@@ -13,3 +13,6 @@ IP address,remote ssh version,country_code2,organization,asn
 80.227.238.170,SSH-2.0-libssh_0.9.6,AE,Emirates Integrated Telecommunications Company PJSC,
 82.102.17.188,,ES,M247 Europe SRL,
 119.96.241.126,SSH-2.0-Go,CN,CHINANET Hubei province network,
+203.145.34.222,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+64.62.197.181,GET / HTTP/1.1,US,Hurricane Electric LLC,
+205.210.31.145,,BR,Google LLC,
