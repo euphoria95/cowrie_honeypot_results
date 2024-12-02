@@ -69,3 +69,8 @@ IP address,remote ssh version,country_code2,organization,asn
 102.33.32.79,SSH-2.0-Go,ZA,Metrofibre Networx,
 198.235.24.36,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 104.225.159.240,SSH-2.0-libssh_0.9.6,US,IT7 Networks Inc,
+138.68.88.167,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+102.33.32.97,SSH-2.0-Go,ZA,Metrofibre Networx,
+45.79.181.94,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+102.33.32.124,SSH-2.0-Go,ZA,Metrofibre Networx,
+222.118.167.160,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
