@@ -19,3 +19,4 @@ IP address,remote ssh version,country_code2,organization,asn
 80.253.31.232,SSH-2.0-libssh_0.9.6,RU,LLC SETEL,
 101.89.122.25,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 134.209.104.12,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+14.103.113.212,,CN,China Telecom (Group),
