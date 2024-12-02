@@ -50,3 +50,6 @@ richard:123456
 garten:garten
 pi:raspberryraspberry993311
 pi:raspberry
+otep:otep
+bart:123456
+volk:volk
