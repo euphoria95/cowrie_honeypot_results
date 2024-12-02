@@ -48,3 +48,5 @@ dpc:dpc
 connie:connie123
 richard:123456
 garten:garten
+pi:raspberryraspberry993311
+pi:raspberry
