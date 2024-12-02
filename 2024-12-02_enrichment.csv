@@ -79,3 +79,7 @@ IP address,remote ssh version,country_code2,organization,asn
 91.239.19.66,SSH-2.0-libssh_0.9.6,RU,Telecom.ru Ltd,
 198.235.24.45,,US,Google LLC,
 165.22.180.224,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+14.103.31.218,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+104.248.122.19,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+178.251.140.3,SSH-2.0-libssh_0.9.6,RU,JSC ER-Telecom Holding,
+44.220.188.232,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
