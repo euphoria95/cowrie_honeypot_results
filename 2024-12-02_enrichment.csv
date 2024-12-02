@@ -22,3 +22,5 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.113.212,,CN,China Telecom (Group),
 63.143.94.171,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,JM,Digicel Jamaica,
 172.104.11.46,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+136.232.11.10,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
+1.55.33.86,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
