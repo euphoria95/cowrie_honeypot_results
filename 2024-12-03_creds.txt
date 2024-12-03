@@ -49,3 +49,13 @@ antonio:antonio
 fm:fm
 yl:yl
 avi:avi
+cug:cug
+ryp:ryp
+wjiang:123456
+ariane:ariane
+amon:amon
+werner:werner
+agenda:agenda
+vbox1:vbox123
+holiday:holiday
+vnc:1234
