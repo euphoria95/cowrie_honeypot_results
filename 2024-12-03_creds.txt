@@ -3,3 +3,8 @@ zn:zn
 mc:mc1234
 mongodb:123123
 ubuntu:q123456.
+rust:rust123
+luis:123
+vivian:vivian
+honda:honda
+wep:wep123
