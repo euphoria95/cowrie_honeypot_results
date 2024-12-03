@@ -1,1 +1,5 @@
 345gs5662d34:345gs5662d34
+zn:zn
+mc:mc1234
+mongodb:123123
+ubuntu:q123456.
