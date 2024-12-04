@@ -31,3 +31,7 @@ IP address,remote ssh version,country_code2,organization,asn
 103.181.142.59,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 80.94.93.224,GET / HTTP/1.1,RO,UNMANAGED LTD,
 157.10.161.229,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+142.44.241.112,SSH-2.0-libssh_0.9.6,CA,OVH SAS,
+182.223.252.106,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+161.82.250.19,SSH-2.0-libssh_0.9.6,TH,Symphony Communication Public Company Limited,
+77.91.78.115,SSH-2.0-libssh_0.9.6,SE,AEZA INTERNATIONAL LTD,
