@@ -32,3 +32,7 @@ naveen:naveen123
 craft:craft!@#
 ansuser:Ansuser1
 max:max!123
+ess:ess
+zxh:123456
+try:123456
+domino:domino
