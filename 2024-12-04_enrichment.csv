@@ -17,3 +17,8 @@ IP address,remote ssh version,country_code2,organization,asn
 51.81.181.165,,US,OVH SAS,
 116.40.115.252,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 64.62.197.105,SSH-2.0-Go,US,Hurricane Electric LLC,
+82.199.197.245,SSH-2.0-libssh_0.9.6,AM,Ucom CJSC,
+45.64.3.61,SSH-2.0-libssh_0.9.6,ID,PT. EXABYTES NETWORK INDONESIA,
+115.141.226.212,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+125.99.43.6,SSH-2.0-libssh_0.9.6,IN,HATHWAY CABLE AND DATACOM LIMITED,
+206.116.110.74,SSH-2.0-libssh_0.9.6,CA,TELUS Communications Inc.,
