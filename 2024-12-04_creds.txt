@@ -5,3 +5,4 @@ marcelo:marcelo
 rion:rion123
 psv:psv
 mietek:mietek
+root:123456
