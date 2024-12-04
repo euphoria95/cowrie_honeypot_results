@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 116.40.56.114,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 172.206.143.159,SSH-2.0-Go,US,Microsoft Corporation,
+152.32.239.15,SSH-2.0-OpenSSH_7.4,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
+218.102.71.70,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
+38.180.206.130,SSH-2.0-libssh_0.9.6,KZ,NLS Kazakhstan LLC,
