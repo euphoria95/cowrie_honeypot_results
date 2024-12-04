@@ -56,3 +56,6 @@ IP address,remote ssh version,country_code2,organization,asn
 114.34.106.146,SSH-2.0-libssh_0.9.6,TW,"Chunghwa Telecom Co., Ltd.",
 14.103.86.183,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 54.36.163.1,SSH-2.0-libssh_0.9.6,GB,OVH SAS,
+211.119.17.37,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+154.211.15.218,SSH-2.0-libssh_0.9.6,HK,YISU CLOUD LIMITED,
+103.76.120.31,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
