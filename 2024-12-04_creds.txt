@@ -46,3 +46,16 @@ wildfly:wildfly
 duong:123456
 jo:jo123
 rd:123456
+chy:chy123
+nologin:fazanbostan123456
+mgm:mgm123
+lilith:lilith
+fuyu:fuyu
+cons:cons
+new:password
+us:us
+win:win123
+cal:cal
+ubuntu:qwedcxzas
+xcfu:xcfu
+jw:jw
