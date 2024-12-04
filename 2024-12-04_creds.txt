@@ -59,3 +59,7 @@ cal:cal
 ubuntu:qwedcxzas
 xcfu:xcfu
 jw:jw
+sys:sys123
+meliana:123456
+training:password
+ce:ce123
