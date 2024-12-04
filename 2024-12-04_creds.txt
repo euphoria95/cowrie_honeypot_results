@@ -27,3 +27,8 @@ cg:cg123
 hy:hy123456
 charlie:charlie123
 huangyunan:huangyunan
+oracle:oracle!@#$
+naveen:naveen123
+craft:craft!@#
+ansuser:Ansuser1
+max:max!123
