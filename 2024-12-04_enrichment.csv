@@ -59,3 +59,6 @@ IP address,remote ssh version,country_code2,organization,asn
 211.119.17.37,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 154.211.15.218,SSH-2.0-libssh_0.9.6,HK,YISU CLOUD LIMITED,
 103.76.120.31,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+143.244.164.193,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+103.172.112.192,SSH-2.0-libssh_0.9.6,BD,Astha Networks,
+1.55.33.86,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
