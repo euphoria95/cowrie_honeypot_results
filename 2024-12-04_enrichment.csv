@@ -2,3 +2,7 @@ IP address,remote ssh version,country_code2,organization,asn
 125.187.228.50,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 177.36.9.201,SSH-2.0-libssh_0.9.6,BR,1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,
 221.229.218.141,,CN,"No.31,Jin-rong Street",
+52.233.1.108,SSH-2.0-libssh_0.9.6,CA,Microsoft Corporation,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+116.40.56.114,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+172.206.143.159,SSH-2.0-Go,US,Microsoft Corporation,
