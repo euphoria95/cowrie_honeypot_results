@@ -43,3 +43,8 @@ IP address,remote ssh version,country_code2,organization,asn
 189.161.163.186,SSH-2.0-libssh_0.9.6,MX,UNINET,
 122.41.60.134,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 41.211.31.106,SSH-2.0-libssh_0.9.6,GH,"Teledata, Ghana",
+103.10.45.57,SSH-2.0-libssh_0.9.6,VN,VNPT Corp,
+89.218.69.66,SSH-2.0-libssh_0.9.6,KZ,JSC Kazakhtelecom,
+189.164.35.209,SSH-2.0-libssh_0.9.6,MX,UNINET,
+152.52.15.210,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
+106.75.184.163,SSH-2.0-Go,CN,CHINANET Guangdong province network,
