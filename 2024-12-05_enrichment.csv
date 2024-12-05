@@ -51,3 +51,6 @@ IP address,remote ssh version,country_code2,organization,asn
 195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
 121.157.117.224,,KR,Korea Telecom,
 104.40.75.178,SSH-2.0-Go,US,Microsoft Corporation,
+184.168.125.143,SSH-2.0-libssh_0.9.6,SG,"GoDaddy.com, LLC",
+173.249.219.49,,US,"tzulo, inc.",
+75.152.95.144,,CA,TELUS Communications Inc.,
