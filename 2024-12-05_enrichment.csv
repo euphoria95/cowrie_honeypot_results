@@ -73,3 +73,5 @@ IP address,remote ssh version,country_code2,organization,asn
 124.52.229.114,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 45.172.152.74,SSH-2.0-libssh_0.9.6,DO,"TECNOLOGIA DIGITAL, S.A. (DGTEC)",
 124.52.229.138,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+210.17.230.213,SSH-2.0-libssh_0.9.6,HK,HKBN Enterprise Solutions HK Limited,
+119.68.22.2,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
