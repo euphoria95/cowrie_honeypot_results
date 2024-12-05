@@ -75,3 +75,6 @@ IP address,remote ssh version,country_code2,organization,asn
 124.52.229.138,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 210.17.230.213,SSH-2.0-libssh_0.9.6,HK,HKBN Enterprise Solutions HK Limited,
 119.68.22.2,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+159.223.144.234,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+44.220.185.20,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+45.206.58.193,SSH-2.0-libssh_0.9.6,TW,OCTOPUS WEB SOLUTION INC,
