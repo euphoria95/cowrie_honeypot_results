@@ -70,3 +70,7 @@ tsc:123456
 credito:credito
 bia:bia
 ubuntu:ubuntu
+flf:flf
+sales:1234
+deepak:deepak
+hyperic:hyperic
