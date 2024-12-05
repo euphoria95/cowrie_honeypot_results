@@ -83,3 +83,6 @@ IP address,remote ssh version,country_code2,organization,asn
 34.222.105.123,SSH-2.0-paramiko_3.4.0,US,"Amazon.com, Inc.",
 180.225.101.214,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 104.152.52.135,,US,Rethem Hosting LLC,
+172.212.101.252,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+117.72.119.53,SSH-2.0-libssh_0.9.6,CN,China Telecom,
+58.213.105.204,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
