@@ -64,3 +64,4 @@ IP address,remote ssh version,country_code2,organization,asn
 27.254.137.144,SSH-2.0-libssh_0.9.6,TH,CS Loxinfo Public Company Limited,
 74.234.146.205,SSH-2.0-libssh_0.9.6,NL,Microsoft Corporation,
 68.154.41.253,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+182.231.243.93,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
