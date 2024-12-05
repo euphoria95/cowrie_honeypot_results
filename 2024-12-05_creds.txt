@@ -51,3 +51,7 @@ hans:123456
 phpvirtualbox:phpvirtualbox
 abc123:123456
 pcpqa:pcpqa
+scarface:scarface
+isseitkd:isseitkd
+zoz:zoz
+zhanglei:123456
