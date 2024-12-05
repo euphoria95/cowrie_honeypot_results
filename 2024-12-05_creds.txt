@@ -67,3 +67,5 @@ jacques:jacques
 lgb:lgb
 die:die123
 tsc:123456
+credito:credito
+bia:bia
