@@ -80,3 +80,13 @@ scj:123456
 confluence:123456
 fw:123456
 backend:backend
+centreon:centreon
+ajay:ajay
+sales:123123
+cah:cah
+pam:pam
+barsha:barsha
+gonzales:gonzales
+clipper:clipper
+doctor:doctor123
+chenh:chenh123
