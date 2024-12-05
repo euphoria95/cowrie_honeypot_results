@@ -20,3 +20,6 @@ IP address,remote ssh version,country_code2,organization,asn
 174.174.123.32,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
 14.103.111.127,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 101.126.159.57,SSH-2.0-Go,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+68.233.116.124,SSH-2.0-libssh_0.9.6,IN,Oracle Corporation,
+159.203.43.40,SSH-2.0-libssh_0.9.6,CA,"DigitalOcean, LLC",
+122.33.23.25,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
