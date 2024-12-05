@@ -14,3 +14,6 @@ IP address,remote ssh version,country_code2,organization,asn
 175.207.13.86,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 210.5.174.26,SSH-2.0-libssh_0.9.6,HK,HKBN Enterprise Solutions HK Limited,
 34.96.239.88,SSH-2.0-libssh_0.9.6,HK,Google LLC,
+94.131.11.32,SSH-2.0-Go,NL,STARK INDUSTRIES SOLUTIONS LTD,
+165.22.71.2,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+200.196.50.91,SSH-2.0-libssh_0.9.6,BR,MUNDIVOX DO BRASIL LTDA,
