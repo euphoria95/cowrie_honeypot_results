@@ -42,3 +42,9 @@ kwacker:kwacker
 lsa:lsa
 redis:12345
 murphy:murphy
+eqemu:eqemu
+jet:jet
+jerry:jerry@123
+root:root
+clovis:clovis
+hans:123456
