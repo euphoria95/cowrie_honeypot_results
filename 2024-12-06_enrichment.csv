@@ -55,3 +55,8 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.87,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 124.52.112.220,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 64.62.156.40,SSH-2.0-Go,US,Hurricane Electric LLC,
+64.21.190.129,SSH-2.0-libssh_0.9.6,CA,"MetroOptic, Inc.",
+34.139.17.74,SSH-2.0-libssh_0.9.6,US,Google LLC,
+23.227.147.163,SSH-2.0-libssh_0.9.6,US,24 SHELLS,
+146.190.60.168,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+103.10.44.19,SSH-2.0-libssh_0.9.6,VN,VNPT Corp,
