@@ -52,3 +52,6 @@ IP address,remote ssh version,country_code2,organization,asn
 80.109.134.173,SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4,AT,T-Mobile Austria GmbH,
 210.206.101.182,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 180.225.193.236,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+198.235.24.87,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+124.52.112.220,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+64.62.156.40,SSH-2.0-Go,US,Hurricane Electric LLC,
