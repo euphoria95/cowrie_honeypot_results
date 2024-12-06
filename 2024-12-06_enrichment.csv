@@ -36,3 +36,8 @@ IP address,remote ssh version,country_code2,organization,asn
 50.192.223.205,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
 45.226.17.237,SSH-2.0-libssh_0.9.6,BR,BRASIL TECPAR | AMIGO | AVATO,
 124.48.97.162,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+172.105.128.12,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+14.241.82.17,,VN,VNPT Corp,
+123.15.51.34,SSH-2.0-libssh-0.11,CN,CHINA UNICOM China169 Backbone,
+198.235.24.35,,US,Google LLC,
+35.224.42.65,SSH-2.0-libssh_0.9.6,US,Google LLC,
