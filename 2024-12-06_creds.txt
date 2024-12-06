@@ -59,3 +59,4 @@ omid:omid@123
 1:1
 energy:energy
 kafka:kafka
+fnc:fnc
