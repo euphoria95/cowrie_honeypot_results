@@ -67,3 +67,9 @@ caja:caja
 ljs:ljs123
 bruce:password
 rfrf:rfrf
+openvpn:openvpn1234
+internet1:internet123
+aliadib:aliadib
+ica:ica
+ubuntu:welcome#12345
+ai:ai
