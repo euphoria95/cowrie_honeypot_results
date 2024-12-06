@@ -138,3 +138,6 @@ becker:becker
 guest:Guest1234
 yura:yura
 janine:123456
+monitor:12345
+juliana:123456
+kimura:kimura
