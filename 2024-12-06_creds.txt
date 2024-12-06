@@ -66,3 +66,4 @@ sport:123456
 caja:caja
 ljs:ljs123
 bruce:password
+rfrf:rfrf
