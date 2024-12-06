@@ -60,3 +60,5 @@ omid:omid@123
 energy:energy
 kafka:kafka
 fnc:fnc
+pi:raspberryraspberry993311
+pi:raspberry
