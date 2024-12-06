@@ -97,3 +97,7 @@ wilson:123456
 ubuntu:123456@qwe
 lmq:lmq
 rosemary:rosemary
+bcd:bcd
+lukas:sakul
+globus:globus
+ege:ege
