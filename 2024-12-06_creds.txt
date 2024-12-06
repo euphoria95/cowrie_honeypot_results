@@ -62,3 +62,7 @@ kafka:kafka
 fnc:fnc
 pi:raspberryraspberry993311
 pi:raspberry
+sport:123456
+caja:caja
+ljs:ljs123
+bruce:password
