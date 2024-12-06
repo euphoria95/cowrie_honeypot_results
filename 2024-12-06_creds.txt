@@ -30,3 +30,6 @@ apollo:apollo
 sonar:12345678
 root:root
 apulis:apulis123
+obmen:obmen
+zff:zff
+cdo:cdo123
