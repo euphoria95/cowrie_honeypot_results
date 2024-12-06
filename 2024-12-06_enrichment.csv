@@ -49,3 +49,6 @@ IP address,remote ssh version,country_code2,organization,asn
 37.75.243.124,SSH-2.0-libssh_0.9.6,IR,Sefroyek Pardaz Engineering PJSC,
 106.222.228.183,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
 47.236.228.118,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
+80.109.134.173,SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u4,AT,T-Mobile Austria GmbH,
+210.206.101.182,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+180.225.193.236,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
