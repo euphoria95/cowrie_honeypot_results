@@ -28,3 +28,5 @@ alicia:alicia123
 chris:chris
 apollo:apollo
 sonar:12345678
+root:root
+apulis:apulis123
