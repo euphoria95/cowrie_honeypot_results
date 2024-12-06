@@ -25,3 +25,6 @@ IP address,remote ssh version,country_code2,organization,asn
 117.33.255.79,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 159.89.169.158,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 107.173.18.95,SSH-2.0-libssh_0.9.6,US,HostPapa,
+208.109.15.199,SSH-2.0-libssh_0.9.6,SG,"GoDaddy.com, LLC",
+143.244.178.70,,US,"DigitalOcean, LLC",
+45.164.39.253,SSH-2.0-libssh_0.9.6,BR,OLIVEIRA TELECOM,
