@@ -36,3 +36,8 @@ cdo:cdo123
 itc:itc123
 iulian:iulian
 tqc:tqc
+studio:studio
+ronald:ronald123
+ubuntu:123abc!@#
+yingying:yingying
+rabin:rabin
