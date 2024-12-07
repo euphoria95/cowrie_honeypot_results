@@ -71,3 +71,6 @@ IP address,remote ssh version,country_code2,organization,asn
 122.41.60.132,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 101.126.88.67,SSH-2.0-Go,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 167.71.223.38,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+176.109.80.72,SSH-2.0-libssh_0.9.6,RU,MTS PJSC,
+192.155.90.220,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+196.188.127.201,SSH-2.0-libssh_0.9.6,ET,ISP in Ethiopia,
