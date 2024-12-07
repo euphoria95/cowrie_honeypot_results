@@ -74,3 +74,6 @@ IP address,remote ssh version,country_code2,organization,asn
 176.109.80.72,SSH-2.0-libssh_0.9.6,RU,MTS PJSC,
 192.155.90.220,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 196.188.127.201,SSH-2.0-libssh_0.9.6,ET,ISP in Ethiopia,
+201.212.250.225,SSH-2.0-libssh_0.9.6,AR,Telecom Argentina S.A.,
+95.128.69.10,SSH-2.0-libssh_0.9.6,BY,IP TelCom LLC,
+137.184.229.29,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
