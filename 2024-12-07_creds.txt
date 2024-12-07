@@ -70,3 +70,17 @@ prashanth:prashanth
 school:school123
 sebastian:sebastian
 ajeet:ajeet
+hhh:123456
+cfb:123456
+helpdesk:helpdesk
+opc:opc123
+freeman:freeman
+fadil:fadil123
+andres:andres
+rabbit:rabbit123
+el:el@123
+monika:monika123
+rhea:rhea
+mohamad:mohamad
+alex:123qwe
+ufs:ufs
