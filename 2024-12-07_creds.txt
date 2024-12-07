@@ -107,3 +107,6 @@ ldd:ldd
 sysadm:sysadm
 oem:123456
 root:123456
+hjy:1234
+connect:connect
+000:000
