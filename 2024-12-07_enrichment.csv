@@ -78,3 +78,5 @@ IP address,remote ssh version,country_code2,organization,asn
 95.128.69.10,SSH-2.0-libssh_0.9.6,BY,IP TelCom LLC,
 137.184.229.29,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 27.254.235.4,SSH-2.0-libssh_0.9.6,TH,CS Loxinfo Public Company Limited,
+103.113.105.228,SSH-2.0-libssh_0.9.6,IN,Ekowebtech It Services Pvt Ltd,
+159.65.145.23,SSH-2.0-Go,IN,"DigitalOcean, LLC",
