@@ -105,3 +105,5 @@ rabbitmq:123456
 remote:123456
 ldd:ldd
 sysadm:sysadm
+oem:123456
+root:123456
