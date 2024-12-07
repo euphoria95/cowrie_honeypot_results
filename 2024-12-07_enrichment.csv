@@ -77,3 +77,4 @@ IP address,remote ssh version,country_code2,organization,asn
 201.212.250.225,SSH-2.0-libssh_0.9.6,AR,Telecom Argentina S.A.,
 95.128.69.10,SSH-2.0-libssh_0.9.6,BY,IP TelCom LLC,
 137.184.229.29,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+27.254.235.4,SSH-2.0-libssh_0.9.6,TH,CS Loxinfo Public Company Limited,
