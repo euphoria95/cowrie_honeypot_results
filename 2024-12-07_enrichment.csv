@@ -20,3 +20,5 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.166,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 191.55.191.121,SSH-2.0-libssh_0.9.6,BR,ALGAR TELECOM S/A,
 122.41.20.179,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+122.33.183.203,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+172.104.11.46,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
