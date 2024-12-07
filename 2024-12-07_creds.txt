@@ -11,3 +11,6 @@ intel:123
 bounce:123456
 readarr:readarr
 virginia:virginia
+gns3:gns3
+arthur:arthur
+k8s:k8s
