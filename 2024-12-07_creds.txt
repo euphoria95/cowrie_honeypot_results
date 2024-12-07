@@ -5,3 +5,7 @@ zhangqian:123456
 345gs5662d34:345gs5662d34
 root:root
 patrick:kcirtap
+jrodriguez:123456
+halo:123456
+intel:123
+bounce:123456
