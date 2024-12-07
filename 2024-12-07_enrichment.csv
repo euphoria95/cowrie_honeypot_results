@@ -45,3 +45,5 @@ IP address,remote ssh version,country_code2,organization,asn
 220.80.223.144,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 125.187.232.166,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+125.74.115.78,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
+180.225.113.213,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
