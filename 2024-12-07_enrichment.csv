@@ -47,3 +47,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 125.74.115.78,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
 180.225.113.213,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+134.17.16.5,SSH-2.0-libssh_0.9.6,BY,Mobile TeleSystems JLLC,
+124.48.78.245,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+106.75.241.35,SSH-2.0-libssh_0.9.6,CN,China Unicom Shanghai network,
