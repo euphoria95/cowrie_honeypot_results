@@ -35,3 +35,6 @@ IP address,remote ssh version,country_code2,organization,asn
 184.105.247.196,GET / HTTP/1.1,US,Hurricane Electric LLC,
 143.110.237.160,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 67.205.180.66,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+27.72.62.222,SSH-2.0-libssh_0.9.6,VN,Viettel Group,
+14.103.39.179,SSH-2.0-Go,CN,China Telecom (Group),
+124.48.34.71,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
