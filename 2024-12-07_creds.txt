@@ -1,0 +1,7 @@
+sshd:sshd
+lzb:123456
+tom:123123
+zhangqian:123456
+345gs5662d34:345gs5662d34
+root:root
+patrick:kcirtap
