@@ -58,3 +58,8 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.114.136,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 167.172.40.92,SSH-2.0-libssh_0.9.6,NL,"DigitalOcean, LLC",
 118.122.147.195,,CN,CHINANET SiChuan Telecom Internet Data Center,
+47.234.143.55,SSH-2.0-libssh_0.9.6,US,Charter Communications Inc,
+51.195.107.104,SSH-2.0-Go,DE,OVH SAS,
+87.225.106.84,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
+122.33.227.8,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+128.199.77.221,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
