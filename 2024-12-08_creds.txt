@@ -44,3 +44,13 @@ vladimir:vladimir
 kavita:kavita@123
 traccar:password
 joanne:joanne@123
+serge:serge@123
+mahdi:mahdi
+aluno:aluno123
+saeed:saeed
+frappe:123
+elasticsearch:password
+boom:boom@123
+himanshu:password
+test_ftp:test_ftp123
+musicbot:123456
