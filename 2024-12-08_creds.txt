@@ -26,3 +26,13 @@ service:service
 postgres:postgres!@#$
 admin:Test
 admin:123456789
+arash:arash123
+mine:123456
+laravel:password
+g:g
+arthur:arthur@123
+ftpuser:ftpuser
+db2:password
+vector:vector123
+aos:aos
+petr:petr@123
