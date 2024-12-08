@@ -38,3 +38,9 @@ aos:aos
 petr:petr@123
 charan:charan123
 jacob:123456
+jh:111111
+steve:steve123
+vladimir:vladimir
+kavita:kavita@123
+traccar:password
+joanne:joanne@123
