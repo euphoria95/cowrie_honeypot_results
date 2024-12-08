@@ -36,3 +36,5 @@ db2:password
 vector:vector123
 aos:aos
 petr:petr@123
+charan:charan123
+jacob:123456
