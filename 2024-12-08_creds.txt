@@ -9,3 +9,4 @@ deamon:deamon
 jenkins:jenkins@2024
 almacen:almacen
 lrendon:123456
+jrodriguez:123456
