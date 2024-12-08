@@ -109,3 +109,10 @@ ubuntu:1qazXSW@
 user6:user6@123
 asep:asep123
 brenda:123456
+ismael:123456
+donna:123456
+wallabag:wallabag
+sk:123456
+usher:usher123
+server:Admin@123
+shyam:123456
