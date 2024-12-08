@@ -10,3 +10,7 @@ jenkins:jenkins@2024
 almacen:almacen
 lrendon:123456
 jrodriguez:123456
+sa:Sa123
+ansuser:Ansuser1
+oracle:oracle!@#$
+max:max!123
