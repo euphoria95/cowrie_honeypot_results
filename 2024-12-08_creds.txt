@@ -118,3 +118,13 @@ server:Admin@123
 shyam:123456
 cacti:password
 middleware:123456
+nps:123456
+wanghao:wanghao@123
+zone:zone123
+song:song123
+kid:kid123
+chris:123456789
+user9:user9123
+jrodrig:password
+server:test
+khalid:khalid@123
