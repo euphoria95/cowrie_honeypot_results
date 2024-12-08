@@ -14,3 +14,15 @@ sa:Sa123
 ansuser:Ansuser1
 oracle:oracle!@#$
 max:max!123
+orangepi:Orangepi1234
+hd16pt07:hd16pt071234
+Alex:123456
+craft:craft@1234
+db:db
+nagios:Nagios@1
+guest:guest!1234
+squid:Squid123
+service:service
+postgres:postgres!@#$
+admin:Test
+admin:123456789
