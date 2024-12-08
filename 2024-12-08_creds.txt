@@ -3,3 +3,4 @@ k8s:k8s
 bounce:123456
 guess:guess
 345gs5662d34:345gs5662d34
+root:root
