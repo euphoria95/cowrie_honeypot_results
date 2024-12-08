@@ -5,3 +5,7 @@ guess:guess
 345gs5662d34:345gs5662d34
 root:root
 erpnext:erpnext
+deamon:deamon
+jenkins:jenkins@2024
+almacen:almacen
+lrendon:123456
