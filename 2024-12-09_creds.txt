@@ -141,3 +141,8 @@ web:web
 santer:santer123
 dp:dp@123
 steam:steam
+student:student
+postgres:123456
+ubuntu:123456
+oracle:oracle123
+guest:guest
