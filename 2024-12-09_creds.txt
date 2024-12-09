@@ -227,3 +227,9 @@ bastion:bastion123
 cockpit:password
 abas:password
 etherpad:etherpad123
+lxy:123456
+knu:knu@123
+nominatim:nominatim
+sachin:sachin
+dockeruser:dockeruser123
+gf:gf123
