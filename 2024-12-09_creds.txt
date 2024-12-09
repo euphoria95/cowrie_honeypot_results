@@ -211,3 +211,11 @@ rahul:password
 kale:kale
 testuser:1
 deploy:123456789
+helpdesk:helpdesk
+larry:larry
+lekaren:123456
+informix:informix
+skynet:skynet123
+rajesh:rajesh
+helpdesk:helpdesk123
+sunil:sunil@123
