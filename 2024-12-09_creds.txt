@@ -30,3 +30,17 @@ mustafa:mustafa@123
 hamza:hamza
 user62:123456
 contabilidade:contabilidade
+sakurai:sakurai
+es:password
+md:md@123
+platform:123456
+paul:123456
+geoeast:geoeast@123
+hesam:123456
+speedtest:speedtest
+user4:user4@123
+rahul:rahul123
+shahid:shahid
+bao:bao123
+userftp:userftp@123
+pt:pt@123
