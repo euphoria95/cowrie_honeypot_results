@@ -172,3 +172,16 @@ nrk:123456
 training:training
 wwwuser:password
 pi:raspberry
+hector:password
+pivpn:pivpn
+yousef:yousef123
+3:123456
+dirk:dirk
+oxidized:oxidized
+zx:zx123
+sara:123
+game:123456
+raju:raju@123
+user40:password
+marty:marty@123
+bandit:password
