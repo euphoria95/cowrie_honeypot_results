@@ -62,3 +62,8 @@ IP address,remote ssh version,country_code2,organization,asn
 58.75.230.51,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 94.159.104.86,SSH-2.0-libssh_0.9.6,DE,H2NEXUS LTD,
 124.207.165.138,SSH-2.0-libssh_0.9.6,CN,China Unicom Beijing Province Network,
+13.77.146.18,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+122.33.105.29,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+113.141.171.139,SSH-2.0-libssh_0.9.6,CN,CHINANET SHAANXI province Cloud Base network,
+113.161.252.70,SSH-2.0-libssh_0.9.6,VN,VNPT Corp,
+14.103.115.172,,CN,China Telecom (Group),
