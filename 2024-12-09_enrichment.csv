@@ -79,3 +79,8 @@ IP address,remote ssh version,country_code2,organization,asn
 119.68.57.16,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 185.156.46.163,SSH-2.0-OpenSSH_9.9,US,Datacamp Limited,
 68.235.46.81,SSH-2.0-OpenSSH_9.9,US,"tzulo, inc.",
+146.70.168.97,SSH-2.0-OpenSSH_9.9,US,M247 Europe SRL,
+14.103.114.199,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+202.4.115.172,SSH-2.0-Go,BD,Dhakacom Limited,
+122.33.30.99,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+49.65.98.34,SSH-2.0-Go,CN,China Telecom,
