@@ -45,3 +45,5 @@ IP address,remote ssh version,country_code2,organization,asn
 116.147.40.93,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
 74.225.241.180,SSH-2.0-Go,IN,Microsoft Corporation,
 118.193.77.158,SSH-2.0-libssh_0.9.6,US,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
+27.151.1.54,SSH-2.0-Go,CN,Fuzhou,
+195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
