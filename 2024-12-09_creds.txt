@@ -219,3 +219,8 @@ skynet:skynet123
 rajesh:rajesh
 helpdesk:helpdesk123
 sunil:sunil@123
+technik:123456
+tmpuser:password
+voronin:voronin@123
+sshtunnel:password
+bastion:bastion123
