@@ -202,3 +202,12 @@ user11:123456
 lzj:lzj
 ads:password
 marko:marko
+ansadmin:123
+sammy:qazwsx@123
+s1:s1123
+mm:mm
+suhail:suhail@123
+rahul:password
+kale:kale
+testuser:1
+deploy:123456789
