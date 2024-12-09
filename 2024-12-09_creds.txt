@@ -161,3 +161,14 @@ stack:stack!123
 deployer:deployer!123
 sa:Sa123
 ftpuser:ftpuser@1234
+vamshi:123456
+nikita:nikita
+user14:user14
+pi:raspberryraspberry993311
+matin:matin
+mf:password
+bee:bee
+nrk:123456
+training:training
+wwwuser:password
+pi:raspberry
