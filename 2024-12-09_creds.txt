@@ -224,3 +224,6 @@ tmpuser:password
 voronin:voronin@123
 sshtunnel:password
 bastion:bastion123
+cockpit:password
+abas:password
+etherpad:etherpad123
