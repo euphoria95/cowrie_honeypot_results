@@ -185,3 +185,10 @@ raju:raju@123
 user40:password
 marty:marty@123
 bandit:password
+openkm:password
+gitlab:password
+keycloak:keycloak@123
+hari:password
+automation:123456
+rahul:123456
+pivpn:pivpn@123
