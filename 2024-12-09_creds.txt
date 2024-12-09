@@ -1,0 +1,13 @@
+mine:mine
+wildfly:wildfly
+cod2server:password
+root:root
+jupyterhub:jupyterhub@123
+kim:password
+mysftp:mysftp123
+345gs5662d34:345gs5662d34
+cri:cri
+crd:password
+milad:password
+henry:password
+business:password
