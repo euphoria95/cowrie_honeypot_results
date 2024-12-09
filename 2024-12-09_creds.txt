@@ -116,3 +116,17 @@ anon:123456
 samer:samer123
 material:123456
 ubuntu:Qwer1234!@#$
+cinema:cinema@123
+vncuser:vncuser@123
+jean:jean
+nikolay:123456
+uos:uos123
+neolinux:password
+root:123456
+wildfly:wildfly123
+kd:kd123
+mark:password
+consulta:consulta123
+nuevo:123456
+papa:123456
+a:a
