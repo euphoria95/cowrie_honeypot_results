@@ -113,3 +113,6 @@ vtatis:vtatis
 sachi:sachi@123
 babak:babak
 anon:123456
+samer:samer123
+material:123456
+ubuntu:Qwer1234!@#$
