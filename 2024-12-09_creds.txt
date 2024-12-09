@@ -130,3 +130,14 @@ consulta:consulta123
 nuevo:123456
 papa:123456
 a:a
+rana:rana123
+odoo:123456
+eun:123456
+fa:fa
+ubuntu:ubuntu
+hadi:hadi@123
+oracle:Oracle123
+web:web
+santer:santer123
+dp:dp@123
+steam:steam
