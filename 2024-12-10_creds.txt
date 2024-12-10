@@ -48,3 +48,11 @@ deploy:123456789
 song:song@123
 elias:elias123
 sonarr:123456
+elearning:elearning123
+monika:monika123
+aluno:aluno123
+apps:apps123
+knu:123456
+mir:mir
+chris:password
+emc:emc
