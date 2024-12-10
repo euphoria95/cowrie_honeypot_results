@@ -55,3 +55,6 @@ IP address,remote ssh version,country_code2,organization,asn
 146.70.172.33,SSH-2.0-OpenSSH_9.9,US,M247 Europe SRL,
 64.62.197.215,SSH-2.0-Go,US,Hurricane Electric LLC,
 68.235.46.19,SSH-2.0-OpenSSH_9.9,US,"tzulo, inc.",
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+47.115.221.154,SSH-2.0-libssh2_1.11.0,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+193.58.121.227,SSH-2.0-libssh_0.9.6,DE,PLAY2GO INTERNATIONAL LIMITED,
