@@ -233,3 +233,8 @@ webuser:123
 flow:flow@123
 xiaobin:xiaobin123
 admin1:admin1123
+production:production123
+myth:myth@123
+server:password
+sc:sc123
+icecast:password
