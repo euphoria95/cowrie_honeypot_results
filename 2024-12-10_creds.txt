@@ -63,3 +63,5 @@ stu:password
 stager:stager123
 userftp:userftp
 neil:123456
+ociispth:password
+smb:password
