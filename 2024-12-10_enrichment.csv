@@ -70,3 +70,6 @@ IP address,remote ssh version,country_code2,organization,asn
 101.227.238.246,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 124.48.34.69,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 210.206.101.217,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+116.40.74.102,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+185.220.101.104,SSH-2.0-OpenSSH_9.9,DE,Stiftung Erneuerbare Freiheit,
+205.210.31.80,,BR,Google LLC,
