@@ -67,3 +67,6 @@ IP address,remote ssh version,country_code2,organization,asn
 103.211.59.6,SSH-2.0-libssh_0.9.6,IN,U.P. COMMUNICATION SERVICES PVT LTD,
 101.126.71.100,,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 85.18.236.229,SSH-2.0-libssh_0.9.6,IT,Fastweb SpA,
+101.227.238.246,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+124.48.34.69,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+210.206.101.217,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
