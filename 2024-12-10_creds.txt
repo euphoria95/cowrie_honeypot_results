@@ -58,3 +58,8 @@ chris:password
 emc:emc
 christelle:christelle@123
 ml:ml
+odoo:p@ssw0rd
+stu:password
+stager:stager123
+userftp:userftp
+neil:123456
