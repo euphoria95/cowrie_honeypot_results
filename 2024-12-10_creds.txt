@@ -220,3 +220,16 @@ ociispth:ociispth@123
 ociisstd:123456
 liu:liu
 ociisstd:ociisstd123
+bitrix:bitrix@123
+kamera:123456
+francisco:francisco123
+bill:bill
+rashid:password
+albert:albert
+updates:password
+monitoring:monitoring@123
+applmgr:applmgr
+webuser:123
+flow:flow@123
+xiaobin:xiaobin123
+admin1:admin1123
