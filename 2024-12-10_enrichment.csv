@@ -45,3 +45,7 @@ IP address,remote ssh version,country_code2,organization,asn
 124.48.49.154,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 211.240.117.30,SSH-2.0-libssh_0.9.6,KR,"ELIMNET, INC.",
 112.66.129.211,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+119.68.223.211,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+103.112.130.67,SSH-2.0-libssh_0.9.6,BD,SAYEM ONLINE COMMUNICATION,
+103.112.130.64,SSH-2.0-libssh_0.9.6,BD,SAYEM ONLINE COMMUNICATION,
+59.28.2.101,,KR,Korea Telecom,
