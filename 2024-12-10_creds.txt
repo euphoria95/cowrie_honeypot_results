@@ -80,3 +80,15 @@ deep:deep123
 ansuser:Ansuser1
 craft:craft!@#
 service:service
+jjq:123456
+jbernal:123456
+autobuild:autobuild
+keycloak:keycloak
+moni:moni@123
+flow:password
+tiptop:tiptop@123
+erpnext:password
+a:password
+test:test1212
+casino:casino@123
+jeremy:password
