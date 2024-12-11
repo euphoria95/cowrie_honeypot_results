@@ -13,3 +13,17 @@ root:123456
 123:123123
 autcom:123456
 ubuntu:ubuntu
+dawn:123456
+yasin:password
+nodered:nodered
+internal:password
+rahul:password
+pivpn:pivpn
+ociispth:123456
+pi:raspberryraspberry993311
+pivpn:pivpn@123
+usr:password
+pi:raspberry
+arun:arun
+joko:password
+shanta:password
