@@ -74,3 +74,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.18.41.55,SSH-2.0-Go,CN,China Telecom,
 49.36.41.0,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
 113.137.35.21,,CN,CHINANET SHAANXI province Cloud Base network,
+172.206.147.236,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
