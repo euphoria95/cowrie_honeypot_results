@@ -235,3 +235,15 @@ vastbase:password
 sachin:sachin
 bryan:bryan@123
 tebe:password
+aziz:aziz
+crd:crd@123
+musicbot:musicbot
+artem:artem@123
+python:python
+fedora:password
+ubuntu:Aa123456@
+lucas:123456
+dirk:123456
+operator:operator@123
+avinash:avinash@123
+jorgen:password
