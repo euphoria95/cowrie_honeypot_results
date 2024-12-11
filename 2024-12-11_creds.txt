@@ -11,3 +11,5 @@ jarservice:password
 deploy:123456789
 root:123456
 123:123123
+autcom:123456
+ubuntu:ubuntu
