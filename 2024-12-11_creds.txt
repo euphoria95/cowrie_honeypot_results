@@ -213,3 +213,8 @@ jj:123456
 geraldo:password
 bin:bin
 opc:opc@123
+circleci:circleci123
+liu:liu123
+rec:rec123
+openbravo:password
+gc:gc@123
