@@ -45,3 +45,7 @@ s3:s3
 shane:password
 hamed:hamed
 rajesh:rajesh
+rescue:rescue@123
+oxidized:oxidized
+fer:fer@123
+fivem:fivem
