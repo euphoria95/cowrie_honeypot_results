@@ -27,3 +27,10 @@ pi:raspberry
 arun:arun
 joko:password
 shanta:password
+Admin:Admin
+ansadmin:123
+info:info
+dspace:dspace
+weblogic:weblogic
+guest:guest
+abc:123456
