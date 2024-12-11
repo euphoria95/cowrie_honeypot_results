@@ -103,3 +103,11 @@ denis:123456
 azureuser:azureuser123
 vyos:vyos@123
 sham:123456
+michael:password
+ociisprd:123456
+ddd:ddd@123
+ben:ben@123
+victor:123456
+en:en@123
+home:password
+jp:jp123
