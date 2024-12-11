@@ -26,3 +26,5 @@ IP address,remote ssh version,country_code2,organization,asn
 45.249.111.40,SSH-2.0-libssh_0.9.6,IN,CtrlS,
 124.52.206.51,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 103.183.74.107,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+1.208.116.121,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+3.140.210.46,SSH-2.0-Go,US,"Amazon.com, Inc.",
