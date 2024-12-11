@@ -218,3 +218,5 @@ liu:liu123
 rec:rec123
 openbravo:password
 gc:gc@123
+king:123456
+mikrotik:mikrotik123
