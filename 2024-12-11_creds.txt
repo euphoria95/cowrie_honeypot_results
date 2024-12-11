@@ -140,3 +140,5 @@ bsc:bsc
 ahmed:ahmed
 myappuser:myappuser123
 liujie:liujie
+db2:db2123
+pixel:pixel123
