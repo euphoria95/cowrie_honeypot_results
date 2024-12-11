@@ -16,3 +16,4 @@ IP address,remote ssh version,country_code2,organization,asn
 201.212.250.225,SSH-2.0-libssh_0.9.6,AR,Telecom Argentina S.A.,
 88.142.46.185,SSH-2.0-libssh_0.9.6,FR,Societe Francaise Du Radiotelephone - SFR SA,
 218.102.207.109,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,HK,PCCW IMS Limited,
+13.71.103.212,SSH-2.0-Go,IN,Microsoft Corporation,
