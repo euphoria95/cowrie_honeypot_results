@@ -130,3 +130,13 @@ sepehr:sepehr123
 user5:password
 zcx:password
 rahul:rahul123
+ociisstd:ociisstd
+sakurai:sakurai123
+mario:123456
+arun:arun@123
+kafka:kafka123
+syncuser:123456
+bsc:bsc
+ahmed:ahmed
+myappuser:myappuser123
+liujie:liujie
