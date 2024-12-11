@@ -49,3 +49,8 @@ rescue:rescue@123
 oxidized:oxidized
 fer:fer@123
 fivem:fivem
+network:password
+root:root
+afzal:afzal
+dokku:dokku123
+qbtuser:password
