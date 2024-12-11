@@ -52,3 +52,5 @@ IP address,remote ssh version,country_code2,organization,asn
 112.240.62.239,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
 45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 12.156.67.18,SSH-2.0-libssh_0.9.6,US,"AT&T Services, Inc.",
+104.248.243.238,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+182.211.37.115,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
