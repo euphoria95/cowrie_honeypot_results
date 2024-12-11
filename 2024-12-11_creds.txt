@@ -34,3 +34,14 @@ dspace:dspace
 weblogic:weblogic
 guest:guest
 abc:123456
+suporte:suporte@123
+grafana:grafana@123
+zenith:123456
+adrian:123456
+qwe:qwe@123
+anton:anton
+biz:123456
+s3:s3
+shane:password
+hamed:hamed
+rajesh:rajesh
