@@ -17,3 +17,8 @@ IP address,remote ssh version,country_code2,organization,asn
 88.142.46.185,SSH-2.0-libssh_0.9.6,FR,Societe Francaise Du Radiotelephone - SFR SA,
 218.102.207.109,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u4,HK,PCCW IMS Limited,
 13.71.103.212,SSH-2.0-Go,IN,Microsoft Corporation,
+119.68.3.228,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+187.110.238.50,SSH-2.0-libssh_0.9.6,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A,
+24.199.103.14,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+66.175.213.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+35.210.61.208,SSH-2.0-libssh_0.9.6,BE,Google LLC,
