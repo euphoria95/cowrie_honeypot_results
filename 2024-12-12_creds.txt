@@ -109,3 +109,9 @@ vnc:1q2w3e4r
 ray:password
 helloworld:helloworld
 tempo:password
+dci:dci123
+ho:ho
+sachin:sachin@123
+dasusr1:dasusr1@123
+barman:password
+pq:password
