@@ -21,3 +21,6 @@ IP address,remote ssh version,country_code2,organization,asn
 27.150.18.51,,CN,Fuzhou,
 202.129.29.138,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
 8.216.88.55,SSH-2.0-libssh_0.9.6,JP,"Alibaba (US) Technology Co., Ltd.",
+128.199.214.193,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+95.58.255.251,SSH-2.0-libssh_0.9.6,KZ,JSC Kazakhtelecom,
+125.124.197.32,,CN,"No.288,Fu-chun Road",
