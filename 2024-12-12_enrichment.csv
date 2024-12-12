@@ -14,3 +14,7 @@ IP address,remote ssh version,country_code2,organization,asn
 80.108.129.32,SSH-2.0-libssh_0.9.6,AT,T-Mobile Austria GmbH,
 103.124.172.16,SSH-2.0-libssh_0.9.6,IN,Crisp Enterprises,
 206.189.232.90,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+195.178.110.65,,NL,TECHOFF SRV LIMITED,
+212.159.71.187,SSH-2.0-libssh_0.9.6,GB,British Telecommunications PLC,
+2.57.122.195,,RO,UNMANAGED LTD,
+152.228.134.44,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
