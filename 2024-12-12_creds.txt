@@ -89,3 +89,10 @@ nodered:nodered
 send:123456
 steven:123456
 tet:tet@123
+salary:salary@123
+vtatis:password
+shin:password
+mani:mani
+aiya:aiya123
+yaraque:yaraque@123
+adrian:password
