@@ -96,3 +96,4 @@ mani:mani
 aiya:aiya123
 yaraque:yaraque@123
 adrian:password
+acme:acme123
