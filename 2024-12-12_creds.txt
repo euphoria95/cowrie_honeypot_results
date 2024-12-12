@@ -229,3 +229,7 @@ git:git
 postgres:123456
 ftp:123456
 admin:Admin123
+wrmf:wrmf
+lph:lph
+oydl:oydl123
+grr:123456
