@@ -97,3 +97,15 @@ aiya:aiya123
 yaraque:yaraque@123
 adrian:password
 acme:acme123
+noreply:123456
+mati:password
+almalinux:password
+operator:operator123
+user1:P@ssw0rd
+root2:root2@123
+r00t:password
+onlyoffice:password
+vnc:1q2w3e4r
+ray:password
+helloworld:helloworld
+tempo:password
