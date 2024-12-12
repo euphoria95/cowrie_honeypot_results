@@ -181,3 +181,7 @@ test1:test1
 tserver:tserver
 stu:a123456
 mateusz:123456
+ryc:111111
+zhuman:111111
+zyc:zyc
+zf:111111
