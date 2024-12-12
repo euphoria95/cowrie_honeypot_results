@@ -18,3 +18,6 @@ IP address,remote ssh version,country_code2,organization,asn
 212.159.71.187,SSH-2.0-libssh_0.9.6,GB,British Telecommunications PLC,
 2.57.122.195,,RO,UNMANAGED LTD,
 152.228.134.44,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
+27.150.18.51,,CN,Fuzhou,
+202.129.29.138,SSH-2.0-libssh_0.9.6,TH,CAT Telecom Public Company Limited,
+8.216.88.55,SSH-2.0-libssh_0.9.6,JP,"Alibaba (US) Technology Co., Ltd.",
