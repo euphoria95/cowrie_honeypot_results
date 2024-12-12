@@ -156,3 +156,17 @@ znc:znc123
 miriam:password
 goran:123456
 u2:123456
+ssc:123456
+asz:123456
+jasper:password
+tay:tay123
+kadmin:password
+qcr:123456
+ubuntu:ubuntu
+zzlc:zzlc
+shj:shj
+bex:bex
+bee:bee@123
+yyt:123456
+cjc:cjc
+ess:123456
