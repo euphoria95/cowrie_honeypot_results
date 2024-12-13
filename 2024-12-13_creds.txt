@@ -90,3 +90,4 @@ speedtest:P@ssw0rd
 sebastian:sebastian
 cdn:cdn123
 ftpAdmin:P@ssw0rd
+admin01:12345678
