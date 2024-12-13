@@ -56,3 +56,5 @@ ubuntu:6666
 user7:user7@2024
 ftpuser:111111
 tester:tester@123
+ll:ll
+camera:camera@123
