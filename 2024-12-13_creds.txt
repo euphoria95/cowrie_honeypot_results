@@ -46,3 +46,13 @@ cssr:cssr
 bsn:bsn
 lhyf:123456
 fby:123456
+svxlink:svxlink123
+ftp-test:P@ssw0rd
+tianhao:tianhao@2024
+guest:Password1
+ubuntu:history
+root1:root1123
+ubuntu:6666
+user7:user7@2024
+ftpuser:111111
+tester:tester@123
