@@ -30,3 +30,5 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.164,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 185.247.137.228,SSH-2.0-Go,GB,Driftnet Ltd,
 64.62.156.91,SSH-2.0-Go,US,Hurricane Electric LLC,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+203.198.116.145,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
