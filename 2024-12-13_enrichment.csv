@@ -2,3 +2,6 @@ IP address,remote ssh version,country_code2,organization,asn
 185.241.208.206,SSH-2.0-OpenSSH_9.9,PL,1337 Services GmbH,
 52.249.39.4,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 198.235.24.33,,US,Google LLC,
+20.25.52.46,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+14.103.119.154,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+95.214.53.211,,PL,MEVSPACE sp. z o.o.,
