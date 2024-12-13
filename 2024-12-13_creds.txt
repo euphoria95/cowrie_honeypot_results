@@ -86,3 +86,7 @@ ali:Aa123456
 user12:user12
 sysadmin:sysadmin2019
 minecraft:minecraft
+speedtest:P@ssw0rd
+sebastian:sebastian
+cdn:cdn123
+ftpAdmin:P@ssw0rd
