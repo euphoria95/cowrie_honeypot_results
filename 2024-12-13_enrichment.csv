@@ -25,3 +25,5 @@ IP address,remote ssh version,country_code2,organization,asn
 172.178.97.124,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
 221.222.16.126,SSH-2.0-Go,CN,China Unicom Beijing Province Network,
 200.24.135.130,SSH-2.0-libssh_0.9.6,EC,UFINET PANAMA S.A.,
+200.95.174.173,SSH-2.0-libssh_0.9.6,BR,CITTA TELECOM LTDA,
+138.197.164.166,GET / HTTP/1.1,CA,"DigitalOcean, LLC",
