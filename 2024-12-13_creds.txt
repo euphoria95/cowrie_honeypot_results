@@ -91,3 +91,4 @@ sebastian:sebastian
 cdn:cdn123
 ftpAdmin:P@ssw0rd
 admin01:12345678
+ts3admin:123456
