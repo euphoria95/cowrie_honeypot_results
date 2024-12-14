@@ -120,3 +120,11 @@ euser:euser@2024
 lyy:123
 minecraft:123456
 admin:admin
+ubuntu:v
+mysql:1q2w3e4r
+postgres:master
+ubuntu:qweqweqwe
+fred:123456
+grace:grace@2024
+hieu:hieu123
+bigdata:Password1
