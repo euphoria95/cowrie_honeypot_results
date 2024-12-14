@@ -65,3 +65,13 @@ telnet:abcd1234
 oracle:oracle2023
 kali:Abc1234
 steam:123qwe
+ubuntu:1qaz!QAZ
+tv:tv@123
+wwww:P@ssw0rd
+openwrt:openwrt@123
+devserver:devserver123
+cyr:cyr123
+user:password123456789
+dangulo:dangulo@123
+abrar:abrar@123
+ftp_user:P@ssw0rd
