@@ -118,3 +118,5 @@ testadmin:testadmin
 gitlab:test
 euser:euser@2024
 lyy:123
+minecraft:123456
+admin:admin
