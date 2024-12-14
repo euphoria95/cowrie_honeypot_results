@@ -107,3 +107,14 @@ admin:123456
 ubuntu:ubuntu@2019
 apiserver:apiserver
 mcserver:mcserver
+server:server2023
+jenifer:Password1
+ntuser:123456
+user15:user15
+mary:mary
+games:games
+satis:satis@2024
+testadmin:testadmin
+gitlab:test
+euser:euser@2024
+lyy:123
