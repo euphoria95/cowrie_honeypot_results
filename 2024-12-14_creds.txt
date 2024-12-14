@@ -58,3 +58,10 @@ postgres:postgres
 kubelet:kubelet
 postgres:123456
 odoo:odoo
+Admin:Admin2023
+user:User@1
+vagrant:Vagrant@1234
+telnet:abcd1234
+oracle:oracle2023
+kali:Abc1234
+steam:123qwe
