@@ -86,3 +86,7 @@ zyfwp:PrOw!aN_fXp
 gpadmin:gpadmin
 superuser:sp-admin
 admin:admin01
+dd:123
+jarservice:jarservice
+pkiuser:pkiuser@2024
+pick:pick@2024
