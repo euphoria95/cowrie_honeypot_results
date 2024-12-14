@@ -75,3 +75,9 @@ user:password123456789
 dangulo:dangulo@123
 abrar:abrar@123
 ftp_user:P@ssw0rd
+ubuntu:1q2w3e4R
+gp:gp@2024
+ubuntu:Pa55w0rd!
+username1:123
+debian:Passw0rd
+user7:1234
