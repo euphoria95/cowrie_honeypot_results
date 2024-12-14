@@ -10,3 +10,4 @@ IP address,remote ssh version,country_code2,organization,asn
 167.71.192.21,SSH-2.0-Go,SG,"DigitalOcean, LLC",
 111.173.89.134,SSH-2.0-Go,CN,China Telecom,
 157.255.137.26,SSH-2.0-Go,CN,China Unicom Guangdong IP network,
+2.139.155.27,SSH-2.0-libssh_0.9.6,ES,TELEFONICA DE ESPANA S.A.U.,
