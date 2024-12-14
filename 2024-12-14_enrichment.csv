@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.18,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 203.239.31.155,SSH-2.0-Go,KR,SEJONG NETWORKS,
 45.83.66.117,SSH-2.0-Go,DE,Alpha Strike Labs GmbH,
+50.5.138.137,,US,Cincinnati Bell Telephone Company LLC,
+66.240.236.109,SSH-2.0-Go,US,"CariNet, Inc.",
