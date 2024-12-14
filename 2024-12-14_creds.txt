@@ -81,3 +81,8 @@ ubuntu:Pa55w0rd!
 username1:123
 debian:Passw0rd
 user7:1234
+admin:hughestnet
+zyfwp:PrOw!aN_fXp
+gpadmin:gpadmin
+superuser:sp-admin
+admin:admin01
