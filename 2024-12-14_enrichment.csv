@@ -1,3 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 64.62.197.226,GET / HTTP/1.1,US,Hurricane Electric LLC,
 105.28.108.165,SSH-2.0-libssh_0.9.6,ZA,SEACOM Limited,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+121.11.115.7,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
+105.96.11.65,SSH-2.0-libssh_0.9.6,DZ,Telecom Algeria,
