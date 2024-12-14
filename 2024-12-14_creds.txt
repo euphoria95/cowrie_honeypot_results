@@ -9,3 +9,4 @@ aa:Password1
 user4:123456
 wangbo:123456
 sysadmin:sysadmin2019
+ubuntu:qweasdzxc
