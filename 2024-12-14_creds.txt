@@ -1,1 +1,11 @@
 max:123
+phpmyadmin:phpmyadmin@2024
+admin123:admin123@2024
+suser:suser123
+bwadmin:123
+pentaho:pentaho123
+test:qwe123qwe
+aa:Password1
+user4:123456
+wangbo:123456
+sysadmin:sysadmin2019
