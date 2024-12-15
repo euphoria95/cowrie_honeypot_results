@@ -46,3 +46,4 @@ panel:P@ssw0rd
 rancid:rancid@2024
 rails:123456
 pgadmin:pgadmin
+mario:P@ssw0rd
