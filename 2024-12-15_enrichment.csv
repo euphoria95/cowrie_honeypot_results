@@ -28,3 +28,4 @@ IP address,remote ssh version,country_code2,organization,asn
 18.222.226.15,SSH-2.0-Go,US,"Amazon.com, Inc.",
 114.33.112.152,,TW,"Chunghwa Telecom Co., Ltd.",
 14.54.144.108,SSH-2.0-Go,KR,Korea Telecom,
+192.42.116.22,SSH-2.0-OpenSSH_9.9,NL,SURF B.V.,
