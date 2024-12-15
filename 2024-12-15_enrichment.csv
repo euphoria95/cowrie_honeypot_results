@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 172.168.41.87,SSH-2.0-Go,US,Microsoft Corporation,
 205.210.31.15,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 83.232.8.162,SSH-2.0-libssh2_1.11.0,NL,KPN B.V.,
+128.199.183.223,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+172.104.11.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
