@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.243,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 82.199.197.245,SSH-2.0-libssh_0.9.6,AM,Ucom CJSC,
 2.57.122.188,SSH-2.0-Go,RO,UNMANAGED LTD,
+134.0.116.12,SSH-2.0-libssh_0.9.6,RU,"Domain names registrar REG.RU, Ltd",
+85.28.47.192,SSH-2.0-Go,DE,"Cloud Hosting Solutions, Limited.",
