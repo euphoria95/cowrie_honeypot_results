@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.161.110.201,SSH-2.0-libssh_0.9.6,CH,Microsoft Corporation,
 137.186.242.99,SSH-2.0-Go,CA,TELUS Communications Inc.,
 221.181.127.106,,CN,China Mobile,
+172.168.41.87,SSH-2.0-Go,US,Microsoft Corporation,
+205.210.31.15,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+83.232.8.162,SSH-2.0-libssh2_1.11.0,NL,KPN B.V.,
