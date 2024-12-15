@@ -25,3 +25,4 @@ IP address,remote ssh version,country_code2,organization,asn
 101.126.130.67,,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 113.125.30.26,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
 165.232.130.69,,US,"DigitalOcean, LLC",
+18.222.226.15,SSH-2.0-Go,US,"Amazon.com, Inc.",
