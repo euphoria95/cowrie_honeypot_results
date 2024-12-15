@@ -33,3 +33,6 @@ craft:craft!@#
 pgsql:123456
 hd16pt07:hd16pt071234
 root:root
+oliver:P@ssw0rd
+ogsuser:ogsuser@123
+viktor:viktor@2024
