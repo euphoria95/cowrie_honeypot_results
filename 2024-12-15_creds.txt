@@ -1,0 +1,9 @@
+station6:station6
+abc:123456
+info:info
+zabbix:zabbix
+weblogic:weblogic
+dspace:dspace
+guest:guest
+Admin:Admin
+ansadmin:123
