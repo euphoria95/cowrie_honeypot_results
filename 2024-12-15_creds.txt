@@ -75,3 +75,6 @@ admin:Admin1234
 Zabbix:123456
 test:test
 deploy:deploy
+ftp:ftp
+craft:craft
+games:games
