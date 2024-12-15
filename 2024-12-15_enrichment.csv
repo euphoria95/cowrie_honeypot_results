@@ -2,3 +2,4 @@ IP address,remote ssh version,country_code2,organization,asn
 65.49.1.62,SSH-2.0-Go,US,Hurricane Electric LLC,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 165.232.191.196,GET / HTTP/1.1,IN,"DigitalOcean, LLC",
+14.55.47.55,SSH-2.0-Go,KR,Korea Telecom,
