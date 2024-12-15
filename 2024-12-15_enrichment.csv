@@ -27,3 +27,4 @@ IP address,remote ssh version,country_code2,organization,asn
 165.232.130.69,,US,"DigitalOcean, LLC",
 18.222.226.15,SSH-2.0-Go,US,"Amazon.com, Inc.",
 114.33.112.152,,TW,"Chunghwa Telecom Co., Ltd.",
+14.54.144.108,SSH-2.0-Go,KR,Korea Telecom,
