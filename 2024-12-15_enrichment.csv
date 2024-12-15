@@ -11,3 +11,5 @@ IP address,remote ssh version,country_code2,organization,asn
 83.232.8.162,SSH-2.0-libssh2_1.11.0,NL,KPN B.V.,
 128.199.183.223,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 172.104.11.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+74.82.47.3,GET / HTTP/1.1,US,Hurricane Electric LLC,
+198.50.156.92,SSH-2.0-libssh_0.9.6,CA,OVH SAS,
