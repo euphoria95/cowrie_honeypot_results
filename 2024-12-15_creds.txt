@@ -48,3 +48,13 @@ rails:123456
 pgadmin:pgadmin
 mario:P@ssw0rd
 ethereum:ethereum
+postgres:1qaz@WSX
+ansible:123456789
+bd:P@ssw0rd
+hpcadmin:P@ssw0rd
+wy:wy123
+kevin:kevin
+flink:Password1
+factorio:Password1
+mobile:mobile@123
+astra:astra@2024
