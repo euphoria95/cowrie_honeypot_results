@@ -36,3 +36,13 @@ root:root
 oliver:P@ssw0rd
 ogsuser:ogsuser@123
 viktor:viktor@2024
+ansible:welcome1
+test01:1234
+myuser:myuser@123
+mmm:P@ssw0rd
+deployer:123456789
+ubuntu:abc12345
+panel:P@ssw0rd
+rancid:rancid@2024
+rails:123456
+pgadmin:pgadmin
