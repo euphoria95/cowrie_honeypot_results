@@ -23,3 +23,4 @@ IP address,remote ssh version,country_code2,organization,asn
 122.165.244.225,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
 82.65.183.225,SSH-2.0-libssh2_1.11.0,FR,Free SAS,
 197.5.145.150,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
+149.224.250.53,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3,DE,wilhelm.tel GmbH,
