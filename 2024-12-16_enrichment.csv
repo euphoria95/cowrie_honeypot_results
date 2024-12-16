@@ -36,3 +36,5 @@ IP address,remote ssh version,country_code2,organization,asn
 185.152.45.241,SSH-2.0-libssh_0.9.6,IT,Dimensione S.r.l.,
 162.239.51.181,SSH-2.0-Go,US,"AT&T Services, Inc.",
 192.42.116.211,SSH-2.0-OpenSSH_9.9,NL,SURF B.V.,
+205.210.31.39,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+212.45.248.93,SSH-2.0-Go,RU,MTS PJSC,
