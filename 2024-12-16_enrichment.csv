@@ -33,3 +33,5 @@ IP address,remote ssh version,country_code2,organization,asn
 3.138.114.0,SSH-2.0-Go,US,"Amazon.com, Inc.",
 183.201.56.120,SSH-2.0-Go,CN,China Mobile Communications Corporation,
 2.57.122.32,,RO,UNMANAGED LTD,
+185.152.45.241,SSH-2.0-libssh_0.9.6,IT,Dimensione S.r.l.,
+162.239.51.181,SSH-2.0-Go,US,"AT&T Services, Inc.",
