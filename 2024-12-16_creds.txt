@@ -77,3 +77,15 @@ usrsosgi:usrsosgi123
 345gs5662d34:345gs5662d34
 yesung:yesung123
 pruebasfe:123456
+grafana:grafana123
+sonar:admin123
+respaldo:123456
+webtest:webtest@123
+kobo:123456
+csvn:123456
+admin:admin2017
+cat:cat123
+openhabian:openhabian
+superuser:sp-admin
+angel:angel
+mario:mario
