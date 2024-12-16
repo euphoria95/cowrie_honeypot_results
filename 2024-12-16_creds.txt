@@ -1,2 +1,15 @@
 validator:validator
 work:P@ssw0rd
+media:Password1
+admin1234:admin1234@2024
+guo:guo@123
+mohammad:mohammad@2024
+geonode:123
+in:in
+cgpexpert:cgpexpert
+sgd:123456
+qb:123
+root11:P@ssw0rd
+user1:user1@2024
+mysql:111111
+joao:joao@123
