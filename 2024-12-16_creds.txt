@@ -89,3 +89,5 @@ openhabian:openhabian
 superuser:sp-admin
 angel:angel
 mario:mario
+admin:admin
+craft:craft
