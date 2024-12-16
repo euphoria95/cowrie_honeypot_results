@@ -27,3 +27,7 @@ IP address,remote ssh version,country_code2,organization,asn
 172.169.205.129,SSH-2.0-Go,US,Microsoft Corporation,
 180.167.173.180,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 47.206.67.127,SSH-2.0-libssh_0.9.6,US,"Frontier Communications of America, Inc.",
+198.144.156.34,SSH-2.0-Go,CA,Netminders Server Hosting,
+206.197.9.75,SSH-2.0-Go,US,"PCM Sales, Inc",
+198.235.24.214,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+3.138.114.0,SSH-2.0-Go,US,"Amazon.com, Inc.",
