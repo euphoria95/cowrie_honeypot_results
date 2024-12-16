@@ -25,3 +25,5 @@ IP address,remote ssh version,country_code2,organization,asn
 197.5.145.150,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
 149.224.250.53,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3,DE,wilhelm.tel GmbH,
 172.169.205.129,SSH-2.0-Go,US,Microsoft Corporation,
+180.167.173.180,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+47.206.67.127,SSH-2.0-libssh_0.9.6,US,"Frontier Communications of America, Inc.",
