@@ -13,3 +13,7 @@ root11:P@ssw0rd
 user1:user1@2024
 mysql:111111
 joao:joao@123
+hamed:123456
+ldapuser:Password1
+uno85:uno85123
+cindy:123456
