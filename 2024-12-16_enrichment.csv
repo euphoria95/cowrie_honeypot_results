@@ -4,3 +4,4 @@ IP address,remote ssh version,country_code2,organization,asn
 172.206.147.160,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 66.240.236.116,SSH-2.0-Go,US,"CariNet, Inc.",
 44.220.188.54,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+194.87.189.200,SSH-2.0-Go,DE,AEZA INTERNATIONAL LTD,
