@@ -72,3 +72,8 @@ uat:123456
 pi:raspberryraspberry993311
 wolli:P@ssw0rd
 adrien:Password1
+nils:nils
+usrsosgi:usrsosgi123
+345gs5662d34:345gs5662d34
+yesung:yesung123
+pruebasfe:123456
