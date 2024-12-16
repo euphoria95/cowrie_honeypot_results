@@ -64,3 +64,11 @@ warango:warango123
 admini:admini
 mysql:1qaz2wsx
 monika:monika123
+rancher:123456
+aa:123
+kserge:Password1
+pi:raspberry
+uat:123456
+pi:raspberryraspberry993311
+wolli:P@ssw0rd
+adrien:Password1
