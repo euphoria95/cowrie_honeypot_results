@@ -5,3 +5,4 @@ IP address,remote ssh version,country_code2,organization,asn
 66.240.236.116,SSH-2.0-Go,US,"CariNet, Inc.",
 44.220.188.54,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
 194.87.189.200,SSH-2.0-Go,DE,AEZA INTERNATIONAL LTD,
+157.245.252.5,SSH-2.0-Go,US,"DigitalOcean, LLC",
