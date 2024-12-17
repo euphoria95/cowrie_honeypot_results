@@ -17,3 +17,4 @@ deepak:deepak123
 anna:anna
 ror:ror123
 gandalf:123456
+admin:vivo12345
