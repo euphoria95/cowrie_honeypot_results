@@ -18,3 +18,16 @@ anna:anna
 ror:ror123
 gandalf:123456
 admin:vivo12345
+user:123.com
+kadri:kadri
+yo:123456
+member:123456
+prashanth:123456
+steam:1
+prueba:prueba
+rich:rich123
+indra:indra123
+matrix:matrix
+dist:dist
+palworld:palworld123
+hobbit:hobbit
