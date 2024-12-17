@@ -58,3 +58,6 @@ william:william123
 simon:simon
 terraria:terraria
 lijun:lijun123
+cryo:cryo
+yxu:123456
+elisa:123456
