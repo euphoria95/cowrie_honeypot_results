@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 201.86.35.193,SSH-2.0-libssh_0.9.6,BR,TELEFï¿½NICA BRASIL S.A,
 218.62.48.58,,CN,CHINA UNICOM China169 Backbone,
 188.166.165.226,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+121.1.176.178,,JP,Asahi Net,
+143.110.215.170,GET / HTTP/1.1,CA,"DigitalOcean, LLC",
