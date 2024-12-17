@@ -61,3 +61,15 @@ lijun:lijun123
 cryo:cryo
 yxu:123456
 elisa:123456
+wxu:wxu
+esuser:esuser
+mukund:mukund123
+rakesh:rakesh123
+elsearch:elsearch
+hduser:hadoop
+dnd:dnd
+rcp:123456
+kau:123456
+lc:lc
+etherpad:etherpad
+ins:ins
