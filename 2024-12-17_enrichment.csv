@@ -1,3 +1,4 @@
 IP address,remote ssh version,country_code2,organization,asn
 81.28.167.30,SSH-2.0-libssh_0.9.6,RU,PJSC Rostelecom,
 185.247.137.84,SSH-2.0-Go,GB,Driftnet Ltd,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
