@@ -45,3 +45,16 @@ rust:rust123
 pi:raspberryraspberry993311
 ubuntu:12345678
 lambda:lambda123
+bacula:bacula123
+soniar:soniar
+boulet:123456
+alexandre:alexandre123
+don:123456
+gts:123456
+roman:123
+taher:taher123
+shareuser:shareuser
+william:william123
+simon:simon
+terraria:terraria
+lijun:lijun123
