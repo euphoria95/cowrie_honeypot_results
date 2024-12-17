@@ -31,3 +31,17 @@ matrix:matrix
 dist:dist
 palworld:palworld123
 hobbit:hobbit
+jenkinsuser:jenkinsuser123
+alumni:alumni
+yu:yu123
+ttx:123456
+alex:alex321
+pi:raspberry
+debian:1234
+ld:ld123
+osboxes:123456
+diradmin:diradmin
+rust:rust123
+pi:raspberryraspberry993311
+ubuntu:12345678
+lambda:lambda123
