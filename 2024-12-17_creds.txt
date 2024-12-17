@@ -73,3 +73,6 @@ kau:123456
 lc:lc
 etherpad:etherpad
 ins:ins
+es:12345678
+syncthing:syncthing
+erpuser:erpuser
