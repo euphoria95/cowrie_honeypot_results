@@ -5,3 +5,5 @@ IP address,remote ssh version,country_code2,organization,asn
 106.51.1.63,SSH-2.0-libssh_0.9.6,IN,"Atria Convergence Technologies Pvt. Ltd.,",
 172.187.192.7,SSH-2.0-libssh_0.9.6,GB,Microsoft Corporation,
 106.51.92.114,SSH-2.0-libssh_0.9.6,IN,"Atria Convergence Technologies Pvt. Ltd.,",
+172.168.41.26,,US,Microsoft Corporation,
+45.79.172.21,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
