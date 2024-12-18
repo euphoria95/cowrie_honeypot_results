@@ -29,3 +29,7 @@ IP address,remote ssh version,country_code2,organization,asn
 172.174.5.146,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
 105.73.203.35,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
 101.36.97.205,SSH-2.0-OpenSSH_7.4,GB,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
+3.23.92.210,SSH-2.0-Go,US,"Amazon.com, Inc.",
+210.212.47.83,SSH-2.0-libssh_0.9.6,IN,Bharat Sanchar Nigam Ltd,
+211.35.179.70,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
+77.81.142.34,SSH-2.0-libssh_0.9.6,US,M247 Europe SRL,
