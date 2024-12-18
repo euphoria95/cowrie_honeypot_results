@@ -6,3 +6,4 @@ IP address,remote ssh version,country_code2,organization,asn
 216.218.206.69,GET / HTTP/1.1,US,Hurricane Electric LLC,
 138.197.154.97,SSH-2.0-Go,CA,"DigitalOcean, LLC",
 167.94.145.101,SSH-2.0-Go,DE,"Censys, Inc.",
+81.208.105.234,SSH-2.0-Go,IT,Fastweb SpA,
