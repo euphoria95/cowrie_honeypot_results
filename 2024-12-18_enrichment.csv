@@ -22,3 +22,5 @@ IP address,remote ssh version,country_code2,organization,asn
 45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 103.140.73.178,SSH-2.0-libssh_0.9.6,IN,Vilas Internet Services Pvt Ltd,
 177.100.156.7,SSH-2.0-libssh_0.9.6,BR,Claro NXT Telecomunicacoes Ltda,
+103.250.151.241,SSH-2.0-libssh_0.9.6,IN,Gujarat Telelink Pvt Ltd,
+18.216.210.105,SSH-2.0-Go,US,"Amazon.com, Inc.",
