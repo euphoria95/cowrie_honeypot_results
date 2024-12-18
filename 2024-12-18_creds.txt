@@ -17,3 +17,4 @@ sari:sari123
 pic:123456
 vaibhav:vaibhav
 mehdi:mehdi123
+admin:admin
