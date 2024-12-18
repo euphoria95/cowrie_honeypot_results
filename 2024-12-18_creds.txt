@@ -42,3 +42,16 @@ distro:distro
 lex:123456
 daniele:daniele123
 wocloud:123456
+anas:123456
+code:code123
+expresslab:expresslab
+rz:rz
+arad:arad
+zhoujing:123456
+userone:123456
+no-reply:123456
+jens:jens123
+xid:xid123
+opc:opc123
+newtest:newtest123
+mysql:mysql
