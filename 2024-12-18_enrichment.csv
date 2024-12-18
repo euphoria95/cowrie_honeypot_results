@@ -19,3 +19,5 @@ IP address,remote ssh version,country_code2,organization,asn
 210.5.77.69,SSH-2.0-Go,PH,Philippine Long Distance Telephone Co.,
 82.66.212.126,SSH-2.0-OpenSSH_8.4p1 Debian-5+deb11u3,FR,Free SAS,
 198.235.24.73,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+103.140.73.178,SSH-2.0-libssh_0.9.6,IN,Vilas Internet Services Pvt Ltd,
