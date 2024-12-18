@@ -55,3 +55,7 @@ xid:xid123
 opc:opc123
 newtest:newtest123
 mysql:mysql
+roo:roo123
+admin:password01!
+vijay:vijay123
+supervisor:1234
