@@ -92,3 +92,17 @@ guillermo:guillermo
 kapil:kapil123
 dist:dist123
 prueba1:prueba1
+ramesh:ramesh
+baoy:baoy123
+ca:ca
+deployer:deploy
+rd:123456
+geral:123456
+thiago:123456
+fang:123456
+zabbix:zabbix
+afzal:123456
+gl:123456
+hadoop:qwerty123
+su:su123
+bun:bun
