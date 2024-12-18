@@ -35,3 +35,10 @@ testuser:qwerty
 ftpuser:ftpuser123
 samuel:123
 nader:nader
+wallabag:123456
+joaquin:joaquin
+pnlp:pnlp
+distro:distro
+lex:123456
+daniele:daniele123
+wocloud:123456
