@@ -23,3 +23,15 @@ pi:raspberry
 dambrosio:dambrosio
 pi:raspberryraspberry993311
 user:user123123
+ugo:ugo
+mam:mam@123
+uploader:123456
+arnaud:arnaud
+wxg:123456
+dev:devserver
+almacen:almacen123
+mycat:123456
+testuser:qwerty
+ftpuser:ftpuser123
+samuel:123
+nader:nader
