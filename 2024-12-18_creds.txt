@@ -19,3 +19,7 @@ vaibhav:vaibhav
 mehdi:mehdi123
 admin:admin
 costa:123456
+pi:raspberry
+dambrosio:dambrosio
+pi:raspberryraspberry993311
+user:user123123
