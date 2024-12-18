@@ -1,2 +1,4 @@
 IP address,remote ssh version,country_code2,organization,asn
 172.169.2.193,SSH-2.0-Go,US,Microsoft Corporation,
+62.178.23.13,SSH-2.0-libssh_0.9.6,AT,T-Mobile Austria GmbH,
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
