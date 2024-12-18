@@ -3,3 +3,6 @@ IP address,remote ssh version,country_code2,organization,asn
 62.178.23.13,SSH-2.0-libssh_0.9.6,AT,T-Mobile Austria GmbH,
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 117.54.201.91,,ID,"INDO Internet, PT",
+216.218.206.69,GET / HTTP/1.1,US,Hurricane Electric LLC,
+138.197.154.97,SSH-2.0-Go,CA,"DigitalOcean, LLC",
+167.94.145.101,SSH-2.0-Go,DE,"Censys, Inc.",
