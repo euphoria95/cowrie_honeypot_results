@@ -11,3 +11,5 @@ IP address,remote ssh version,country_code2,organization,asn
 221.181.127.106,SSH-2.0-Go,CN,China Mobile,
 172.104.11.34,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 47.247.25.218,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
+197.221.156.246,SSH-2.0-libssh_0.9.6,UG,Airtel Uganda Limited,
+162.55.221.168,SSH-2.0-libssh_0.9.6,DE,Hetzner Online GmbH,
