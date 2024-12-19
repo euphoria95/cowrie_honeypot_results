@@ -33,3 +33,5 @@ IP address,remote ssh version,country_code2,organization,asn
 222.235.82.88,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
 14.103.118.117,,CN,China Telecom (Group),
 174.174.123.32,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
+65.49.1.60,SSH-2.0-Go,US,Hurricane Electric LLC,
+213.64.179.221,SSH-2.0-libssh2_1.11.0,SE,Telia Company AB,
