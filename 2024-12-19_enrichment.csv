@@ -18,3 +18,4 @@ IP address,remote ssh version,country_code2,organization,asn
 202.70.82.93,SSH-2.0-libssh_0.9.6,NP,Nepal Telecommunications Corporation,
 34.29.120.92,SSH-2.0-libssh_0.9.6,US,Google LLC,
 92.255.196.185,SSH-2.0-OpenSSH_7.4,RU,JSC ER-Telecom Holding,
+159.112.183.38,SSH-2.0-Go,BR,Oracle Corporation,
