@@ -49,3 +49,4 @@ testuser:Testuser1
 kafka:1qaz2wsx
 temp:temp1
 dockeradmin:Dockeradmin1234
+openit:openit123
