@@ -28,3 +28,5 @@ docs:123456
 guacamole:guacamole123
 sincroniza:sincroniza
 zhangy:zhangy
+ali:1234
+guest:guest1234
