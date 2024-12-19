@@ -81,3 +81,5 @@ prasad:prasad
 l4d2:123456
 nodejs:nodejs123
 superset:superset
+admin:BCFdefaultpassword
+admin:pass
