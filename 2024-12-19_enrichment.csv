@@ -13,3 +13,8 @@ IP address,remote ssh version,country_code2,organization,asn
 47.247.25.218,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
 197.221.156.246,SSH-2.0-libssh_0.9.6,UG,Airtel Uganda Limited,
 162.55.221.168,SSH-2.0-libssh_0.9.6,DE,Hetzner Online GmbH,
+105.73.203.209,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
+52.228.154.190,SSH-2.0-Go,US,Microsoft Corporation,
+202.70.82.93,SSH-2.0-libssh_0.9.6,NP,Nepal Telecommunications Corporation,
+34.29.120.92,SSH-2.0-libssh_0.9.6,US,Google LLC,
+92.255.196.185,SSH-2.0-OpenSSH_7.4,RU,JSC ER-Telecom Holding,
