@@ -26,3 +26,4 @@ IP address,remote ssh version,country_code2,organization,asn
 172.105.128.13,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 136.248.123.253,SSH-2.0-libssh_0.9.6,BR,Oracle Corporation,
 183.246.89.195,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
+182.43.221.224,SSH-2.0-Go,CN,Cloud Computing Corporation,
