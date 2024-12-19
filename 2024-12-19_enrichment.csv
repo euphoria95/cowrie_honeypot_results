@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 122.224.240.99,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 115.134.17.209,SSH-2.0-Go,MY,TM TECHNOLOGY SERVICES SDN BHD,
 221.181.127.106,SSH-2.0-Go,CN,China Mobile,
+172.104.11.34,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+47.247.25.218,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
