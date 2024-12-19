@@ -32,3 +32,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.33.96.3,SSH-2.0-OpenSSH_7.4,KR,Korea Telecom,
 222.235.82.88,SSH-2.0-OpenSSH_7.4,KR,SK Broadband Co Ltd,
 14.103.118.117,,CN,China Telecom (Group),
+174.174.123.32,SSH-2.0-libssh_0.9.6,US,"Comcast Cable Communications, LLC",
