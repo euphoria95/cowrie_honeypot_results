@@ -84,3 +84,4 @@ superset:superset
 admin:BCFdefaultpassword
 admin:pass
 root:123456
+blank:qwerty
