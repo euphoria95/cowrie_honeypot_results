@@ -31,3 +31,4 @@ kim:kim
 PRUEBA:PRUEBA
 boo:boo
 tibero6:tibero6123
+gloria:gloria123
