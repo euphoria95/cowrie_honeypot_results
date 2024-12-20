@@ -52,3 +52,5 @@ rramirez:rramirez
 nodeuser:nodeuser
 eoffice:123456
 trends:123456
+pi:raspberryraspberry993311
+pi:raspberry
