@@ -8,3 +8,10 @@ viewer:123456
 nut:123456789
 daniel:1111
 el:el123
+userftp:userftp
+kunal:123456
+mostafa:123456
+jorge:123456
+guest:1234
+fred:fred
+steam:abc123
