@@ -15,3 +15,4 @@ jorge:123456
 guest:1234
 fred:fred
 steam:abc123
+vr:vr
