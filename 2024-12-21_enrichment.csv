@@ -1,2 +1,4 @@
 IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+115.91.170.141,,KR,LG DACOM Corporation,
+118.70.170.120,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
