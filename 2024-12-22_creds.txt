@@ -35,3 +35,17 @@ sofia:sofia
 ionadmin:ionadmin
 ossadm:123456
 shrikant:shrikant123
+aitor:aitor
+jbernal:jbernal123
+ftpuser:123123
+weijun:weijun123
+minecraft:mc
+git:M3gaP33!
+docker:passwd
+lcx:123456
+ftpuser:ftp
+deploy:1234
+myuser:123
+testtest:testtest
+lili:123456
+vue:123456
