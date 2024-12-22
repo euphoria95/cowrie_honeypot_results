@@ -77,3 +77,5 @@ unknown:P@ssw0rd
 ubuntu:0000
 default:abc123
 user:password
+user:qwerty
+saidtaj:1955thomas
