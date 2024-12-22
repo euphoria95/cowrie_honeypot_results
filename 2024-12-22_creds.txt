@@ -49,3 +49,4 @@ myuser:123
 testtest:testtest
 lili:123456
 vue:123456
+Admin:Admin
