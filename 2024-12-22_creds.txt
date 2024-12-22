@@ -74,3 +74,6 @@ mysql:root
 amit:1234
 uftp:123123
 unknown:P@ssw0rd
+ubuntu:0000
+default:abc123
+user:password
