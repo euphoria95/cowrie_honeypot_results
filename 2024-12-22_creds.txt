@@ -50,3 +50,4 @@ testtest:testtest
 lili:123456
 vue:123456
 Admin:Admin
+admin:12345678
