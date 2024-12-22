@@ -6,3 +6,16 @@ admin:hope19
 support:support00
 validator:validator
 Profile:1
+zjw:zjw
+apiserver:apiserver
+kvm:kvm
+es:es
+ubuntu:ubuntu
+admin:admin
+test:test
+esuser:esuser
+deploy:deploy
+vyos:vyos
+admin:Admin123
+minecraft:123456
+cluster:cluster
