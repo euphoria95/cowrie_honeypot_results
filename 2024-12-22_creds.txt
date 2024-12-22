@@ -19,3 +19,5 @@ vyos:vyos
 admin:Admin123
 minecraft:123456
 cluster:cluster
+12345:12345
+ubnt:ubntubnt
