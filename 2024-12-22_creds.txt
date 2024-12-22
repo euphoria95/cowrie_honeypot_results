@@ -21,3 +21,17 @@ minecraft:123456
 cluster:cluster
 12345:12345
 ubnt:ubntubnt
+filmlight:filmlight
+ftpmedia:ftpmedia
+Test:123456
+share1:share1123
+helloworld:123456
+kariman:123456
+umair:umair123
+botuser:botuser
+admin:Admin@123
+proxyuser:proxyuser
+sofia:sofia
+ionadmin:ionadmin
+ossadm:123456
+shrikant:shrikant123
