@@ -46,3 +46,5 @@ kw:123456
 vinod:123456
 ionguest:ionguest
 admin:ncstech
+myuser:123456
+openhabian:openhabian
