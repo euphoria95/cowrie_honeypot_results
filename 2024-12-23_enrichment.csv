@@ -63,3 +63,7 @@ IP address,remote ssh version,country_code2,organization,asn
 194.93.25.50,SSH-2.0-Go,UZ,Uzbektelekom Joint Stock Company,
 103.81.85.216,SSH-2.0-libssh_0.9.6,VN,Thien Quang Digital technology joint stock company,
 95.87.248.223,,BG,Vivacom Bulgaria EAD,
+65.49.1.20,SSH-2.0-Go,US,Hurricane Electric LLC,
+18.217.15.235,SSH-2.0-Go,US,"Amazon.com, Inc.",
+58.242.188.249,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
+111.88.4.68,SSH-2.0-libssh_0.9.6,PK,Connect Communication,
