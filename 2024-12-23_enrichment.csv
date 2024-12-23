@@ -8,3 +8,6 @@ IP address,remote ssh version,country_code2,organization,asn
 106.51.221.92,SSH-2.0-OpenSSH_7.4,IN,"Atria Convergence Technologies Pvt. Ltd.,",
 27.110.189.130,SSH-2.0-OpenSSH_7.4,PH,Philippine Long Distance Telephone Co.,
 205.210.31.149,,BR,Google LLC,
+167.99.227.60,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+183.249.1.82,SSH-2.0-OpenSSH_7.4,CN,China Mobile Communications Corporation,
+39.108.126.160,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
