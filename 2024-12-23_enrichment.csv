@@ -46,3 +46,6 @@ IP address,remote ssh version,country_code2,organization,asn
 81.237.110.29,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
 105.73.203.194,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
 103.248.119.109,SSH-2.0-OpenSSH_7.4,IN,Gigantic Infotel Pvt Ltd,
+183.171.11.192,,MY,Celcom Axiata Berhad,
+121.1.173.213,,JP,Asahi Net,
+183.76.167.179,SSH-2.0-OpenSSH_7.4,JP,Asahi Net,
