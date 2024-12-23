@@ -57,3 +57,5 @@ IP address,remote ssh version,country_code2,organization,asn
 173.199.240.40,SSH-2.0-OpenSSH_7.4,US,Hotwire Communications,
 121.227.152.171,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 183.107.174.187,SSH-2.0-Go,KR,Korea Telecom,
+172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+101.89.208.149,,CN,China Telecom (Group),
