@@ -82,3 +82,4 @@ newuser:1234
 kadmin:123456
 vijay:vijay
 config:1234
+admin:Admin12345
