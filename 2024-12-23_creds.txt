@@ -87,3 +87,5 @@ root:123456
 asterisk:asterisk@123
 dbmaker:dbmaker
 publico:123456
+admin:dubsmash
+vpn:vpn
