@@ -137,3 +137,4 @@ mjchen:123456
 beverly:beverly
 asetifano:asetifano@123
 kmonmoy:kmonmoy@123
+admin:abcd1234
