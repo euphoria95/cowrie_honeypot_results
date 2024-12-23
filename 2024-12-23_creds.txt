@@ -127,3 +127,7 @@ dolly:dolly123
 mshzool:mshzool123
 sumon:sumon
 iza:iza
+theatre:theatre@123
+noblecoco:123456
+cinzia:cinzia
+samwee:123456
