@@ -131,3 +131,9 @@ theatre:theatre@123
 noblecoco:123456
 cinzia:cinzia
 samwee:123456
+oparhc:oparhc123
+qackl:qackl123
+mjchen:123456
+beverly:beverly
+asetifano:asetifano@123
+kmonmoy:kmonmoy@123
