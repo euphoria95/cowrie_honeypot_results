@@ -48,3 +48,6 @@ ionguest:ionguest
 admin:ncstech
 myuser:123456
 openhabian:openhabian
+ubuntu:ubuntu
+dev:dev123
+admin:admin123
