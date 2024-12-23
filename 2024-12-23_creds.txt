@@ -81,3 +81,4 @@ ftpsecure:123456
 newuser:1234
 kadmin:123456
 vijay:vijay
+config:1234
