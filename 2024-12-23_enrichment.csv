@@ -59,3 +59,7 @@ IP address,remote ssh version,country_code2,organization,asn
 183.107.174.187,SSH-2.0-Go,KR,Korea Telecom,
 172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 101.89.208.149,,CN,China Telecom (Group),
+40.85.152.251,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+194.93.25.50,SSH-2.0-Go,UZ,Uzbektelekom Joint Stock Company,
+103.81.85.216,SSH-2.0-libssh_0.9.6,VN,Thien Quang Digital technology joint stock company,
+95.87.248.223,,BG,Vivacom Bulgaria EAD,
