@@ -13,3 +13,7 @@ IP address,remote ssh version,country_code2,organization,asn
 39.108.126.160,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 14.103.127.84,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 182.75.197.174,SSH-2.0-OpenSSH_7.4,IN,Bharti Airtel Limited,
+159.223.4.58,,NL,"DigitalOcean, LLC",
+103.124.220.50,SSH-2.0-OpenSSH_7.4,ID,PT iForte Global Internet,
+195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
+104.208.108.166,SSH-2.0-libssh_0.9.6,HK,Microsoft Corporation,
