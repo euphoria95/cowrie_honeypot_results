@@ -25,3 +25,6 @@ IP address,remote ssh version,country_code2,organization,asn
 66.240.223.202,SSH-2.0-Go,US,"CariNet, Inc.",
 23.146.243.204,SSH-2.0-OPENSSH_7.9,US,VolumeDrive,
 105.73.203.77,SSH-2.0-OpenSSH_7.4,MA,Wana Corporate,
+181.94.215.202,SSH-2.0-libssh_0.9.6,PY,NÃºcleo S.A.,
+46.210.88.11,,IL,Cellcom Fixed Line Communication L.P,
+47.88.51.149,SSH-2.0-makiko,US,"Alibaba (US) Technology Co., Ltd.",
