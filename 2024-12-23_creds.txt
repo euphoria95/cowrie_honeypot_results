@@ -84,3 +84,4 @@ vijay:vijay
 config:1234
 admin:Admin12345
 root:123456
+asterisk:asterisk@123
