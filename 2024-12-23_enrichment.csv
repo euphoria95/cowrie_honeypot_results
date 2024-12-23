@@ -34,3 +34,8 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.115.225,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 122.224.240.99,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 101.71.10.242,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
+147.93.135.63,SSH-2.0-Go,US,"Nubes, LLC",
+66.240.236.116,SSH-2.0-Go,US,"CariNet, Inc.",
+14.103.170.162,,CN,China Telecom (Group),
+73.94.244.236,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
+162.214.211.246,SSH-2.0-libssh_0.9.6,US,Unified Layer,
