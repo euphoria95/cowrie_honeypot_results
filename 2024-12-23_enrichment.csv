@@ -67,3 +67,6 @@ IP address,remote ssh version,country_code2,organization,asn
 18.217.15.235,SSH-2.0-Go,US,"Amazon.com, Inc.",
 58.242.188.249,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
 111.88.4.68,SSH-2.0-libssh_0.9.6,PK,Connect Communication,
+128.199.214.193,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+113.125.78.197,,CN,Cloud Computing Corporation,
+115.141.210.53,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
