@@ -29,3 +29,15 @@ soi:soi
 tanulo:tanulo
 ftpuser:123123
 cfabllc:cfabllc123
+cheng:cheng
+lavori:lavori
+admin:admin1234
+ardi:123456
+shiva:shiva123
+oracle:oracle123
+gaurav:gaurav123
+papa:papa123
+suporte:123
+agus:agus123
+xplorn88:18jirequesto
+ykf:123456
