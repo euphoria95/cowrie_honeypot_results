@@ -17,3 +17,7 @@ IP address,remote ssh version,country_code2,organization,asn
 103.124.220.50,SSH-2.0-OpenSSH_7.4,ID,PT iForte Global Internet,
 195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
 104.208.108.166,SSH-2.0-libssh_0.9.6,HK,Microsoft Corporation,
+180.225.219.35,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+125.117.63.99,,CN,"No.31,Jin-rong Street",
+202.157.176.210,SSH-2.0-libssh_0.9.6,ID,PT. EXABYTES NETWORK INDONESIA,
+165.232.147.130,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
