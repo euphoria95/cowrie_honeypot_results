@@ -15,3 +15,17 @@ admin1:Admin@123
 astra:123456
 lby:lby123
 git:gitgitgit
+test01:123
+oleg:oleg
+igor:igor123
+gituser:123456
+ionadmin:ionadmin
+ubuntu:1qaz@WSX
+shashi:shashi123
+fax:fax
+user1:0000
+minecraft:mc
+soi:soi
+tanulo:tanulo
+ftpuser:123123
+cfabllc:cfabllc123
