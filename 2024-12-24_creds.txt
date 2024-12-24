@@ -207,3 +207,6 @@ admin:nosoup4u
 admin:7ujMko0admin
 blank:123456
 adminisp:1spp4l4c10s
+user:user123
+admin:admin1
+kafka:1qaz2wsx
