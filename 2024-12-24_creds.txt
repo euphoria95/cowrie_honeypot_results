@@ -198,3 +198,8 @@ es:es
 kafka:123456
 olm:olm
 esuser:esuser
+shoutcast:shoutcast@123
+nodeproxy:nodeproxy12345
+newuser:1
+ubnt:samy
+oratest:1
