@@ -203,3 +203,5 @@ nodeproxy:nodeproxy12345
 newuser:1
 ubnt:samy
 oratest:1
+admin:nosoup4u
+admin:7ujMko0admin
