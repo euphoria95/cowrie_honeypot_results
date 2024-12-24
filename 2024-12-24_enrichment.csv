@@ -15,3 +15,5 @@ IP address,remote ssh version,country_code2,organization,asn
 94.185.77.30,SSH-2.0-libssh_0.9.6,IT,Planetel SPA,
 87.121.86.62,SSH-2.0-libssh_0.9.6,NL,Nybula LLC,
 65.20.193.144,SSH-2.0-OpenSSH_7.4,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd,
+81.227.92.182,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+147.185.132.109,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
