@@ -25,3 +25,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.212.58.254,,US,Microsoft Corporation,
 140.86.39.162,SSH-2.0-libssh_0.9.6,NL,Oracle Corporation,
 24.8.11.101,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
+212.154.75.240,,TR,TurkNet Iletisim Hizmetleri A.S.,
+206.168.34.52,SSH-2.0-Go,US,"Censys, Inc.",
+180.168.100.230,SSH-2.0-OpenSSH_7.4,CN,China Telecom (Group),
