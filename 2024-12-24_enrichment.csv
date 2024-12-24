@@ -28,3 +28,4 @@ IP address,remote ssh version,country_code2,organization,asn
 212.154.75.240,,TR,TurkNet Iletisim Hizmetleri A.S.,
 206.168.34.52,SSH-2.0-Go,US,"Censys, Inc.",
 180.168.100.230,SSH-2.0-OpenSSH_7.4,CN,China Telecom (Group),
+74.82.47.4,GET / HTTP/1.1,US,Hurricane Electric LLC,
