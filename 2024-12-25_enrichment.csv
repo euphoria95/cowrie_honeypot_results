@@ -1,3 +1,8 @@
 IP address,remote ssh version,country_code2,organization,asn
 85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
 162.240.103.112,SSH-2.0-libssh_0.9.6,US,Unified Layer,
+61.15.25.138,SSH-2.0-OpenSSH_7.4,HK,Hong Kong Cable Television Limited,
+103.189.234.253,SSH-2.0-libssh_0.9.6,SG,Cloud Host Pte Ltd,
+221.0.111.113,,CN,CHINA UNICOM China169 Backbone,
+204.44.86.202,SSH-2.0-libssh_0.9.6,US,ASSERTIVENET,
+202.218.225.78,SSH-2.0-libssh_0.9.6,JP,IDC Frontier Inc.,
