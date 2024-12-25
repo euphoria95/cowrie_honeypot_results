@@ -72,3 +72,16 @@ admin:Admin@1234
 Administrator:admin
 root:123456
 admin:0000
+sudev:loldongs
+ubnt:password
+ubnt:1qaz2wsx
+ubnt:root
+ubnt:ubnt
+sudev:loldongs123
+scanner:scanner
+sudev:loldongs3
+sudev:3TFoqJk6KR1XaWhhmlRZ
+ubnt:ubntubnt
+ubnt:ubnt1
+ubnt:ubnt123
+sudev:123456
