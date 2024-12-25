@@ -85,3 +85,4 @@ ubnt:ubntubnt
 ubnt:ubnt1
 ubnt:ubnt123
 sudev:123456
+supervisor:qwerty
