@@ -68,3 +68,4 @@ cat:cat12345
 nobody:P@ssword
 cynthia:123456
 UNKNOWN:admin
+admin:Admin@1234
