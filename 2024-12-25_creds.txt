@@ -110,3 +110,17 @@ cs:cs123
 smart:smart1234
 draytek:draytek1
 0658582964:Nutty879
+test:123456
+oracle:123456
+Admin:admin
+odoo:odoo
+nagios:nagios
+admin:admin
+vyos:123456
+test:test
+openvswitch:openvswitch
+hadoop:123456
+postgres:123456
+odoo:123456
+devops:devops
+usr:123456
