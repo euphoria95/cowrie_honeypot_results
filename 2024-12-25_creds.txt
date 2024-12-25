@@ -69,3 +69,5 @@ nobody:P@ssword
 cynthia:123456
 UNKNOWN:admin
 admin:Admin@1234
+Administrator:admin
+root:123456
