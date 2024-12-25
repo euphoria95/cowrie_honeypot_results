@@ -102,3 +102,10 @@ rick:rick@123
 cutlass:cutlass
 sammy:sammy123456
 sistemas:123
+coin:1
+admin2:admin21234
+emcali:emcali
+cuda:123
+cs:cs123
+smart:smart1234
+draytek:draytek1
