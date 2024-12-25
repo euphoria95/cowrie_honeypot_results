@@ -124,3 +124,5 @@ postgres:123456
 odoo:123456
 devops:devops
 usr:123456
+admin:admin01
+000000:000000
