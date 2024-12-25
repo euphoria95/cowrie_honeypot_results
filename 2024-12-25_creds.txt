@@ -16,3 +16,15 @@ administrador:administrador12345
 dan:1
 345gs5662d34:345gs5662d34
 drcom:drcom
+sinus:123
+hg:123456
+beaches:beaches1234
+henry:henry
+luke:luke
+apps:apps@123
+op:op@123
+tech:tech1234
+vb:vb1234
+USERID:123456
+invitado:invitado12345
+cesar:cesar1234
