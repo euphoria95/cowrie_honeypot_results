@@ -97,3 +97,4 @@ ubnt:1234
 sany72:sev25sev
 pi:raspberry
 pi:raspberryraspberry993311
+admin:admin
