@@ -7,3 +7,4 @@ centos:p@ssw0rd
 User:Data
 operator:operator
 345gs5662d34:345gs5662d34
+ubnt:amjed1
