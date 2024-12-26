@@ -8,3 +8,12 @@ User:Data
 operator:operator
 345gs5662d34:345gs5662d34
 ubnt:amjed1
+zookeeper:zookeeper123
+thomas:thomas12345
+bitrix:bitrix123
+butter:butter1234
+testuser:testuser
+admin:firewall
+es:es1234
+wordpress:wordpress
+master:master1234
