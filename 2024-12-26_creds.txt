@@ -86,3 +86,7 @@ cdh:cdh
 applmgr:applmgr1
 admin:1qaz2wsx
 test:testtest
+cows:cows123
+centos:123456
+leonardo:leonardo@123
+gitblit:gitblit
