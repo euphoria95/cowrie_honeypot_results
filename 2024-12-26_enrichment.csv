@@ -2,3 +2,8 @@ IP address,remote ssh version,country_code2,organization,asn
 187.168.22.181,SSH-2.0-OpenSSH_7.4,MX,UNINET,
 14.103.117.30,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 57.128.180.131,SSH-2.0-libssh_0.9.6,GB,OVH SAS,
+61.231.200.53,SSH-2.0-libssh_0.9.6,TW,"Chunghwa Telecom Co., Ltd.",
+85.192.56.68,SSH-2.0-Go,RU,Aeza Group Ltd.,
+81.236.196.192,SSH-2.0-OpenSSH_7.4,SE,Telia Company AB,
+1.30.20.98,SSH-2.0-OpenSSH_7.4,CN,CHINA UNICOM China169 Backbone,
+76.25.167.177,SSH-2.0-OpenSSH_7.4,US,"Comcast Cable Communications, LLC",
