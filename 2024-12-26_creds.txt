@@ -80,3 +80,7 @@ wildfly:1
 ethan:1
 scan:scan1
 default:123456
+apache2:123456
+gpadmin:gpadmin123
+cdh:cdh
+applmgr:applmgr1
