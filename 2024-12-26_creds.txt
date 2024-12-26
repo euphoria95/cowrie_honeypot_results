@@ -103,3 +103,4 @@ storm:storm12345
 globalflash:123456
 osmc:osmc
 gitlab:gitlab1
+username:password
