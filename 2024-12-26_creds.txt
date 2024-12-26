@@ -84,3 +84,5 @@ apache2:123456
 gpadmin:gpadmin123
 cdh:cdh
 applmgr:applmgr1
+admin:1qaz2wsx
+test:testtest
