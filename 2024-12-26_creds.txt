@@ -90,3 +90,7 @@ cows:cows123
 centos:123456
 leonardo:leonardo@123
 gitblit:gitblit
+root:root
+openvpn:openvpn
+git:git
+ubnt:1234
