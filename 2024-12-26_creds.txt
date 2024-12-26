@@ -17,3 +17,4 @@ admin:firewall
 es:es1234
 wordpress:wordpress
 master:master1234
+annulee:annulee@123
