@@ -98,3 +98,8 @@ sany72:sev25sev
 pi:raspberry
 pi:raspberryraspberry993311
 admin:admin
+rsync:rsync1
+storm:storm12345
+globalflash:123456
+osmc:osmc
+gitlab:gitlab1
