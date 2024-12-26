@@ -3,3 +3,7 @@ eas:eas12345
 beaches:beaches1
 info:info1
 zk:zk123456
+centos:p@ssw0rd
+User:Data
+operator:operator
+345gs5662d34:345gs5662d34
