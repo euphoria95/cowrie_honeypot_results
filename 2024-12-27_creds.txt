@@ -29,3 +29,14 @@ sandeep:sandeep123
 amit:amit@123
 qwerty:123456
 liuhao:liuhao123
+superman:123456
+webuser:webuser12345
+jenkins:jenkins
+aron:aron@123
+php:php123456
+beavis1:beavis@123
+setup:setup1234
+linux:linux123
+testuser:testuser
+sms:sms1234
+igor:igor123
