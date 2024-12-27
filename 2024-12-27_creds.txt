@@ -40,3 +40,15 @@ linux:linux123
 testuser:testuser
 sms:sms1234
 igor:igor123
+Manager:Manager@123
+home:home12345
+vendas:vendas1234
+crusader:crusader123
+maria:123456
+andre:andre1
+upload:upload1234
+wp-user:1
+services:services@123
+lucas:lucas12345
+kafka:kafka
+bigdata:bigdata1234
