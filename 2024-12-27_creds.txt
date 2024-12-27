@@ -4,3 +4,7 @@ admin:Password@123
 scanner:scanner
 FP0604:19Januari
 root:root
+nexus:nexus@123
+mc:mc1
+user8:user12345
+arma:arma
