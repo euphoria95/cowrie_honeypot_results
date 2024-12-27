@@ -1,3 +1,6 @@
 osmanatmc:Acamtanamso1
 admin:Password@123
 345gs5662d34:345gs5662d34
+scanner:scanner
+FP0604:19Januari
+root:root
