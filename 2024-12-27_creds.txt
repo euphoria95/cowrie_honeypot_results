@@ -111,3 +111,16 @@ flink:flink1
 wordpress:wordpress1234
 tester:1
 ftp1:ftp123456
+jerry:jerry
+sam:123
+upload:upload@123
+bigdata:bigdata12345
+fivem:123
+michael:michael123456
+ansible:ansible12345
+Manager:1
+download:download1234
+easter:123
+chong:chong123
+gitblit:gitblit
+server:server12345
