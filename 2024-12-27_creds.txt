@@ -8,3 +8,5 @@ nexus:nexus@123
 mc:mc1
 user8:user12345
 arma:arma
+mico:mico1234
+ftpuser:ftpuser12345
