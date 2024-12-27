@@ -127,3 +127,17 @@ server:server12345
 student4:student4123
 age:age
 andres:andres123
+oracle:oracle
+user:user
+guest:guest
+nagios:nagios
+kvm:kvm
+root:123456
+hadoop:123456
+postgres:123456
+collector:collector
+ubuntu:123456
+vyos:123456
+hadoop:hadoop
+vyos:vyos
+metricbeat:metricbeat
