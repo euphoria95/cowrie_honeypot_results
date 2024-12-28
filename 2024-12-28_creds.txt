@@ -83,3 +83,9 @@ xr:xr
 jjventas:jjventas
 lhy:lhy
 silya:silya123
+jrodrig:jrodrig
+mytest:123456
+mysql:mysql@1234
+dev:dev123
+maill:123456
+zhaolei:123456
