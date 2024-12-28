@@ -49,3 +49,11 @@ prometheus:prometheus
 deploy:deploy
 zjw:zjw
 odoo:odoo
+cjyura:cjyura
+zuroot:zuroot123
+root:root
+sala:sala123
+pi:raspberry
+discord:discord123456
+pi:raspberryraspberry993311
+scan:scan123456
