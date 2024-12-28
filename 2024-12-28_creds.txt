@@ -91,3 +91,5 @@ maill:123456
 zhaolei:123456
 0:0
 user:football
+colord:colord123
+desola:desola123456
