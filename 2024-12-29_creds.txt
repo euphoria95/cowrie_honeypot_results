@@ -35,3 +35,9 @@ seyha:seyha
 mohammad:mohammad123
 cristian:cristian
 spectrum:spectrum123
+samara:samara
+louis:louis
+sungen:sungen
+ubuntu:ubuntu123456
+admin:root@123
+ian:password1
