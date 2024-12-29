@@ -14,3 +14,4 @@ IP address,remote ssh version,country_code2,organization,asn
 147.185.132.13,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 14.194.76.38,,IN,TTSL-ISP DIVISION,
 64.62.197.210,GET / HTTP/1.1,US,Hurricane Electric LLC,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
