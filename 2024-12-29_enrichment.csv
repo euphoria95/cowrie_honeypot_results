@@ -30,3 +30,6 @@ IP address,remote ssh version,country_code2,organization,asn
 45.79.172.21,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 172.206.147.205,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+156.0.130.58,SSH-2.0-libssh_0.9.6,GH,University of Energy and Natural Resources,
+14.99.66.28,SSH-2.0-libssh_0.9.6,IN,TTSL-ISP DIVISION,
+156.0.130.9,SSH-2.0-libssh_0.9.6,GH,University of Energy and Natural Resources,
