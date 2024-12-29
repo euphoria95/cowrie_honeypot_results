@@ -15,3 +15,7 @@ IP address,remote ssh version,country_code2,organization,asn
 14.194.76.38,,IN,TTSL-ISP DIVISION,
 64.62.197.210,GET / HTTP/1.1,US,Hurricane Electric LLC,
 45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+157.66.84.66,SSH-2.0-libssh_0.9.6,ID,PT. Menaksopal Link Nusantara,
+120.39.211.213,,CN,Fuzhou,
+2.57.122.195,,NL,UNMANAGED LTD,
+45.119.212.99,SSH-2.0-libssh_0.9.6,VN,Branch of Long Van System Solution JSC - Hanoi,
