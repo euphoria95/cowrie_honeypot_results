@@ -43,3 +43,6 @@ admin:root@123
 ian:password1
 oracle:Oracle1234
 moxa:moxa
+work:work123
+asd:asd
+etfgu:etfgu
