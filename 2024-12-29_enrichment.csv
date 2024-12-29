@@ -10,3 +10,5 @@ IP address,remote ssh version,country_code2,organization,asn
 211.253.9.49,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 164.92.227.178,SSH-2.0-libssh2_1.11.0,DE,"DigitalOcean, LLC",
 87.120.113.231,SSH-2.0-Go,NL,EKABI,
+37.148.204.40,SSH-2.0-Go,FR,Host Europe GmbH,
+147.185.132.13,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
