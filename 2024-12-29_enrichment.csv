@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 34.66.72.251,SSH-2.0-libssh_0.9.6,US,Google LLC,
 172.161.110.201,SSH-2.0-libssh_0.9.6,CH,Microsoft Corporation,
 211.253.9.49,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
+164.92.227.178,SSH-2.0-libssh2_1.11.0,DE,"DigitalOcean, LLC",
+87.120.113.231,SSH-2.0-Go,NL,EKABI,
