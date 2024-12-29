@@ -4,3 +4,7 @@ IP address,remote ssh version,country_code2,organization,asn
 8.138.111.94,SSH-2.0-makiko,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 212.193.31.196,SSH-2.0-Go,RU,Aeza Group LLC,
 167.94.138.119,SSH-2.0-Go,US,"Censys, Inc.",
+205.210.31.92,,BR,Google LLC,
+34.66.72.251,SSH-2.0-libssh_0.9.6,US,Google LLC,
+172.161.110.201,SSH-2.0-libssh_0.9.6,CH,Microsoft Corporation,
+211.253.9.49,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
