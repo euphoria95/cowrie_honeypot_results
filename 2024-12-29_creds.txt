@@ -83,3 +83,6 @@ admin:abcd1234
 ubuntu:123456
 apiserver:apiserver
 user:user
+git:git
+ftpadmin:ftpadmin
+deploy:deploy
