@@ -71,3 +71,15 @@ kathi:kathi
 ccampos:ccampos
 montazpe:montazpe123456
 kmpht:kmpht123
+centos:centos
+api:api
+esuser:esuser
+kubelet:kubelet
+es:es
+steam:steam
+postgres:postgres
+nfsnobody:nfsnobody
+admin:abcd1234
+ubuntu:123456
+apiserver:apiserver
+user:user
