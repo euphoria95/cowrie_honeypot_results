@@ -6,3 +6,4 @@ zjw:zjw
 qemu:qemu
 openvswitch:openvswitch
 postgres:postgres
+root:root
