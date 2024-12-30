@@ -1,1 +1,8 @@
 345gs5662d34:345gs5662d34
+root:123456
+ubuntu:ubuntu
+collector:collector
+zjw:zjw
+qemu:qemu
+openvswitch:openvswitch
+postgres:postgres
