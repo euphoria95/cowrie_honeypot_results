@@ -2,3 +2,4 @@ admin:123456
 345gs5662d34:345gs5662d34
 usr:123456
 validator:validator
+ubuntu:ubuntu
