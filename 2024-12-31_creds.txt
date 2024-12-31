@@ -3,3 +3,10 @@ admin:123456
 usr:123456
 validator:validator
 ubuntu:ubuntu
+test:qqq
+ftptest2:ftptest2@123
+gmodserver:123
+odoo11:P@ssw0rd
+ubuntu:UBUNTU@2022
+guest:123456
+scsadmin:123
