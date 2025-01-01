@@ -63,3 +63,4 @@ user1:P@ssw0rd
 test:test11
 testuser:testuser
 ftp_test:ftp_test123
+root:root
