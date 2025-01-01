@@ -34,3 +34,8 @@ ll:123456
 test:87654321
 oleg:P@ssw0rd
 ftpuser01:123456
+userftp:userftp2023
+tftpuser:tftpuser@123
+postdata:postdata@2024
+boyd:P@ssw0rd
+yaraque:yaraque123
