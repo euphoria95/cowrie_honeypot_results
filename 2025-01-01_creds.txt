@@ -39,3 +39,11 @@ tftpuser:tftpuser@123
 postdata:postdata@2024
 boyd:P@ssw0rd
 yaraque:yaraque123
+anti:123456
+test:12341234
+backend:backend123
+devopsuser:devopsuser@2024
+abe:abe
+vladimir:vladimir
+ftpuser:ftpuser2023
+odin:odin123
