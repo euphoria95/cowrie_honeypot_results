@@ -64,3 +64,6 @@ test:test11
 testuser:testuser
 ftp_test:ftp_test123
 root:root
+admin:zaq1nm,.
+misha:123456
+test2:123456
