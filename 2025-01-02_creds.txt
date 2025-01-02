@@ -59,3 +59,4 @@ ubuntu:tsettset
 ubuntu:abcdef
 minikube:123
 postgres:q1w2e3r4t5y6
+root:root
