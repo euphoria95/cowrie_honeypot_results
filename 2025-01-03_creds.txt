@@ -1,2 +1,6 @@
 ubuntu:0000
 345gs5662d34:345gs5662d34
+root:root
+admin:password
+gpadmin:gpadmin
+cumulus:cumulus
