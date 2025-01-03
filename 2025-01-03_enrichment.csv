@@ -24,3 +24,6 @@ IP address,remote ssh version,country_code2,organization,asn
 60.205.182.85,SSH-2.0-libssh_0.9.6,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 209.38.22.28,SSH-2.0-Go,AU,"DigitalOcean, LLC",
 65.49.1.81,SSH-2.0-Go,US,Hurricane Electric LLC,
+20.118.69.96,SSH-2.0-Go,US,Microsoft Corporation,
+2.57.122.195,,RO,UNMANAGED LTD,
+45.79.172.21,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
