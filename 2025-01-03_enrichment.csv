@@ -28,3 +28,5 @@ IP address,remote ssh version,country_code2,organization,asn
 2.57.122.195,,RO,UNMANAGED LTD,
 45.79.172.21,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 134.195.196.93,,CA,GLOBALTELEHOST Corp.,
+181.45.195.149,SSH-2.0-libssh_0.9.6,AR,Telecentro S.A.,
+59.63.212.240,SSH-2.0-libssh_0.9.6,CN,CHINANET Jiangx province IDC network,
