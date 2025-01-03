@@ -31,3 +31,12 @@ sftp1:123456
 test036:123
 webmaster:123
 bob:123
+mehrdad:mehrdad@123
+betty:betty
+userftp:userftp@123
+jupiter:123
+usuario:1234
+veera:1234
+olivier:olivier
+srv:srv@123
+murali:1234
