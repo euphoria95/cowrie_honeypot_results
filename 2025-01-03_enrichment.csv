@@ -8,3 +8,4 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.252,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 165.227.147.75,,DE,"DigitalOcean, LLC",
 167.94.138.182,SSH-2.0-Go,US,"Censys, Inc.",
+84.207.244.250,SSH-2.0-Go,GB,euNetworks GmbH,
