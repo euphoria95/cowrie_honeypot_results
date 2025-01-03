@@ -28,3 +28,6 @@ ming:P@ssw0rd
 patrol:1234
 sysadm:sysadm
 sftp1:123456
+test036:123
+webmaster:123
+bob:123
