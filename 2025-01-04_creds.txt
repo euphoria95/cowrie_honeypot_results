@@ -51,3 +51,4 @@ user:user
 ubuntu:123456
 qemu:qemu
 sopuser:password
+stud1:P@ssw0rd
