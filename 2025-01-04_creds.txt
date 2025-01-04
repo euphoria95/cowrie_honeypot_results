@@ -84,3 +84,17 @@ fast:fast@123
 yudi:123
 qiyuesuo:P@ssw0rd
 monit:123456
+dima:password
+akbar:P@ssw0rd
+kiosk:1234
+testuser:P@ssw0rd
+syncthing:123456
+peace:123
+julien:P@ssw0rd
+prashant:password
+ramon:ramon123
+adi:P@ssw0rd
+csgo:csgo123
+deamon:P@ssw0rd
+php:password
+tacuser:P@ssw0rd
