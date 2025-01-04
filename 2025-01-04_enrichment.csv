@@ -2,3 +2,5 @@ IP address,remote ssh version,country_code2,organization,asn
 192.42.116.208,SSH-2.0-OpenSSH_9.9,NL,SURF B.V.,
 156.0.130.41,SSH-2.0-libssh_0.9.6,GH,University of Energy and Natural Resources,
 52.160.39.213,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+195.178.110.65,,NL,TECHOFF SRV LIMITED,
+104.234.115.105,SSH-2.0-Go,US,Google LLC,
