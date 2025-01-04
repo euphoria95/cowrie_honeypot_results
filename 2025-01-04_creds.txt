@@ -135,3 +135,13 @@ nfsnobody:nfsnobody
 kubelet:kubelet
 admin:admin
 usr:usr
+papa:P@ssw0rd
+xzh:xzh
+aaron:1234
+system:system@123
+liu:liu
+lighthouse:lighthouse123
+manu:manu
+boss:123456
+kate:123456
+kitchen:kitchen
