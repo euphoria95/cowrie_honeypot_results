@@ -34,3 +34,7 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.20,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
 176.124.202.207,SSH-2.0-Go,SE,AEZA INTERNATIONAL LTD,
 96.32.75.53,SSH-2.0-OpenSSH,US,Charter Communications,
+178.20.55.182,SSH-2.0-OpenSSH_9.9,FR,IELO-LIAZO SERVICES SAS,
+112.5.144.252,,CN,China Mobile,
+113.125.185.175,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+186.251.71.202,SSH-2.0-libssh_0.9.6,BR,PW INFORMATICA E TECNOLOGIA LTDA,
