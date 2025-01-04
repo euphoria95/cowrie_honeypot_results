@@ -29,3 +29,4 @@ IP address,remote ssh version,country_code2,organization,asn
 203.189.221.17,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
 64.62.156.93,GET / HTTP/1.1,US,Hurricane Electric LLC,
 213.225.10.254,SSH-2.0-libssh_0.9.6,AT,A1 Telekom Austria AG,
+121.138.25.233,SSH-2.0-Go,KR,Korea Telecom,
