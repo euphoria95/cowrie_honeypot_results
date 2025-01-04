@@ -98,3 +98,5 @@ csgo:csgo123
 deamon:P@ssw0rd
 php:password
 tacuser:P@ssw0rd
+pilot:123456
+gateway:gateway
