@@ -125,3 +125,13 @@ wordpress:1234
 hendra:hendra123
 precious:123456
 composeruser:composeruser@123
+admin:Admin123
+es:es
+steam:steam
+zjw:zjw
+centos:centos
+cluster:cluster
+nfsnobody:nfsnobody
+kubelet:kubelet
+admin:admin
+usr:usr
