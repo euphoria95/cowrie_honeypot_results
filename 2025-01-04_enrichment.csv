@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 212.193.31.196,SSH-2.0-Go,RU,Aeza Group LLC,
 198.12.121.225,SSH-2.0-libssh_0.9.6,US,HostPapa,
 95.90.12.16,SSH-2.0-libssh_0.9.6,DE,Vodafone Deutschland GmbH,
+130.250.134.35,SSH-2.0-Go,US,TATA Communications (Canada) Ltd.,
+113.250.50.121,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
