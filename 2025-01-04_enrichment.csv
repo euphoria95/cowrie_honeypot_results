@@ -22,3 +22,4 @@ IP address,remote ssh version,country_code2,organization,asn
 93.176.168.139,SSH-2.0-libssh2_1.11.0,ES,XTRA TELECOM S.A.,
 183.82.126.193,SSH-2.0-libssh_0.9.6,IN,"Atria Convergence Technologies Pvt. Ltd.,",
 103.137.75.74,SSH-2.0-libssh_0.9.6,BD,Novus Network,
+13.83.47.60,SSH-2.0-Go,US,Microsoft Corporation,
