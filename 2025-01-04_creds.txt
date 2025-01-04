@@ -1,2 +1,17 @@
 ismael:123456
 345gs5662d34:345gs5662d34
+radmin:123
+tmp1:123456
+lighthouse:P@ssw0rd
+ovpn:123
+pvx:password
+sandra:sandra@123
+super:super
+curso:123456
+cubrid:123456
+bastion:P@ssw0rd
+user:87654321
+ofbiz:password
+macuser:macuser@123
+vijay:123
+ars:123
