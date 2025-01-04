@@ -13,3 +13,5 @@ IP address,remote ssh version,country_code2,organization,asn
 113.250.50.121,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
 3.147.59.36,SSH-2.0-Go,US,"Amazon.com, Inc.",
 14.103.111.127,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+205.210.31.19,,BR,Google LLC,
+172.104.11.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
