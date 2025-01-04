@@ -27,3 +27,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.92,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
 36.26.90.236,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
 203.189.221.17,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+64.62.156.93,GET / HTTP/1.1,US,Hurricane Electric LLC,
+213.225.10.254,SSH-2.0-libssh_0.9.6,AT,A1 Telekom Austria AG,
