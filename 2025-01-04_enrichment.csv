@@ -25,3 +25,4 @@ IP address,remote ssh version,country_code2,organization,asn
 13.83.47.60,SSH-2.0-Go,US,Microsoft Corporation,
 172.161.110.201,,CH,Microsoft Corporation,
 198.235.24.92,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
+36.26.90.236,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
