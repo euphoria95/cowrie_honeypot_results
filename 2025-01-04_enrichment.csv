@@ -7,3 +7,5 @@ IP address,remote ssh version,country_code2,organization,asn
 197.248.56.39,SSH-2.0-libssh_0.9.6,KE,Safaricom Limited,
 13.64.195.64,,US,Microsoft Corporation,
 212.193.31.196,SSH-2.0-Go,RU,Aeza Group LLC,
+198.12.121.225,SSH-2.0-libssh_0.9.6,US,HostPapa,
+95.90.12.16,SSH-2.0-libssh_0.9.6,DE,Vodafone Deutschland GmbH,
