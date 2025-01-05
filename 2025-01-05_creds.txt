@@ -20,3 +20,8 @@ pelias:password
 en:en@123
 christine:christine@123
 prometheus:P@ssw0rd
+bence:bence
+portfolio:P@ssw0rd
+nodeuser:nodeuser123
+user21:123
+a:a
