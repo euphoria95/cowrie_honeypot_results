@@ -25,3 +25,11 @@ portfolio:P@ssw0rd
 nodeuser:nodeuser123
 user21:123
 a:a
+test:hello
+njs:njs123
+igor:P@ssw0rd
+ahmet:ahmet@123
+game:game@123
+storage:1234
+dontstarve:1234
+axway:P@ssw0rd
