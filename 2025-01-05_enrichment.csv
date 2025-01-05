@@ -13,3 +13,5 @@ IP address,remote ssh version,country_code2,organization,asn
 3.147.59.36,SSH-2.0-Go,US,"Amazon.com, Inc.",
 47.237.25.116,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 116.172.130.191,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
+120.48.134.115,SSH-2.0-libssh_0.9.6,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
+14.103.21.179,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
