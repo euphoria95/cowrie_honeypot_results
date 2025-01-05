@@ -91,3 +91,6 @@ meta:123456
 uat:P@ssw0rd
 sachin:sachin
 sshuser:123456
+snipe:123
+yogi:123456
+xxt:xxt@123
