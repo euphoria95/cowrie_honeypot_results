@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.193,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 61.190.114.203,SSH-2.0-libssh_0.9.6,CN,China Telecom,
 222.73.61.20,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+45.79.181.251,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+3.147.59.36,SSH-2.0-Go,US,"Amazon.com, Inc.",
