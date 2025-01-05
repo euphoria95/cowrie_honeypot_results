@@ -35,3 +35,6 @@ dontstarve:1234
 axway:P@ssw0rd
 miao:123
 integration:password
+pre:pre
+dos:123
+ttc:password
