@@ -33,3 +33,5 @@ game:game@123
 storage:1234
 dontstarve:1234
 axway:P@ssw0rd
+miao:123
+integration:password
