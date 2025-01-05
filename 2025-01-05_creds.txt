@@ -38,3 +38,5 @@ integration:password
 pre:pre
 dos:123
 ttc:password
+kw:kw
+gera:P@ssw0rd
