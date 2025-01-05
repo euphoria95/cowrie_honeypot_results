@@ -21,3 +21,7 @@ IP address,remote ssh version,country_code2,organization,asn
 102.128.78.182,SSH-2.0-Go,ZW,NetOne Cellular (Private) Limited,
 120.76.128.17,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 92.118.39.76,,RO,UNMANAGED LTD,
+120.48.72.196,SSH-2.0-libssh_0.9.6,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
+180.184.182.87,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+172.105.128.11,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+115.142.224.66,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
