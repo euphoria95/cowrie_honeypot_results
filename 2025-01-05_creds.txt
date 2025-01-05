@@ -42,3 +42,6 @@ kw:kw
 gera:P@ssw0rd
 sergey:123456
 root:root
+portfolio:portfolio
+system:system@123
+admin:123456q
