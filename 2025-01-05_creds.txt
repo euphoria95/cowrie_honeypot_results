@@ -71,3 +71,4 @@ graylog:1234
 sg:sg123
 nadmin:password
 control:123456
+root:123456
