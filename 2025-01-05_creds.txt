@@ -72,3 +72,6 @@ sg:sg123
 nadmin:password
 control:123456
 root:123456
+jenkins:P@ssw0rd123
+pilot:123456
+userftp:123
