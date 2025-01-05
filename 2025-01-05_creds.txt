@@ -40,3 +40,5 @@ dos:123
 ttc:password
 kw:kw
 gera:P@ssw0rd
+sergey:123456
+root:root
