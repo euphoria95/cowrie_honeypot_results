@@ -15,3 +15,5 @@ IP address,remote ssh version,country_code2,organization,asn
 116.172.130.191,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
 120.48.134.115,SSH-2.0-libssh_0.9.6,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
 14.103.21.179,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+165.22.88.106,GET / HTTP/1.1,DE,"DigitalOcean, LLC",
+101.91.200.172,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
