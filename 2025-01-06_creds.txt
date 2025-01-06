@@ -8,3 +8,14 @@ free:password
 ken:1234
 zenith:1234
 345gs5662d34:345gs5662d34
+vincenzo:vincenzo
+test:916495a3@c4e778B8824fa763158be46
+akash:akash@123
+trias:P@ssw0rd
+test:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
+deb:deb
+paulina:123
+bot3:password
+caja:caja@123
+pi:raspberry
+pi:raspberryraspberry993311
