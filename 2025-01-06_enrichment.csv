@@ -9,3 +9,7 @@ IP address,remote ssh version,country_code2,organization,asn
 18.191.32.67,SSH-2.0-Go,US,"Amazon.com, Inc.",
 45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 66.240.236.116,SSH-2.0-Go,US,"CariNet, Inc.",
+4.156.237.204,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+103.217.145.53,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+159.89.192.100,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+154.213.184.44,CONNECT ipv4.icanhazip.com:443 HTTP/1.1,IR,Pfcloud UG,
