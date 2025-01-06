@@ -109,3 +109,4 @@ gis:123456
 integra:1234
 stephen:stephen123
 esther:password
+ubuntu:0000
