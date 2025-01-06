@@ -3,3 +3,5 @@ openstack:P@ssw0rd
 saeed:password
 ubuntu:ubuntu
 debian:debian123#
+admin:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
+free:password
