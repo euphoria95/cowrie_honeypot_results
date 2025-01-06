@@ -39,3 +39,5 @@ tebe:tebe
 unidata:unidata
 admin:qwerty123
 test:2glehe5t24th1issZs
+elk:P@ssw0rd
+adminuser:1234
