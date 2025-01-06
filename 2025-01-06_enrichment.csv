@@ -6,3 +6,4 @@ IP address,remote ssh version,country_code2,organization,asn
 113.125.46.181,SSH-2.0-Go,CN,Cloud Computing Corporation,
 136.232.11.10,SSH-2.0-libssh_0.9.6,IN,Reliance Jio Infocomm Limited,
 2.57.122.32,,NL,UNMANAGED LTD,
+18.191.32.67,SSH-2.0-Go,US,"Amazon.com, Inc.",
