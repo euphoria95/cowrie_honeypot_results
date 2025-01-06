@@ -5,3 +5,5 @@ ubuntu:ubuntu
 debian:debian123#
 admin:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
 free:password
+ken:1234
+zenith:1234
