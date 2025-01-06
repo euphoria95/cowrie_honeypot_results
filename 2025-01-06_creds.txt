@@ -110,3 +110,4 @@ integra:1234
 stephen:stephen123
 esther:password
 ubuntu:0000
+barman:123456
