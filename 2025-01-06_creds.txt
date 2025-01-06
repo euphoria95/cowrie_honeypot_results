@@ -65,3 +65,14 @@ lk:password
 eth:eth123
 oss:123
 mirco:mirco
+njs:njs@123
+nuevo:1234
+mutua:password
+ddd:ddd123
+nikola:nikola123
+nobody:P@ssw0rd
+fdc:123456
+xyh:xyh123
+server2:123
+edi:edi@123
+webadm:password
