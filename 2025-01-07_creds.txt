@@ -236,3 +236,11 @@ minecraft:123456
 oracle:123456
 kafka:123456
 admin:Admin123
+nakano:nakano123
+baidu:123
+me:password
+weblogic:weblogic1
+vicky:vicky
+anik:1234
+andre:123456
+xxt:123456
