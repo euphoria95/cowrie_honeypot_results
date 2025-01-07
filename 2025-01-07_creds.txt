@@ -22,3 +22,9 @@ afzal:1234
 abbas:P@ssw0rd
 gestion:gestion@123
 admin:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
+stu:stu@123
+tan:1234
+bms:bms
+hek:hek
+test:test1
+usher:password
