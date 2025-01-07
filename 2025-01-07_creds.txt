@@ -292,3 +292,13 @@ thor:123456
 gg:gg123
 anon:123
 biz:P@ssw0rd
+pp:pp123
+rescue:123
+elsearch:elsearch@123
+mangesh:P@ssw0rd
+website:123456
+bart:P@ssw0rd
+nuevo:P@ssw0rd
+sachi:123456
+anu:anu123
+certbot:certbot@123
