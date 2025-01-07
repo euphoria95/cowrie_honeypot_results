@@ -244,3 +244,9 @@ vicky:vicky
 anik:1234
 andre:123456
 xxt:123456
+yasin:yasin@123
+u1:u1
+vikas:1234
+arduino:password
+omm:P@ssw0rd
+bill:1234
