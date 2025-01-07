@@ -203,3 +203,11 @@ alex:abc123
 naveen:123
 armin:password
 kate:1234
+abraham:123456
+chaos:P@ssw0rd
+builder:P@ssw0rd
+new:1234
+ceph:password
+admin:q1w2e3r4t5
+ws:ws123
+test_user:test_user
