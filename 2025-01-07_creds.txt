@@ -1,0 +1,8 @@
+345gs5662d34:345gs5662d34
+system:system@123
+postgres:root
+post:1234
+ken:ken@123
+kenji:1234
+woc:123456
+inspector:inspector
