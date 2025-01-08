@@ -20,3 +20,10 @@ gis:123
 ssm:password
 raymond:password
 beck:beck
+edith:password
+afzal:123
+huake:huake123
+donald:donald123
+casa:casa
+ict:ict
+vivek:vivek123
