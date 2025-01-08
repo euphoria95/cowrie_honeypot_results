@@ -8,3 +8,6 @@ IP address,remote ssh version,country_code2,organization,asn
 47.93.144.128,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 198.235.24.175,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 103.177.129.251,SSH-2.0-libssh_0.9.6,IN,Seven Star Digital Network Private Limited,
+185.99.135.141,SSH-2.0-libssh_0.9.6,NL,ColocationX Ltd.,
+36.189.255.162,,CN,China Mobile,
+193.168.175.243,SSH-2.0-libssh_0.9.6,IT,"Kamatera, Inc.",
