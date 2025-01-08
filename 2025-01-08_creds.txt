@@ -51,3 +51,14 @@ zhenshan:1234
 asd:asd
 toni:toni@123
 acl:acl@123
+clamav:1234
+pre:pre@123
+shin:1234
+riccardo:P@ssw0rd
+artem:artem@123
+privacy:P@ssw0rd
+papa:P@ssw0rd
+testuser:testuser@2024
+etherpad:etherpad@123
+avinash:avinash123
+sd:sd@123
