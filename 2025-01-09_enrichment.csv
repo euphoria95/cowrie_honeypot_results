@@ -13,3 +13,5 @@ IP address,remote ssh version,country_code2,organization,asn
 172.105.128.13,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 52.157.3.4,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 177.135.15.74,SSH-2.0-libssh_0.9.6,BR,TELEFï¿½NICA BRASIL S.A,
+206.168.34.119,SSH-2.0-Go,US,"Censys, Inc.",
+205.210.31.208,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
