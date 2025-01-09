@@ -60,3 +60,10 @@ joy:joy@123
 boss:boss
 Administrator:123
 ec2-user:123456
+sergey:password
+flink:flink123
+deployer:password
+sftp:1234
+testuser:testuser@123
+nishant:nishant
+nrk:nrk
