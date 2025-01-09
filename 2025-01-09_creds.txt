@@ -46,3 +46,17 @@ minecraft:m1necraft
 q:123
 maxwell:maxwell123
 so:so
+tom:123
+bacon:P@ssw0rd
+tttt:tttt
+wg:wg
+admin:Aa123456!
+devtest:123
+azure:1234
+pedro:1234
+jp:123456
+peertube:P@ssw0rd
+joy:joy@123
+boss:boss
+Administrator:123
+ec2-user:123456
