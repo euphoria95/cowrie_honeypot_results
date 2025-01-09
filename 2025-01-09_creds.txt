@@ -24,3 +24,9 @@ zjw:zjw
 qemu:qemu
 minecraft:minecraft
 postgres:postgres
+facturacion:P@ssw0rd
+staging:P@ssw0rd
+tpaterni:tpaterni123
+runcloud:P@ssw0rd
+zookeeper:1234
+dba:123456
