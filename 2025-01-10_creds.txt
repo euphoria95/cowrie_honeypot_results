@@ -1,0 +1,12 @@
+roots:P@ssw0rd
+victor:victor1
+ubuntu:1qaz@WSX3edc
+gameserver:123456
+lby:P@ssw0rd
+universal:1234
+user40:password
+345gs5662d34:345gs5662d34
+fengyun:fengyun123
+test1234:123456
+ubuntu:P@ssword
+chromeuser:chromeuser
