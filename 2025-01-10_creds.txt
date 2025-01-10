@@ -36,3 +36,5 @@ openhabian:openhabian
 filter:123456
 test:pass1234
 admin:adminpassword
+admin:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
+bruce:bruce@123
