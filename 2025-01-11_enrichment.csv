@@ -5,3 +5,4 @@ IP address,remote ssh version,country_code2,organization,asn
 84.207.244.250,SSH-2.0-Go,GB,euNetworks GmbH,
 138.59.179.138,SSH-2.0-libssh_0.9.6,HN,INET Communication,
 65.190.102.227,SSH-2.0-libssh_0.9.6,US,Charter Communications Inc,
+162.243.114.171,SSH-2.0-Go,US,"DigitalOcean, LLC",
