@@ -81,3 +81,6 @@ db2inst1:1234
 jerry:123456
 ansadmin:123
 system:system@123
+yogesh:123456
+smart:smart123
+mas:123
