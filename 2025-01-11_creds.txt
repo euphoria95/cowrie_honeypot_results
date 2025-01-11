@@ -67,3 +67,12 @@ dummy:password
 bash:123456
 root:root
 ubuntu:ubuntu
+tu:password
+rose:rose@123
+mapadmin:123
+intelbras:intelbras@123
+rescue:rescue
+uno:123456
+hadoop:abc@123
+vincenzo:123456
+randy:randy@123
