@@ -60,3 +60,8 @@ sgp:123456
 abbas:password
 media:123456
 krodriguez:P@ssw0rd
+steamcmd:123456
+robot:123
+init:P@ssw0rd
+dummy:password
+bash:123456
