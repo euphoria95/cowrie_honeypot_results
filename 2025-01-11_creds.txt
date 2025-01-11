@@ -1,0 +1,2 @@
+admin:hughestnet
+vpn:vpn
