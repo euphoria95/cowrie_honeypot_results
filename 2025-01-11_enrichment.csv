@@ -3,3 +3,5 @@ IP address,remote ssh version,country_code2,organization,asn
 51.254.0.6,,FR,OVH SAS,
 147.135.85.128,,US,OVH SAS,
 84.207.244.250,SSH-2.0-Go,GB,euNetworks GmbH,
+138.59.179.138,SSH-2.0-libssh_0.9.6,HN,INET Communication,
+65.190.102.227,SSH-2.0-libssh_0.9.6,US,Charter Communications Inc,
