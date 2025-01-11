@@ -10,3 +10,6 @@ IP address,remote ssh version,country_code2,organization,asn
 171.244.37.97,SSH-2.0-libssh_0.9.6,VN,Vietel - CHT Compamy Ltd,
 139.59.11.192,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 45.83.64.79,SSH-2.0-Go,DE,Alpha Strike Labs GmbH,
+205.210.31.95,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+195.178.110.65,,NL,TECHOFF SRV LIMITED,
+219.104.134.160,SSH-2.0-libssh2_1.11.0,JP,Sony Network Communications Inc.,
