@@ -13,3 +13,6 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.95,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 195.178.110.65,,NL,TECHOFF SRV LIMITED,
 219.104.134.160,SSH-2.0-libssh2_1.11.0,JP,Sony Network Communications Inc.,
+172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+103.172.204.4,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+203.57.6.207,SSH-2.0-Go,CN,Cloud Computing Corporation,
