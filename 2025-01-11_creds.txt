@@ -79,3 +79,5 @@ randy:randy@123
 db2inst1:1234
 0:0
 jerry:123456
+ansadmin:123
+system:system@123
