@@ -22,3 +22,6 @@ IP address,remote ssh version,country_code2,organization,asn
 175.152.33.130,,CN,CHINA UNICOM China169 Backbone,
 185.246.130.20,SSH-2.0-libssh-0.6.0,SE,w1n ltd,
 14.103.120.138,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+18.221.169.188,SSH-2.0-Go,US,"Amazon.com, Inc.",
+45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+64.62.156.89,SSH-2.0-Go,US,Hurricane Electric LLC,
