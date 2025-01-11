@@ -25,3 +25,6 @@ IP address,remote ssh version,country_code2,organization,asn
 18.221.169.188,SSH-2.0-Go,US,"Amazon.com, Inc.",
 45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 64.62.156.89,SSH-2.0-Go,US,Hurricane Electric LLC,
+89.182.200.54,SSH-2.0-libssh_0.9.6,DE,htp GmbH,
+108.61.161.56,SSH-2.0-libssh_0.9.6,JP,"The Constant Company, LLC",
+13.77.146.18,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
