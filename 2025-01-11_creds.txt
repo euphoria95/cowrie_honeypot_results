@@ -76,3 +76,5 @@ uno:123456
 hadoop:abc@123
 vincenzo:123456
 randy:randy@123
+db2inst1:1234
+0:0
