@@ -66,3 +66,4 @@ init:P@ssw0rd
 dummy:password
 bash:123456
 root:root
+ubuntu:ubuntu
