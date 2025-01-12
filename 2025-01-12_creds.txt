@@ -11,3 +11,13 @@ erick:P@ssw0rd
 backup:backup
 wen:123456
 hong:hong123
+dados:password
+denis:denis
+user2:12345678
+yuli:yuli@123
+user_01:123456
+vladimir:vladimir
+testuser1:P@ssw0rd
+moein:123
+clover:P@ssw0rd
+etienne:1234
