@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 151.44.191.18,SSH-2.0-libssh_0.9.6,IT,WIND TRE S.P.A.,
 18.97.5.89,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
 205.210.31.87,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+13.83.43.70,SSH-2.0-Go,US,Microsoft Corporation,
+49.160.254.115,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
