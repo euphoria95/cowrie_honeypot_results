@@ -127,3 +127,6 @@ kamil:123
 test:916495a3@c4e778B8824fa763158be46
 anderson:anderson123
 test:9sJm0aLp2XzV7NcQ8rYwG3uR5tE4lP6x
+tpaterni:tpaterni123
+uftp:uftp123
+ttx:P@ssw0rd
