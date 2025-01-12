@@ -41,3 +41,10 @@ tong:123456
 system:system@123
 sgd:123
 qiuhan:P@ssw0rd
+tet:tet
+api_user:P@ssw0rd
+demo:password
+zhaolei:123
+bkp:password
+rootftp:P@ssw0rd
+ronny:password
