@@ -73,3 +73,4 @@ kelvin:kelvin@123
 zeshan:zeshan
 web-user:password
 poc:P@ssw0rd
+bitcoin:bitcoin
