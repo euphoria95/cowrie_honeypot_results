@@ -1,3 +1,10 @@
 IP address,remote ssh version,country_code2,organization,asn
 104.152.52.130,,US,Rethem Hosting LLC,
 212.193.31.196,SSH-2.0-Go,RU,Aeza Group LLC,
+20.81.179.106,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+42.51.46.25,SSH-2.0-libssh_0.9.6,CN,"Zhengzhou Fastidc Technology Co.,Ltd.",
+41.211.31.106,SSH-2.0-libssh_0.9.6,GH,"Teledata, Ghana",
+202.103.55.158,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+151.44.191.18,SSH-2.0-libssh_0.9.6,IT,WIND TRE S.P.A.,
+18.97.5.89,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+205.210.31.87,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
