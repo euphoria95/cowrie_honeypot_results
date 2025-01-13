@@ -28,3 +28,5 @@ innova:123456
 cubrid:cubrid
 gitlab-runner:1234
 wangqiang:wangqiang123
+spooler:password
+aramos:aramos@123
