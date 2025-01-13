@@ -85,3 +85,12 @@ afzal:password
 car:123
 etherpad:password
 mgeweb:123456
+ubuntu:secret
+ws:ws
+yesung:P@ssw0rd
+r:1234
+st:P@ssw0rd
+applmgr:password
+uftp:1234
+bitcoin:bitcoin@123
+cinema:cinema
