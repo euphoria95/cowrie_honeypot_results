@@ -94,3 +94,14 @@ applmgr:password
 uftp:1234
 bitcoin:bitcoin@123
 cinema:cinema
+management:password
+helen:1234
+sharan:sharan
+zhangc:zhangc
+precio:precio123
+ts3server:1234
+hu:password
+dasusr1:P@ssw0rd
+syncuser:P@ssw0rd
+elasticsearch:123
+ssl:P@ssw0rd
