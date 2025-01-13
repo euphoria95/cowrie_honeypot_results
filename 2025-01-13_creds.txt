@@ -60,3 +60,4 @@ test:!QAZ2wsx3edc
 root:123456
 deploy:deploy
 admin:admin
+root:root
