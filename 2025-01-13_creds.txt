@@ -55,3 +55,8 @@ lruiz:P@ssw0rd
 pymes:pymes123
 pool:P@ssw0rd
 christine:1234
+api:api
+test:!QAZ2wsx3edc
+root:123456
+deploy:deploy
+admin:admin
