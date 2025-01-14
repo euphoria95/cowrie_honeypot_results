@@ -16,3 +16,5 @@ chaos:password
 ubuntu:secret
 adminer:P@ssw0rd
 armin:123456
+pi:raspberry
+pi:raspberryraspberry993311
