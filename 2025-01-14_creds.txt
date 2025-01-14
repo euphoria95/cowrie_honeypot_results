@@ -38,3 +38,4 @@ theo:P@ssw0rd
 zxg:1234
 smb:password
 group:group123
+tino:123456
