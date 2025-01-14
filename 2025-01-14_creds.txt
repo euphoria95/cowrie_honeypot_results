@@ -10,3 +10,9 @@ construction:1234
 root:root
 didi:123456
 345gs5662d34:345gs5662d34
+david:david@123
+marilia:123456
+chaos:password
+ubuntu:secret
+adminer:P@ssw0rd
+armin:123456
