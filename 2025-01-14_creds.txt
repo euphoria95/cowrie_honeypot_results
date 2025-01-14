@@ -29,3 +29,12 @@ naveen:naveen123
 ansuser:Ansuser1
 craft:craft!@#
 max:max!123
+ejbca:ejbca@123
+test1:123
+odoo13:odoo13
+igor:igor1234
+ftpadmin:111111
+theo:P@ssw0rd
+zxg:1234
+smb:password
+group:group123
