@@ -7,3 +7,4 @@ elasticsearch:elasticsearch123
 silence:silence123
 llm:P@ssw0rd
 construction:1234
+root:root
