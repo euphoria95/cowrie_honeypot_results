@@ -1,0 +1,9 @@
+345gs5662d34:345gs5662d34
+postgres:postgres
+qemu:qemu
+zjw:zjw
+admin:Admin123
+nfsnobody:nfsnobody
+user:123456
+ubuntu:123456
+test:123456
