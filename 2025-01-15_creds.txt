@@ -18,3 +18,11 @@ sandeep:sandeep123
 int:int@123
 uno:uno@123
 va:va123
+pegasus:pegasus1234
+administrator:123456578
+fatimac:fatimac
+sabnzbd:123456
+operator:123456578
+sqldba:sqldba
+hv:123456578
+white:123456
