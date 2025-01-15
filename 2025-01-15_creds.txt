@@ -7,3 +7,13 @@ nfsnobody:nfsnobody
 user:123456
 ubuntu:123456
 test:123456
+teaspeak:123456
+hjseo:hjseo@123
+cie:123
+branch:1234
+server2:password
+laravel:laravel
+abd:abd123
+sandeep:sandeep123
+int:int@123
+uno:uno@123
