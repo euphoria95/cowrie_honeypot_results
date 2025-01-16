@@ -7,3 +7,6 @@ IP address,remote ssh version,country_code2,organization,asn
 36.112.137.127,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
 103.142.199.76,SSH-2.0-Go,IN,Vilas Internet Services Pvt Ltd,
 83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
+213.230.109.114,SSH-2.0-libssh_0.9.6,UZ,Uzbektelekom Joint Stock Company,
+24.199.125.32,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+14.154.37.106,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
