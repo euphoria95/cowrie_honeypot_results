@@ -23,3 +23,5 @@ IP address,remote ssh version,country_code2,organization,asn
 209.38.17.136,SSH-2.0-Go,AU,"DigitalOcean, LLC",
 113.108.79.36,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
 14.103.111.135,,CN,China Telecom (Group),
+159.223.35.36,,SG,"DigitalOcean, LLC",
+34.92.198.176,SSH-2.0-libssh_0.9.6,HK,Google LLC,
