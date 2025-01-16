@@ -5,3 +5,5 @@ IP address,remote ssh version,country_code2,organization,asn
 200.122.253.129,SSH-2.0-libssh_0.9.6,CO,UNE EPM TELECOMUNICACIONES S.A.,
 2.57.122.195,,RO,UNMANAGED LTD,
 36.112.137.127,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
+103.142.199.76,SSH-2.0-Go,IN,Vilas Internet Services Pvt Ltd,
+83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
