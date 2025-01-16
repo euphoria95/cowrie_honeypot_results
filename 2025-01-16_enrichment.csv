@@ -11,3 +11,5 @@ IP address,remote ssh version,country_code2,organization,asn
 24.199.125.32,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
 14.154.37.106,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 172.104.11.46,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+42.81.132.185,SSH-2.0-ZGrab ZGrab SSH Survey,CN,"Tianjij,300000",
+1.71.2.174,SSH-2.0-Go,CN,China Telecom,
