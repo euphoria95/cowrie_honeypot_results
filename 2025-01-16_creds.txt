@@ -34,3 +34,6 @@ hxhtftp:hxhtftp1
 zhangkai:12345
 com:Password1
 jacob:password
+user:user2@2024
+jenkins:jenkins1
+345gs5662d34:345gs5662d34
