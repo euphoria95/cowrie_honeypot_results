@@ -17,3 +17,4 @@ IP address,remote ssh version,country_code2,organization,asn
 122.33.117.136,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 66.175.213.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 115.91.170.141,,KR,LG DACOM Corporation,
+5.101.6.194,SSH-2.0-Go,RU,Petersburg Internet Network ltd.,
