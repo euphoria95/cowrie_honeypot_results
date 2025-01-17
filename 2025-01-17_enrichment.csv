@@ -19,3 +19,5 @@ IP address,remote ssh version,country_code2,organization,asn
 115.91.170.141,,KR,LG DACOM Corporation,
 5.101.6.194,SSH-2.0-Go,RU,Petersburg Internet Network ltd.,
 181.45.195.149,SSH-2.0-libssh_0.9.6,AR,Telecentro S.A.,
+205.210.31.146,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+172.168.152.7,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
