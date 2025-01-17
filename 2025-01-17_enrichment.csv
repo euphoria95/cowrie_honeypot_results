@@ -10,3 +10,5 @@ IP address,remote ssh version,country_code2,organization,asn
 152.32.209.49,SSH-2.0-Go,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 95.220.210.212,SSH-2.0-Go,RU,PJSC MegaFon,
 114.242.55.32,SSH-2.0-Go,CN,China Unicom Beijing Province Network,
+116.40.70.69,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+185.148.253.22,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,FR,One Operateur SAS,
