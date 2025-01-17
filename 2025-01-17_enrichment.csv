@@ -1,3 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
 35.91.45.204,SSH-2.0-paramiko_3.4.0,US,"Amazon.com, Inc.",
 83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
+87.120.113.231,SSH-2.0-Go,NL,EKABI,
+164.92.142.117,SSH-2.0-libssh2_1.11.0,DE,"DigitalOcean, LLC",
