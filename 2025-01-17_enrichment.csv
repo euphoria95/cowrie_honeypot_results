@@ -14,3 +14,6 @@ IP address,remote ssh version,country_code2,organization,asn
 185.148.253.22,SSH-2.0-OpenSSH_7.9p1 Raspbian-10+deb10u2+rpt1,FR,One Operateur SAS,
 36.111.178.60,SSH-2.0-Go,CN,Cloud Computing Corporation,
 104.152.52.237,,US,Rethem Hosting LLC,
+122.33.117.136,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+66.175.213.4,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+115.91.170.141,,KR,LG DACOM Corporation,
