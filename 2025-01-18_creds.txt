@@ -27,3 +27,12 @@ sistemas:Aa123456
 rede:rede
 barman:Password
 build:build@123
+operador:Password
+userroot:userroot2024
+long:long123
+bitrix:bitrix
+robin:robin2025
+blog:blog@
+epadmin:Aa123456
+agotoz:agotoz@2024
+jarservice:Password
