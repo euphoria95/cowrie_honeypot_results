@@ -1,1 +1,10 @@
 root:root
+345gs5662d34:345gs5662d34
+builder:builder123
+user:Pa$$w0rd
+root1:123456
+angel:angel2024
+test:Password1
+mariadb:mariadb1234
+csgo:123
+simon:123
