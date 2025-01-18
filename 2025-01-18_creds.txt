@@ -8,3 +8,13 @@ test:Password1
 mariadb:mariadb1234
 csgo:123
 simon:123
+maria:maria123
+asd:asd@123
+user1:123456789
+vlad:vlad@
+adminsys:adminsys2024
+ari:ari
+dev:dev123456
+es:123456
+zak:12345678
+bitcoin:1234
