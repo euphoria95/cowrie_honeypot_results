@@ -18,3 +18,12 @@ dev:dev123456
 es:123456
 zak:12345678
 bitcoin:1234
+minikube:Password1
+git1:Aa123456
+milan:milan2024
+wireguard:wireguard2024
+bitcoin:bitcoin2024
+sistemas:Aa123456
+rede:rede
+barman:Password
+build:build@123
