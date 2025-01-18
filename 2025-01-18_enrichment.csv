@@ -22,3 +22,5 @@ IP address,remote ssh version,country_code2,organization,asn
 47.114.76.12,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
 2.57.122.195,,RO,UNMANAGED LTD,
 198.235.24.165,,US,Google LLC,
+192.42.116.210,SSH-2.0-OpenSSH_9.9,NL,SURF B.V.,
+65.49.1.24,SSH-2.0-Go,US,Hurricane Electric LLC,
