@@ -5,3 +5,6 @@ IP address,remote ssh version,country_code2,organization,asn
 83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
 45.95.146.8,SSH-2.0-Go,NL,Alsycon B.V.,
 13.64.50.49,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+197.134.252.37,SSH-2.0-libssh_0.9.6,EG,Vodafone Data - Egypt,
+172.168.40.234,,US,Microsoft Corporation,
+205.210.31.135,,BR,Google LLC,
