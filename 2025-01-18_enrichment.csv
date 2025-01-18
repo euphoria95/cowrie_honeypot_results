@@ -9,3 +9,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.168.40.234,,US,Microsoft Corporation,
 205.210.31.135,,BR,Google LLC,
 103.153.190.121,SSH-2.0-libssh_0.9.6,ID,PT Wahyu Adidaya Network,
+45.79.181.94,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+172.174.5.146,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+162.240.51.208,SSH-2.0-libssh_0.9.6,US,Unified Layer,
