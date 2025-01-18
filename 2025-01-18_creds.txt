@@ -36,3 +36,11 @@ blog:blog@
 epadmin:Aa123456
 agotoz:agotoz@2024
 jarservice:Password
+media:12345678
+rootadmin:123
+mega:mega123
+anand:12345
+bitnami:12345678
+composer:composer!
+audit:audit1234
+bbb:bbb@123
