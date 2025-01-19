@@ -10,3 +10,12 @@ saude:12345
 ehsan:12345
 deepak:deepak123
 pedro:pedro!
+esuser:esuser
+admin:123456
+test:test
+prometheus:prometheus
+ubuntu:123456
+vyos:vyos
+kvm:kvm
+debian:debian
+steam:steam
