@@ -19,3 +19,10 @@ vyos:vyos
 kvm:kvm
 debian:debian
 steam:steam
+devops:devops@2025
+ocean:password
+magento:1234
+operador:123
+maman:Password1
+qadmin:Password
+qbtuser:1234
