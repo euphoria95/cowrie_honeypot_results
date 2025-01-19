@@ -14,3 +14,6 @@ IP address,remote ssh version,country_code2,organization,asn
 167.99.118.175,GET / HTTP/1.1,US,"DigitalOcean, LLC",
 8.222.134.160,SSH-2.0-libssh_0.9.6,SG,"Alibaba (US) Technology Co., Ltd.",
 186.96.166.237,SSH-2.0-libssh_0.9.6,MX,TOTAL PLAY TELECOMUNICACIONES SA DE CV,
+193.190.147.79,SSH-2.0-Go,BE,BELNET,
+2.57.122.195,,RO,UNMANAGED LTD,
+18.218.179.12,SSH-2.0-Go,US,"Amazon.com, Inc.",
