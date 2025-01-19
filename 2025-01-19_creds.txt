@@ -1,3 +1,12 @@
 root:root
 345gs5662d34:345gs5662d34
 ibrahim:ibrahim@2025
+csgoserver:1234
+123:123
+ftproot:ftproot!
+nacos:nacos
+justin:justin
+saude:12345
+ehsan:12345
+deepak:deepak123
+pedro:pedro!
