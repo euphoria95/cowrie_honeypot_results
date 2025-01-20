@@ -35,3 +35,9 @@ solr:solr
 library:library123
 adama:adama123
 Fuck:You
+ts2:123456
+admin:p@ssw0rd
+miguel:1234
+harman:123456
+lx:123456
+camille:camille123
