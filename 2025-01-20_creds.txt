@@ -1,1 +1,7 @@
 root:root
+tecnopos:tecnopos@2025
+leonardo:leonardo2025
+etienne:12345
+mongodb:mongodb@2024
+345gs5662d34:345gs5662d34
+ossuser:Password1
