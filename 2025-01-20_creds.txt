@@ -30,3 +30,7 @@ cheeki:cheeki123
 nutanix:nutanix123
 xx:123456
 laravel:1234
+node:node
+solr:solr
+library:library123
+adama:adama123
