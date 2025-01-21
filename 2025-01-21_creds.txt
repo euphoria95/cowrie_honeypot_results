@@ -39,3 +39,5 @@ monitora:monitora123
 hesam:hesam123
 niklas:niklas
 fabio:fabio@123
+wjx:wjx123
+partner:123456
