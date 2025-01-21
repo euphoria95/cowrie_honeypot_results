@@ -13,3 +13,8 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.118.114,,CN,China Telecom (Group),
 114.23.156.219,SSH-2.0-libssh_0.9.6,NZ,Voyager Internet Ltd.,
 14.103.37.34,,CN,China Telecom (Group),
+103.252.78.78,SSH-2.0-libssh_0.9.6,HK,HKBN Enterprise Solutions HK Limited,
+87.236.176.177,SSH-2.0-Go,GB,Driftnet Ltd,
+105.21.33.62,SSH-2.0-libssh_0.9.6,KE,SEACOM Limited,
+94.159.111.37,SSH-2.0-libssh_0.9.6,DE,H2NEXUS LTD,
+64.227.156.126,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
