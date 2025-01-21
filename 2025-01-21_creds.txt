@@ -8,3 +8,7 @@ usdt:usdt
 ubuntu:ubuntu
 pc3:pc3
 sina:sina
+agotoz:123456
+VM:Jay56
+arka:arka123
+zhangyi:123456
