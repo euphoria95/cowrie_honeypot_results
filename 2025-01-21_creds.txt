@@ -165,3 +165,5 @@ olm:olm
 vyos:vyos
 usr:123456
 deploy:deploy
+pi:raspberry
+pi:raspberryraspberry993311
