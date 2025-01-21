@@ -41,3 +41,5 @@ niklas:niklas
 fabio:fabio@123
 wjx:wjx123
 partner:123456
+lighthouse:lighthouse123
+eprints:eprints
