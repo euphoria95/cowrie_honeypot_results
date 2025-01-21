@@ -57,3 +57,15 @@ jiel:123456
 upload:upload1234
 tomcatuser:tomcatuser
 vboxuser:vboxuser123
+tunnel:123
+azureuser:azureuser@123
+quentin:quentin123
+validator1:validator
+odoo13:odoo13
+vpn:1234
+jeff:123456
+mysqld:mysqld
+jenkins:123
+profe:profe123
+summit:summit123
+ww:ww
