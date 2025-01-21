@@ -2,3 +2,6 @@ paola:123456
 345gs5662d34:345gs5662d34
 jzhou:jzhou
 user:1234567890
+eth:eth
+bnb:bnb
+usdt:usdt
