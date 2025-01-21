@@ -45,3 +45,15 @@ lighthouse:lighthouse123
 eprints:eprints
 vintagestory:123456
 bat:bat
+miguel:miguel123
+wekan:wekan123
+wilson:wilson123
+arturo:arturo123
+el:123456
+debian:123123
+appserv:appserv123
+deploy:1q2w3e4r
+jiel:123456
+upload:upload1234
+tomcatuser:tomcatuser
+vboxuser:vboxuser123
