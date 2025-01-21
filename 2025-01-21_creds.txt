@@ -35,3 +35,7 @@ rramirez:rramirez
 autumn:autumn
 deployer:deployer
 adi:adi
+monitora:monitora123
+hesam:hesam123
+niklas:niklas
+fabio:fabio@123
