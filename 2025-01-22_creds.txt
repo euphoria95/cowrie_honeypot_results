@@ -53,3 +53,12 @@ test:123456
 admin:123456
 pi:raspberry
 pi:raspberryraspberry993311
+presto:presto
+rke:rke
+user2:welcome
+avg:avg123
+bbc:bbc123
+hacker:123456
+dd:dd@123
+nabi:nabi
+test01:123
