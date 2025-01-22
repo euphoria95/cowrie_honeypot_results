@@ -102,3 +102,10 @@ fit:fit123
 JG:JG123
 ftpuser3:ftpuser3
 michael:michael
+admin:B@tch0n3
+cumulus:cumulus
+minit:minit
+dolphinscheduler:dolphinscheduler
+t128:128tRoutes
+admin:admin123
+sysadm:Ribbon%@@%5225
