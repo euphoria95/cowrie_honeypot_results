@@ -1,3 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 197.157.17.151,SSH-2.0-libssh_0.9.6,UG,Blue Crane Communications (U) Ltd,
 203.239.31.154,SSH-2.0-Go,KR,SEJONG NETWORKS,
+83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
+14.103.127.58,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+195.178.110.65,,NL,TECHOFF SRV LIMITED,
