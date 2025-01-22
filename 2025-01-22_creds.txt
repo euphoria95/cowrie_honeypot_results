@@ -24,3 +24,5 @@ santer:santer123
 validator:validator
 anti:anti
 RR:123456
+superuser:sp-admin
+systemv:LibreWorkspace
