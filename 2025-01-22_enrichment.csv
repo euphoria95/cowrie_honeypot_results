@@ -14,3 +14,5 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.113.53,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 117.50.177.82,SSH-2.0-libssh_0.9.6,CN,China Unicom Beijing Province Network,
 211.115.190.135,SSH-2.0-Go,KR,Korea Telecom,
+198.235.24.125,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
+3.141.26.52,SSH-2.0-Go,US,"Amazon.com, Inc.",
