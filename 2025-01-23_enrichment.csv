@@ -8,3 +8,7 @@ IP address,remote ssh version,country_code2,organization,asn
 83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
 2.141.168.31,SSH-2.0-Go,ES,TELEFONICA DE ESPANA S.A.U.,
 13.87.245.145,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+118.70.169.148,SSH-2.0-libssh_0.9.6,VN,FPT Telecom Company,
+207.102.96.2,,CA,TELUS Communications Inc.,
+106.51.64.128,SSH-2.0-libssh_0.9.6,IN,"Atria Convergence Technologies Pvt. Ltd.,",
+91.239.206.219,SSH-2.0-libssh_0.9.6,GE,Proservice LLC,
