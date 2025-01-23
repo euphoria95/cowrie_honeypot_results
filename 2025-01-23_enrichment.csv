@@ -37,3 +37,5 @@ IP address,remote ssh version,country_code2,organization,asn
 189.50.215.198,SSH-2.0-libssh_0.9.6,BR,S DE OLIVEIRA FILHO,
 189.50.215.131,SSH-2.0-libssh_0.9.6,BR,S DE OLIVEIRA FILHO,
 64.62.156.68,GET / HTTP/1.1,US,Hurricane Electric LLC,
+216.227.168.15,SSH-2.0-Go,US,FDCservers.net,
+174.138.83.67,GET / HTTP/1.1,US,"DigitalOcean, LLC",
