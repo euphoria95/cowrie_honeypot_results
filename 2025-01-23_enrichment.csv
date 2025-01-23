@@ -17,3 +17,6 @@ IP address,remote ssh version,country_code2,organization,asn
 45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 117.80.151.106,SSH-2.0-libssh-0.11,CN,"No.31,Jin-rong Street",
 125.105.131.113,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
+193.183.247.174,SSH-2.0-OpenSSH_6.7p1 Raspbian-5+deb8u3,SE,Sandviken Energi AB,
+36.140.30.54,SSH-2.0-libssh_0.9.6,CN,China Mobile,
+191.223.75.89,SSH-2.0-libssh_0.9.6,BR,V tal,
