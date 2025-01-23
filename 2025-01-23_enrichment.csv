@@ -24,3 +24,5 @@ IP address,remote ssh version,country_code2,organization,asn
 192.169.201.6,SSH-2.0-libssh_0.9.6,US,"GoDaddy.com, LLC",
 61.188.178.199,,CN,CHINANET SiChuan Telecom Internet Data Center,
 95.142.46.249,SSH-2.0-Go,RU,Hosting technology LTD,
+188.43.37.81,SSH-2.0-Go,RU,Joint Stock Company TransTeleCom,
+5.101.0.66,,RU,Petersburg Internet Network ltd.,
