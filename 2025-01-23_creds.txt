@@ -68,3 +68,5 @@ mahdi:mahdi123
 contabilidade:contabilidade
 guest:111111
 su:su123
+pi:raspberry
+pi:raspberryraspberry993311
