@@ -70,3 +70,6 @@ guest:111111
 su:su123
 pi:raspberry
 pi:raspberryraspberry993311
+prachi:prachi
+node:node
+dev:dev
