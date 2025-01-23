@@ -15,3 +15,5 @@ IP address,remote ssh version,country_code2,organization,asn
 216.10.243.153,SSH-2.0-libssh_0.9.6,IN,PDR,
 158.51.96.38,SSH-2.0-Go,US,NetInformatik Inc.,
 45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+117.80.151.106,SSH-2.0-libssh-0.11,CN,"No.31,Jin-rong Street",
+125.105.131.113,SSH-2.0-Go,CN,"No.31,Jin-rong Street",
