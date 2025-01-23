@@ -54,3 +54,16 @@ usman:123456
 user4:user4
 reza:123456
 multparts:multparts123
+arif:arif
+validator1:validator
+economist:123456
+joshua:joshua
+ferdinand:ferdinand
+pula:pula123
+rakesh:123456
+validator:validator
+mohammad:12345
+ftpuser3:ftpuser3123
+mahdi:mahdi123
+contabilidade:contabilidade
+guest:111111
