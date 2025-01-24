@@ -83,3 +83,11 @@ steam:1234rfv
 ubuntu:Welcome1
 deploy:admin@123
 dev:Welcome@1
+debian:1qazxsw2!@
+localuser:123456
+VM:VM
+gyli:gyli123
+turtle:turtle
+star:123456
+kobo:123456
+bbc:bbc
