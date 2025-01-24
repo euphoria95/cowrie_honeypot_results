@@ -91,3 +91,17 @@ turtle:turtle
 star:123456
 kobo:123456
 bbc:bbc
+test:Aa12345!
+user:QWERTY
+admin:P@ssw0rd1!
+admin:adminadmin
+deploy:admin2024
+test1:qwe@1234
+es:Qq@123456
+ftpuser:asdfgh
+git:Aa123123
+ubuntu:admin123admin
+user:admin@12345
+steam:abcd-1234
+sammy:1qaz@WSX!QAZ
+steam:Password.1
