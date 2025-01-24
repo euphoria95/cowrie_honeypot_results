@@ -50,3 +50,10 @@ es:es
 ansible:ansible@123
 transfer:transfer
 debian:debian
+docker:12345678
+arman:arman
+neo:neo123
+ts3server:ts3server
+admin1:1qaz@WSX
+administrator:administrator
+yash:123456
