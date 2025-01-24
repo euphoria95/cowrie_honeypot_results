@@ -21,3 +21,12 @@ ubuntu:ubuntu
 oracle:oracle
 postgres:123456
 hadoop:hadoop
+deploy:qwe112233
+tong:123456
+test:88888888
+user1:p@ssw0rdp@ssw0rd
+deploy:Qw123456
+peertube:123456
+toni:123456
+account:account123
+ajith:123456
