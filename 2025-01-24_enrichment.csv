@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 142.93.218.158,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 35.241.84.62,SSH-2.0-libssh_0.9.6,HK,Google LLC,
 165.22.117.169,SSH-2.0-Go,GB,"DigitalOcean, LLC",
+87.236.176.122,SSH-2.0-Go,GB,Driftnet Ltd,
+167.94.138.168,SSH-2.0-Go,US,"Censys, Inc.",
