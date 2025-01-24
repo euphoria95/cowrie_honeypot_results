@@ -1,1 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
+171.237.211.68,SSH-2.0-libssh_0.9.6,VN,Viettel Group,
+83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
+95.142.46.249,SSH-2.0-Go,RU,Hosting technology LTD,
+170.239.85.148,SSH-2.0-libssh_0.9.6,CL,ZAM LTDA.,
