@@ -11,3 +11,4 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.23,,BR,Google LLC,
 44.220.185.184,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
 147.185.132.108,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
