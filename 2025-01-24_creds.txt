@@ -57,3 +57,12 @@ ts3server:ts3server
 admin1:1qaz@WSX
 administrator:administrator
 yash:123456
+ftpuser:P@$$w0rd
+alex:pa$$word
+root:root
+ubuntu:123456ddd
+server:abc123
+steam:00000000
+sammy:Qwer1234!
+test:123456qwerty
+es:admin-2024
