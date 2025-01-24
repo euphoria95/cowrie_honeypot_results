@@ -30,3 +30,6 @@ peertube:123456
 toni:123456
 account:account123
 ajith:123456
+steam:123456a@
+user1:asd123456
+steam:123!@#
