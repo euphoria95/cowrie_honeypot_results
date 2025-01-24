@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 87.236.176.122,SSH-2.0-Go,GB,Driftnet Ltd,
 167.94.138.168,SSH-2.0-Go,US,"Censys, Inc.",
 205.210.31.23,,BR,Google LLC,
+44.220.185.184,SSH-2.0-paramiko_2.9.2,US,"Amazon.com, Inc.",
+147.185.132.108,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
