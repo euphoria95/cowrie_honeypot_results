@@ -12,3 +12,6 @@ IP address,remote ssh version,country_code2,organization,asn
 103.193.178.24,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 116.111.93.172,SSH-2.0-libssh_0.9.6,VN,Viettel Group,
 125.124.195.219,SSH-2.0-libssh_0.9.6,CN,"No.288,Fu-chun Road",
+35.219.124.236,SSH-2.0-libssh_0.9.6,ID,Google LLC,
+198.235.24.12,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
+187.141.210.92,SSH-2.0-Go,MX,UNINET,
