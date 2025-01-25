@@ -55,3 +55,9 @@ debian:abc@123456
 steam:steam
 deploy:1
 test1:admin001
+hysteria:hysteria@123
+vbox:123456
+app:123456
+vinay:vinay
+mp:123456
+debian:1qazxsw2!@
