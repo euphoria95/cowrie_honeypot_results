@@ -25,3 +25,6 @@ IP address,remote ssh version,country_code2,organization,asn
 139.59.79.179,,IN,"DigitalOcean, LLC",
 13.250.48.142,SSH-2.0-Go,SG,"Amazon.com, Inc.",
 115.141.161.28,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+20.118.69.90,,US,Microsoft Corporation,
+121.229.10.138,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+192.155.90.118,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
