@@ -31,3 +31,7 @@ IP address,remote ssh version,country_code2,organization,asn
 42.51.13.138,SSH-2.0-libssh_0.9.6,CN,"Zhengzhou Fastidc Technology Co.,Ltd.",
 46.188.119.26,SSH-2.0-libssh_0.9.6,RU,LLC SETEL,
 119.23.174.68,,CN,"Hangzhou Alibaba Advertising Co.,Ltd.",
+64.62.197.129,SSH-2.0-Go,US,Hurricane Electric LLC,
+177.12.2.75,SSH-2.0-libssh_0.9.6,BR,Predlink Rede de Telecomuniccoes Ltda,
+205.210.31.57,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+14.103.91.55,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
