@@ -28,3 +28,5 @@ IP address,remote ssh version,country_code2,organization,asn
 20.118.69.90,,US,Microsoft Corporation,
 121.229.10.138,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 192.155.90.118,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+42.51.13.138,SSH-2.0-libssh_0.9.6,CN,"Zhengzhou Fastidc Technology Co.,Ltd.",
+46.188.119.26,SSH-2.0-libssh_0.9.6,RU,LLC SETEL,
