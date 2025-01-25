@@ -73,3 +73,9 @@ david:qwertyuiop
 tfj:tfj123
 alexia:123456
 chandan:123456
+test1:P@$$word
+user1:Welcome123$%^
+es:1qaz@WSX!QAZ
+deploy:qweqwe123
+user1:112
+alex:@dm1n
