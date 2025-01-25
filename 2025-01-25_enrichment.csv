@@ -43,3 +43,6 @@ IP address,remote ssh version,country_code2,organization,asn
 95.167.133.86,SSH-2.0-Go,RU,PJSC Rostelecom,
 45.79.181.104,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+59.172.186.49,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+128.199.157.145,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+118.68.155.245,SSH-2.0-Go,VN,FPT Telecom Company,
