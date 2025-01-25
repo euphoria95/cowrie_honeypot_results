@@ -95,3 +95,8 @@ test:Qwerty@123
 abdi:abdi123
 iva:123456
 khalid:123456
+git:Password@123
+dev:2024!
+test:abcde@12345
+admin:qwerty12
+sammy:test@2025
