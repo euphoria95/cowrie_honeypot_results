@@ -100,3 +100,4 @@ dev:2024!
 test:abcde@12345
 admin:qwerty12
 sammy:test@2025
+debian:@dmin
