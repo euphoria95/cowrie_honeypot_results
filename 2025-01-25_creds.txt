@@ -61,3 +61,13 @@ app:123456
 vinay:vinay
 mp:123456
 debian:1qazxsw2!@
+nmrsu:nmrsu123
+records:records
+demouser:demouser123
+app:1234
+user:Test123
+temp:temp
+talked:talked123
+qadmin:qadmin
+david:qwertyuiop
+tfj:tfj123
