@@ -15,3 +15,6 @@ IP address,remote ssh version,country_code2,organization,asn
 35.219.124.236,SSH-2.0-libssh_0.9.6,ID,Google LLC,
 198.235.24.12,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
 187.141.210.92,SSH-2.0-Go,MX,UNINET,
+172.104.11.46,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+93.113.96.218,SSH-2.0-libssh_0.9.6,TR,MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.,
+172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
