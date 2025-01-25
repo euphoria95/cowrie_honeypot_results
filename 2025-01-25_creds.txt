@@ -71,3 +71,5 @@ talked:talked123
 qadmin:qadmin
 david:qwertyuiop
 tfj:tfj123
+alexia:123456
+chandan:123456
