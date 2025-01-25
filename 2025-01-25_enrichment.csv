@@ -46,3 +46,7 @@ IP address,remote ssh version,country_code2,organization,asn
 59.172.186.49,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 128.199.157.145,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
 118.68.155.245,SSH-2.0-Go,VN,FPT Telecom Company,
+197.156.83.94,SSH-2.0-libssh_0.9.6,ET,ISP in Ethiopia,
+20.239.71.181,SSH-2.0-libssh_0.9.6,HK,Microsoft Corporation,
+125.22.249.36,SSH-2.0-libssh_0.9.6,IN,Bharti Airtel Limited,
+116.40.101.134,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
