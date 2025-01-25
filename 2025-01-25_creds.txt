@@ -93,3 +93,5 @@ git:git@1234
 pi:raspberryraspberry993311
 test:Qwerty@123
 abdi:abdi123
+iva:123456
+khalid:123456
