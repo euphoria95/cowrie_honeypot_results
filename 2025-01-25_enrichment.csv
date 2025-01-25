@@ -40,3 +40,6 @@ IP address,remote ssh version,country_code2,organization,asn
 109.94.172.86,SSH-2.0-libssh_0.9.6,UZ,Uzbektelekom Joint Stock Company,
 58.49.26.202,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 14.103.112.105,,CN,China Telecom (Group),
+95.167.133.86,SSH-2.0-Go,RU,PJSC Rostelecom,
+45.79.181.104,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+45.33.80.243,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
