@@ -79,3 +79,17 @@ es:1qaz@WSX!QAZ
 deploy:qweqwe123
 user1:112
 alex:@dm1n
+nextgen:123456
+root:root
+shyam:123456
+andres:andres
+pi:raspberry
+ftpuser:Qwerty123
+user1:55555
+bj:bj123
+teamcity:teamcity123
+ftpuser:1122334455
+git:git@1234
+pi:raspberryraspberry993311
+test:Qwerty@123
+abdi:abdi123
