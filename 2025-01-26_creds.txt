@@ -133,3 +133,16 @@ test1:131313
 steam:PASSWORD
 ftpuser:password!
 server:Welcome@1234
+ubuntu:trustno1
+user:ftpuser
+upload:upload@123
+sammy:root1234567
+sammy:777
+hysteria:hysteria@123
+rakib:123456
+dev:Aa12345!
+alex:admin12345
+xguest:xguest123
+user1:Qwert123!
+debian:admin@45
+admin:123123123
