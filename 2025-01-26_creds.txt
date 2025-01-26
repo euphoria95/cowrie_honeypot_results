@@ -266,3 +266,7 @@ deploy:777888
 alex:q1w2e3
 dev:password@2024
 alex:administrator
+user:qazwsxedc
+ubuntu:P@ssw0rd12
+git:1q2w3e4r.
+deploy:ABCabc123!@#
