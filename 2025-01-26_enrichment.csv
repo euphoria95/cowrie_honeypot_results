@@ -1,2 +1,4 @@
 IP address,remote ssh version,country_code2,organization,asn
 105.28.108.165,SSH-2.0-libssh_0.9.6,ZA,SEACOM Limited,
+83.147.255.210,SSH-2.0-Go,RU,Aeza Group LLC,
+110.9.22.42,,KR,SK Broadband Co Ltd,
