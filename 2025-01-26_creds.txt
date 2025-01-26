@@ -256,3 +256,8 @@ dev:Aa11111111
 test_user:test
 diego:diego123
 weblogic:weblogic
+test1:123@qaz
+ftpuser:adminpass
+ftpuser:123qwe456
+test:qwerasdf
+alex:admin!
