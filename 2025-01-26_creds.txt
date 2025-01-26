@@ -19,3 +19,6 @@ data:data123
 fivem:123456
 geek:123
 matheus:matheus123
+xuqi:123456
+ftp2:123456
+sayak:sayak
