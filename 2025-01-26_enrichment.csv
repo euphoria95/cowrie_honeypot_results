@@ -54,3 +54,5 @@ IP address,remote ssh version,country_code2,organization,asn
 52.187.9.8,SSH-2.0-libssh_0.9.6,SG,Microsoft Corporation,
 37.120.210.151,,JP,M247 Europe SRL,
 198.235.24.156,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+198.235.24.65,,TW,Google LLC,
+149.22.91.139,,IT,Datacamp Limited,
