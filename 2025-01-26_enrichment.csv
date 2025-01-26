@@ -5,3 +5,6 @@ IP address,remote ssh version,country_code2,organization,asn
 51.8.223.113,SSH-2.0-Go,US,Microsoft Corporation,
 103.172.204.220,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 180.76.166.82,,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.",
+50.99.36.130,SSH-2.0-Go,CA,TELUS Communications Inc.,
+95.111.210.172,SSH-2.0-libssh_0.9.6,SE,UpCloud Ltd,
+147.185.132.219,,US,Google LLC,
