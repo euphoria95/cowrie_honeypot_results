@@ -56,3 +56,5 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.156,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 198.235.24.65,,TW,Google LLC,
 149.22.91.139,,IT,Datacamp Limited,
+161.35.72.227,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+147.185.132.37,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
