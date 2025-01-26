@@ -31,3 +31,6 @@ IP address,remote ssh version,country_code2,organization,asn
 154.119.82.98,SSH-2.0-libssh_0.9.6,ZW,Telecontract Pvt Ltd,
 79.80.134.135,SSH-2.0-libssh_0.9.6,FR,Societe Francaise Du Radiotelephone - SFR SA,
 123.131.17.131,SSH-2.0-Go,CN,CHINA UNICOM China169 Backbone,
+8.218.128.12,SSH-2.0-libssh_0.9.6,HK,"Alibaba (US) Technology Co., Ltd.",
+104.40.84.168,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+4.194.112.84,SSH-2.0-libssh_0.9.6,SG,Microsoft Corporation,
