@@ -261,3 +261,8 @@ ftpuser:adminpass
 ftpuser:123qwe456
 test:qwerasdf
 alex:admin!
+deploy:Password@2022
+deploy:777888
+alex:q1w2e3
+dev:password@2024
+alex:administrator
