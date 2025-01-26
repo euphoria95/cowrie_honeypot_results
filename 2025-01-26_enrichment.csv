@@ -34,3 +34,5 @@ IP address,remote ssh version,country_code2,organization,asn
 8.218.128.12,SSH-2.0-libssh_0.9.6,HK,"Alibaba (US) Technology Co., Ltd.",
 104.40.84.168,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 4.194.112.84,SSH-2.0-libssh_0.9.6,SG,Microsoft Corporation,
+45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+45.79.181.223,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
