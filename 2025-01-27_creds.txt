@@ -183,3 +183,12 @@ poc:poc
 debian:P@ssw0rd2025
 debian:qweqwe
 deploy:123root321
+steam:2022
+user1:admin123!@#
+user:A123456a
+git:aA123456@
+ubuntu:qazwsx12
+steam:abc12345
+test1:aA123456
+user:Admin!@#
+deploy:test12345
