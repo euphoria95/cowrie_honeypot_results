@@ -192,3 +192,5 @@ steam:abc12345
 test1:aA123456
 user:Admin!@#
 deploy:test12345
+root:root
+root:123456
