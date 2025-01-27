@@ -103,3 +103,13 @@ alvin:123456
 guillermo:guillermo
 test2:test
 nancy:123456
+steam:Password321
+server:Password@123
+user:root@123
+test:123456798
+server:123mudar
+test1:Aa123456789
+dev:1q2w3e4r5t6y
+ftpuser:@dm1n
+test:999
+alex:000
