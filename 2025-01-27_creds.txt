@@ -180,3 +180,6 @@ test:Qwerty123
 toto:toto
 ps:ps123
 poc:poc
+debian:P@ssw0rd2025
+debian:qweqwe
+deploy:123root321
