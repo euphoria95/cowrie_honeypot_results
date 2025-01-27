@@ -13,3 +13,4 @@ IP address,remote ssh version,country_code2,organization,asn
 149.54.22.132,SSH-2.0-libssh_0.9.6,AF,Government Communications Network,
 52.80.60.186,SSH-2.0-libssh_0.9.6,CN,Beijing Guanghuan Xinwang Digital,
 64.227.99.138,SSH-2.0-Go,US,"DigitalOcean, LLC",
+14.38.198.9,SSH-2.0-Go,KR,Korea Telecom,
