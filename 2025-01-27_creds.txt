@@ -99,3 +99,7 @@ nx:123456
 tkj:123456
 chris:chris123
 sofia:sofia123
+alvin:123456
+guillermo:guillermo
+test2:test
+nancy:123456
