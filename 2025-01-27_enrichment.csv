@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 189.51.38.101,,BR,Goias Telecomunicacoes SA. - GOIAS TELECOM,
 205.210.31.26,,BR,Google LLC,
 205.210.31.171,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+52.172.170.104,SSH-2.0-libssh_0.9.6,IN,Microsoft Corporation,
+149.54.22.132,SSH-2.0-libssh_0.9.6,AF,Government Communications Network,
