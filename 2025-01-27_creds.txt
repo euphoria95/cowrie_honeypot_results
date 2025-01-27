@@ -141,3 +141,5 @@ sammy:password
 deploy:hello@123
 oneal:oneal
 user1:12345678
+sammy:admin@123
+debian:admin-2025
