@@ -177,3 +177,6 @@ git:adminadmin
 debian:abcd1234!
 debian:Password.1
 test:Qwerty123
+toto:toto
+ps:ps123
+poc:poc
