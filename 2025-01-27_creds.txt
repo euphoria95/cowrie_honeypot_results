@@ -135,3 +135,9 @@ server:abc1234567
 steam:54321
 ubuntu:123456#
 sammy:123456Hh
+zhoujing:zhoujing
+syc:syc
+sammy:password
+deploy:hello@123
+oneal:oneal
+user1:12345678
