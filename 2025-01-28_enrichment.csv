@@ -2,3 +2,4 @@ IP address,remote ssh version,country_code2,organization,asn
 51.38.82.68,SSH-2.0-Go,GB,OVH SAS,
 185.147.124.97,SSH-2.0-Go,RU,JSC Selectel,
 104.152.52.240,,US,Rethem Hosting LLC,
+173.242.112.140,SSH-2.0-libssh_0.9.6,US,IT7 Networks Inc,
