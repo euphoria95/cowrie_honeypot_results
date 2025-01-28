@@ -38,3 +38,8 @@ es:qazwsx
 vpn:1234
 postgres:root
 azureuser:azureuser@123
+quentin:quentin123
+debian:123123
+el:123456
+345gs5662d34:345gs5662d34
+wekan:wekan123
