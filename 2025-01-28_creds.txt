@@ -1,0 +1,2 @@
+sonarr:sonarr
+wanghao:wanghao
