@@ -113,3 +113,8 @@ guacamole:guacamole123
 group1:group1123
 admin:pass@word2
 dayend:dayend
+es:abc12345
+pi:raspberryraspberry993311
+server:123@123aA
+user1:!@#$qwerASDF
+pi:raspberry
