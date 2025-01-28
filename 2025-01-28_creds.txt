@@ -34,3 +34,7 @@ steam:2024@
 test1:1qw23er4
 alex:123
 debian:@dm1n@123
+es:qazwsx
+vpn:1234
+postgres:root
+azureuser:azureuser@123
