@@ -43,3 +43,9 @@ debian:123123
 el:123456
 345gs5662d34:345gs5662d34
 wekan:wekan123
+alex:Qwert123!
+ubuntu:qwerty12345
+test:abcd-1234
+debian:abcd
+user:P@$$w0rd1234
+ubuntu:Qwer1234!@#$
