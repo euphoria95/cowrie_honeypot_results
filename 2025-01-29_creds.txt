@@ -38,3 +38,9 @@ hesam:123456
 cisco:123456
 tom:12345678
 jupyterhub:jupyterhub123
+cumulus:cumulus
+sshusr:Huawei123
+localuser:localuser
+scanner:scanner
+prime:prime123
+kramar:123456
