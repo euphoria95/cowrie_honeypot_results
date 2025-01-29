@@ -45,3 +45,6 @@ scanner:scanner
 prime:prime123
 kramar:123456
 ubuntu:ubuntu
+demo:demouser
+prasad:123456
+ubuntu:Abcd1234
