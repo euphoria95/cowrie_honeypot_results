@@ -5,3 +5,4 @@ IP address,remote ssh version,country_code2,organization,asn
 68.78.33.105,SSH-2.0-libssh2_1.11.0,US,"AT&T Services, Inc.",
 198.235.24.135,,US,Google LLC,
 4.156.21.158,,US,Microsoft Corporation,
+4.255.100.252,SSH-2.0-Go,US,Microsoft Corporation,
