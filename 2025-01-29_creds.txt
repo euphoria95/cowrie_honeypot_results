@@ -9,3 +9,15 @@ intell:123
 teamspeak:teamspeak
 eco:eco
 test:Admin@123
+graphsql:graphsql
+t1:t1
+yc:123456
+noc:123123
+sim:sim
+user:resu
+ay:123456
+muhammad:muhammad123
+support:P@ssw0rd
+admin:marketing
+dev:123456789
+lixing:lixing123
