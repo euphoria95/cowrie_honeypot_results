@@ -44,3 +44,4 @@ localuser:localuser
 scanner:scanner
 prime:prime123
 kramar:123456
+ubuntu:ubuntu
