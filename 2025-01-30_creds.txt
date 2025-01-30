@@ -16,3 +16,5 @@ es:asdf1234
 es:A123456.
 ftpuser:password01!
 debian:admin123!@#
+345gs5662d34:345gs5662d34
+wxy:123456
