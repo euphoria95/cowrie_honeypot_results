@@ -36,3 +36,7 @@ IP address,remote ssh version,country_code2,organization,asn
 46.116.203.237,SSH-2.0-libssh_0.9.6,IL,Cellcom Fixed Line Communication L.P,
 111.203.200.219,SSH-2.0-libssh_0.9.6,CN,China Unicom Beijing Province Network,
 185.170.114.25,SSH-2.0-OpenSSH_9.9,DE,netcup GmbH,
+172.174.5.146,SSH-2.0-libssh_0.9.6,US,Microsoft Corporation,
+13.88.3.204,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
+182.43.235.218,SSH-2.0-libssh_0.9.6,CN,Cloud Computing Corporation,
+124.28.218.66,SSH-2.0-libssh_0.9.6,CN,"Oriental Cable Network Co., Ltd.",
