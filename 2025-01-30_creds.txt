@@ -50,3 +50,5 @@ deploy:Changeme_123
 steam:777
 es:password1
 ubuntu:q1w2e3r4t5
+pi:raspberry
+pi:raspberryraspberry993311
