@@ -10,3 +10,4 @@ IP address,remote ssh version,country_code2,organization,asn
 58.75.230.54,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 175.137.6.158,SSH-2.0-libssh2_1.11.0,MY,TM TECHNOLOGY SERVICES SDN BHD,
 122.33.43.52,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+162.142.125.40,SSH-2.0-Go,US,"Censys, Inc.",
