@@ -11,3 +11,4 @@ test:abc123!@#
 ftpuser:Lapsus123$%
 server:qazqaz
 admin:qazqaz
+server:11111111
