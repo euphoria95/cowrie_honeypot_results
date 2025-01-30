@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 103.193.176.30,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 117.158.56.11,SSH-2.0-libssh_0.9.6,CN,China Mobile,
 14.103.117.116,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+42.200.66.164,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
+69.28.51.3,SSH-2.0-Go,US,Zenlayer Inc,
