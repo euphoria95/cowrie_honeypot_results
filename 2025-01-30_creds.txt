@@ -12,3 +12,7 @@ ftpuser:Lapsus123$%
 server:qazqaz
 admin:qazqaz
 server:11111111
+es:asdf1234
+es:A123456.
+ftpuser:password01!
+debian:admin123!@#
