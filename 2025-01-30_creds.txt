@@ -52,3 +52,12 @@ es:password1
 ubuntu:q1w2e3r4t5
 pi:raspberry
 pi:raspberryraspberry993311
+test:1qazxsw23edc
+steam:55555
+deploy:20232023
+user:987654321
+test:hello
+git:123@qweasd
+user1:qweasdzxc
+alex:Qq123456.
+ubuntu:123qwe
