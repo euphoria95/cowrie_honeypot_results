@@ -4,3 +4,10 @@ server:password123
 es:P@ssw0rd3
 root:root
 node:node
+es:123456aA
+user1:admin1
+alex:123qweASD
+test:abc123!@#
+ftpuser:Lapsus123$%
+server:qazqaz
+admin:qazqaz
