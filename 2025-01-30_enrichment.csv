@@ -19,3 +19,6 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.117.116,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 42.200.66.164,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
 69.28.51.3,SSH-2.0-Go,US,Zenlayer Inc,
+161.49.89.39,SSH-2.0-libssh_0.9.6,PH,ComClark Network & Technology Corp,
+45.79.181.251,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+216.218.206.69,GET / HTTP/1.1,US,Hurricane Electric LLC,
