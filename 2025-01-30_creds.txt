@@ -18,3 +18,10 @@ ftpuser:password01!
 debian:admin123!@#
 345gs5662d34:345gs5662d34
 wxy:123456
+dev:123@123aA
+ftpuser:pass1234567
+ubuntu:qazxsw
+ftpuser:1234qwer!
+deploy:13
+user:admin
+sammy:password01!
