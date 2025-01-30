@@ -3,3 +3,4 @@ ubuntu:123456Ab
 server:password123
 es:P@ssw0rd3
 root:root
+node:node
