@@ -114,3 +114,9 @@ admin:123456
 steam:steam
 nagios:nagios
 hadoop:123456
+helpdesk:password
+sma:sma123
+xrms:123
+mmi:mmi@123
+hky:12345
+hrd:1234
