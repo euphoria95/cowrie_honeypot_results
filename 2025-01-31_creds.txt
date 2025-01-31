@@ -122,3 +122,13 @@ hky:12345
 hrd:1234
 omcuser:omcuser
 sammy:Password2025
+vyos:123456
+admin:Admin123
+prometheus:prometheus
+vyos:vyos
+centos:centos
+es:es
+admin:admin
+user:user
+root:123456
+mcserver:mcserver
