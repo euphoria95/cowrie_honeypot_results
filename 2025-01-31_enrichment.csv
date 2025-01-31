@@ -4,3 +4,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.117.91,,CN,China Telecom (Group),
 165.227.224.205,,GB,"DigitalOcean, LLC",
 147.182.253.53,,US,"DigitalOcean, LLC",
+119.68.11.35,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
