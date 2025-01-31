@@ -29,3 +29,4 @@ IP address,remote ssh version,country_code2,organization,asn
 162.142.125.42,SSH-2.0-Go,US,"Censys, Inc.",
 147.185.132.91,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 180.184.80.132,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+212.83.189.230,SSH-2.0-Go,FR,SCALEWAY S.A.S.,
