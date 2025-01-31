@@ -1,3 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 185.147.124.97,SSH-2.0-Go,RU,JSC Selectel,
 192.155.90.118,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+14.103.117.91,,CN,China Telecom (Group),
+165.227.224.205,,GB,"DigitalOcean, LLC",
+147.182.253.53,,US,"DigitalOcean, LLC",
