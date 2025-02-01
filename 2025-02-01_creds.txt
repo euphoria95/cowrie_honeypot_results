@@ -36,3 +36,13 @@ chs:123456
 alex:963852
 ykf:ykf123
 chenlei:123456
+www-data:www-data
+L10fTr5:sor123in
+odoo15:odoo123
+kernel:kernel
+xiaolin:123456
+postgres:112233
+besei:123456
+victor:123
+mongo:mongo
+admin:1qazXSW@
