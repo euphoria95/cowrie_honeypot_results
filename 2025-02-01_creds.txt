@@ -94,3 +94,4 @@ ftpuser:1qaz@WSX#EDC
 kuba:kuba123
 oracle:oracle
 odoo:123456
+bitcoin:bitcoin
