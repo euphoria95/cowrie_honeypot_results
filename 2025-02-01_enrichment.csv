@@ -18,3 +18,4 @@ IP address,remote ssh version,country_code2,organization,asn
 118.36.136.12,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 49.75.185.71,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 64.62.197.90,GET / HTTP/1.1,US,Hurricane Electric LLC,
+40.118.211.231,SSH-2.0-Go,US,Microsoft Corporation,
