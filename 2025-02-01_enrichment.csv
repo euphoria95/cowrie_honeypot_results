@@ -1,3 +1,4 @@
 IP address,remote ssh version,country_code2,organization,asn
 185.147.124.97,SSH-2.0-Go,RU,JSC Selectel,
 3.129.60.214,SSH-2.0-Go,US,"Amazon.com, Inc.",
+116.204.84.188,SSH-2.0-libssh_0.9.6,CN,Huawei Cloud Service data center,
