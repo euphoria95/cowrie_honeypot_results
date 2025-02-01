@@ -8,3 +8,8 @@ IP address,remote ssh version,country_code2,organization,asn
 61.32.170.19,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
 122.228.244.22,SSH-2.0-libssh_0.9.6,CN,"WENZHOU, ZHEJIANG Province, P.R.China.",
 198.235.24.227,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+159.89.21.29,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+209.38.237.106,,DE,"DigitalOcean, LLC",
+187.170.73.190,SSH-2.0-libssh_0.9.6,MX,UNINET,
+211.187.29.12,SSH-2.0-libssh2_1.11.0,KR,SK Broadband Co Ltd,
+162.240.34.239,SSH-2.0-libssh_0.9.6,US,Unified Layer,
