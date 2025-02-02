@@ -84,3 +84,11 @@ auction:password
 es:root@2025
 appserv:12345678
 sammy:12345trewq
+lms:12345678
+igkim:igkim123
+compsx:123
+liu:liu123
+kao:123
+teja:123456
+szh:szh@123
+anauser:1234
