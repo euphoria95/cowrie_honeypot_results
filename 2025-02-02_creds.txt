@@ -188,3 +188,8 @@ apc:apc
 campus:campus123
 emanuel:emanuel
 ydy:ydy
+ftpmedia:ftpmedia
+yafei:yafei123
+es:es123456
+julien:julien
+nhat:nhat123
