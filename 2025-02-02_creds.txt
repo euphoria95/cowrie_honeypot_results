@@ -151,3 +151,15 @@ test:Ab123456
 ubuntu:Zaq12wsx!
 test:123@qweasd
 test:!QAZxsw23edc
+uzivatel:uzivatel
+steam:123
+frontend:123456
+topgui:topgui123
+fis:fis123
+vh:vh
+pablo:pablo
+admin:qazwsxedc
+mariana:mariana
+zhang:zhang
+admin:admin123
+raju:123456
