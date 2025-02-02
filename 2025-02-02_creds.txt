@@ -112,3 +112,13 @@ git:qweasd123
 alex:adminroot
 user1:admin2
 ftpuser:12345!@#$%
+ftpuser:Password!
+user:1100
+sammy:0
+dev:55555555
+es:root@1234
+steam:a12345678
+deploy:Abc.123456
+test:111
+steam:qazxsw
+sammy:123456789
