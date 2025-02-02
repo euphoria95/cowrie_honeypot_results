@@ -178,3 +178,4 @@ emqx:123456
 odoo15:odoo123
 ubuntu:ubuntu@12345
 bmp:bmp123
+ftpuser:12345a
