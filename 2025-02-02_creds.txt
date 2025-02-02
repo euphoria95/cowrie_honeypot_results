@@ -193,3 +193,6 @@ yafei:yafei123
 es:es123456
 julien:julien
 nhat:nhat123
+steam:asdfasdf
+root:123456
+sammy:p@ssw0rd
