@@ -31,3 +31,17 @@ user:P@ssw0rd
 debian:qwe123
 es:Password01
 sammy:abdd1234
+user1:Password12345
+alex:22222222
+user:1qaz2wsx!
+server:2024!
+server:abc
+test1:P@55word
+ftpuser:1q2w3e
+deploy:Qwe12345
+deploy:123!@#QWE
+debian:P@ssw0rd.
+deploy:abc123$$$
+test1:2022
+dev:qaz123!@#
+es:test123
