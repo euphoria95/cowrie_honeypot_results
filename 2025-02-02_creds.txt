@@ -179,3 +179,11 @@ odoo15:odoo123
 ubuntu:ubuntu@12345
 bmp:bmp123
 ftpuser:12345a
+cristina:cristina
+dispatcher:dispatcher123
+bbb:bbb
+dbuser:dbuser
+aeroone:123456
+apc:apc
+campus:campus123
+emanuel:emanuel
