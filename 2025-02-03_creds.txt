@@ -103,3 +103,5 @@ fitcadftp:12345678
 lmg:1234
 malay:malay@123
 mhwei:P@ssw0rd
+chris:123456
+mas:mas123
