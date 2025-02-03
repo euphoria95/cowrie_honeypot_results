@@ -97,3 +97,6 @@ nasrin:nasrin123
 zookeeper:123456
 docker:docker
 system:123
+agsadmin:123456
+psc:123
+fitcadftp:12345678
