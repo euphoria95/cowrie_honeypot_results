@@ -100,3 +100,6 @@ system:123
 agsadmin:123456
 psc:123
 fitcadftp:12345678
+lmg:1234
+malay:malay@123
+mhwei:P@ssw0rd
