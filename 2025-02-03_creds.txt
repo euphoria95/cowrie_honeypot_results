@@ -42,3 +42,4 @@ es:1qazxsw23edc
 steam:1a2b3c!@#
 git:P@ssw0rd2025
 debian:P@ssw0rd@2024
+hamid:hamid
