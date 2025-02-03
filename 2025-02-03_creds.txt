@@ -68,3 +68,11 @@ zabbix:123456789
 odoo15:odoo123
 mania:mania123
 lidia:lidia
+liujie:liujie123
+gabriele:gabriele123
+silence:silence
+teste:123
+test5:test5123
+admin:ericsson
+zabbix:zabbix123
+jellyfin:123456
