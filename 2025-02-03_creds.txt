@@ -1,2 +1,7 @@
 ansible:ansible
 guest:guest
+root:root
+dev:P@ssw0rd12
+ftpuser:1100
+sammy:root123
+ubuntu:Password12345
