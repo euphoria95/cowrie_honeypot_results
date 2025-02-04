@@ -60,3 +60,4 @@ user1:abc123
 mcj:12345678
 yau:P@ssw0rd
 debian:Admin@2025
+admin:security
