@@ -63,3 +63,6 @@ debian:Admin@2025
 admin:security
 hrm:123
 root:root
+nadim:123456
+atlas:atlas
+bb:123456
