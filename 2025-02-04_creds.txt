@@ -69,3 +69,6 @@ bb:123456
 wilson:wilson
 student5:student5
 ak:123456
+es:010101
+server:Qwerty123.
+ubuntu:root2024
