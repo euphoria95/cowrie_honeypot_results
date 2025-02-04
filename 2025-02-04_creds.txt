@@ -143,3 +143,7 @@ manager:123456
 kserge:123456
 dhg:dhg123
 tera:tera
+steam:ADMIN
+deploy:3735566
+alex:1234567890
+test:A1234567a
