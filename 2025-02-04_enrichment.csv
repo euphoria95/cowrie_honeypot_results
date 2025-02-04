@@ -1,1 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
+211.50.87.148,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
+185.147.124.97,SSH-2.0-Go,RU,JSC Selectel,
+185.67.82.114,SSH-2.0-OpenSSH_9.9,FI,Cinia Oy,
+190.167.237.191,SSH-2.0-libssh_0.9.6,DO,CompaÃ±Ã­a Dominicana de TelÃ©fonos S. A.,
