@@ -150,3 +150,13 @@ test:A1234567a
 sol:sol
 git:A1234567a
 solana:solana
+test:123321
+debian:hello@123
+ubuntu:qwerasdf
+test:123QWEasd
+ubuntu:Abc123...
+test:123qwe!@
+admin:admin@321
+debian:qazwsx12
+test1:2025
+git:Abc12345
