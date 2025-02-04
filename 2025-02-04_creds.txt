@@ -147,3 +147,6 @@ steam:ADMIN
 deploy:3735566
 alex:1234567890
 test:A1234567a
+sol:sol
+git:A1234567a
+solana:solana
