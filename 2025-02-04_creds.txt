@@ -18,3 +18,10 @@ gitolite:gitolite
 abdi:123456
 345gs5662d34:345gs5662d34
 haichao:haichao123
+tk:tk123
+ash:123456
+swapna:swapna
+odoo:123456789
+noel:noel123
+admin:Admin123
+bb:bb123
