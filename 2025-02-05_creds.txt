@@ -197,3 +197,12 @@ test:admin@2025
 dev:!QAZ2wsx#EDC4rfv
 es:qwer1234!@#$
 dev:ABC123!@#
+admin:Admin@123
+ftpuser:777888
+alex:abcdef
+user1:q1w2e3
+user1:pa$$word
+es:qwertyu
+sammy:abc123.
+git:qwertyu
+test1:Qwert123!
