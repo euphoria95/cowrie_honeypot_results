@@ -11,3 +11,4 @@ IP address,remote ssh version,country_code2,organization,asn
 112.91.126.10,,CN,China Unicom IP network China169 Guangdong province,
 199.45.155.71,SSH-2.0-Go,HK,"Censys, Inc.",
 14.103.115.85,,CN,China Telecom (Group),
+198.235.24.244,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
