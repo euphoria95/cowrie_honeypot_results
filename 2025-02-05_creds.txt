@@ -206,3 +206,5 @@ es:qwertyu
 sammy:abc123.
 git:qwertyu
 test1:Qwert123!
+debian:P@ssw0rd123!
+dev:Qq@123456
