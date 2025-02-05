@@ -24,3 +24,8 @@ IP address,remote ssh version,country_code2,organization,asn
 4.151.38.210,,US,Microsoft Corporation,
 103.81.86.208,SSH-2.0-libssh_0.9.6,VN,Thien Quang Digital technology joint stock company,
 112.173.172.175,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
+165.232.100.223,SSH-2.0-libssh_0.9.6,GB,"DigitalOcean, LLC",
+197.5.145.121,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
+172.105.128.11,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+194.0.234.38,SSH-2.0-libssh_0.10.5,LT,SKYNET NETWORK LTD,
+187.62.153.51,SSH-2.0-libssh_0.9.6,BR,MEGALINK INTERNET,
