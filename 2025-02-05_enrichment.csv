@@ -21,3 +21,6 @@ IP address,remote ssh version,country_code2,organization,asn
 146.59.230.1,SSH-2.0-libssh_0.9.6,FR,OVH SAS,
 89.97.218.142,SSH-2.0-libssh_0.9.6,IT,Fastweb SpA,
 36.41.173.185,,CN,CHINANET SHAANXI province Cloud Base network,
+4.151.38.210,,US,Microsoft Corporation,
+103.81.86.208,SSH-2.0-libssh_0.9.6,VN,Thien Quang Digital technology joint stock company,
+112.173.172.175,SSH-2.0-libssh2_1.11.0,KR,Korea Telecom,
