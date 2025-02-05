@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 119.159.234.131,SSH-2.0-libssh_0.9.6,PK,Pakistan Telecommuication company limited,
 64.62.156.98,SSH-2.0-Go,US,Hurricane Electric LLC,
 112.91.126.10,,CN,China Unicom IP network China169 Guangdong province,
+199.45.155.71,SSH-2.0-Go,HK,"Censys, Inc.",
+14.103.115.85,,CN,China Telecom (Group),
