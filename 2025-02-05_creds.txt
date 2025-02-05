@@ -186,3 +186,14 @@ informix:password
 allan:123456
 mapr:mapr
 zaid:123456
+debian:12341234
+ftpuser:admin
+alex:P4ssword
+dev:Pass1234
+es:1qaz@WSX#EDC
+steam:P@55w0rd
+user:qwert123.
+test:admin@2025
+dev:!QAZ2wsx#EDC4rfv
+es:qwer1234!@#$
+dev:ABC123!@#
