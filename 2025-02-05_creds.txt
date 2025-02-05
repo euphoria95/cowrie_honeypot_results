@@ -180,3 +180,9 @@ yoo:yoo123
 lukasz:lukasz123
 justin:justin
 user:12345678
+tv:tv123
+worker:worker
+informix:password
+allan:123456
+mapr:mapr
+zaid:123456
