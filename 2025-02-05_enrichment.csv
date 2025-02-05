@@ -13,3 +13,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.115.85,,CN,China Telecom (Group),
 198.235.24.244,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 45.79.181.179,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+218.245.63.224,SSH-2.0-libssh_0.9.6,CN,China Networks Inter-Exchange,
