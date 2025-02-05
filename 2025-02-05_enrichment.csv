@@ -7,3 +7,5 @@ IP address,remote ssh version,country_code2,organization,asn
 41.211.31.106,SSH-2.0-libssh_0.9.6,GH,"Teledata, Ghana",
 61.240.213.169,,CN,CHINA UNICOM China169 Backbone,
 119.159.234.131,SSH-2.0-libssh_0.9.6,PK,Pakistan Telecommuication company limited,
+64.62.156.98,SSH-2.0-Go,US,Hurricane Electric LLC,
+112.91.126.10,,CN,China Unicom IP network China169 Guangdong province,
