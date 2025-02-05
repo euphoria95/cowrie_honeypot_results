@@ -70,3 +70,11 @@ test:12344321
 deploy:1qazxsw23edc
 debian:qq123456
 sammy:1qaz2WSX
+sammy:Admin123!
+wayne:password
+egi:P@ssw0rd
+server:Aa@123456
+debian:QWERqwer1234
+es:159357
+kuku:kuku
+debian:12345678Abc
