@@ -208,3 +208,14 @@ git:qwertyu
 test1:Qwert123!
 debian:P@ssw0rd123!
 dev:Qq@123456
+es:letmein
+admin:Pa55w0rd!
+mcj:mcj
+leegh:leegh
+bond:123456
+gitadmin:gitadmin123
+tong:tong
+user:12332!
+marif:1234
+life:123456
+cacti:P@ssw0rd
