@@ -29,3 +29,4 @@ IP address,remote ssh version,country_code2,organization,asn
 172.105.128.11,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
 194.0.234.38,SSH-2.0-libssh_0.10.5,LT,SKYNET NETWORK LTD,
 187.62.153.51,SSH-2.0-libssh_0.9.6,BR,MEGALINK INTERNET,
+220.87.52.76,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
