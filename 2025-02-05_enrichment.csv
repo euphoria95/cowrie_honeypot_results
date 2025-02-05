@@ -34,3 +34,7 @@ IP address,remote ssh version,country_code2,organization,asn
 116.193.190.105,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
 183.83.196.204,SSH-2.0-libssh_0.9.6,IN,"Atria Convergence Technologies Pvt. Ltd.,",
 195.178.110.67,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
+64.23.213.230,SSH-2.0-libssh_0.9.6,US,"DigitalOcean, LLC",
+14.103.105.243,,CN,China Telecom (Group),
+103.31.38.8,SSH-2.0-libssh_0.9.6,ID,PT Cloud Hosting Indonesia,
+92.205.230.57,SSH-2.0-libssh_0.9.6,FR,Host Europe GmbH,
