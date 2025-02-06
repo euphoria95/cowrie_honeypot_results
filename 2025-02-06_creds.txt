@@ -92,3 +92,15 @@ sammy:2024!
 test1:Aa123123
 finance:12345678
 server:123456qwerty
+train1:train1123
+redmine:redmine@123
+mwells:mwells@123
+mse:mse@123
+mannan:12345678
+auction:12345
+ankur:password
+nhc:nhc
+vikas:1234
+complex:password
+marine:marine
+master:master@123
