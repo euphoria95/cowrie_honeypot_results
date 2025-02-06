@@ -1,3 +1,8 @@
 IP address,remote ssh version,country_code2,organization,asn
 167.94.138.57,SSH-2.0-Go,US,"Censys, Inc.",
 195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
+180.184.134.158,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
+59.124.90.236,SSH-2.0-libssh_0.9.6,TW,"Chunghwa Telecom Co., Ltd.",
+51.77.58.143,SSH-2.0-libssh_0.9.6,PL,OVH SAS,
+185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+14.103.116.173,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
