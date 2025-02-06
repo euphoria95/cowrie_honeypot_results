@@ -156,3 +156,11 @@ Admin:123
 steam:123qwe
 telnet:abcd1234
 345gs5662d34:345gs5662d34
+steam:password@123
+newftpuser:newftpuser
+git:adminadmin
+debian:Password@123
+server:Qaz1wsx2
+dev:@dm1n@123
+debian:Abc123...
+server:p@55w0rd
