@@ -52,3 +52,11 @@ test:P@ssw0rd123@
 user1:Aa@123456
 chain:chain
 jwy:123456
+jay:123456
+wwl:12345
+lihui:lihui
+train:P@ssw0rd
+userweb:12345
+tom:P@ssw0rd
+malay:password
+foo:foo123
