@@ -164,3 +164,11 @@ server:Qaz1wsx2
 dev:@dm1n@123
 debian:Abc123...
 server:p@55w0rd
+pqc:pqc
+anwar:12345678
+globe:password
+pro:123
+dst:password
+zbl:zbl123
+vidya:123
+lcarey:lcarey@123
