@@ -51,3 +51,4 @@ user:root
 test:P@ssw0rd123@
 user1:Aa@123456
 chain:chain
+jwy:123456
