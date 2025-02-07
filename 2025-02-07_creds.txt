@@ -69,3 +69,4 @@ foxhis:123456
 345gs5662d34:345gs5662d34
 odoo:odoo123
 krodriguez:krodriguez
+kuku:kuku
