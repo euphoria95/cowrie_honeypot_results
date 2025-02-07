@@ -4,3 +4,9 @@ nia:P@ssw0rd
 pi:raspberry
 pi:raspberryraspberry993311
 import:12345678
+test:Admin@2025
+server:Abc123...
+test:admin.123
+user:Qwerty123.
+sammy:123123
+git:root1234
