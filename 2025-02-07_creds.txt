@@ -10,3 +10,13 @@ test:admin.123
 user:Qwerty123.
 sammy:123123
 git:root1234
+collector:collector
+postgres:postgres
+nagios:nagios
+mcserver:minecraft
+test:123456
+hadoop:123456
+mcserver:mcserver
+ubuntu:ubuntu
+apiserver:apiserver
+minecraft:minecraft
