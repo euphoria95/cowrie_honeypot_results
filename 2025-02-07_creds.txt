@@ -80,3 +80,8 @@ centos:centos
 steam:steam
 olm:olm
 hadoop:hadoop
+admin:147852369
+admin:P@ssw9rd
+user:123456aA@
+steam:admin00
+test:Password2024
