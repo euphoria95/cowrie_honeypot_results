@@ -70,3 +70,7 @@ foxhis:123456
 odoo:odoo123
 krodriguez:krodriguez
 kuku:kuku
+test:abcd-1234
+ubuntu:123654
+sammy:Pa55w0rd!
+debian:qazwsx
