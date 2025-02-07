@@ -57,3 +57,11 @@ dev:2023!
 dev:123.qwe
 admin:admin123456789
 es:!QAZ2wsx3edc
+admin:qwerty123
+user:123qwe123
+sammy:12qwaszx
+steam:Abc.123456
+user1:pa55
+alex:abc.123456
+admin:12341234
+sammy:88888888
