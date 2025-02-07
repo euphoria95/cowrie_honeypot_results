@@ -8,3 +8,7 @@ IP address,remote ssh version,country_code2,organization,asn
 198.235.24.237,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 103.130.219.202,SSH-2.0-libssh_0.9.6,VN,Webico Company Limited,
 119.204.199.162,SSH-2.0-Go,KR,Korea Telecom,
+45.79.181.251,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+61.188.178.199,SSH-2.0-Go,CN,CHINANET SiChuan Telecom Internet Data Center,
+115.141.16.196,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+203.34.48.55,SSH-2.0-Go,CN,Cloud Computing Corporation,
