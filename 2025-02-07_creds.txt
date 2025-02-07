@@ -65,3 +65,7 @@ user1:pa55
 alex:abc.123456
 admin:12341234
 sammy:88888888
+foxhis:123456
+345gs5662d34:345gs5662d34
+odoo:odoo123
+krodriguez:krodriguez
