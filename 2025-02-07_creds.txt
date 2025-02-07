@@ -20,3 +20,17 @@ mcserver:mcserver
 ubuntu:ubuntu
 apiserver:apiserver
 minecraft:minecraft
+temp:temp1
+max:max!123
+ansuser:Ansuser1
+oracle:oracle!@#$
+deployer:deployer!123
+testuser:Testuser1
+ftpuser:ftpuser@1234
+carlos:carlos1234
+sa:Sa123
+craft:craft!@#
+dockeradmin:Dockeradmin1234
+pedro:Pedro1
+service:service
+naveen:naveen123
