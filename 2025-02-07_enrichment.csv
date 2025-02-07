@@ -5,3 +5,5 @@ IP address,remote ssh version,country_code2,organization,asn
 142.180.206.44,SSH-2.0-OpenSSH_6.7p2,CA,Bell Canada,
 14.103.161.172,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 18.216.255.232,SSH-2.0-Go,US,"Amazon.com, Inc.",
+198.235.24.237,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+103.130.219.202,SSH-2.0-libssh_0.9.6,VN,Webico Company Limited,
