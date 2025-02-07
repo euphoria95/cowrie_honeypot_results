@@ -74,3 +74,9 @@ test:abcd-1234
 ubuntu:123654
 sammy:Pa55w0rd!
 debian:qazwsx
+vyos:123456
+kafka:123456
+centos:centos
+steam:steam
+olm:olm
+hadoop:hadoop
