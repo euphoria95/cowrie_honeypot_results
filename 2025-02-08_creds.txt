@@ -29,3 +29,4 @@ debian:letmein123
 git:admin@12345
 user:Password1
 345gs5662d34:345gs5662d34
+root:root
