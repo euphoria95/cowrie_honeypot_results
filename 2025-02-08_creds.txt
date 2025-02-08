@@ -49,3 +49,13 @@ test:M3gaP33!
 user:qwe123@#
 alex:1234567890qwertyuiop
 deploy:asd123
+usr:usr
+odoo:123456
+oracle:oracle
+steam:steam
+centos:centos
+test:test
+ansible:ansible
+minecraft:123456
+ubuntu:ubuntu
+root:123456
