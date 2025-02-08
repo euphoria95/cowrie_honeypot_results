@@ -59,3 +59,10 @@ ansible:ansible
 minecraft:123456
 ubuntu:ubuntu
 root:123456
+ftpuser:1q2w3e
+ubuntu:94
+alex:22222222
+deploy:123!@#QWE
+steam:123qwe
+dev:qaz123!@#
+test:1234512345
