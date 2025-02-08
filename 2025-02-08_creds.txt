@@ -30,3 +30,4 @@ git:admin@12345
 user:Password1
 345gs5662d34:345gs5662d34
 root:root
+ubuntu:1q2w3e4r5
