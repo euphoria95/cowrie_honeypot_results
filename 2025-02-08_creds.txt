@@ -84,3 +84,8 @@ dev:Password1!
 steam:123@qaz
 alex:abcd1234!
 git:test@12345
+alex:!QAZ2wsx3edc
+roger:roger
+afrid:afrid
+db2iadm1:db2iadm1
+wx:wx
