@@ -31,3 +31,11 @@ user:Password1
 345gs5662d34:345gs5662d34
 root:root
 ubuntu:1q2w3e4r5
+es:pass$123
+steam:P@ssw0rd!
+git:root123456
+alex:adminqwe
+debian:Password!1
+server:123qwez
+deploy:admin#123
+admin:Aa000000
