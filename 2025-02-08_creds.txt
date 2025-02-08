@@ -74,3 +74,4 @@ steam:123456Qw
 dev:qwe123
 ubuntu:1234QWer
 deploy:admin1234
+checkfsys:checkfsys
