@@ -75,3 +75,12 @@ dev:qwe123
 ubuntu:1234QWer
 deploy:admin1234
 checkfsys:checkfsys
+debian:P@$$w0rd1234
+es:Welcome@1234
+server:qwaszx
+user:123321
+deploy:123!@#
+dev:Password1!
+steam:123@qaz
+alex:abcd1234!
+git:test@12345
