@@ -66,3 +66,5 @@ deploy:123!@#QWE
 steam:123qwe
 dev:qaz123!@#
 test:1234512345
+ftpuser:Qq123456
+deploy:abc123456789
