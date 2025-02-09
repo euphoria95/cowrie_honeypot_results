@@ -36,3 +36,7 @@ root:root
 riina:riina
 aldous:aldous
 nr2g:nr2g
+user1:123123
+test1:112
+alex:Admin@2025
+test:123456@abc
