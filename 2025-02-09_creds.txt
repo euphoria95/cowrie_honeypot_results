@@ -32,3 +32,4 @@ ubuntu:Password.1
 debian:P@ssw0rd$
 master:master
 user:P@55w0rd
+root:root
