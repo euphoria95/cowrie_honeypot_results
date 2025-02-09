@@ -1,1 +1,5 @@
 IP address,remote ssh version,country_code2,organization,asn
+220.248.35.196,SSH-2.0-libssh_0.9.6,CN,China Unicom Shanghai network,
+185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+14.103.79.11,,CN,China Telecom (Group),
