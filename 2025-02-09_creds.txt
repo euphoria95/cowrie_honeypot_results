@@ -72,3 +72,10 @@ debian:123
 sammy:abdd1234
 alex:12344321
 345gs5662d34:345gs5662d34
+jmarquez:jmarquez
+ofbiz:ofbiz
+marcus:marcus
+suser:suser
+jbernal:jbernal
+antonio:antonio
+cdl:cdl
