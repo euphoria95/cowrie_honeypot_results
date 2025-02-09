@@ -33,3 +33,6 @@ debian:P@ssw0rd$
 master:master
 user:P@55w0rd
 root:root
+riina:riina
+aldous:aldous
+nr2g:nr2g
