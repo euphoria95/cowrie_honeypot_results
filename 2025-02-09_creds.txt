@@ -105,3 +105,4 @@ armin:armin
 getosindex:getosindex
 hlm:hlm
 mbett:mbett
+eggdrop:eggdrop
