@@ -18,3 +18,7 @@ gmodserver:Welcome@123
 free:123456
 neo4j:ChangeMe
 test12:password
+andi:andi
+rita:rita
+anti:anti
+emc:emc
