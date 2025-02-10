@@ -166,3 +166,10 @@ magno:magno
 dafong:dafong
 neal:neal
 sdbadmin:sdbadmin
+user:user
+gpadmin:gpadmin
+cliadmin:voip
+vpn:vpn
+ubnt:ubnt
+admin:admin
+telecomadmin:nE7jA%5m
