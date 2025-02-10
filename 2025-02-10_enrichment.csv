@@ -4,3 +4,5 @@ IP address,remote ssh version,country_code2,organization,asn
 185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 205.210.31.20,,BR,Google LLC,
 3.137.180.188,SSH-2.0-Go,US,"Amazon.com, Inc.",
+14.34.157.138,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
+52.189.75.167,SSH-2.0-Go,US,Microsoft Corporation,
