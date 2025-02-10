@@ -27,3 +27,8 @@ zdy:zdy
 bitnami:bitnami
 openhabian:openhabian
 dspace:dspace
+yq:yq
+bob:bob
+kasni:kasni
+sp:sp
+enter:enter
