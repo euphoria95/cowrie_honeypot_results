@@ -32,3 +32,9 @@ bob:bob
 kasni:kasni
 sp:sp
 enter:enter
+weblogic:123456
+pal:welcome1
+upload:1234
+pivpn:password
+www:0
+luis:ChangeMe
