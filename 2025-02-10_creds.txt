@@ -48,3 +48,7 @@ eric:Password123!
 pzuser:Welcome@123
 samsat:samsat
 integration:integration
+teamspeak:teamspeak
+docker:docker@123
+builder:!
+valheim:ChangeMe
