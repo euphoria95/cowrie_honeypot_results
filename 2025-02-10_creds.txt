@@ -38,3 +38,11 @@ upload:1234
 pivpn:password
 www:0
 luis:ChangeMe
+ftpuser:P@ssw0rd
+manager:ChangeMe
+ahmad:Welcome1
+testing:Welcome123
+satisfactory:1111111
+stack:P@ssw0rd
+eric:Password123!
+pzuser:Welcome@123
