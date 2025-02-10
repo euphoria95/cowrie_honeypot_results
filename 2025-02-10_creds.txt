@@ -5,3 +5,16 @@ git:1
 ollama:qwerty123
 docker:Welcome123
 vishal:123456
+payroll:payroll
+alireza:123456
+runner:qwerty123
+aiftp:aiftp
+user:qwerty123
+postfix:postfix
+hadi:hadi
+gitea:1
+rustserver:password
+gmodserver:Welcome@123
+free:123456
+neo4j:ChangeMe
+test12:password
