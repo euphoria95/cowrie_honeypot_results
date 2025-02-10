@@ -22,3 +22,8 @@ andi:andi
 rita:rita
 anti:anti
 emc:emc
+tol:tol
+zdy:zdy
+bitnami:bitnami
+openhabian:openhabian
+dspace:dspace
