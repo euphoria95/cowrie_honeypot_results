@@ -1,0 +1,7 @@
+luis:123456
+michael:michael
+newusername:Welcome123
+git:1
+ollama:qwerty123
+docker:Welcome123
+vishal:123456
