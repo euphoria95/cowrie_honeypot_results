@@ -114,3 +114,6 @@ ubuntu:123456
 minecraft:123456
 hadoop:123456
 print:print
+lamartine:lamartine
+taysa:taysa
+denver:denver
