@@ -98,3 +98,11 @@ autcom:!
 grader:123456
 rcagnazzo:rcagnazzo
 root:root
+usr:123456
+qemu:qemu
+postgres:postgres
+vyos:vyos
+admin:123456
+centos:centos
+admin:admin
+steam:steam
