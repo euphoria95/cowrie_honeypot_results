@@ -195,3 +195,12 @@ nominatim:nominatim
 claude:claude
 gnp:gnp
 zhang:zhang
+steam:123
+satisfactory:P@ssw0rd
+builduser:builduser
+pzserver:123456
+ts2:changeme
+smart:123456
+proxyuser:123456
+backupuser:changeme
+jerry:qwerty123
