@@ -156,3 +156,11 @@ ivan:P@ssw0rd
 andrew:123456
 syncthing:syncthing@123
 abcdefg:abcdefg123
+local:local
+uw:uw
+agfa:agfa
+jiu:jiu
+usuario1:usuario1
+lwhite:lwhite
+suse:suse
+tektronix:tektronix
