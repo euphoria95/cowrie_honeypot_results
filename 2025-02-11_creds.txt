@@ -85,3 +85,8 @@ liuhy:liuhy
 jo:jo
 rsulyaev:rsulyaev
 amendoza:amendoza
+test12:12345
+test1:changeme
+antonio:password
+evertz:123456
+docker:1111111
