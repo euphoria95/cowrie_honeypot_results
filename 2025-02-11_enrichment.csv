@@ -16,3 +16,4 @@ IP address,remote ssh version,country_code2,organization,asn
 222.98.122.37,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 14.103.170.144,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 60.190.239.92,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
+93.84.100.70,SSH-2.0-libssh2_1.11.0,BY,Republican Unitary Telecommunication Enterprise Beltelecom,
