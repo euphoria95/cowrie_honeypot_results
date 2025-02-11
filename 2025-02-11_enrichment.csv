@@ -17,3 +17,6 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.170.144,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 60.190.239.92,SSH-2.0-libssh_0.9.6,CN,"No.31,Jin-rong Street",
 93.84.100.70,SSH-2.0-libssh2_1.11.0,BY,Republican Unitary Telecommunication Enterprise Beltelecom,
+178.62.42.109,GET / HTTP/1.1,GB,"DigitalOcean, LLC",
+121.178.185.141,SSH-2.0-Go,KR,Korea Telecom,
+80.82.70.133,GET / HTTP/1.0,NL,IP Volume inc,
