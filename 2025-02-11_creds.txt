@@ -147,3 +147,12 @@ android:123456
 server:Password123!
 postgres:123456
 new:123456
+monit:monit
+sql:sql
+mcbserver:welcome123
+aaaa:123456
+burak:burak123
+ivan:P@ssw0rd
+andrew:123456
+syncthing:syncthing@123
+abcdefg:abcdefg123
