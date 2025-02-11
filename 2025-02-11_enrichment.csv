@@ -13,3 +13,4 @@ IP address,remote ssh version,country_code2,organization,asn
 74.211.100.211,SSH-2.0-libssh_0.9.6,US,IT7 Networks Inc,
 223.197.186.7,SSH-2.0-libssh_0.9.6,HK,PCCW IMS Limited,
 104.234.115.100,SSH-2.0-Go,US,Google LLC,
+222.98.122.37,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
