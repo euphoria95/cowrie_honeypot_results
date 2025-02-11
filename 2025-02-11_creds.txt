@@ -106,3 +106,10 @@ admin:123456
 centos:centos
 admin:admin
 steam:steam
+root:123456
+user:user
+kubelet:kubelet
+cluster:cluster
+ubuntu:123456
+minecraft:123456
+hadoop:123456
