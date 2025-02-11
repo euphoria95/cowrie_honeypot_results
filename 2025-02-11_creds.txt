@@ -90,3 +90,10 @@ test1:changeme
 antonio:password
 evertz:123456
 docker:1111111
+thomas:111
+kernelsys:kernelsys
+testing:password
+erfan:123456
+autcom:!
+grader:123456
+rcagnazzo:rcagnazzo
