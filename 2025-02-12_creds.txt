@@ -1,0 +1,9 @@
+test:welcome123
+ec2-user:Welcome123
+amine:amine
+ivan:welcome1
+sql:sql
+cloud-user:111
+mcbserver:1234
+pwserver:pwserver123
+www:1111111
