@@ -103,3 +103,9 @@ craft:craft
 comercial:123456
 ubuntu:ubuntu
 ts3server:P@ssw0rd
+admin:1
+steam:welcome1
+newuser:changeme
+transmission:1234
+post:post123
+pzuser:111
