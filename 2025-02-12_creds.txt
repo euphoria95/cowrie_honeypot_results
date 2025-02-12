@@ -179,3 +179,10 @@ alexis:alexis
 autrede:1
 tsserver:tsserver@123
 lch:Welcome@123
+gitea:!
+gitea:1111111
+in:in
+kodi:Welcome1
+arun:arun123
+jahan:jahan@123
+thomas:ChangeMe
