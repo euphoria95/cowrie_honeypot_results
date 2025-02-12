@@ -90,3 +90,7 @@ minecraft:minecraft
 dell:dell
 ocean:ocean
 www:P@ssw0rd
+ramon:ramon
+manju:manju
+ktk:ktk
+root:123456
