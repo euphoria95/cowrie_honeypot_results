@@ -98,3 +98,8 @@ carrie:carrie
 sandra:sandra
 gou:gou
 lipeng:lipeng
+ts2:ts2123
+craft:craft
+comercial:123456
+ubuntu:ubuntu
+ts3server:P@ssw0rd
