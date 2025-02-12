@@ -87,3 +87,6 @@ m:m
 mcserver:minecraft
 nfsnobody:nfsnobody
 minecraft:minecraft
+dell:dell
+ocean:ocean
+www:P@ssw0rd
