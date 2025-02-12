@@ -1,3 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 197.5.145.73,SSH-2.0-libssh_0.9.6,TN,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),
+14.103.116.192,,CN,China Telecom (Group),
+206.168.34.56,SSH-2.0-Go,US,"Censys, Inc.",
+167.94.138.51,SSH-2.0-Go,US,"Censys, Inc.",
