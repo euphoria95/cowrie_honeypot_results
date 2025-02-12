@@ -139,3 +139,12 @@ lee:111
 steam:Welcome@123
 ts3server:welcome1
 frappe:welcome1
+ina:ina
+marvin:marvin
+nodeproxy:nodeproxy
+botuser:123456
+elastic:1
+resumes:resumes
+mcserver2:mcserver2
+proxyuser1:Password123!
+ark:qwerty123
