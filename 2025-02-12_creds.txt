@@ -94,3 +94,7 @@ ramon:ramon
 manju:manju
 ktk:ktk
 root:123456
+carrie:carrie
+sandra:sandra
+gou:gou
+lipeng:lipeng
