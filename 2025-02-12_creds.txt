@@ -148,3 +148,6 @@ resumes:resumes
 mcserver2:mcserver2
 proxyuser1:Password123!
 ark:qwerty123
+staging:welcome123
+bitwarden:!
+mc:Password123!
