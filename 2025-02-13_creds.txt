@@ -81,3 +81,17 @@ fox:fox@123
 develop:develop
 roots:roots@123
 zbx:123456
+usb:usb
+lll:lll
+javira:javira
+rz:rz
+center:center
+ita:ita
+had:had
+alix:alix
+daemond:daemond
+lei:lei
+testsfts:testsfts
+mumbleserver:mumbleserver
+amaniyeri:amaniyeri
+clay:clay
