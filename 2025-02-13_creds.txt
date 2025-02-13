@@ -1,0 +1,16 @@
+minecraft:123456
+kafka:123456
+postgres:123456
+vyos:123456
+postgres:postgres
+oracle:123456
+mcserver:mcserver
+centos:centos
+minecraft:minecraft
+debian:debian
+ansible:ansible
+root:root
+user:123456
+zjw:zjw
+user:user
+ubuntu:123456
