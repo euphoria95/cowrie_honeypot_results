@@ -75,3 +75,5 @@ cs2server:0
 kiosk:Welcome@123
 ubuntu:1111111
 azureuser:111
+luna:luna@123
+hammad:hammad@123
