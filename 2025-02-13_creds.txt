@@ -37,3 +37,10 @@ centos:1234
 ampal:123456
 shree:shree
 devops:P@ssw0rd
+grafana:!
+autrede:Welcome@123
+es:123456
+munin:munin
+mostafa:changeme
+webadmin:qwerty123
+alumno:alumno
