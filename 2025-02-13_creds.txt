@@ -14,3 +14,10 @@ user:123456
 zjw:zjw
 user:user
 ubuntu:123456
+kvm:kvm
+deploy:deploy
+openvswitch:openvswitch
+mcserver:minecraft
+oracle:oracle
+hadoop:hadoop
+admin:admin
