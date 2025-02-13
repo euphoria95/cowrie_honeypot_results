@@ -77,3 +77,4 @@ ubuntu:1111111
 azureuser:111
 luna:luna@123
 hammad:hammad@123
+fox:fox@123
