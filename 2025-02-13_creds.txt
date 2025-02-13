@@ -78,3 +78,6 @@ azureuser:111
 luna:luna@123
 hammad:hammad@123
 fox:fox@123
+develop:develop
+roots:roots@123
+zbx:123456
