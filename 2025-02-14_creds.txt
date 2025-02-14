@@ -70,3 +70,4 @@ raj:raj
 solutec:solutec
 rtorrent:123456
 sonu:sonu123
+root:root
