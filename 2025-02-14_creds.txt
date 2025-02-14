@@ -2,3 +2,12 @@ shin:123456
 dbuser:ChangeMe
 lucid:123456
 zak:zak
+nexus:nexus
+svn:123456
+usuario:Welcome@123
+work:Welcome123
+summer:summer
+tong:tong@123
+retag:changeme
+ai:ai@123
+deamon:welcome123
