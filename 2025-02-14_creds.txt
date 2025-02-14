@@ -37,3 +37,4 @@ giaou:giaou
 twadmin:twadmin
 npc:npc
 ubuntu:ubuntu
+root:123456
