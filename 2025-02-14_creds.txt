@@ -33,3 +33,7 @@ emmet:emmet
 cloudsigma:cloudsigma
 ns2:ns2
 diag:diag
+giaou:giaou
+twadmin:twadmin
+npc:npc
+ubuntu:ubuntu
