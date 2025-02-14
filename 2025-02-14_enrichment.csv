@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 1.63.226.147,SSH-2.0-libssh_0.9.6,CN,CHINA UNICOM China169 Backbone,
 147.185.132.73,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 2.57.122.195,,RO,UNMANAGED LTD,
+185.247.137.139,SSH-2.0-Go,GB,Driftnet Ltd,
+45.79.128.205,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+64.62.197.228,GET / HTTP/1.1,US,Hurricane Electric LLC,
