@@ -43,3 +43,4 @@ profesor:profesor
 jesus:welcome1
 leon:leon123
 odoo:qwerty123
+antonio:1111111
