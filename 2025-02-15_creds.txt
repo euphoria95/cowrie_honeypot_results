@@ -100,3 +100,16 @@ adrc:adrc
 payara:payara
 smfufu:smfufu
 que:que
+reshma:reshma
+sfarris:sfarris
+ts3:password
+bdadmin:bdadmin
+superuser:superuser
+anunciata:anunciata
+dale:dale
+myuser1:myuser1
+lara:lara
+eachbytr:eachbytr
+yun:yun
+manap:manap
+deploy3:deploy3
