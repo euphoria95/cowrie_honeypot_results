@@ -182,3 +182,5 @@ kafka:123456
 postgres:123456
 devops:devops
 usr:123456
+acer:acer
+teste:teste123
