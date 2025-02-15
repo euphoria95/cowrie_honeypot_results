@@ -224,3 +224,12 @@ polls:123456
 ang:ang@123
 cache:cache@123
 dinesh:dinesh
+didba:didba
+juliana:juliana
+moodle:moodle
+problem:problem
+rise:rise
+apt-mirror:apt-mirror
+ttest:ttest
+adelina:adelina
+rf:rf
