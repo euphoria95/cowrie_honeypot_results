@@ -55,3 +55,11 @@ bee:bee
 tomcat:tomcat
 sk:sk
 jet:jet123
+operator1:operator1
+design1:design1
+liang:liang
+arbeit:arbeit
+ts3bot:ts3bot
+openvpn_as:openvpn_as
+iphone:iphone
+admn:admn
