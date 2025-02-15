@@ -179,3 +179,6 @@ admin:Admin123
 mcserver:mcserver
 mehedi:123456
 kafka:123456
+postgres:123456
+devops:devops
+usr:123456
