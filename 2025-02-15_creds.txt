@@ -73,3 +73,12 @@ pi:ubuntu
 pi:Raspberry
 pi:123
 pi:pi
+usr:usr
+es:es
+oracle:oracle
+admin:123456
+deploy:deploy
+nfsnobody:nfsnobody
+api:api
+minecraft:123456
+kafka:kafka
