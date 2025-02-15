@@ -63,3 +63,13 @@ ts3bot:ts3bot
 openvpn_as:openvpn_as
 iphone:iphone
 admn:admn
+pi:toor
+pi:oracle
+pi:raspberry
+pi:admin
+root:root
+pi:12345678
+pi:ubuntu
+pi:Raspberry
+pi:123
+pi:pi
