@@ -131,3 +131,14 @@ testing:111
 main:main
 builder:1234
 gitlab-psql:welcome1
+guest:guest
+devops:devops
+kvm:kvm
+usr:123456
+api:api
+oracle:oracle
+postgres:postgres
+nagios:nagios
+deploy:deploy
+odoo:odoo
+es:es
