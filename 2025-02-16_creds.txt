@@ -32,3 +32,8 @@ appuser:appuser
 hemamdar:hemamdar
 transoft:transoft
 sulo:sulo
+hky:hky
+jakse:jakse
+sogo:sogo
+debby:debby
+hv:hv
