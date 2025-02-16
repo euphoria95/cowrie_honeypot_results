@@ -69,3 +69,6 @@ unturned:unturned
 wwadmin:wwadmin
 system1:system1
 rocofelu:rocofelu
+admin:hughestnet
+admin:admin123
+admin:admin01
