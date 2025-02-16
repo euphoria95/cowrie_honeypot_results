@@ -72,3 +72,4 @@ rocofelu:rocofelu
 admin:hughestnet
 admin:admin123
 admin:admin01
+ubuntu:ubuntu
