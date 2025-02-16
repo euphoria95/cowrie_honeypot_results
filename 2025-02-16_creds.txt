@@ -1,3 +1,4 @@
 master:changeme
 postgre:postgre
 syncthing:12345678
+tuan:tuan@123
