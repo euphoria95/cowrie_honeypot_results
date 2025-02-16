@@ -99,3 +99,5 @@ root:123456
 test:123456
 vyos:123456
 centos:centos
+mxintadm:mxintadm
+postgres:321
