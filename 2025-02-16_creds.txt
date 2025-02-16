@@ -101,3 +101,12 @@ vyos:123456
 centos:centos
 mxintadm:mxintadm
 postgres:321
+code:code
+laura:123456
+mcbserver:111
+testing:1111111
+artem:artem123
+geonode:123456
+guest:!
+x2goprint:12345
+mcserver:12345678
