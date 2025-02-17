@@ -12,3 +12,5 @@ dspace:dspace
 ansadmin:123
 Admin:Admin
 info:info
+gitlab:gitlab
+panel:123456
