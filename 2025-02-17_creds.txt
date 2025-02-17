@@ -1,0 +1,8 @@
+blog:ChangeMe
+rustserver:welcome1
+guest:12345
+vagrant:P@ssw0rd
+gitlab-psql:12345
+ts3server:123
+michael:123456
+newftpuser:1234
