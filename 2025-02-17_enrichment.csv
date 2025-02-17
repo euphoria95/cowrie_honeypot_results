@@ -6,3 +6,6 @@ IP address,remote ssh version,country_code2,organization,asn
 48.216.196.209,MGLNDD_15.188.246.148_22,US,Microsoft Corporation,
 14.103.113.235,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 205.210.31.37,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+112.4.79.138,SSH-2.0-libssh_0.9.6,CN,China Mobile Communications Corporation,
+64.62.197.142,SSH-2.0-Go,US,Hurricane Electric LLC,
+172.105.128.12,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
