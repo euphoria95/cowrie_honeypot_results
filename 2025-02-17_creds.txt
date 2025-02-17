@@ -42,3 +42,8 @@ builder:ChangeMe
 mcevent:111
 vbox:Password123!
 dspace:ChangeMe
+docker:qwerty123
+maarch:1234
+nas:nas@123
+builduser:Welcome1
+laser:laser123
