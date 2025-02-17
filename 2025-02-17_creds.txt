@@ -47,3 +47,14 @@ maarch:1234
 nas:nas@123
 builduser:Welcome1
 laser:laser123
+jenkins:1
+tv:123456
+ionadmin:ionadmin
+antonio:Welcome123
+ftpuser:12345678
+teamspeak3:ChangeMe
+daniel:welcome123
+sinusbot:12345678
+builder:12345
+tester:12345
+barman:barman
