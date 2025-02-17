@@ -8,3 +8,7 @@ michael:123456
 newftpuser:1234
 webuser:password
 luis:luis@123
+dspace:dspace
+ansadmin:123
+Admin:Admin
+info:info
