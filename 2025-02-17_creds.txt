@@ -6,3 +6,5 @@ gitlab-psql:12345
 ts3server:123
 michael:123456
 newftpuser:1234
+webuser:password
+luis:luis@123
