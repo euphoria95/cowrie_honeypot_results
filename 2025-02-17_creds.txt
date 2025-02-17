@@ -58,3 +58,9 @@ sinusbot:12345678
 builder:12345
 tester:12345
 barman:barman
+ecs:123456
+barman:123456
+ftpsecure:1111111
+ollama:ollama123
+vivi:vivi
+elasticsearch:123456
