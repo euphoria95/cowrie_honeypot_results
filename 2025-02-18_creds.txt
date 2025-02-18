@@ -211,3 +211,9 @@ gitlab-psql:1234
 webuser:12345678
 neo4j:password
 ftp_client:ChangeMe
+mohammad:password
+ekp:0
+autrede:Welcome1
+app:ChangeMe
+jenkins:0
+iptv:123456
