@@ -118,3 +118,11 @@ dst:123456
 ftp_client:ftp_client123
 eoffice:eoffice
 media:123456
+monitor:123
+nexus:0
+esunny:esunny
+support:support
+mapadmin:!
+www-data:12345
+rstudio:!
+samba:changeme
