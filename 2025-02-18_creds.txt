@@ -36,3 +36,4 @@ seafile:seafile
 arief:arief123
 dorian:dorian123
 huy:123456
+root:root
