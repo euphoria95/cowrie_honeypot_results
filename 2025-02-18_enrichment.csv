@@ -10,3 +10,8 @@ IP address,remote ssh version,country_code2,organization,asn
 162.243.208.127,SSH-2.0-Go,US,"DigitalOcean, LLC",
 147.185.132.60,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 121.204.210.92,,CN,Fuzhou,
+36.71.176.180,SSH-2.0-libssh_0.9.6,ID,Telekomunikasi Indonesia (PT),
+101.126.30.126,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
+102.177.84.92,SSH-2.0-libssh_0.9.6,TZ,Simply Computers Tanzania Ltd,
+192.96.218.129,SSH-2.0-libssh_0.9.6,US,"123.Net, Inc.",
+121.229.191.90,,CN,China Telecom,
