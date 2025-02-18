@@ -1,2 +1,6 @@
 IP address,remote ssh version,country_code2,organization,asn
 193.32.162.132,,RO,UNMANAGED LTD,
+188.166.217.79,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+47.76.232.140,SSH-2.0-libssh_0.9.6,HK,"Alibaba (US) Technology Co., Ltd.",
+185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+43.227.66.89,SSH-2.0-Go,CN,CHINANET Liaoning province Dalian MAN network,
