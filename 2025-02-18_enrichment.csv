@@ -6,3 +6,5 @@ IP address,remote ssh version,country_code2,organization,asn
 43.227.66.89,SSH-2.0-Go,CN,CHINANET Liaoning province Dalian MAN network,
 14.18.41.74,,CN,China Telecom,
 59.36.160.42,,CN,"No.31,Jin-rong Street",
+124.48.112.234,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+162.243.208.127,SSH-2.0-Go,US,"DigitalOcean, LLC",
