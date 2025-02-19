@@ -59,3 +59,14 @@ bitwarden:1234
 alice:alice
 upload:Welcome@123
 zabbix:zabbix
+sai:123456
+nick:welcome123
+pzuser:12345678
+bob:bob
+discord:1
+import:import
+www:qwerty123
+tech:tech
+satisfactory:changeme
+daniel:!
+ftpuser:changeme
