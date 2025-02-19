@@ -70,3 +70,10 @@ tech:tech
 satisfactory:changeme
 daniel:!
 ftpuser:changeme
+reda:reda
+tkadmin:tkadmin
+hrm:hrm
+leandro:leandro123
+steamcmd:steamcmd
+rana:rana
+mongodb:123456
