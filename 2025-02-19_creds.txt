@@ -118,3 +118,10 @@ cpc:cpc123
 usr:usr
 ubuntu:123456
 dave:dave123
+steam:welcome123
+clouduser:1111111
+factura:factura
+eli:123456
+ivan:ChangeMe
+arkserver:P@ssw0rd
+csserver:123456
