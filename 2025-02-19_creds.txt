@@ -157,3 +157,7 @@ albert:albert123
 osk:osk
 antonio:antonio
 tan:tan123
+upload:qwerty123
+www-data:1
+alice:123456
+x2goprint:password
