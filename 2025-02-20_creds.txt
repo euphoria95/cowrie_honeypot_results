@@ -140,3 +140,4 @@ local:P@ssw0rd
 network3:network3123
 nexus:ChangeMe
 git-admin:ChangeMe
+root:123456
