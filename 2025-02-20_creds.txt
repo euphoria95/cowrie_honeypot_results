@@ -134,3 +134,6 @@ ssh:Password123!
 mishra:mishra@123
 zy:1
 bao:123456
+eduard:1
+main:1
+local:P@ssw0rd
