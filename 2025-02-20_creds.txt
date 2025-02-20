@@ -137,3 +137,6 @@ bao:123456
 eduard:1
 main:1
 local:P@ssw0rd
+network3:network3123
+nexus:ChangeMe
+git-admin:ChangeMe
