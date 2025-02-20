@@ -14,3 +14,5 @@ IP address,remote ssh version,country_code2,organization,asn
 49.248.17.3,SSH-2.0-libssh_0.9.6,IN,Tata Teleservices (Maharashtra) Ltd,
 115.91.170.141,,KR,LG DACOM Corporation,
 104.234.115.127,SSH-2.0-Go,US,Google LLC,
+190.85.15.251,SSH-2.0-libssh_0.9.6,CO,Telmex Colombia S.A.,
+167.172.111.28,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
