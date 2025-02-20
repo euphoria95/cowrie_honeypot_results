@@ -26,3 +26,4 @@ IP address,remote ssh version,country_code2,organization,asn
 49.7.154.4,SSH-2.0-libssh_0.9.6,CN,"IDC, China Telecommunications Corporation",
 152.32.158.35,SSH-2.0-libssh_0.9.6,IN,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,
 83.48.36.197,SSH-2.0-libssh_0.9.6,ES,TELEFONICA DE ESPANA S.A.U.,
+211.169.53.171,SSH-2.0-libssh2_1.11.0,KR,LG DACOM Corporation,
