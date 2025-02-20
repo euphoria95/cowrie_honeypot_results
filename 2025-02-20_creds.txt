@@ -125,3 +125,12 @@ connect:ChangeMe
 yuriy:P@ssw0rd
 daniel:0
 root:root
+informix:P@ssw0rd123
+parking:parking
+prueba:123456
+reza:reza@123
+laravel:12345678
+ssh:Password123!
+mishra:mishra@123
+zy:1
+bao:123456
