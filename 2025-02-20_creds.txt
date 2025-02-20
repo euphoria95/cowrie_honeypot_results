@@ -121,3 +121,6 @@ webadmin:webadmin123
 hasan:hasan123
 internal:internal
 345gs5662d34:345gs5662d34
+connect:ChangeMe
+yuriy:P@ssw0rd
+daniel:0
