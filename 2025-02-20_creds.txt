@@ -1,0 +1,5 @@
+user:1234
+castro:castro
+telegram:111
+director:director
+backupuser:Welcome1
