@@ -16,3 +16,4 @@ IP address,remote ssh version,country_code2,organization,asn
 104.234.115.127,SSH-2.0-Go,US,Google LLC,
 190.85.15.251,SSH-2.0-libssh_0.9.6,CO,Telmex Colombia S.A.,
 167.172.111.28,SSH-2.0-libssh_0.9.6,DE,"DigitalOcean, LLC",
+18.222.142.117,GET / HTTP/1.1,US,"Amazon.com, Inc.",
