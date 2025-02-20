@@ -34,3 +34,5 @@ IP address,remote ssh version,country_code2,organization,asn
 165.232.188.94,SSH-2.0-libssh_0.9.6,IN,"DigitalOcean, LLC",
 171.244.37.97,SSH-2.0-libssh_0.9.6,VN,Vietel - CHT Compamy Ltd,
 167.94.138.49,SSH-2.0-Go,US,"Censys, Inc.",
+147.185.132.141,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+82.157.100.12,SSH-2.0-makiko,CN,Shenzhen Tencent Computer Systems Company Limited,
