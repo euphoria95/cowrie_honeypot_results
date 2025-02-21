@@ -1,3 +1,4 @@
 345gs5662d34:345gs5662d34
 szy:123456
 dockeruser:1
+asterisk:asterisk@123
