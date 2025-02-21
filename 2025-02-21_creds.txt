@@ -2,3 +2,6 @@
 szy:123456
 dockeruser:1
 asterisk:asterisk@123
+salman:P@ssw0rd
+azuracast:123456
+lch:lch@123
