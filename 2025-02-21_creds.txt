@@ -24,3 +24,8 @@ aluno:0
 tv:tv123
 station:0
 sagar:sagar123
+ardi:ardi
+luciano:P@ssw0rd
+airflow:1234
+usuario:123456
+teamspeak3:teamspeak3
