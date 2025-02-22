@@ -1,0 +1,8 @@
+yui:12345678
+ftpadmin:P@ssw0rd123
+pool:12345678
+ir:P@ssw0rd
+345gs5662d34:345gs5662d34
+runner:123456
+actions:actions
+samba:12345678
