@@ -58,3 +58,4 @@ dvs:1
 import:P@ssw0rd
 costel:P@ssw0rd
 aris:aris@123
+ubuntu:ubuntu
