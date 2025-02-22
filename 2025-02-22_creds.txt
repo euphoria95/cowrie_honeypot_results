@@ -6,3 +6,14 @@ ir:P@ssw0rd
 runner:123456
 actions:actions
 samba:12345678
+toto:1
+user:12345678
+anton:12345678
+login:Password123!
+anil:123456
+server:P@ssw0rd123
+maya:maya123
+system:system@123
+geonode:ChangeMe
+test:123456
+crew:crew@123
