@@ -75,3 +75,7 @@ teste:ChangeMe
 gitea:1
 stack:Password123!
 runner:12345678
+oss:P@ssw0rd123
+cs2server:1
+q:0
+davide:davide123
