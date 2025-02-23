@@ -1,3 +1,8 @@
 345gs5662d34:345gs5662d34
 root:root
 root:123456
+dev:dev@123
+tunnel:P@ssw0rd
+www:0
+actions:actions
+traccar:ChangeMe
