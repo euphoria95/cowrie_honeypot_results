@@ -44,3 +44,4 @@ mauro:12345678
 devuser:P@ssw0rd
 paco:P@ssw0rd
 jacob:ChangeMe
+ftp_client:P@ssw0rd
