@@ -1,0 +1,14 @@
+kodi:P@ssw0rd
+bot:0
+newusername:123456
+ali:1
+azureuser:Password123!
+chromeuser:ChangeMe
+art1:art1
+nexus:P@ssw0rd123
+azureuser:azureuser@123
+345gs5662d34:345gs5662d34
+art1:1
+bot:1
+administrator:administrator@123
+uftp:1
