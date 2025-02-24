@@ -35,3 +35,4 @@ odoo:ChangeMe
 mgeweb:ChangeMe
 station:123456
 joe:joe@123
+filezilla:P@ssw0rd
