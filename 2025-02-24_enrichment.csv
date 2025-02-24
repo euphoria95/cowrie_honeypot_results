@@ -9,3 +9,5 @@ IP address,remote ssh version,country_code2,organization,asn
 206.168.34.63,SSH-2.0-Go,US,"Censys, Inc.",
 103.124.100.115,SSH-2.0-libssh_0.9.6,KR,SK Broadband Co Ltd,
 188.166.223.5,SSH-2.0-libssh_0.9.6,SG,"DigitalOcean, LLC",
+167.94.138.177,SSH-2.0-Go,US,"Censys, Inc.",
+65.49.1.31,GET / HTTP/1.1,US,Hurricane Electric LLC,
