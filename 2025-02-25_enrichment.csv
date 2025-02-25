@@ -17,3 +17,5 @@ IP address,remote ssh version,country_code2,organization,asn
 195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
 206.189.61.226,SSH-2.0-makiko,DE,"DigitalOcean, LLC",
 188.166.165.226,SSH-2.0-Go,DE,"DigitalOcean, LLC",
+198.235.24.242,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
+36.134.69.15,SSH-2.0-libssh_0.9.6,CN,China Mobile Communications Corporation,
