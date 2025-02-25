@@ -3,3 +3,4 @@
 345gs5662d34:345gs5662d34
 ubuntu:ubuntu
 root:123456
+copia:P@ssw0rd
