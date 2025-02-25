@@ -14,3 +14,5 @@ IP address,remote ssh version,country_code2,organization,asn
 74.225.198.160,SSH-2.0-libssh_0.9.6,IN,Microsoft Corporation,
 124.56.225.228,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 192.155.90.220,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+195.178.110.65,SSH-2.0-Go,NL,TECHOFF SRV LIMITED,
+206.189.61.226,SSH-2.0-makiko,DE,"DigitalOcean, LLC",
