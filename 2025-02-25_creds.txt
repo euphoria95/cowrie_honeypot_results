@@ -4,3 +4,9 @@
 ubuntu:ubuntu
 root:123456
 copia:P@ssw0rd
+bot:1
+monitor:12345678
+aaa:aaa@123
+ali:1
+botuser:1
+alex:ChangeMe
