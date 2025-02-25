@@ -22,3 +22,6 @@ IP address,remote ssh version,country_code2,organization,asn
 172.245.106.106,SSH-2.0-Go,US,HostPapa,
 220.90.247.227,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
 103.100.208.157,SSH-2.0-Go,HK,YISU CLOUD LIMITED,
+24.199.113.16,GET / HTTP/1.1,US,"DigitalOcean, LLC",
+119.68.22.51,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+14.199.52.62,SSH-2.0-Go,HK,Hong Kong Broadband Network Ltd,
