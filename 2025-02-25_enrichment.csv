@@ -29,3 +29,5 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.170.16,SSH-2.0-libssh_0.9.6,CN,China Telecom (Group),
 96.45.190.36,SSH-2.0-libssh_0.9.6,US,IT7 Networks Inc,
 116.172.130.191,,CN,CHINA UNICOM China169 Backbone,
+198.235.24.5,SSH-2.0-ZGrab ZGrab SSH Survey,TW,Google LLC,
+147.185.132.147,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
