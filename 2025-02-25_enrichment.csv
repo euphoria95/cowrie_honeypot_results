@@ -19,3 +19,5 @@ IP address,remote ssh version,country_code2,organization,asn
 188.166.165.226,SSH-2.0-Go,DE,"DigitalOcean, LLC",
 198.235.24.242,SSH-2.0-ZGrab ZGrab SSH Survey,US,Google LLC,
 36.134.69.15,SSH-2.0-libssh_0.9.6,CN,China Mobile Communications Corporation,
+172.245.106.106,SSH-2.0-Go,US,HostPapa,
+220.90.247.227,SSH-2.0-libssh_0.9.6,KR,Korea Telecom,
