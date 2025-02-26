@@ -34,3 +34,6 @@ tim:12345678
 ttbot:ttbot@123
 webadmin:ChangeMe
 345gs5662d34:345gs5662d34
+mostafa:mostafa123
+mcuser:P@ssw0rd
+node:Password123!
