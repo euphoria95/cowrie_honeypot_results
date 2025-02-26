@@ -27,3 +27,10 @@ guest:Guest1234\r
 ansadmin:ansadmin\r
 azureuser:azureuser\r
 nfsnobody:nfsnobody\r
+frappe:frappe
+deploy:1
+dockeruser:P@ssw0rd123
+tim:12345678
+ttbot:ttbot@123
+webadmin:ChangeMe
+345gs5662d34:345gs5662d34
