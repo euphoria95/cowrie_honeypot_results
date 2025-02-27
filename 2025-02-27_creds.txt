@@ -12,3 +12,4 @@ jenkins:jenkins\r
 nagios:nagios\r
 asw:P@ssw0rd123
 ivan:12345678
+validator:validator
