@@ -15,3 +15,17 @@ ivan:12345678
 validator:validator
 ftpuser:Abc123...
 dj:dj
+dev:1
+deploy:1
+rstudio:12345678
+yuri:yuri
+frappe:frappe@123
+hacker:hacker@123
+mc:1
+testuser:Password123!
+liu:P@ssw0rd123
+admin:123
+cs2server:Password123!
+node:node@123
+sabina:0
+anaconda:anaconda123
