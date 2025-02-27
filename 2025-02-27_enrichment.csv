@@ -8,3 +8,5 @@ IP address,remote ssh version,country_code2,organization,asn
 49.248.203.172,SSH-2.0-libssh_0.9.6,IN,Tata Teleservices (Maharashtra) Ltd,
 175.205.191.27,SSH-2.0-Go,KR,Korea Telecom,
 150.139.202.213,SSH-2.0-libssh_0.9.6,CN,"Qingdao,266000",
+64.62.197.143,GET / HTTP/1.1,US,Hurricane Electric LLC,
+119.96.173.169,SSH-2.0-libssh_0.9.6,CN,CHINANET Hubei province network,
