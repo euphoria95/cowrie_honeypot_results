@@ -1,0 +1,12 @@
+usuario:usuario\r
+test:test\r
+345gs5662d34:345gs5662d34
+wp:wp\r
+welltekk:v\r
+root:root
+kali:kali\r
+steam:steam\r
+kafka:kafka1234\r
+ftpadmin:ftpadmin\r
+jenkins:jenkins\r
+nagios:nagios\r
