@@ -13,3 +13,5 @@ nagios:nagios\r
 asw:P@ssw0rd123
 ivan:12345678
 validator:validator
+ftpuser:Abc123...
+dj:dj
