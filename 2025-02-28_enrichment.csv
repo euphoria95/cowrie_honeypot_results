@@ -3,3 +3,4 @@ IP address,remote ssh version,country_code2,organization,asn
 14.103.112.141,,CN,China Telecom (Group),
 101.126.91.190,SSH-2.0-libssh_0.9.6,CN,"Beijing Volcano Engine Technology Co., Ltd.",
 185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+18.227.21.111,SSH-2.0-Go,US,"Amazon.com, Inc.",
