@@ -33,3 +33,4 @@ nagios:123456\r
 hduser:123456\r
 linaro:linaro\r
 pi:pi\r
+bitcoin:bitcoin
