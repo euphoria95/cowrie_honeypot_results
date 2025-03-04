@@ -7,3 +7,5 @@ IP address,remote ssh version,country_code2,organization,asn
 205.210.31.77,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
 124.48.10.7,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
 185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
+204.16.245.167,SSH-2.0-paramiko_3.5.1,US,TeraSwitch Networks Inc.,
+158.51.126.147,SSH-2.0-libssh_0.9.6,US,Hostodo,
