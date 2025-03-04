@@ -9,3 +9,4 @@ IP address,remote ssh version,country_code2,organization,asn
 185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
 204.16.245.167,SSH-2.0-paramiko_3.5.1,US,TeraSwitch Networks Inc.,
 158.51.126.147,SSH-2.0-libssh_0.9.6,US,Hostodo,
+192.155.90.118,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
