@@ -7,3 +7,5 @@ rajesh:3245gs5662d34
 ubnt:1qaz2wsx
 ubnt:ubntubnt
 ubnt:root
+pi:raspberryraspberry993311
+pi:raspberry
