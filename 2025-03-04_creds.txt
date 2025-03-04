@@ -1,0 +1,9 @@
+ubnt:password
+ubnt:ubnt
+ubnt:ubnt123
+ubnt:ubnt1
+rajesh:3245gs5662d34
+345gs5662d34:345gs5662d34
+ubnt:1qaz2wsx
+ubnt:ubntubnt
+ubnt:root
