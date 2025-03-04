@@ -1,0 +1,9 @@
+IP address,remote ssh version,country_code2,organization,asn
+183.98.183.144,SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2,KR,Korea Telecom,
+66.240.236.109,SSH-2.0-Go,US,"CariNet, Inc.",
+41.211.31.106,SSH-2.0-libssh_0.9.6,GH,"Teledata, Ghana",
+172.104.11.51,SSH-2.0-Go,US,"Akamai Technologies, Inc.",
+206.168.34.70,SSH-2.0-Go,US,"Censys, Inc.",
+205.210.31.77,SSH-2.0-ZGrab ZGrab SSH Survey,BR,Google LLC,
+124.48.10.7,SSH-2.0-libssh2_1.11.0,KR,LG POWERCOMM,
+185.7.214.180,SSH-2.0-Go,RU,Chang Way Technologies Co. Limited,
